@@ -1,0 +1,218 @@
+{
+  "avsnitt": 2,
+  "titel": "Kyrkan",
+  "delkapitel": "tidig",
+  "version": "1.0",
+  "kort_totalt": 22,
+  "_kommentar": "Flipcards för avsnitt 2 (Kyrkan). 12 begreppskort + 6 modellkort + 4 redogörelsekort = 22 kort. Nivåfördelning ~75/25 grund/fordj enligt riktlinjen.",
+  "begreppskort": [
+    {
+      "id": "k2-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en PÅVE?",
+      "svar": "Den katolska kyrkans högsta ledare, med säte i Rom. Påvens auktoritet bygger på den katolska traditionen om att aposteln Petrus var Roms förste biskop, och att alla senare påvar är hans efterföljare. Under medeltiden kunde påven kröna kejsare och fördöma kungar."
+    },
+    {
+      "id": "k2-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ETT KLOSTER?",
+      "svar": "En plats där munkar eller nunnor lever tillsammans enligt sträng disciplin med bön, arbete och studier. Klostren bevarade antikens lärdom genom att kopiera böcker, drev jordbruk och hantverk, och var baser för mission när kristendomen spreds."
+    },
+    {
+      "id": "k2-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en SCHISM?",
+      "svar": "En splittring inom en kyrka eller religiös grupp. Den stora schismen 1054 är det viktigaste exemplet i medeltiden — då bröts den kristna kyrkan i en katolsk kyrka i väst och en ortodox kyrka i öst."
+    },
+    {
+      "id": "k2-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en PATRIARK?",
+      "svar": "En av de högsta ledarna inom den ortodoxa kyrkan. Det fanns fem patriarker i öst — i Rom, Konstantinopel, Alexandria, Antiokia och Jerusalem. Patriarken av Konstantinopel var mäktigast, men ingen patriark hade absolut makt över de andra."
+    },
+    {
+      "id": "k2-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är KATOLSKA KYRKAN?",
+      "svar": "Den västliga kristna kyrkan, med påven i Rom som högsta ledare och latin som kyrkligt språk. Den växte fram efter schismen 1054 och dominerar fortfarande i Italien, Frankrike, Spanien, Polen och stora delar av Västeuropa."
+    },
+    {
+      "id": "k2-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ORTODOXA KYRKAN?",
+      "svar": "Den östliga kristna kyrkan, med flera patriarker som ledare och grekiska som ursprungligt kyrkospråk. Den växte fram efter schismen 1054 och dominerar fortfarande i Grekland, Bulgarien, Rumänien, Serbien, Ryssland och Ukraina."
+    },
+    {
+      "id": "k2-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var BYSANTINSKA RIKET?",
+      "svar": "Den östra halvan av Romarriket, med huvudstaden Konstantinopel. Det överlevde Västroms fall år 476 och fortsatte i nästan tusen år till — fram till år 1453. Det var en högkultur med kejsare, universitet och stor rikedom, och spelade en central roll för östkyrkans utveckling."
+    },
+    {
+      "id": "k2-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ETT SKRIPTORIUM?",
+      "svar": "En klosterskrivsal där munkar kopierade böcker för hand. Skriptoriet var ofta en stor sal med stora fönster för dagsljus. Där satt munkar i tystnad och skrev på pergament med gåspennor doppade i bläck. En enda bok kunde ta månader att färdigställa."
+    },
+    {
+      "id": "k2-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är EXKOMMUNIKATION?",
+      "svar": "Att uteslutas ur kyrkan. För en medeltida människa var detta inte bara religiöst hot — om man dog exkommunicerad gick själen enligt tron till helvetet. Det gav kyrkan stor makt över kungar och stormän som hotades med exkommunikation."
+    },
+    {
+      "id": "k2-b10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är PERGAMENT?",
+      "svar": "Torkad och bearbetad djurhud som användes till att skriva på under medeltiden, innan papper blev vanligt i Europa. En enda bok kunde kräva skinnet av över 200 djur — vilket gjorde böcker till dyra och värdefulla föremål."
+    },
+    {
+      "id": "k2-b11",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad var BENEDIKTS REGEL?",
+      "svar": "En bok skriven på 500-talet av Benedikt av Nursia, som beskrev hur munkar skulle leva i kloster. Den kom att forma klosterlivet i Västeuropa i över tusen år. Kärnan sammanfattas i de latinska orden 'ora et labora' — be och arbeta. Den balansen mellan andlig bön och praktiskt arbete var central."
+    },
+    {
+      "id": "k2-b12",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad är FILIOQUE?",
+      "svar": "Ett tillägg i den nicenska trosbekännelsen som västkyrkan gjorde under tidig medeltid: att den helige Ande utgår från Fadern 'och från Sonen' (på latin filioque). Det provocerande för östkyrkan var inte själva tillägget utan att västkyrkan ändrat trosbekännelsen ensidigt, utan att fråga öst. Filioque blev en symbol för en större fråga: vem hade rätt att bestämma över kyrkans lära?"
+    }
+  ],
+  "modellkort": [
+    {
+      "id": "k2-m1",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför blev kyrkan så viktig efter Västroms fall?",
+      "svar": "Flera saker hängde ihop när Västrom föll år 476:\n\n• **Den romerska staten försvann** — kejsaren, armén, skattesystemet upplöstes\n• **Men kyrkan fanns kvar** — med präster, biskopar och kloster i nästan alla städer och byar\n• **Kyrkan hade samma organisation som romersk administration** — hierarkisk, med Rom som centrum\n• **Folk behövde något att hålla sig till** — i en tid av kris och splittring blev kyrkan en sammanhållande kraft\n\nParadoxen är att **kyrkan växte just därför att den romerska staten försvann**. När det inte fanns någon stark kejsare kvar i väst kunde påven utvecklas till en av medeltidens mäktigaste personer."
+    },
+    {
+      "id": "k2-m2",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur fick kyrkan POLITISK MAKT under medeltiden?",
+      "svar": "Kyrkan hade flera olika typer av makt:\n\n• **Religiös makt** — Genom dop, mässa, bikt och sista smörjelsen kontrollerade kyrkan tillträdet till frälsning. Hotet om exkommunikation var ett mäktigt vapen.\n\n• **Ekonomisk makt** — Biskopar och abbotar ägde enorma jordområden. Kyrkan tog emot skatter (tionde) och avgifter. Många kloster var rika institutioner med tusentals hektar mark.\n\n• **Politisk legitimitet** — En kung som hade kyrkans stöd uppfattades som vald eller godkänd av Gud. Påven kunde kröna kejsare och fördöma kungar.\n\n• **Kunskap och administration** — Kyrkans män kunde läsa och skriva. Kungar behövde dem för dokument, lagar och diplomati.\n\nDärför blev kyrkan **en av Europas största maktfaktorer — inte bara religiös, utan politisk och ekonomisk.**"
+    },
+    {
+      "id": "k2-m3",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Vilken roll spelade KLOSTREN för antikens lärdom?",
+      "svar": "Klostren var **medeltidens viktigaste bevarare av antikens kunskap**. Det fungerade så här:\n\n• I klostrens **skriptorier** kopierade munkar böcker för hand — det fanns inga tryckpressar\n• De kopierade inte bara biblar utan också **gamla antika texter** — Vergilius, Cicero, Aristoteles, Platon, Plinius\n• En enda bok kunde ta månader eller år att färdigställa\n• Pergament var dyrt — en bok kunde kräva skinnet av 200 djur eller fler\n\n**Konsekvensen:** Mycket av antikens lärdom hade förmodligen försvunnit helt om inte munkarna i kloster runt om i Europa hade kopierat handskrifterna generation efter generation. När vi idag läser Sokrates, Cicero eller romerska kejsare har texterna ofta överlevt genom en namnlös munk som någon gång under medeltiden satt i ett kallt skriptorium och kopierade dem för hand."
+    },
+    {
+      "id": "k2-m4",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur skilde sig västkyrkans och östkyrkans MODELL för ledning?",
+      "svar": "Här ligger en av schismens djupaste orsaker:\n\n**I väst** utvecklades en modell där påven i Rom var kyrkans absoluta överhuvud. Hans makt byggdes på Petrus-traditionen — Petrus hade varit Roms förste biskop, och alla senare påvar var hans efterföljare. Påven hade **universell jurisdiktion** — makt över hela kyrkan, alltid och överallt.\n\n**I öst** utvecklades en helt annan modell. Där fanns fem patriarker (i Rom, Konstantinopel, Alexandria, Antiokia och Jerusalem) som tillsammans ledde kyrkan. Ingen patriark hade absolut makt över de andra. Kyrkans viktigaste beslut skulle fattas på **kyrkomöten** med alla patriarker — det kallas konciliarismen.\n\nÖstkyrkan erkände visserligen påven som 'först bland likar' (*primus inter pares*). Han var hedersmässigt främst — men inte överordnad. Mellan dessa två modeller fanns en **grundläggande oförenlighet**: påvens makt växte allt mer i väst, och östkyrkan kunde inte acceptera att en enskild biskop skulle bestämma över hela kristenheten."
+    },
+    {
+      "id": "k2-m5",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Vilken roll spelade KEJSAREN i Bysans jämfört med i väst?",
+      "svar": "Kejsarens roll är en av de djupaste skillnaderna mellan väst och öst.\n\n**I Östrom (Bysans)** fanns kejsaren kvar i Konstantinopel. Han var en mäktig figur, ofta kallad 'den helige kejsaren' eller 'Guds ställföreträdare på jorden'. Han kunde:\n• Kalla in kyrkomöten\n• Ingripa i teologiska tvister\n• Godkänna eller avsätta patriarker\n\n**Kyrkan och staten var sammanflätade i Bysans** på ett sätt som inte fanns i väst.\n\n**I väst** fanns ingen motsvarande kejsare efter 476. När Karl den store kröntes till kejsare år 800 var det något nytt — och den nya västerländska kejsaren var mindre mäktig än kungarna och biskoparna i sina egna riken. **Påven blev viktigare än kejsaren** — det var påven som krönte kejsaren, inte tvärtom.\n\n**Resultatet:** Kyrkan i väst hade en självständighet som östkyrkan aldrig fick. Påven kunde stå upp mot kungar och kejsare. Östkyrkans patriarker stod under kejsaren — inte över honom. Det är en av de djupaste orsakerna till att kyrkorna utvecklades så olika."
+    },
+    {
+      "id": "k2-m6",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Varför var SPRÅKET en orsak till schismen?",
+      "svar": "Språk är aldrig neutralt. I väst talade och skrev kyrkan latin. I öst grekiska. Det skapade flera problem:\n\n• **Bibeln är skriven på hebreiska och grekiska** — i öst kunde lärda läsa originaltexten direkt; i väst läste man latinska översättningar (främst Vulgata)\n\n• **Översättningar är aldrig perfekta** — vissa grekiska ord har inga exakta latinska motsvarigheter, nyanser går förlorade\n\n• **Med tiden förstärktes detta** — östkyrkans lärda kunde inte längre latin, västkyrkans lärda kunde inte längre grekiska\n\nNär väst och öst diskuterade teologi — Guds natur, treenigheten, Jesu väsen — kunde de använda samma grundläggande begrepp och ändå mena något lite olika. **Möten krävde tolkar.** Missförstånd blev vanliga. Och när någon i väst tog beslut utan att fråga öst — eller tvärtom — kunde det uppfattas som arrogans.\n\nLäxan: **språket formade hur människor tänkte**, och olika språk i väst och öst gjorde att kyrkorna gradvis blev olika varandra — utan att någon riktigt valt det."
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "k2-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för varför kyrkan blev medeltidens viktigaste organisation i Västeuropa.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör visa att kyrkan blev viktig av flera samverkande skäl.\n\nNär Västromerska riket föll år 476 försvann den romerska staten i väst — kejsaren, armén, skattesystemet, ämbetsmännen. Men kyrkan fanns kvar med präster, biskopar och kloster i nästan alla städer och byar. Den hade samma hierarkiska organisation som romersk administration, med Rom som centrum.\n\nKyrkan följde människan från dop till begravning. Nästan alla i Västeuropa var kristna under medeltiden, och kyrkan kontrollerade tillträdet till frälsning genom mässa, bikt och sista smörjelsen. Det gav den enorm makt — hotet om exkommunikation kunde få även kungar att backa.\n\nKlostren bevarade antikens lärdom genom att kopiera böcker för hand. Mycket av det vi idag känner till om antiken hade gått förlorat utan dem.\n\nKyrkan var också en politisk och ekonomisk maktfaktor. Biskopar och abbotar ägde stora jordområden och tog emot skatter. Påven kunde kröna kejsare och fördöma kungar.\n\nSlutligen var kyrkan **den enda gemensamma institutionen** i ett splittrat Västeuropa — med latin som gemensamt språk och samma kristna tro från Frankrike till Tyskland till England. Det är därför vi idag talar om 'det medeltida Europa' som om det vore en sak: politiskt fanns inget Europa, men ett kristet Västeuropa fanns — och det hölls ihop av kyrkan.",
+      "stodlarare": {
+        "stodord": ["476", "Västromerska riket", "kyrkan", "kloster", "påve", "exkommunikation", "latin", "antikens lärdom"],
+        "startfraser": [
+          "När Västromerska riket föll år 476 ...",
+          "Kyrkan fanns kvar och kunde därför ...",
+          "Klostren spelade en särskild roll genom att ...",
+          "Kyrkan hade också politisk makt eftersom ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i flera lager: först krisen efter Västroms fall, sedan kyrkans roll i människors vardag, sedan klostrens roll för kunskap, sedan kyrkans politiska makt, och avsluta med en reflektion om kyrkan som det gemensamma i ett splittrat Europa."
+      }
+    },
+    {
+      "id": "k2-r2",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för klostrens roll för kunskap och kultur under medeltiden.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör visa förståelse för att klostren var mer än andliga platser — de var medeltidens viktigaste centrum för kunskap, ekonomi och kultur.\n\nKlosterlivet följde Benedikts regel, sammanfattad i orden 'ora et labora' — be och arbeta. Munkarna och nunnorna delade sin dag mellan åtta bönestunder och praktiskt arbete. Disciplinen var sträng och kontinuerlig — generation efter generation följde samma rytm.\n\nI klostrens **skriptorier** kopierade munkar böcker för hand. Det skedde i tystnad, vid skrivpulpeter, med gåspennor doppade i bläck och pergament av djurhud. En enda bok kunde ta månader eller år att färdigställa. Men det de kopierade var inte bara biblar — de kopierade också gamla antika texter av Vergilius, Cicero, Aristoteles, Platon, Plinius. **Utan klostren hade mycket av antikens lärdom gått förlorad.**\n\nKlostren var också ekonomiska enheter. De ägde tusentals hektar mark, drev jordbruk, vinmakning, ölbryggning, ostproduktion och läkemedelstillverkning. De var ofta innovativa — utvecklade nya jordbruksmetoder, vattenkvarnar och medicinsk kunskap.\n\nFör kvinnor kunde klostret vara en av få vägar till bildning och oberoende. Vissa nunnor blev författare, kompositörer och rådgivare till påvar.\n\nSammantaget var klostren **öar av stabilitet, kunskap och produktivitet i en orolig tid**. De är en av medeltidens stora prestationer — en institution som höll i sig genom århundraden av kriser.",
+      "stodlarare": {
+        "stodord": ["kloster", "Benedikt", "ora et labora", "skriptorium", "pergament", "antikens lärdom", "ekonomi"],
+        "startfraser": [
+          "Klostren följde Benedikts regel, vilket innebar att ...",
+          "I skriptoriet kopierade munkarna ...",
+          "Detta var viktigt eftersom ...",
+          "Klostren var också ekonomiska centra som ..."
+        ],
+        "tip_for_struktur": "Strukturera svaret i tre delar: först klosterlivets disciplin (ora et labora, dagens rytm), sedan skriptoriets roll för kunskapsbevarande (med konkreta exempel på antika författare), och slutligen klostrens bredare roll som ekonomiska och kulturella centra."
+      }
+    },
+    {
+      "id": "k2-r3",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Förklara varför schismen 1054 var slutpunkten på en lång process — inte en plötslig händelse.",
+      "ungefarlig_tid_min": 15,
+      "modellsvar": "Ett gott svar bör visa att schismen 1054 inte var orsaken till splittringen mellan väst och öst — den var snarare ett formellt erkännande av en splittring som redan vuxit fram under flera århundraden.\n\nFlera processer hade glidit isär över tid.\n\n**Olika världar växte fram efter Västroms fall.** Västeuropa sönderdelades i germanska kungariken, städer krympte, latinet utvecklades till romanska språk. Östrom (Bysans) gick en helt annan väg — Konstantinopel förblev en stor och rik högkultur med kejsare, universitet och teologiska samtal. Det blev helt enkelt två olika världar.\n\n**Språket gled isär.** I väst talade kyrkan latin, i öst grekiska. Med tiden förstod inte längre östkyrkans lärda latin, och västkyrkans lärda inte grekiska. Möten krävde tolkar. Översättningar är aldrig perfekta — när teologer i väst och öst diskuterade samma begrepp kunde de mena olika saker utan att veta om det.\n\n**Två modeller för ledning utvecklades.** I väst utvecklades påvens universella jurisdiktion — påven hade makt över hela kyrkan. I öst utvecklades konciliarismen — viktiga beslut skulle fattas av alla patriarker på kyrkomöten. Dessa modeller var grundläggande oförenliga.\n\n**Kejsarens roll skilde sig.** I Bysans var kejsaren mäktig och kunde påverka kyrkan; kyrkan stod under honom. I väst fanns ingen stark kejsare efter 476, så påven kunde utvecklas självständigt och bli mäktigare än kungarna. \n\n**Teologiska frågor som filioque** visade konflikten konkret: västkyrkan hade ändrat trosbekännelsen ensidigt, vilket östkyrkan uppfattade som arrogans.\n\nNär det formella brottet kom 1054 — när påvens utsände och patriarken i Konstantinopel bannlyste varandra — var det inte en plötslig händelse. **Det var slutpunkten på flera århundraden av glidande isär.** Det som verkligen cementerade splittringen kom senare — under 1200-talet, då västerländska korsfarare plundrade Konstantinopel. Efter den händelsen var försoning i praktiken omöjlig.",
+      "stodlarare": {
+        "stodord": ["1054", "schism", "språk", "påve", "patriark", "kejsare", "filioque", "process"],
+        "startfraser": [
+          "Schismen 1054 var inte en plötslig händelse utan slutpunkten på ...",
+          "En orsak var språkskillnaden, som innebar att ...",
+          "En annan grundläggande skillnad var modellen för ledning, där ...",
+          "Kejsarens roll skilde sig också mellan väst och öst eftersom ...",
+          "Detta sammantaget gjorde att kyrkorna gled isär under flera århundraden ..."
+        ],
+        "tip_for_struktur": "Bygg svaret som en kronologisk process med flera samverkande orsaker. Börja med påståendet att 1054 var en slutpunkt, gå sedan igenom de viktigaste orsakerna (språk, ledningsmodell, kejsarens roll, teologi) som var och en byggde upp splittringen, och avsluta med vad som cementerade brottet långt efter 1054."
+      }
+    },
+    {
+      "id": "k2-r4",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Resonera kring hur den religiösa gränsen från schismen 1054 fortfarande påverkar Europa idag.",
+      "ungefarlig_tid_min": 15,
+      "modellsvar": "Ett gott svar bör visa förståelse för att en religiös gräns som drogs för tusen år sedan fortfarande är en del av Europas geografi och identitet — och samtidigt vara försiktigt med att inte överdriva.\n\n**Geografiskt** lever schismen kvar tydligt. I väst och centrala Europa är historiska majoriteten katolsk: Italien, Frankrike, Spanien, Portugal, Polen, Tjeckien, Slovenien, Kroatien, södra Tyskland, Österrike, Irland. När reformationen kom på 1500-talet uppstod protestantismen som en avknoppning från katolicismen — men även de protestantiska kyrkorna räknas som västerländskt kristna. I östra och sydöstra Europa dominerar den ortodoxa kyrkan: Grekland, Bulgarien, Rumänien, Serbien, Ryssland, Ukraina, Vitryssland.\n\n**Den religiösa gränsen går rakt genom Europa** — från Östersjön ner genom Polen-Vitryssland, Slovakien-Ukraina, Ungern-Rumänien, Kroatien-Serbien till Adriatiska havet. Det är en av Europas djupaste kulturella skiljelinjer.\n\n**Konflikter på 1990-talet visar att den fortfarande spelar roll.** När Jugoslavien sönderföll handlade konflikten i Bosnien, Kroatien, Serbien och Kosovo delvis om grupper som hörde till olika religioner — kroater som katoliker, serber som ortodoxa, bosniaker som muslimer. Det är inte den enda orsaken, men en av flera faktorer.\n\n**Spänningar mellan Ryssland och Västeuropa** har också rötter som går djupare än bara politik — kulturella, religiösa och historiska skiljelinjer från medeltiden påverkar fortfarande hur människor och länder ser på varandra.\n\nSamtidigt ska man **inte överdriva**. Religion är inte den enda faktorn i moderna konflikter. Ekonomi, nationalism, etniska grupperingar, geopolitik och konkreta politiska beslut spelar minst lika stor roll. Och de allra flesta människor i Europa idag definierar sig inte primärt genom katolicism eller ortodoxi.\n\nMen **att förstå Europa idag kräver att man förstår schismen 1054**. Det är inte bara kyrkohistoria. Det är en del av Europas geografi, identitet och politiska arv — en gräns som dragits för tusen år sedan men fortfarande syns när man tittar noga.",
+      "stodlarare": {
+        "stodord": ["schism", "katolska", "ortodoxa", "Balkan", "Bosnien", "Ryssland", "Europa", "religion"],
+        "startfraser": [
+          "Schismen från 1054 lever vidare i Europa idag på flera sätt ...",
+          "Geografiskt syns det fortfarande genom att ...",
+          "Konflikterna på Balkan på 1990-talet visar att ...",
+          "Samtidigt är det viktigt att inte överdriva, eftersom ...",
+          "Slutsatsen är att schismen 1054 påverkar Europa idag på det sättet att ..."
+        ],
+        "tip_for_struktur": "Resonera i två steg: först visa konkreta sätt på vilka schismen påverkar Europa idag (geografiska mönster, konflikter på Balkan, spänningar Ryssland-Väst). Sedan reflektera kring att religion inte är den enda faktorn — andra orsaker spelar minst lika stor roll. Avsluta med en balanserad slutsats där du tar ställning."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "kapitel_id": "medeltiden",
+  "kapitel_titel": "Medeltiden",
+  "version": 1,
+  "skapad": "2026-06-16",
+  "kommentar": "Begrepp för avsnitt 3 (Arabvärlden och Karl den store). Fyra centrala begrepp som täcker både den islamiska världen (kalifat, al-Andalus, Visdomens hus) och Västeuropa (karolingiska renässansen). Pedagogisk balans mellan öst och väst.",
+  "upplasning": {
+    "min_ord": 8,
+    "anvand_nyckelord": false,
+    "beskrivning": "Plattformsstandard: eleven måste skriva minst 8 ord innan expertdefinitionen låses upp."
+  },
+  "begrepp": [
+    {
+      "id": "k3-b1",
+      "avsnitt": "3",
+      "avsnitt_titel": "Arabvärlden och Karl den store",
+      "term": "kalifat",
+      "expertdefinition": "Det islamiska riket som styrdes av en kalif — en ledare som var både politisk och religiös överhuvud, men inte en ny profet. Ordet kalif betyder 'ställföreträdare' eller 'efterträdare' till Muhammed. Efter Muhammeds död år 632 expanderade kalifatet på bara hundra år från Arabiska halvön till Spanien i väst och Indien i öst — ett av världshistoriens snabbaste riksbyggen. De olika kalifaten (de första kaliferna, umayyaderna, abbasiderna) blev medeltidens viktigaste bärare av antikens kunskap.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-3-arabvarlden.json"
+    },
+    {
+      "id": "k3-b2",
+      "avsnitt": "3",
+      "avsnitt_titel": "Arabvärlden och Karl den store",
+      "term": "al-Andalus",
+      "expertdefinition": "Det muslimskt styrda området på den iberiska halvön (dagens Spanien och Portugal) från år 711 till 1492. Området kom att bli en av Europas mest avancerade kulturer under medeltiden — med Cordoba som en av världens största städer, med hundratusentals invånare, gatubelysning, offentliga bibliotek och universitet i en tid då Paris och London var små leriga städer. al-Andalus blev också en viktig kunskapsbro: arabiska och antika texter översattes där till latin och fördes vidare till Västeuropa.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-3-arabvarlden.json"
+    },
+    {
+      "id": "k3-b3",
+      "avsnitt": "3",
+      "avsnitt_titel": "Arabvärlden och Karl den store",
+      "term": "Visdomens hus",
+      "expertdefinition": "På arabiska Bayt al-Hikma — ett kungligt bibliotek och översättningscentrum i Bagdad som blomstrade särskilt under 800-talet. Där samlades muslimska, syrisk-kristna och persiska lärda för att översätta verk av Aristoteles, Platon, Euklides, Galenos och andra antika tänkare från grekiska, syriska och persiska till arabiska. Det blev en av historiens mest omfattande översättningsrörelser, och en avgörande orsak till att antikens kunskap bevarades. Mycket av denna kunskap flödade senare tillbaka till Västeuropa via Spanien och Sicilien.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-3-arabvarlden.json"
+    },
+    {
+      "id": "k3-b4",
+      "avsnitt": "3",
+      "avsnitt_titel": "Arabvärlden och Karl den store",
+      "term": "karolingiska renässansen",
+      "expertdefinition": "En kulturell uppryckning under Karl den stores tid då lärdom, skrivande och bildning främjades i Frankerriket. Karl samlade lärda från hela Europa till sitt hov i Aachen — bland dem munken Alkuin — och uppmuntrade kopiering av antika och kristna texter. En konkret innovation var karolingisk minuskel, en tydligare handstil som blev grunden för det vi idag känner igen som vanliga små bokstäver. Den karolingiska renässansen var inte lika omfattande som den muslimska världens lärdomscentra i Bagdad och Cordoba vid samma tid, men den var en viktig grund för Västeuropas senare bildningsutveckling.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-3-arabvarlden.json"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Normalisera radslut: LF i repot, native i arbetsträdet (Windows-utveckling mot GitHub)
+* text=auto
+
+# Textfiler — explicit deklarerade
+*.html  text
+*.css   text
+*.js    text
+*.json  text
+*.md    text
+*.svg   text
+
+# Binärfiler — rör aldrig radslut
+*.webp  binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.zip   binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary

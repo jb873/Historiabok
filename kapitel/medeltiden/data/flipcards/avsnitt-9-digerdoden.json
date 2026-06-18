@@ -1,0 +1,44 @@
+{
+  "delkapitel": "sen",
+  "avsnitt_id": "a9_digerdoden",
+  "avsnitt_titel": "Digerdöden",
+  "kort": [
+    {
+      "id": "fc9-b1",
+      "typ": "begreppskort",
+      "fram": "Digerdöden",
+      "bak": "Pestepidemi som drabbade Europa 1347–1352 och dödade en tredjedel till hälften av befolkningen. Spreds från Centralasien längs Sidenvägen, kom till Europa via hamnen Kaffa 1346 och spreds vidare med handelsfartyg. Skakade hela medeltidens samhälle ekonomiskt, socialt och religiöst."
+    },
+    {
+      "id": "fc9-b2",
+      "typ": "begreppskort",
+      "fram": "Syndabock",
+      "bak": "Någon man skyller på utan grund. Under digerdöden blev judarna ofta syndabockar — falska rykten spreds om att de förgiftat brunnar. Många judiska familjer förföljdes och dödades. Ett mönster där kriser leder till att människor vänder sig mot minoriteter."
+    },
+    {
+      "id": "fc9-m1",
+      "typ": "modellkort",
+      "fram": "Förklara hur pesten spreds från Asien till Europa",
+      "bak": "1. Pesten finns i Centralasien (gnagare som bär pestbakterien).\n2. Pesten färdas västerut längs Sidenvägen genom människor, råttor och loppor.\n3. Når hamnen Kaffa vid Svarta havet 1346.\n4. Handelsfartyg tar pesten till Sicilien 1347.\n5. Sprids vidare via medelhavshamnar till hela Europa.\nSidenvägen och fjärrhandeln var alltså både orsak till välstånd och spridningsväg för katastrof."
+    },
+    {
+      "id": "fc9-r1",
+      "typ": "redogorelsekort",
+      "fram": "Redogör för digerdödens kortsiktiga konsekvenser",
+      "stodord": [
+        "befolkningsfall",
+        "arbetskraftsbrist",
+        "högre löner",
+        "syndabockar",
+        "religiös kris",
+        "flagellanter"
+      ],
+      "startfraser": [
+        "Digerdöden ledde direkt till...",
+        "På kort sikt fick katastrofen flera konsekvenser:",
+        "När 30–50 % av befolkningen dog..."
+      ],
+      "tip_for_struktur": "Börja med de mänskliga och demografiska konsekvenserna (hur många dog, vilka grupper drabbades). Gå sedan vidare till ekonomiska följder (arbetskraftsbrist, högre löner, godsherrar i kris). Avsluta med de religiösa och sociala reaktionerna (syndabockar, flagellanter, kris i tron på kyrkan)."
+    }
+  ]
+}

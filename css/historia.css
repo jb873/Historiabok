@@ -1,0 +1,25 @@
+/* ============================================================
+   Historia – bok-override (accentfärger)
+   ============================================================
+
+   Läses in EFTER css/geografi.css (plattformens delade designsystem)
+   på alla Historia-sidor. Sätter bokens identitets-accenter:
+   manuskripts-/illuminationsstämning (djup vinröd + mörkt brons).
+
+   ARKITEKTUR-NOT (spegelvänd från Geografi):
+   I Geografi-repot bor --accent / --accent-2 i en KAPITEL-override
+   (css/geologi.css), inläst efter det delade geografi.css. Här ligger
+   accenterna istället på BOK-nivå (css/historia.css) eftersom de utgör
+   hela Historias identitet, inte ett enskilt kapitels. Enskilda
+   Medeltids-delkapitel kan senare lägga en KAPITEL-override
+   (t.ex. css/medeltiden.css) med max 2 egna färger ovanpå denna.
+
+   Till skillnad från geologi.css ersätts INTE --brass / --blood eller
+   någon annan bas-token här. Övriga tokens ärvs oförändrade från
+   geografi.css (plattformens Lager 1-palett).
+   ============================================================ */
+
+:root {
+  --accent: #5a1a2a;     /* djup vinröd – manuskripts-illumination */
+  --accent-2: #7a5a2e;   /* mörkt brons */
+}

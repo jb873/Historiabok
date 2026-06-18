@@ -1,0 +1,108 @@
+{
+  "kapitel_id": "medeltiden",
+  "kapitel_titel": "Medeltiden",
+  "version": 1,
+  "skapad": "2026-06-20",
+  "_kommentar": "Föreläsningar för hela Medeltiden (en fil per kapitel; forelasningar.js filtrerar på AVSNITT_ID). Underdel-fältet är optionellt och kan användas för logisk gruppering i renderingen. Fler föreläsningar tillkommer för avsnitt 1–4, 7 och 10.",
+  "forelasningar": [
+    {
+      "id": "f5-1",
+      "avsnitt_id": "a5_jordbruk",
+      "ordning": 1,
+      "titel": "Jordbruksutvecklingen",
+      "youtube_id": "IeXNx4oY9Yc",
+      "youtube_url": "https://youtu.be/IeXNx4oY9Yc",
+      "underdel": null
+    },
+    {
+      "id": "f6-1",
+      "avsnitt_id": "a6_stadsutveckling",
+      "ordning": 1,
+      "titel": "Städers utveckling",
+      "youtube_id": "BYEbTQ-Nbb0",
+      "youtube_url": "https://youtu.be/BYEbTQ-Nbb0",
+      "underdel": "a"
+    },
+    {
+      "id": "f6-2",
+      "avsnitt_id": "a6_stadsutveckling",
+      "ordning": 2,
+      "titel": "Pengahushållning",
+      "youtube_id": "pE2l_0U2D9g",
+      "youtube_url": "https://youtu.be/pE2l_0U2D9g",
+      "underdel": "b"
+    },
+    {
+      "id": "f6-3",
+      "avsnitt_id": "a6_stadsutveckling",
+      "ordning": 3,
+      "titel": "Skråväsendet",
+      "youtube_id": "lJFyaCcXcUU",
+      "youtube_url": "https://youtu.be/lJFyaCcXcUU",
+      "underdel": "c"
+    },
+    {
+      "id": "f8-1",
+      "avsnitt_id": "a8_handelsutveckling",
+      "ordning": 1,
+      "titel": "Handelscentrum",
+      "youtube_id": "MK2V6Cyp-OI",
+      "youtube_url": "https://youtu.be/MK2V6Cyp-OI",
+      "underdel": null
+    },
+    {
+      "id": "f9-1",
+      "avsnitt_id": "a9_digerdoden",
+      "ordning": 1,
+      "titel": "Digerdöden",
+      "youtube_id": "RuKr6fgcFNk",
+      "youtube_url": "https://youtu.be/RuKr6fgcFNk",
+      "underdel": null
+    },
+    {
+      "id": "f11-1",
+      "avsnitt_id": "a11_styrkeforhallanden",
+      "ordning": 1,
+      "titel": "Maktförändring mellan kung och kyrka",
+      "youtube_id": "Vo0CUr9WZYM",
+      "youtube_url": "https://youtu.be/Vo0CUr9WZYM",
+      "underdel": "b"
+    },
+    {
+      "id": "f11-2",
+      "avsnitt_id": "a11_styrkeforhallanden",
+      "ordning": 2,
+      "titel": "Adelns och kyrkans maktkamp",
+      "youtube_id": "oKRCn1fIus8",
+      "youtube_url": "https://youtu.be/oKRCn1fIus8",
+      "underdel": "b"
+    },
+    {
+      "id": "f11-3",
+      "avsnitt_id": "a11_styrkeforhallanden",
+      "ordning": 3,
+      "titel": "Livegenskapen försvinner",
+      "youtube_id": "i-VYa6KM_os",
+      "youtube_url": "https://youtu.be/i-VYa6KM_os",
+      "underdel": "c"
+    },
+    {
+      "id": "f11-4",
+      "avsnitt_id": "a11_styrkeforhallanden",
+      "ordning": 4,
+      "titel": "Kyrkans minskade makt",
+      "youtube_id": "srh7Z8y7Meo",
+      "youtube_url": "https://youtu.be/srh7Z8y7Meo",
+      "underdel": "d"
+    },
+    {
+      "id": "f12-1",
+      "avsnitt_id": "a12_renassansen",
+      "ordning": 1,
+      "titel": "Renässansen",
+      "youtube_id": "SQgd06xrHoY",
+      "youtube_url": "https://youtu.be/SQgd06xrHoY",
+      "underdel": null
+    }
+  ]
+}

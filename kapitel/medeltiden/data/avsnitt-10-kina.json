@@ -1,0 +1,27 @@
+{
+  "delkapitel": "sen",
+  "avsnitt_id": "a10_kina",
+  "avsnitt_titel": "Kina",
+  "begrepp": [
+    {
+      "id": "k10-b1",
+      "ord": "Sidenvägen",
+      "definition": "Sidenvägen var inte en enskild väg utan ett nätverk av handelsvägar som band samman Kina, Centralasien, Persien, Arabvärlden och Europa. Vägarna användes redan under antiken men nådde sin höjdpunkt under medeltiden, särskilt under perioden 1200–1350 när mongolväldet hade skapat fred och säkerhet i Centralasien. Längs Sidenvägen färdades inte bara siden utan också kryddor, porslin, papper, krut, kompass, idéer, religioner och ibland tyvärr också sjukdomar — digerdöden spreds längs samma vägar som varorna. Sidenvägen var medeltidens viktigaste kontaktyta mellan öst och väst."
+    },
+    {
+      "id": "k10-b2",
+      "ord": "Siden",
+      "definition": "Siden är ett mjukt och glansigt tyg som tillverkas av silkesmaskens kokongtrådar. Kineserna hade upptäckt hur man producerade siden redan flera tusen år före vår tideräkning, och de bevakade hemligheten noggrant. Det gjorde siden till en lyxvara som efterfrågades över hela världen. I medeltidens Europa var siden en statussymbol — det användes av kungar, drottningar, höga prästmän och rika köpmän för att visa sin makt och välstånd. Handeln med siden var en av drivkrafterna bakom Sidenvägen och bidrog till att italienska handelsstäder som Venedig och Genua blev rika under senmedeltiden."
+    },
+    {
+      "id": "k10-b3",
+      "ord": "Bank",
+      "definition": "En bank är en institution som hanterar pengar — tar emot insättningar, lånar ut till lån, och hjälper människor och företag att betala varandra över långa avstånd. De första moderna bankerna växte fram i italienska handelsstäder som Florens, Venedig och Genua under senmedeltiden. De byggde på en redan etablerad finansiell tradition från arabvärlden. Bankerna gjorde det möjligt att handla utan att fysiskt frakta stora mängder guld och silver — istället kunde köpmän använda dokument som visade var pengarna fanns. Banken blev en grundpelare i den nya europeiska ekonomin och möjliggjorde fjärrhandel som annars hade varit för riskfylld."
+    },
+    {
+      "id": "k10-b4",
+      "ord": "Växelbrev",
+      "definition": "Ett växelbrev är ett finansiellt dokument som intygar att en viss summa pengar är insatt på ett ställe och kan tas ut på ett annat. Det fungerade ungefär som en tidig version av en check eller överföring. Växelbrevet utvecklades i italienska handelsstäder under senmedeltiden och var en av de viktigaste finansiella uppfinningarna i Europas historia. Innan växelbrevet behövde köpmän som handlade på långa avstånd resa med säckar av guld och silver — något som var både farligt och tungt. Med växelbrev kunde en köpman betala för varor i en stad och få pengarna utbetalda i en annan, ofta i en annan valuta. Detta gjorde fjärrhandel mycket säkrare och effektivare."
+    }
+  ]
+}

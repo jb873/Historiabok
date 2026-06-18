@@ -1,0 +1,82 @@
+{
+  "delkapitel": "sen",
+  "avsnitt_id": "a12_renassansen",
+  "avsnitt_titel": "Renässans",
+  "kort": [
+    {
+      "id": "fc12-b1",
+      "typ": "begreppskort",
+      "fram": "Renässans",
+      "bak": "Pånyttfödelse. Det nya intresse för antikens grekiska och romerska kultur som växte fram i Italien från 1300-talet och spreds över Europa under 1400- och 1500-talen. Möjligt tack vare arabisk-muslimska världens bevarade och utvecklade antika kunskap. Räknas som början på den tidigmoderna tiden."
+    },
+    {
+      "id": "fc12-b2",
+      "typ": "begreppskort",
+      "fram": "Humanism",
+      "bak": "Idéströmning från renässansen som satte människan i centrum för tänkandet. Människans språk, historia, känslor och värdighet blev värda att studera i sig själva. Humanisterna var oftast djupt kristna men religionen blev en del av tänkandet, inte hela det. Humanisterna grundade nya skolor som lärde latin, retorik, filosofi och etik."
+    },
+    {
+      "id": "fc12-b3",
+      "typ": "begreppskort",
+      "fram": "Skolastik",
+      "bak": "Det dominerande sättet att tänka under medeltiden. Byggde på att sanningen redan finns i auktoritetstexter — Bibeln, kyrkofäderna, Aristoteles. Skolastiska tänkare var skickliga på logik och argumentation, men grundfrågan var alltid: vad säger auktoriteten? Försvann inte över en natt med renässansen — dominerade universiteten i flera hundra år till."
+    },
+    {
+      "id": "fc12-b4",
+      "typ": "begreppskort",
+      "fram": "Filosof",
+      "bak": "Någon som söker svar på grundläggande frågor om världen, kunskapen, människan och rätt och fel — genom tänkande och resonemang. Under medeltiden var filosoferna ofta präster (som Thomas av Aquino). Under renässansen utvidgades rollen — filosofer som Pico della Mirandola och Erasmus fokuserade på människan, etik och utbildning."
+    },
+    {
+      "id": "fc12-b5",
+      "typ": "begreppskort",
+      "fram": "Empirism",
+      "bak": "Tänkande som menar att kunskap bör byggas på erfarenhet, observationer och undersökningar. I stället för 'vad skrev Aristoteles?' frågar empirismen 'vad kan vi själva se, mäta och testa?'. Växte fram under renässansen, blev dominerande under 1600-talet med Galileo, Kepler, Descartes och Newton. Grunden för modern naturvetenskap."
+    },
+    {
+      "id": "fc12-b6",
+      "typ": "begreppskort",
+      "fram": "Geocentrisk världsbild",
+      "bak": "Jorden står stilla i universums centrum. Solen, månen, planeterna och stjärnorna rör sig runt jorden i koncentriska sfärer. Gick tillbaka till antika lärde Ptolemaios. Stämde med kyrkans lära, med Aristoteles fysik och med vad ögat tycktes se. Den geocentriska modellen blev allt mer komplicerad — astronomer var tvungna att lägga till krångliga epicykler för att förklara planeternas rörelser."
+    },
+    {
+      "id": "fc12-b7",
+      "typ": "begreppskort",
+      "fram": "Heliocentrisk världsbild",
+      "bak": "Solen står i universums centrum, jorden är en av planeterna som rör sig runt solen. Föreslagen av polske prästen och astronomen Nikolaus Kopernikus i hans bok De revolutionibus orbium coelestium, publicerad 1543. Kopernikus drivkraft var matematisk enkelhet — räkningarna gick mycket lättare ihop med solen i centrum. Bekräftades senare av Galileos observationer med kikare."
+    },
+    {
+      "id": "fc12-m1",
+      "typ": "modellkort",
+      "fram": "Förklara skillnaden mellan skolastik och empirism",
+      "bak": "SKOLASTIK:\n• Sanningen finns i texten\n• Auktoritet är viktigast (Bibeln, Aristoteles)\n• Logik och argumentation inom givna ramar\n• Fråga: \"Vad säger auktoriteten?\"\n• Dominerade medeltidens universitet\n\nEMPIRISM:\n• Sanningen finns i världen\n• Observation är viktigast\n• Mätning, experiment, prövning\n• Fråga: \"Vad kan vi själva se?\"\n• Växer fram under renässansen, dominerar från 1600-talet\n\nVIKTIGT: De två traditionerna ersatte inte varandra plötsligt. De levde sida vid sida i flera sekel. Förändringen var gradvis, inte en revolution."
+    },
+    {
+      "id": "fc12-r1",
+      "typ": "redogorelsekort",
+      "fram": "Beskriv kortfattat renässans med arabernas betydelse",
+      "stodord": [
+        "pånyttfödelse",
+        "antikens kultur",
+        "Italien 1300-tal",
+        "Florens",
+        "Medici",
+        "humanism",
+        "Bagdad",
+        "Visdomens hus",
+        "Avicenna",
+        "Averroes",
+        "Toledo 1085",
+        "översättningar",
+        "Konstantinopel 1453",
+        "boktryckarkonsten"
+      ],
+      "startfraser": [
+        "Ordet renässans betyder pånyttfödelse...",
+        "Renässansen var en period då Europa...",
+        "Mycket av antikens kunskap hade bevarats av..."
+      ],
+      "tip_for_struktur": "Börja med att förklara ordet renässans och vad det handlade om (intresse för antiken, människan i centrum). Förklara sedan VAR och NÄR det började (Italien, 1300-talet, Florens som hjärta). Lägg in HUMANISM som central tankeströmning. SEDAN — och detta är centralt enligt kursplanen — förklara arabernas betydelse: hur antikens kunskap bevarats och utvecklats i den arabisk-muslimska världen (Bagdad, Cordoba, Toledo). Avsluta gärna med att boktryckarkonsten gjorde att renässansen kunde spridas till hela Europa."
+    }
+  ]
+}

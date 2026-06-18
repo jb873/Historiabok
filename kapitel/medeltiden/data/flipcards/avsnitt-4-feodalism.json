@@ -1,0 +1,248 @@
+{
+  "avsnitt": 4,
+  "titel": "Feodalism och ståndssamhälle",
+  "delkapitel": "tidig",
+  "version": "1.0",
+  "kort_totalt": 26,
+  "_kommentar": "Flipcards för avsnitt 4. 14 begreppskort + 8 modellkort + 4 redogörelsekort = 26 kort. Tre underdelar (A funktion / B orsaker / C ståndssamhälle) ger något fler modellkort än tidigare avsnitt.",
+  "begreppskort": [
+    {
+      "id": "k4-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är FEODALISM?",
+      "svar": "Medeltidens viktigaste samhällssystem i Västeuropa. Det byggde på tre saker: jord, skydd och lojalitet. Pyramiden gick från kungen högst upp via adel och riddare till bönder och livegna längst ner. Feodalismen var ett system av personliga relationer mellan herrar och vasaller — inte en modern stat."
+    },
+    {
+      "id": "k4-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var en VASALL?",
+      "svar": "En person som fick jord av en mäktigare herre — kung, adelsman eller biskop — och i utbyte lovade lojalitet och militär hjälp. Bandet mellan herre och vasall var ett personligt avtal, beseglat med en trohetsed. Vasallen skulle strida för sin herre, ge råd och vara lojal."
+    },
+    {
+      "id": "k4-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var en FÖRLÄNING?",
+      "svar": "Ett jordområde (också kallat län) som en herre delade ut till en vasall i utbyte mot trohet och militär tjänst. En förläning kunde bestå av byar, åkrar, skogar, kvarnar och människorna som arbetade där. Eftersom pengar var ovanliga blev jord den viktigaste formen av betalning."
+    },
+    {
+      "id": "k4-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebar det att vara LIVEGEN?",
+      "svar": "En bonde som var starkt bunden till jorden och sin godsherre. Inte slav — den livegne kunde gifta sig och hade vissa rättigheter — men kunde inte fritt flytta. Han måste ge en del av skörden till herren, utföra dagsverken och betala avgifter. Om jorden bytte ägare följde han ofta med som en del av godset."
+    },
+    {
+      "id": "k4-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ett TROHETSBAND?",
+      "svar": "Det personliga avtalet mellan en vasall och hans herre. Vasallen lovade lojalitet och militär hjälp; herren gav jord och skydd. Beseglades med en formell trohetsed där vasallen kunde lägga sina händer mellan herrens händer. Det var ett band mellan två specifika människor, inte ett politiskt system i modern mening."
+    },
+    {
+      "id": "k4-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var ett GODS?",
+      "svar": "En stor jordegendom som var en ekonomisk enhet i sig själv — med åkrar, skogar, betesmarker, kvarn, ugn, kyrka och flera byar. Godset ägdes av en godsherre (adelsman, riddare, biskop eller kloster). På godset producerades det mesta som behövdes: mat, kläder, redskap, byggmaterial. Människor kunde leva hela sitt liv på samma gods."
+    },
+    {
+      "id": "k4-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var en RIDDARE?",
+      "svar": "En tungt beväpnad krigare till häst — medeltidens elitkrigare. Han behövde stridshäst, kedjebrynja, hjälm, sköld, svärd, lans och flera år av träning från ung ålder. Att utrusta en riddare var oerhört dyrt. Därför fick han jord (förläning) i utbyte mot militär tjänst — han var själv en vasall mot adelsmannen eller kungen."
+    },
+    {
+      "id": "k4-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var DAGSVERKE?",
+      "svar": "När en bonde arbetade vissa dagar på godsherrens mark utan lön. Han kunde plöja herrens åkrar, skörda hans spannmål, hugga ved eller bygga på godsets byggnader. Dagsverket kom oftast i tillägg till skördandel och olika avgifter — och tog tid från bondens eget arbete, ofta under den bästa skördetiden."
+    },
+    {
+      "id": "k4-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ett STÅND?",
+      "svar": "En samhällsgrupp med särskilda uppgifter, rättigheter och skyldigheter under medeltiden. Ståndssamhället byggde på tanken att människor hade olika platser i samhället från födelsen. I Frankrike fanns tre stånd (präster, adel, tredje ståndet). I Sverige fanns fyra (adel, präster, borgare, bönder)."
+    },
+    {
+      "id": "k4-b10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ett PRIVILEGIUM?",
+      "svar": "En särskild fördel eller rättighet som tillhörde ett visst stånd. Adeln hade till exempel skattefrihet (slapp vissa skatter), domsrätt (egna domstolar), markrätt (vissa typer av jord eller ämbeten reserverade för adeln), och symbolisk status (rätt till vissa kläder, vapen och titlar)."
+    },
+    {
+      "id": "k4-b11",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka var VIKINGAR, MAGYARER och SARACENER?",
+      "svar": "De tre yttre hot som pressade Västeuropa under 800- och 900-talen. Vikingar från Skandinavien anföll med snabba skepp längs kuster och uppför floder. Magyarer från öster var ett ryttarfolk som senare blev Ungern. Saracener var en samlande benämning på muslimska grupper i Medelhavet som plundrade kuster och öar."
+    },
+    {
+      "id": "k4-b12",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är TINGET?",
+      "svar": "Den nordiska traditionen med en lokal samlingsplats där fria män deltog i rättsliga och politiska frågor. Där löste man konflikter, diskuterade lagar, dömde i tvister och fattade beslut. Tinget var inte demokratiskt i modern mening — kvinnor och trälar hade inte samma ställning — men det gav fria bönder en politisk roll som var ovanlig i många andra europeiska samhällen."
+    },
+    {
+      "id": "k4-b13",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad var STIGBYGELN?",
+      "svar": "Fotstöden som hänger från sadeln och hjälper ryttaren att sitta stadigt i strid. Historikern Lynn White menade att stigbygeln var en avgörande orsak till feodalismen — den gjorde tungt kavalleri effektivt, vilket gjorde riddare viktiga, vilket gjorde att de behövde försörjas med jord. Andra historiker är mer försiktiga: stigbygeln bidrog troligen, men feodalismen hade också många andra orsaker."
+    },
+    {
+      "id": "k4-b14",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad var en SKATTEBONDE?",
+      "svar": "En svensk bonde som betalade skatt direkt till kronan istället för att arbeta åt en godsherre. Skattebönder hade ofta en friare ställning än bönder som brukade någon annans jord. Detta var typiskt för Sverige — i många andra europeiska länder dominerade istället livegna bönder bundna till adelns gods. Tillsammans med tinget och böndernas roll som eget stånd gjorde det Sverige till ett undantag i Europa."
+    }
+  ],
+  "modellkort": [
+    {
+      "id": "k4-m1",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur fungerade FEODALISMENS PYRAMID?",
+      "svar": "Fyra nivåer som hängde ihop genom personliga band:\n\n• **Kungen** — högst upp, ägde i teorin all mark men kunde inte styra hela landet själv\n• **Adel och stormän** — kungens vasaller, fick stora förläningar mot trohet och militär hjälp\n• **Riddare** — adelns vasaller, fick mindre områden, försörjdes som tungt kavalleri\n• **Bönder och livegna** — pyramidens bas, störst i antal men minst i makt\n\n**Vad flödade åt vilket håll?**\n• Nedåt: jord och skydd\n• Uppåt: lojalitet, militär hjälp, arbete och avgifter\n\nMen — pyramiden är en förenkling. I verkligheten var det inte en organiserad hierarki utan en väv av personliga relationer. En adelsman kunde vara vasall mot flera olika herrar samtidigt — för olika förläningar."
+    },
+    {
+      "id": "k4-m2",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur fungerade TROHETSBANDET mellan herre och vasall?",
+      "svar": "Ett ömsesidigt personligt avtal — inte ett politiskt kontrakt mellan staten och medborgaren.\n\n**Vasallen lovade:**\n• Strida för herren när han behövde det\n• Ge råd när herren bad om det\n• Hjälpa i nöd (t.ex. pengar om herren togs som fånge)\n• Vara lojal och inte alliera sig med herrens fiender\n\n**Herren gav:**\n• Jord och inkomster från förläningen\n• Beskydd mot fiender och hot\n• Rätt att styra över området\n\nBandet beseglades med en **trohetsed** i en formell ceremoni. Det var ett avtal mellan **två specifika människor**. När vasallen dog kunde sönerna förhandla om att ärva förläningen — men det var inte automatiskt."
+    },
+    {
+      "id": "k4-m3",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför växte FEODALISMEN fram? (fem orsaker)",
+      "svar": "Inga enkla orsaker — fem krafter samverkade och förstärkte varandra:\n\n1. **Statens sönderfall** — efter Roms fall och Karl den stores rikes splittring fanns ingen stark centralmakt\n2. **Yttre hot från tre håll** — vikingar från norr, magyarer från öster, saracener från söder\n3. **Pengahushållningens nedgång** — mynt blev ovanliga, jord blev viktigaste betalningen\n4. **Krigföringen förändrades** — riddare blev viktiga och dyra, behövde försörjas med jord\n5. **Människors behov av skydd** — både bönder och adel sökte trygghet\n\nVarje kraft förstärkte de andra. Svag stat → hoten pressade mer → lokalt försvar behövdes → riddare blev viktiga → behövde inkomster → mynt saknades → jord blev lösningen → bönder behövde skydd. **Feodalismen var lösningen på flera problem på en gång.**"
+    },
+    {
+      "id": "k4-m4",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur såg en LIVEGEN BONDES dag och vardag ut?",
+      "svar": "Livet var hårt och styrdes av tre krafter: årstiderna, kyrkans kalender och godsherrens krav.\n\n**Dagens rytm:** Början i gryningen, slut vid solnedgång. Arbetade på åkern, skötte djur, lagade redskap. Kvinnor och barn arbetade lika hårt — i hem, ladugård och fält.\n\n**Tre maktcentra att betala till:**\n• **Godsherren:** del av skörden, dagsverken (arbete utan lön), avgifter för kvarn/ugn/bro\n• **Kungen:** skatt\n• **Kyrkan:** tionde (en tiondel av skörd och inkomster)\n\n**Vad fick bonden tillbaka?** Skydd om plundrare eller fiender kom — en lokal herre med borg kunde vara skillnaden mellan trygghet och katastrof. Det var en byteshandel — men inte mellan jämbördiga parter.\n\n**Maten var enkel:** bröd, gröt, soppor, ärtor, kål, rovor. Kött var sällsynt — djuren var för värdefulla för att slaktas i onödan."
+    },
+    {
+      "id": "k4-m5",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur fungerade STÅNDSSAMHÄLLET?",
+      "svar": "Människor delades in i grupper med olika rättigheter — inte beroende på vad de gjorde, utan beroende på **vad de var födda till**.\n\n**Frankrikes tre stånd:**\n• 'De som ber' — prästerna (kyrkan)\n• 'De som krigar' — adeln\n• 'De som arbetar' — tredje ståndet (bönder, hantverkare, köpmän)\n\n**Sveriges fyra stånd:**\n• Adel\n• Präster\n• Borgare\n• Bönder\n\n**Skillnaden:** I Sverige räknades bönderna som **ett eget stånd** med politisk plats i riksdagen — något ovanligt i Europa. Det är värt att stanna upp vid: i de flesta länder hade bönder ingen formell politisk roll alls.\n\n**Idén bakom systemet:** I medeltidens teologi hade Gud själv ordnat samhället så. Varje stånd hade sin uppgift. Tillsammans bildade de en harmonisk helhet. Att utmana ståndssamhället var att utmana Guds ordning."
+    },
+    {
+      "id": "k4-m6",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur hängde FEODALISMEN och STÅNDSSAMHÄLLET ihop?",
+      "svar": "Två sidor av samma struktur — men sedda från olika vinklar.\n\n**Feodalismen** var det politiska och ekonomiska systemet — pyramiden av kungar, vasaller, riddare och bönder bundna av jord, trohet och skydd.\n\n**Ståndssamhället** var samma struktur sett som social uppdelning — inte ett politiskt avtal utan en indelning av människor i grupper med olika rättigheter.\n\n**De förstärkte varandra:** Feodalismen gjorde vissa familjer mäktiga genom jord och militära tjänster. Ståndssamhället förvandlade denna makt till **ärvd social status**. När en adelsfamilj hade haft sina förläningar i några generationer blev de definitionsmässigt adliga — och deras barn fick automatiskt högre status, oavsett vad de gjorde.\n\nDet är därför ståndssamhället var så svårt att förändra. Det var inte bara politik — det var ett system av sociala kategorier som påverkade vilka man kunde gifta sig med, vilka kläder man kunde bära, vilka domstolar man stod inför."
+    },
+    {
+      "id": "k4-m7",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Var STIGBYGELN verkligen så viktig som Lynn White menade?",
+      "svar": "Ett klassiskt exempel på hur historiker måste tänka kring orsakssamband.\n\n**Lynn Whites tes (1900-tal):** Stigbygeln gjorde tungt kavalleri effektivt → riddare blev viktiga → de var dyra → kungar gav jord till krigare → detta bidrog till feodalismen.\n\n**Det låter logiskt** — och visar hur teknik kan påverka samhälle.\n\n**Men kritiker pekar på:**\n• Det fanns skickliga ryttare före stigbygeln (mongoler, perser)\n• Tidpunkten stämmer inte: stigbygeln kom till Västeuropa under 700-talet, men feodalismen i sin tydligaste form först under 900- och 1000-talet\n• Feodalismen hade många andra orsaker som inte hade med stigbygeln att göra\n\n**Slutsatsen:** Stigbygeln bidrog troligen — men skapade inte feodalismen ensam. **Det är en lärdom värd att bära med sig: i historien är det sällan en enda sak som orsakar stora förändringar.** Det är oftast många saker som samverkar."
+    },
+    {
+      "id": "k4-m8",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Varför hade SVENSKA BÖNDER en starkare ställning än bönder i Frankrike?",
+      "svar": "Flera orsaker samverkade och gjorde Sverige till ett undantag i Europa:\n\n• **Glest befolkat land.** Mycket mark per människa, svårt för adel att kontrollera hela landsbygden\n• **Småskaligt jordbruk.** Kallare klimat, kortare odlingssäsong — stora gods med många livegna fungerade inte lika bra som på Frankrikes slätter\n• **Flera näringar.** Bönder kombinerade jordbruk med fiske, jakt, skogsbruk, järnframställning — mer självständighet\n• **Tingstraditionen.** Lokala samlingsplatser där fria män deltog i rättsliga och politiska beslut\n• **Träldomen försvann** under medeltiden — och livegenskap utvecklades aldrig i samma omfattning som i Frankrike och Tyskland\n• **Skattebönder, inte livegna.** Bönder betalade ofta skatt direkt till kronan istället för att arbeta åt en godsherre\n\n**Resultatet:** När ståndssamhället utvecklades fick bönderna en egen plats som ett av fyra stånd. När franska revolutionen utmanade ståndssamhället hade Sverige redan haft bondeståndet i riksdagen i hundratals år.\n\n**Vad detta visar:** Medeltiden var inte likadan överallt. Att tänka kritiskt om generella påståenden — 'så här var medeltiden' — är en av historieämnets viktigaste färdigheter."
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "k4-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för feodalismens pyramid och hur de fyra nivåerna hängde ihop med varandra.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör visa både strukturen i pyramiden och de personliga banden mellan nivåerna.\n\nFeodalismen var medeltidens viktigaste samhällssystem i Västeuropa och byggde på tre saker: jord, skydd och lojalitet. Den kan beskrivas som en pyramid med fyra nivåer.\n\nHögst upp fanns kungen, som i teorin ägde all mark i riket. Men han kunde inte själv styra hela landet, så han delade ut stora jordområden — förläningar — till adelsmän som blev hans vasaller. I utbyte lovade vasallerna lojalitet och militär hjälp.\n\nUnder adeln fanns riddarna. En riddare var en tungt beväpnad krigare till häst — dyr att utrusta. Adelsmännen gav därför mindre förläningar till riddare i utbyte mot militär tjänst. Riddaren var alltså också en vasall, men mot adelsmannen, inte mot kungen direkt.\n\nLängst ner fanns bönderna, ofta livegna. De arbetade på jorden, gav en del av skörden till godsherren, utförde dagsverken och betalade avgifter. I utbyte fick de skydd.\n\nHela systemet hängde ihop genom personliga trohetsband. Mellan nivåerna flödade jord och skydd nedåt, lojalitet, militär hjälp, arbete och avgifter uppåt. Det var inte en modern organisation utan en väv av personliga relationer mellan herrar och vasaller. Pyramiden är en förenkling som hjälper oss förstå strukturen — men i verkligheten kunde en adelsman vara vasall mot flera olika herrar samtidigt.",
+      "stodlarare": {
+        "stodord": ["kungen", "vasall", "förläning", "riddare", "bönder", "livegen", "trohetsband", "jord", "skydd", "lojalitet"],
+        "startfraser": [
+          "Feodalismen var medeltidens viktigaste samhällssystem och kan beskrivas som en pyramid med fyra nivåer ...",
+          "Högst upp fanns kungen, som ...",
+          "Under adeln fanns riddarna, som ...",
+          "Längst ner fanns bönderna, ofta livegna ...",
+          "Mellan nivåerna flödade ..."
+        ],
+        "tip_for_struktur": "Strukturera svaret som en vandring uppifrån och ner i pyramiden — kungen, adel, riddare, bönder. För varje nivå: vem var det, vad fick de, vad gav de? Avsluta med att förklara vad som flödade åt vilket håll, och varför systemet kallas en 'pyramid' trots att det egentligen var en väv av personliga relationer."
+      }
+    },
+    {
+      "id": "k4-r2",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Förklara varför feodalismen växte fram i Västeuropa. Använd minst tre samverkande orsaker.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör visa förståelse för att stora samhällsförändringar har många samverkande orsaker — inte en enda.\n\nFeodalismen växte inte fram av en enda orsak. Den växte fram av en väv av samverkande krafter, alla pekande åt samma håll.\n\nFör det första föll Västroms centralmakt år 476, och Karl den stores rike splittrades efter hans död. Genom Verdunfördraget delades riket mellan hans sonsöner. Det fanns inte längre någon stark stat som kunde organisera försvar, hålla ordning och ta in skatter. Lokala stormän fick mer makt.\n\nFör det andra pressades Västeuropa av yttre hot från tre håll: vikingar från norr, magyarer från öster, saracener från söder. Vikingarna kunde nå inlandet genom att ro uppför floderna. Magyarerna gjorde snabba räder från sina hästar. Saracenerna plundrade Medelhavets kuster. Kungen kunde inte skydda alla områden — lokalt försvar blev nödvändigt.\n\nFör det tredje minskade pengahushållningen dramatiskt efter Roms fall. Mynt blev ovanliga. Jord blev den viktigaste betalningen. När kungar och stormän skulle belöna sina krigare hade de ofta inga pengar — så de gav jord istället. Det är feodalismens mest centrala mekanism.\n\nFör det fjärde förändrades krigföringen. Tungt kavalleri — riddare — blev viktiga. Men en riddare var enormt dyr och behövde inkomster. Lösningen var jord. Och för det femte sökte människor skydd — både bönder som behövde en herre och adelsmän som behövde krigare.\n\nVarje kraft förstärkte de andra. När staten var svag pressade hoten mer. När hoten pressade behövdes lokalt försvar. När riddare blev viktiga behövde de inkomster. När mynt saknades blev jord lösningen. Feodalismen var lösningen på flera problem på en gång.",
+      "stodlarare": {
+        "stodord": ["statens sönderfall", "yttre hot", "vikingar", "magyarer", "saracener", "pengahushållning", "jord", "riddare", "skydd"],
+        "startfraser": [
+          "Feodalismen växte inte fram av en enda orsak utan av en väv av samverkande krafter ...",
+          "För det första föll Västrom och Karl den stores rike splittrades ...",
+          "För det andra pressades Västeuropa av yttre hot från tre håll ...",
+          "För det tredje minskade pengahushållningen och jord blev ...",
+          "Varje kraft förstärkte de andra ..."
+        ],
+        "tip_for_struktur": "Bygg svaret som en kedja: statens sönderfall → yttre hot → svag kungamakt visar sig → lokalt försvar behövs → riddare blir viktiga → behöver inkomster → jord blir lösningen → bönder söker skydd. Avsluta med att visa hur krafterna förstärker varandra."
+      }
+    },
+    {
+      "id": "k4-r3",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Resonera kring påståendet: 'Feodalismen var ett system av ömsesidiga skyldigheter — och samtidigt ett system av djup ojämlikhet.' Hur kan båda sakerna vara sanna samtidigt?",
+      "ungefarlig_tid_min": 15,
+      "modellsvar": "Ett gott svar bör visa förståelse för att historiska system ofta är komplexa — och att en korrekt analys måste hålla flera perspektiv samtidigt utan att förenkla.\n\nFeodalismen hade verkligen en idé om ömsesidighet. Kungen gav jord och beskydd, vasallerna gav lojalitet och militär hjälp. Godsherren gav skydd till bönderna, bönderna gav arbete och avgifter. Var och en hade sin plats, och alla behövde varandra. Kyrkan formulerade det till och med teologiskt: 'de som ber, de som krigar, de som arbetar' — varje stånd hade sin uppgift.\n\nOch ömsesidigheten var inte bara teori. För människor under tidig medeltid var skydd mycket värdefullt. Vikingar, magyarer och saracener hotade Västeuropa. En lokal herre med borg, riddare och beväpnade män kunde vara skillnaden mellan trygghet och katastrof. Många bönder accepterade beroende eftersom alternativet — att stå utan skydd — var värre. Feodalismen var ett system där människor faktiskt fick något i utbyte mot vad de gav.\n\nMen samtidigt var ömsesidigheten djupt ojämn. Godsherren bestämde villkoren. Han kunde höja avgifter, kräva fler dagsverken, döma hårt i tvister. Bonden hade få sätt att protestera. Han kunde inte gå till en högre domstol — den högre domstolen var hans herre. Han kunde inte flytta — han var bunden till godset. Han kunde inte göra uppror — det skulle krossas av riddare. Och om jorden bytte ägare följde han ofta med som en del av godset, ungefär som inventarier.\n\nKonkret innebar det att bonden hade tre olika maktcentra att betala till: godsherrens avgifter och dagsverken, kungens skatt och kyrkans tionde. Han producerade rikedom men ägde nästan ingenting av den. Han arbetade mest men bestämde minst.\n\nBåda sakerna är därför sanna samtidigt. Feodalismen var inte bara förtryck — det fanns en verklig idé om ömsesidiga skyldigheter, och människor fick verkligen skydd som de behövde. Men ömsesidigheten utspelade sig mellan parter med mycket olika makt. Det är som att förhandla med någon som har alla trumf — du kan få något, men du bestämmer inte villkoren.\n\nDet är värt att hålla båda perspektiven i huvudet samtidigt. Ett system kan vara byteshandel — och samtidigt vara djupt orättvist. Det är så feodalismen ska förstås.",
+      "stodlarare": {
+        "stodord": ["ömsesidighet", "skydd", "avgifter", "dagsverken", "godsherren", "ojämlikhet", "makt", "trots", "tionde"],
+        "startfraser": [
+          "Feodalismen hade en idé om ömsesidighet — kungen gav jord, vasallen gav lojalitet ...",
+          "Och ömsesidigheten var inte bara teori — för människor under tidig medeltid var skydd ...",
+          "Men samtidigt var ömsesidigheten djupt ojämn ...",
+          "Konkret innebar det att bonden hade tre olika maktcentra att betala till ...",
+          "Båda sakerna är därför sanna samtidigt ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar: (1) visa att ömsesidigheten var verklig — vad gick åt vilket håll, varför skyddet var värdefullt; (2) visa att ojämlikheten också var verklig — vem bestämde villkoren, vad bonden inte kunde göra; (3) avsluta med en reflektion om hur båda sakerna kan vara sanna samtidigt. Det är just spänningen mellan de två som är poängen."
+      }
+    },
+    {
+      "id": "k4-r4",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Resonera kring varför svenska bönder hade en starkare ställning än bönder i Frankrike — och vad det säger om att medeltiden inte såg likadan ut överallt i Europa.",
+      "ungefarlig_tid_min": 15,
+      "modellsvar": "Ett gott svar bör visa både konkret förståelse för det svenska undantaget och en bredare reflektion om hur generella påståenden om historia ska hanteras.\n\nI Frankrike och Tyskland var många bönder livegna — starkt bundna till sin godsherre, fast på samma jord generation efter generation. I Sverige fanns också feodala drag, men livegenskapen blev aldrig dominerande. Många svenska bönder var skattebönder som betalade direkt till kronan, hade större rörelsefrihet och deltog i de lokala tingen.\n\nFlera orsaker samverkade. Sverige var glest befolkat — det fanns mycket mark per människa, och avstånden var stora. Det var svårare för adeln att kontrollera hela landsbygden. Klimatet var kallare och odlingssäsongen kortare, vilket gjorde att stora gods med många livegna inte fungerade lika bra som på Frankrikes bördiga slätter. Svenskt jordbruk var mer småskaligt, och bönder kombinerade ofta jordbruk med fiske, jakt, skogsbruk och järnframställning — fler sätt att överleva, mer självständighet.\n\nDen nordiska tingstraditionen spelade också roll. På tinget kunde fria män delta i rättsliga och politiska beslut. Det var inte demokrati i modern mening, men det gav fria bönder en lokal politisk roll som var ovanlig i många andra europeiska samhällen. När träldomen försvann under medeltiden — delvis tack vare kristnandet — utvecklades inte livegenskap som ersättning, utan en bredare grupp fria bönder växte fram.\n\nResultatet blev att när ståndssamhället utvecklades räknades bönderna som ett eget stånd. Sverige hade fyra stånd: adel, präster, borgare, bönder. När franska revolutionen utbröt var det det tredje ståndet (med bönder och borgare ihopklumpade) som krävde mer politisk makt. I Sverige hade bönderna redan haft sin egen röst i riksdagen i hundratals år.\n\nVad detta säger om historia är viktigt. Medeltiden såg inte likadan ut överallt. Att säga 'så här var medeltiden' är ofta missvisande — vi behöver fråga 'var? när? för vilken grupp?' Feodalismen var starkare i vissa delar av Europa och svagare i andra. Livegenskapen kunde vara hård i vissa regioner och nästan obefintlig i andra. Det är samma typ av historisk noggrannhet som krävs när vi tolkar slaget vid Poitiers eller frågar om Rom egentligen 'föll' år 476. Att tänka kritiskt om generella påståenden — att alltid fråga 'var någonstans? när? för vilken grupp?' — är en av historieämnets viktigaste färdigheter.\n\nDet svenska undantaget är därför inte bara intressant i sig själv. Det är en påminnelse om att Europa under medeltiden var en mosaik av olika system — och att vi alltid behöver vara försiktiga med att generalisera.",
+      "stodlarare": {
+        "stodord": ["skattebönder", "glest befolkat", "tinget", "träldomen", "fyra stånd", "livegna", "Sverige", "Frankrike", "perspektiv"],
+        "startfraser": [
+          "I Frankrike och Tyskland var många bönder livegna, men i Sverige ...",
+          "Flera orsaker samverkade — Sverige var glest befolkat, klimatet var ...",
+          "Den nordiska tingstraditionen spelade också roll ...",
+          "Resultatet blev att bönderna räknades som ett eget stånd ...",
+          "Vad detta säger om historia är viktigt — medeltiden såg inte likadan ut överallt ..."
+        ],
+        "tip_for_struktur": "Strukturera svaret i tre delar: (1) konkret om Sverige — vad gjorde de svenska bönderna friare (glest befolkat, ting, träldomen försvann, skattebönder, eget stånd); (2) jämförelse med Frankrike — vad var annorlunda där; (3) den bredare poängen — medeltiden var inte likadan överallt, koppla gärna till Poitiers-djupdykningen och 'Föll Rom egentligen?' om hur historisk noggrannhet kräver att vi frågar 'var? när? för vem?'."
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "avsnitt": 5,
+  "titel": "Jordbruksutveckling",
+  "delkapitel": "hog",
+  "version": "1.0",
+  "kort_totalt": 11,
+  "_kommentar": "Flipcards för avsnitt 5 (Jordbruksutveckling). 5 begreppskort + 4 modellkort + 2 redogörelsekort = 11 kort. Fokus på historiemedvetande: hur tekniska innovationer och feodal struktur byggde upp högmedeltidens samhälle och möjliggjorde stadens framväxt. Nivåfördelning ~75% grundlaggande / 25% fordjupning.",
+  "begreppskort": [
+    {
+      "id": "k5-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var FEODALISMEN?",
+      "svar": "Ett samhällssystem där makt och jord var bundna i en pyramid av personliga lojaliteter. Kungen gav jord till stora adelsmän (vassaller) i utbyte mot trohet och militärtjänst. De gav i sin tur jord till lägre riddare. Längst ner fanns bönderna — många av dem livegna — som odlade jorden och betalade arrende, dagsverke och tionde. Det var ett samhälle utan stat i modern mening: ingen tjänsteman, inga skatter via myndighet. Allt byggde på personliga band av lojalitet och plikt."
+    },
+    {
+      "id": "k5-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var en LIVEGEN bonde?",
+      "svar": "En bonde som var bunden till en specifik gård och dess herre. Den livegne var inte slav — han kunde inte säljas — men inte heller fri. Han fick inte flytta utan herrens tillstånd, måste arbeta åt herren och betala olika avgifter. Statusen ärvdes: barnen blev själva livegna. Livegenskapen var grunden för feodalsamhällets jordbruk och försvagades först efter digerdöden, när arbetskraftsbrist tvingade herrar att förhandla."
+    },
+    {
+      "id": "k5-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var TRESKIFTE?",
+      "svar": "Ett system där åkermarken delades i tre fält som användes olika år: ett för höstsäd (råg, vete), ett för vårsäd (havre, korn, ärtor) och ett i träda (vila). Treskiftet gav cirka 33 % mer odlingsyta per år än det äldre tvåskiftet, där bara hälften av marken odlades varje år. Det krävde samordning mellan bönderna i en by och var en av högmedeltidens viktigaste produktivitetshöjningar."
+    },
+    {
+      "id": "k5-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var HJULPLOGEN och varför var den viktig?",
+      "svar": "En tung plog med hjul, järnbill och vändskiva — uppfunnen under tidig medeltid och spridd under hög- och senmedeltiden. Till skillnad från den äldre årdern (som bara ristade jorden) vände hjulplogen jorden ordentligt, grävde ner ogräs och förde upp näring underifrån. Hjulen gjorde plogen lätt att styra över långa fåror. Hjulplogen krävde flera oxar eller hästar att dra — så bönderna i en by gick ofta ihop om en gemensam plog. Den är kanske den enskilt viktigaste tekniska innovationen bakom medeltidens befolkningsökning."
+    },
+    {
+      "id": "k5-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var KLOSTRENS roll i jordbrukets utveckling?",
+      "svar": "Klostren var inte bara religiösa centrum — de var motorer för jordbruksutveckling. Munkarna experimenterade med nya grödor, växelbruk, vattendrivna kvarnar och dräneringssystem. Kunskapen skrevs ner och spreds vidare. Cisterciensorden var särskilt känd för att förbättra mark genom att avverka skog och dika ut sumpmark. Klostren är ett tydligt exempel på att religion, kunskap och praktiskt arbete inte var åtskilda under medeltiden — de gick hand i hand."
+    }
+  ],
+  "modellkort": [
+    {
+      "id": "k5-m1",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur hängde teknik, jordbruk och befolkning ihop under högmedeltiden?",
+      "svar": "Det fanns en kedjereaktion där varje steg möjliggjorde nästa:\n\n• **Ny teknik:** Hjulplog, harv, kragsele, hästsko, treskifte.\n\n• **Mer mat per åker:** Tekniken gjorde att samma markyta producerade mycket mer säd än tidigare. Skogar kunde också röjas till nya åkrar.\n\n• **Fler människor överlevde:** Med mer mat steg befolkningen kraftigt — Europas befolkning kanske fördubblades mellan år 1000 och 1300.\n\n• **Fler människor kunde sluta vara bönder:** När jordbruket blev effektivare räckte det med färre bönder för att försörja alla. Resten kunde flytta till städerna och bli hantverkare, köpmän eller hantlangare.\n\n**Den stora poängen:** jordbruksrevolutionen var förutsättningen för stadens framväxt. Utan plog och treskifte — inga städer."
+    },
+    {
+      "id": "k5-m2",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Förklara FEODALISMENS uppbyggnad — vad var relationen kung, vassal och livegen?",
+      "svar": "Feodalismen var en pyramid av personliga lojaliteter:\n\n• **Kungen** stod på toppen och ägde formellt allt land i sitt rike.\n\n• **Kungen gav jord** (förläning) till stora adelsmän — **vassaller** som svor trohetsed. I utbyte måste vassallen ge **militär hjälp**, råd och tjänst.\n\n• **Vassallen** kunde i sin tur ge en del av sin jord till lägre riddare, som blev hans vassaller. Samma system upprepades.\n\n• **Längst ner** fanns **bönderna** — många av dem livegna — som odlade jorden. De ägde inte den, men hade rätt att bruka den. De betalade arrende, dagsverke och tionde.\n\n**Det viktiga:** Det fanns ingen stat med tjänstemän eller skatter. Allt byggde på **personliga band** mellan människor — herre och vassal, herre och bonde. Det är därför feodalismen var stabil men också splittrad: en kung utan starka vassaller hade ingen makt alls."
+    },
+    {
+      "id": "k5-m3",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Vad var bondens viktigaste skyldigheter under feodalismen?",
+      "svar": "En livegen bonde hade tre stora avgifter att betala:\n\n• **Arrende** — betalning till herren för att få bruka jorden. Kunde betalas i säd, smör, kött eller pengar.\n\n• **Dagsverke** — obligatoriskt arbete på herrens jord, ofta flera dagar per vecka under skördetid. Utan lön.\n\n• **Tionde** — en tiondel av skörden till kyrkan. Inte frivillig — lagstadgad avgift.\n\nTillsammans kunde dessa avgifter ta hälften eller mer av bondens skörd innan han fick behålla något själv. Den livegne fick dessutom inte flytta utan herrens tillstånd, och hans barn ärvde samma status.\n\n**Det avgörande:** Bonden arbetade mycket av sitt liv åt andra. Det var hans plikt i feodalsamhället — i utbyte fick han skydd från herren och löfte om frälsning från kyrkan."
+    },
+    {
+      "id": "k5-m4",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Hur kunde en till synes liten teknisk uppfinning som KRAGSELEN förändra Europa?",
+      "svar": "Kragselen är en sele som ligger om hästens skuldror — inte om halsen, som äldre seltyper. Det låter futtigt, men effekten var enorm:\n\n• **Tidigare seltyper** strypte hästen när den drog tung last. Det innebar att hästar bara klarade lättare arbete.\n\n• **Med kragselen** kunde hästen dra med full kraft. Den kunde användas för plöjning — något som tidigare bara oxar klarade.\n\n• **Hästar är snabbare än oxar.** Plöjningstiden minskade dramatiskt — en bonde kunde plöja flera gånger så mycket på samma tid.\n\n• **Tillsammans med hjulplog och hästsko** blev hästen ett produktivt jordbruksdjur, vilket revolutionerade jordbruket i norra Europa där tunga jordar krävde dragkraft.\n\n**Den stora poängen:** En liten innovation från Kina (kragselen) — i kombination med en plog från norra Europa och en hästsko — kunde tillsammans driva Europas befolkningsökning. **Stora förändringar består ofta av små, sammanhängande detaljer.**"
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "k5-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Beskriv det vardagliga livet för en livegen bondefamilj under feodalismen.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör måla upp en konkret bild av bondelivets vardag och samtidigt visa förståelse för de strukturer som styrde det.\n\nEn livegen bondefamilj levde nära jorden, ofta i ett litet hus av trä och lera med jordgolv. Hela familjen arbetade tillsammans — far och söner på åkrarna, mor och döttrar med boskap, vävning, matlagning och trädgård. Arbetstiden styrdes av solen och årstiderna: hård sådd och skördetid, lugnare vinterperiod.\n\nSvaret bör nämna de tunga skyldigheterna: bonden måste betala arrende till sin herre (i säd, smör eller pengar), utföra dagsverken på herrens åker (ofta de dagar då hans egen säd behövde sås eller skördas), och betala tionde till kyrkan. Tillsammans kunde dessa avgifter ta hälften eller mer av skörden.\n\nLivet var osäkert. En dålig skörd kunde betyda svält. Sjukdomar kom utan att kunna botas. Barnadödligheten var hög. Men det fanns också gemenskap: byns andra familjer, kyrkans helgdagar, marknadsdagar, gemensamma arbeten som hjälp vid plöjning eller skörd.\n\nEtt fördjupande svar kan nämna att den livegne inte var slav — han hade rätt till sin gård och kunde inte säljas — men han var inte heller fri. Hans barn ärvde hans status. Det var ett system där människor föddes in i sin plats och knappast någonsin kunde lämna den.",
+      "stodlarare": {
+        "stodord": [
+          "livegen",
+          "bondefamilj",
+          "arrende",
+          "dagsverke",
+          "tionde",
+          "feodalism",
+          "skörd",
+          "byn"
+        ],
+        "startfraser": [
+          "En livegen bondefamilj levde ett liv som präglades av ...",
+          "Familjens vardag styrdes av ...",
+          "De tunga skyldigheterna mot herren och kyrkan var ...",
+          "Trots det svåra livet fanns det också ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar: först en konkret bild av bondelivet (bostad, mat, arbete, årstider), sedan de tunga skyldigheterna (arrende, dagsverke, tionde), och avsluta med en reflektion om bondens position i samhället. Använd konkreta exempel — inte bara generella beskrivningar."
+      }
+    },
+    {
+      "id": "k5-r2",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Förklara hur jordbrukets utveckling under högmedeltiden la grunden för städernas framväxt. Använd minst tre konkreta orsakssamband.",
+      "ungefarlig_tid_min": 12,
+      "modellsvar": "Ett gott svar bör visa förståelse för att stora historiska förändringar bygger på varandra — och att jordbruksutvecklingen inte var en isolerad händelse utan en förutsättning för allt som kom efter.\n\nFörsta orsakssambandet: **ny teknik gav mer mat per yta**. Hjulplogen vände jorden ordentligt, treskiftet använde mark mer effektivt, kragselen lät hästar dra plogar snabbare. Resultatet blev fler kalorier per hektar.\n\nAndra orsakssambandet: **mer mat gav fler människor**. Europas befolkning kanske fördubblades mellan år 1000 och 1300. Men dessa nya människor behövde inte alla vara bönder — för effektiviteten innebar att färre bönder kunde försörja fler.\n\nTredje orsakssambandet: **de överskott av människor sökte sig till städer**. Där behövdes hantverkare, köpmän, byggnadsarbetare, präster och tjänstefolk. Det fanns också möjligheter som inte fanns på landet — frihet från livegenskap (\"stadsluft gör fri\"), pengar i stället för natura, specialiserade yrken.\n\nDessutom var de växande städerna **marknader för jordbruket**. Bönderna kunde sälja säd, smör, kött, ull till stadsborna och få pengar i utbyte. Det driver i sin tur övergången från naturahushållning till pengahushållning.\n\nEtt fördjupande svar kan reflektera över att detta visar hur **ekonomi, teknik och social struktur hänger ihop**. Hjulplogen i sig själv ledde inte till städer. Men i kombination med treskifte, hästsele, klosterodlingar och befolkningsökning skapades den situation där städer kunde börja växa. **Stora förändringar består av många små, sammanhängande delar.**",
+      "stodlarare": {
+        "stodord": [
+          "hjulplog",
+          "treskifte",
+          "kragsele",
+          "befolkning",
+          "städer",
+          "hantverkare",
+          "pengahushållning",
+          "marknad"
+        ],
+        "startfraser": [
+          "Jordbrukets utveckling la grunden för städerna på flera sätt — först och främst genom att ...",
+          "Ny teknik som hjulplog och treskifte ledde till att ...",
+          "När fler människor inte längre behövde vara bönder kunde de ...",
+          "Städernas framväxt var alltså inte en isolerad händelse, utan ..."
+        ],
+        "tip_for_struktur": "Bygg svaret som en kausal kedja: 1) ny teknik → mer mat, 2) mer mat → fler människor, 3) fler människor → överskott som söker sig till staden, 4) städer → nya marknader för jordbruket. Avsluta med en bredare reflektion om hur ekonomi och teknik bygger på varandra."
+      }
+    }
+  ]
+}

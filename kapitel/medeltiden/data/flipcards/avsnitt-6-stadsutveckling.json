@@ -1,0 +1,168 @@
+{
+  "avsnitt": 6,
+  "titel": "Stadsutveckling",
+  "delkapitel": "hog",
+  "version": "1.0",
+  "kort_totalt": 13,
+  "_kommentar": "Flipcards för avsnitt 6 (Stadsutveckling). 6 begreppskort + 4 modellkort + 3 redogörelsekort = 13 kort. Fokus på två av de centrala medeltidsbegreppen (skråväsende, moralisk ekonomi) och övergången från natura- till pengahushållning. Nivåfördelning ~77% grundlaggande / 23% fordjupning.",
+  "begreppskort": [
+    {
+      "id": "k6-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Var växte STÄDER fram under medeltiden?",
+      "svar": "Städer växte fram på platser där människor naturligt möttes eller där handel kunde kontrolleras: vid **vadställen** (där man kunde gå över floder), vid **hamnar**, vid **vägkorsningar**, vid **borgar** (där människor sökte skydd) och vid **kloster** (centrum för lärdom och handel). Stadens läge bestämde dess framtid: en stad vid en handelsväg blev rik, en stad i en bakvik blev liten. Stockholm är ett bra exempel — staden växte fram vid det vatten som band ihop Mälaren med Östersjön, en perfekt kontrollpunkt för handel."
+    },
+    {
+      "id": "k6-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var SKRÅVÄSENDET?",
+      "svar": "Hantverkarnas organisation i staden. Varje yrke hade sitt eget skrå — bagarna ett, skomakarna ett, vävarna ett. Skrået bestämde vem som fick utöva yrket, vilken kvalitet produkterna måste hålla, vilka priser som var rättvisa och hur många lärlingar en mästare fick anställa. Skrået var också en social och religiös gemenskap: gemensamma gudstjänster, fester, hjälp till sjuka medlemmar. Det är mycket mer än en fackförening — det var en hel värld. Skråväsendet är ett av medeltidens mest karaktäristiska samhällssystem."
+    },
+    {
+      "id": "k6-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka tre nivåer fanns i SKRÅET — och vad var skillnaden?",
+      "svar": "Tre tydliga steg på vägen till att bli självständig hantverkare:\n\n• **Lärling** — den lägsta nivån. En pojke i tonåren som flyttade in hos en mästare för att lära sig yrket. Fick mat och husrum, men ingen lön. Lärotiden var 4–7 år.\n\n• **Gesäll** — mellannivå. Hade klarat sitt gesällprov och kunde yrket. Fick lön och kunde arbeta självständigt — men fick inte öppna egen verkstad eller sälja under eget namn.\n\n• **Mästare** — högsta nivån. Hade klarat sitt mästarprov och ägde egen verkstad. Fick anställa gesäller och lärlingar, sälja under eget namn och delta i skråets möten.\n\nUnder senmedeltiden blev det allt svårare att gå från gesäll till mästare — gamla mästarsläkter höll positionerna inom familjen."
+    },
+    {
+      "id": "k6-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var skillnaden mellan NATURAHUSHÅLLNING och PENGAHUSHÅLLNING?",
+      "svar": "Två helt olika sätt att organisera ekonomin:\n\n• **Naturahushållning** — människor byter varor mot varor, eller arbete mot varor. Bonden betalar arrende med säd, hantverkaren får mat i utbyte mot ett par skor. Fungerade bra i lokala samhällen där alla kände varandra.\n\n• **Pengahushållning** — pengar (mynt, senare papper) blir det vanliga sättet att betala. Kräver att alla litar på pengarnas värde och att det finns någon som präglar dem.\n\nÖvergången skedde gradvis under hög- och senmedeltiden, drivet av att städerna och handeln växte. Med pengar kunde man köpa från okända producenter, spara värde över tid och betala för tjänster som inte hade någon naturlig motvara. Det är en av medeltidens viktigaste ekonomiska förändringar."
+    },
+    {
+      "id": "k6-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var den MORALISKA EKONOMIN?",
+      "svar": "Idén att ekonomin inte bara handlar om utbud och efterfrågan — den måste också följa moraliska och religiösa regler. På medeltiden var detta inte ett radikalt påstående utan en självklarhet:\n\n• Brödet hade ett **\"rättvist pris\"** baserat på säd, arbete och en rimlig vinst\n• Att höja priset i hungersnöd var **synd**\n• Att låna ut pengar mot ränta var **ocker** — synd\n• Att sälja under sken av god kvalitet var **bedrägeri** — synd\n\nMålet med ekonomin var inte maximal vinst, utan att samhället skulle hänga ihop. **Den moraliska ekonomin är ett av medeltidens mest karaktäristiska tankesätt** — och det är en helt annan utgångspunkt än modern marknadsekonomi."
+    },
+    {
+      "id": "k6-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är OCKER, och varför var det förbjudet?",
+      "svar": "Ocker var att låna ut pengar mot ränta. På medeltiden var detta enligt kyrkan **synd**. Förklaringen var teologisk: pengar är \"döda\" — de skapar inget värde själva — så att tjäna pengar på pengar var att stjäla.\n\nDetta skapade ett problem när handeln växte och pengar behövdes för långväga affärer. Här uppstod en lucka i systemet: kristna fick inte ta ränta, men **judar fick** (deras religion förbjöd inte det). Därför pressades judar ofta in i rollen som penningutlånare.\n\nDen rollen gav dem en plats i ekonomin — men gjorde dem också hatade och utsatta för förföljelse, särskilt under kriser som digerdöden. Det är ett exempel på hur en religiös regel kan få oavsedda och farliga konsekvenser i samhället."
+    }
+  ],
+  "modellkort": [
+    {
+      "id": "k6-m1",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur fungerade vägen från LÄRLING till MÄSTARE i skråsystemet?",
+      "svar": "Vägen var lång och systematisk:\n\n**Steg 1 — Lärling.** Pojken flyttar in hos en mästare som ung, kanske 12–14 år. Lär sig grunderna i yrket. Får mat och husrum men ingen lön. Tiden var 4–7 år beroende på yrke.\n\n**Steg 2 — Gesällprov.** När lärotiden är slut måste han göra ett konkret arbete — ett par skor, ett bröd, ett verktyg — som skråets mästare bedömer. Klarar han provet blir han gesäll.\n\n**Steg 3 — Gesällvandring.** Som ung gesäll ger han sig ut på vandring mellan städer för att lära av andra mästare. Kan pågå i flera år. En svensk gesäll kunde arbeta i Lübeck, sedan Köln, sedan Paris.\n\n**Steg 4 — Mästarprov.** När gesällen anser sig redo gör han ett \"mästerstycke\" — ett särskilt svårt arbete som visar att han behärskar yrkets allra svåraste moment. Provet är dyrt (gesällen betalar materialet) och bedöms hårt.\n\n**Steg 5 — Mästare.** Klarar han provet får han öppna egen verkstad, ta lärlingar och sälja under eget namn. Han blir fullvärdig medlem av skrået.\n\n**Den stora poängen:** Systemet skyddade kvaliteten på hantverket men gjorde också vägen lång. Under senmedeltiden gjordes mästarproven ofta orimligt svåra för att hindra nya mästare."
+    },
+    {
+      "id": "k6-m2",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför växte städerna fram just under högmedeltiden?",
+      "svar": "Flera saker hände samtidigt och förstärkte varandra:\n\n• **Jordbruksrevolutionen** gjorde att färre bönder kunde försörja fler människor. Överskottet kunde flytta till staden.\n\n• **Befolkningen ökade** — Europas befolkning kanske fördubblades mellan år 1000 och 1300. Fler människor behövde någonstans att bo och göra något.\n\n• **Pengahushållningen** växte fram och gjorde handeln enklare. Med pengar kunde man köpa varor från främlingar.\n\n• **Specialiserade yrken** behövdes — bagare, smeder, vävare, garvare, krukmakare. På landet kunde varje bonde göra det mesta själv, men en stad behövde hantverkare.\n\n• **Frihet lockade** — \"stadsluft gör fri\". En livegen som lyckades fly till en stad och bo där i ett år och en dag blev fri.\n\n**Den viktiga insikten:** Städerna växte inte av en enskild orsak, utan som resultat av en kedja av samverkande förändringar — jordbruk, befolkning, ekonomi, frihet. Stora historiska skiften är ofta så här: många faktorer som driver åt samma håll."
+    },
+    {
+      "id": "k6-m3",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför var den MORALISKA EKONOMIN så viktig på medeltiden?",
+      "svar": "För att medeltidens samhälle byggde på idén att alla människor hade en plats i en gudomlig ordning. Ekonomin var en del av den ordningen — den hade också moraliska regler:\n\n• **Det rättvisa priset.** Brödet kostade vad det \"borde\" kosta — utifrån säd, arbete och en rimlig vinst. Att kräva mer i hungersnöd var att utnyttja andras nöd, alltså synd.\n\n• **Förbud mot ocker.** Att ta ränta på lån var synd, eftersom man tjänade pengar utan att arbeta. Pengar var \"döda\" och kunde inte föda mer pengar.\n\n• **Kvalitetskrav.** Skråna bestämde vilken kvalitet en vara måste hålla. Att sälja dåligt arbete under sken av gott var bedrägeri.\n\n• **Helgdagar.** Stora delar av året var helgdagar då man inte fick arbeta. Vila och bön var lika viktigt som produktion.\n\n**Den stora poängen:** Den moraliska ekonomin var **ett helt annat sätt att tänka på ekonomi än det moderna**. Målet var inte att maximera vinsten. Målet var att samhället skulle hänga ihop — att ingen skulle bli för fattig och ingen för rik, att kvaliteten skulle vara hög, att Gud skulle hedras. När handeln växte och köpmän blev rika utmanades dessa idéer. Det är en spänning som präglar hela medeltidens senare ekonomi."
+    },
+    {
+      "id": "k6-m4",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Varför blev judarna utlånare av pengar — och varför blev det farligt för dem?",
+      "svar": "Detta är ett av medeltidens viktigaste exempel på hur en religiös regel kan få oavsedda konsekvenser:\n\n**Hur det började:**\n\n• Kristendomen förbjöd ocker (att låna ut pengar mot ränta) — det var synd.\n• Judendomen tillät utlåning mot ränta till icke-judar.\n• När handeln växte behövdes lån. Köpmän behövde pengar för långa resor, furstar behövde finansiera krig, bönder behövde överleva dåliga skördar.\n• Eftersom kristna inte fick ta ränta, **pressades judarna in i rollen** som penningutlånare. Inte för att de ville — utan för att andra yrken (jordbruk, hantverk via skrå) ofta var stängda för dem.\n\n**Varför det blev farligt:**\n\n• Den som lånar pengar **gillar** sällan långivaren. Att vara skyldig pengar skapar avund, ilska, hat.\n\n• När en bonde, riddare eller furste inte kunde betala tillbaka kunde \"lösningen\" bli att **driva ut eller döda** sina judiska långivare. Skulderna försvann.\n\n• Under kriser som **digerdöden** blev judar lätta att skylla på. Rykten om att de förgiftade brunnar spreds, och hela judiska samhällen attackerades och dödades 1348–49.\n\n**Den djupa läxan:** En religiös regel som skulle skydda kristna från synd skapade i stället en ekonomisk roll som blev en dödsfälla för en hel folkgrupp. **Det visar hur ekonomi, religion och fördomar kan flätas samman på sätt som ingen avsåg — men som ändå dödar människor.**"
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "k6-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för hur pengahushållningen växte fram, och varför det var en så stor förändring.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar visar förståelse för att övergången från natura- till pengahushållning inte bara var en teknisk förändring — det var en helt ny sätt att tänka på värde och utbyte.\n\nSvaret bör börja med att förklara naturahushållningen: en lokal ekonomi där människor byter varor mot varor eller arbete mot varor. Bonden betalar arrende i säd, hantverkaren får mat för sina skor. Systemet fungerar bra i en liten by där alla känner varandra och produkterna finns nära.\n\nSedan kommer förändringen. När jordbruket blev mer effektivt började det finnas överskott. Människor flyttade till städer. Handeln växte. Människor mötte främlingar — köpmän från andra länder, hantverkare från andra städer. Då blev naturahushållning otymplig: en italiensk köpman ville inte byta sitt siden mot smör. Han ville ha pengar.\n\nMed pengar kunde man göra saker som naturahushållningen inte kunde:\n\n• Köpa från någon man inte kände\n• Spara värde över tid (pengar ruttnar inte som smör)\n• Betala för tjänster som inte hade en naturlig motvara (en präst, en advokat)\n• Handla över långa avstånd\n\nMen förändringen var inte bara praktisk. Den var också **kulturell**. I en naturahushållning är värdet konkret — du ser varorna, du kan ta på dem. Med pengar blir värdet abstrakt — det är en siffra, ett mynt, ett löfte. Det förändrade hur människor tänkte på rikedom, arbete och makt.\n\nEtt fördjupande svar kan reflektera över att övergången inte var snabb eller fullständig. Naturahushållning fortsatte att finnas på landet medan pengahushållning dominerade i städerna. Det fanns en lång period då båda systemen fanns parallellt. Och dagens samhälle är inte heller helt rent — vi gör fortfarande tjänster och gentjänster, inte bara köp.",
+      "stodlarare": {
+        "stodord": [
+          "naturahushållning",
+          "pengahushållning",
+          "byte",
+          "mynt",
+          "handel",
+          "städer",
+          "köpman",
+          "värde"
+        ],
+        "startfraser": [
+          "Under tidig medeltid dominerade naturahushållningen, vilket innebar att ...",
+          "När städerna växte och handeln ökade blev pengahushållningen viktigare eftersom ...",
+          "Med pengar kunde människor göra saker som naturahushållningen inte tillät, till exempel ...",
+          "Övergången var en stor förändring eftersom ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar: 1) vad naturahushållning var, 2) varför pengahushållning växte fram, 3) varför det var en så stor förändring (både praktiskt och kulturellt). Använd konkreta exempel."
+      }
+    },
+    {
+      "id": "k6-r2",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för skråväsendets organisation, och förklara vilka roller de olika människorna hade.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör visa både hur systemet var uppbyggt och varför det fungerade så.\n\nSkrået var hantverkarnas sammanslutning inom ett yrke i en stad. Bagarna hade sitt skrå, skomakarna sitt, vävarna sitt. Varje skrå hade strikt struktur i tre nivåer:\n\n**Lärlingen** stod längst ner. Han var ofta en pojke i tonåren som flyttade in hos en mästare för att lära sig yrket. Han fick mat och husrum men ingen lön. Lärotiden var 4–7 år, och förhållandet liknade nästan ett föräldraskap — mästaren var ansvarig för pojkens uppfostran, hans moral och hans yrkeskunskaper.\n\n**Gesällen** var mellannivån. Han hade klarat sitt gesällprov och kunde yrket. Han fick lön och kunde arbeta självständigt — men han fick inte öppna egen verkstad eller sälja under eget namn. Många gesäller gick på gesällvandring mellan städer, ibland mellan länder, för att lära av andra mästare.\n\n**Mästaren** stod på toppen. Han hade klarat mästarprovet, ägde egen verkstad, fick anställa lärlingar och gesäller, sälja under eget namn och delta i skråets möten. Mästarna styrde i praktiken skrået: de röstade om priser, regler och inträde av nya medlemmar.\n\nUtöver yrket var skrået också en social och religiös gemenskap: gemensamma gudstjänster, fester, hjälp till sjuka medlemmar. Det var en hel värld — inte bara en fackförening.\n\nEtt fördjupande svar kan reflektera över att systemet hade både för- och nackdelar. **Fördel:** det skyddade kvaliteten, gav unga pojkar väg in i ett yrke, gav social trygghet. **Nackdel:** det blev stängt under senmedeltiden — gamla mästarsläkter höll positionerna inom familjen och gjorde mästarproven orimligt svåra för att hindra nya mästare. Det är ett mönster vi ser i många system: en gång rättvis kontroll blir ett verktyg för att stänga ute andra.",
+      "stodlarare": {
+        "stodord": [
+          "skrå",
+          "lärling",
+          "gesäll",
+          "mästare",
+          "gesällvandring",
+          "gesällprov",
+          "mästarprov",
+          "kvalitetskontroll"
+        ],
+        "startfraser": [
+          "Skråväsendet var hantverkarnas organisation i staden, och det hade en strikt struktur i tre nivåer ...",
+          "Lärlingens roll var att ...",
+          "Gesällen befann sig på mellannivån, vilket innebar att ...",
+          "Mästaren stod på toppen och ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar — en per nivå (lärling, gesäll, mästare). Förklara vad varje nivå innebar (rättigheter och skyldigheter). Avsluta med en reflektion om systemets för- och nackdelar."
+      }
+    },
+    {
+      "id": "k6-r3",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Förklara den moraliska ekonomins logik. Varför ansågs ocker vara synd, och hur kom det sig att judar pressades in i rollen som penningutlånare?",
+      "ungefarlig_tid_min": 12,
+      "modellsvar": "Ett gott svar visar förståelse för att medeltidens ekonomi byggde på en helt annan logik än vår — och att religiösa regler kunde få stora oavsedda konsekvenser.\n\nDen moraliska ekonomins kärna var att ekonomin inte var skild från moralen. Hela samhället var en gudomlig ordning, och ekonomin var en del av den. Det fanns ett \"rättvist pris\" på brödet, baserat på säd, arbete och en rimlig vinst. Att höja priset i hungersnöd var synd. Att sälja dåligt arbete som om det var bra var bedrägeri — synd. Att tjäna pengar utan att arbeta var girighet — kanske den farligaste synden av alla.\n\nOcker — att låna ut pengar mot ränta — passade in i denna sista kategori. Den teologiska förklaringen var att pengar är \"döda\". De skapar inget värde själva. Att låta dem \"föda\" mer pengar var att låtsas att något livlöst kunde producera — det var att stjäla från arbetet, från Gud, från andra människor. Därför var ocker en av de allvarligaste synderna.\n\nMen samtidigt som kyrkan förbjöd ocker växte behovet av lån. Köpmän behövde finansiera långa resor. Furstar behövde betala för krig. Städer behövde bygga murar och kyrkor. Bönder behövde överleva dåliga skördar. Någon måste låna ut pengar.\n\nHär uppstod en lucka i systemet. Den judiska religionen förbjöd inte att ta ränta från icke-judar. Och eftersom judar i många medeltida samhällen var **utestängda från andra yrken** — de fick inte vara med i kristna skrån, kunde sällan äga jord — blev penningutlåning ett av få öppna yrken för dem.\n\nDet är därför judar pressades in i denna roll. Det var inte ett fritt val. Det var en konsekvens av två faktorer: kristen lag förbjöd kristna att låna ut mot ränta, och samtidigt hade samhället stängt andra dörrar för judar.\n\nOch här kommer det tragiska. Rollen som penningutlånare skapade en farlig position. **Den som är skyldig pengar tycker sällan om långivaren.** Avund, ilska och hat byggdes upp. När bönder, riddare eller furstar inte kunde betala kunde \"lösningen\" bli att driva ut eller döda sina judiska långivare. Skulderna försvann.\n\nUnder kriser blev judarna lätta att skylla på. När digerdöden kom 1347–51 spreds rykten om att judar hade förgiftat brunnar. Det var fullständigt grundlöst — judar dog av pesten precis som alla andra. Men i panikens Europa attackerades och dödades hela judiska samhällen 1348–49, ofta innan pesten ens kommit till deras städer.\n\nEtt fördjupande svar kan reflektera över att detta visar något viktigt om historien: **religiösa regler är aldrig isolerade**. De påverkar ekonomin, ekonomin påverkar samhällsstrukturen, samhällsstrukturen skapar utsatta grupper, och utsatta grupper drabbas när kriserna kommer. Det är inte enkla orsakskedjor — det är invecklade nät där en regel kan döda människor flera generationer senare.",
+      "stodlarare": {
+        "stodord": [
+          "moralisk ekonomi",
+          "ocker",
+          "ränta",
+          "synd",
+          "judar",
+          "utlåning",
+          "digerdöden",
+          "förföljelse"
+        ],
+        "startfraser": [
+          "Den moraliska ekonomin byggde på idén att ...",
+          "Ocker ansågs vara synd eftersom ...",
+          "Eftersom kristna inte fick ta ränta, pressades judar in i rollen som ...",
+          "Detta blev farligt för judarna eftersom ..."
+        ],
+        "tip_for_struktur": "Bygg svaret som en kausal kedja: 1) den moraliska ekonomins logik (rättvist pris, förbud mot girighet), 2) varför ocker var synd, 3) varför judarna blev utlånare (kombination av religiösa regler och uteslutning från andra yrken), 4) varför rollen blev farlig (skulder skapar hat, syndabockar i kriser). Avsluta med en reflektion om hur religiösa regler kan få oavsedda dödliga konsekvenser."
+      }
+    }
+  ]
+}

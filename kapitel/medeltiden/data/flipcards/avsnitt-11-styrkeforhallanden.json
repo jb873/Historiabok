@@ -1,0 +1,111 @@
+{
+  "delkapitel": "sen",
+  "avsnitt_id": "a11_styrkeforhallanden",
+  "avsnitt_titel": "Förändrade styrkeförhållanden",
+  "kort": [
+    {
+      "id": "fc11-b1",
+      "typ": "begreppskort",
+      "fram": "Riddare",
+      "bak": "Tungt bepansrad ryttare från adelsklassen. Under stora delar av medeltiden Europas mäktigaste militära symbol. Att utbilda en riddare tog över ett decennium. Under senmedeltiden började riddarens dominans försvagas när nya vapen och taktiker växte fram."
+    },
+    {
+      "id": "fc11-b2",
+      "typ": "begreppskort",
+      "fram": "Piken",
+      "bak": "Långt spjut, 4–6 meter, som användes av fotsoldater i tät formation. När pikenerare ställde sig sida vid sida bildade de en mur som riddare till häst hade svårt att bryta. Schweiziska och flamländska soldater använde piken med stor framgång. Billig att tillverka — vanliga bönder kunde tränas att använda den."
+    },
+    {
+      "id": "fc11-b3",
+      "typ": "begreppskort",
+      "fram": "Artilleri",
+      "bak": "Stora vapen som skjuter projektiler — i medeltiden främst kanoner med krut. Krutet kom från Kina via arabvärlden. När man kunde gjuta större kanoner kunde stadens murar och borgarna skjutas sönder. Artilleriet var dyrt — bara kungar och rika städer hade råd. Detta stärkte kungamakten på adelns bekostnad."
+    },
+    {
+      "id": "fc11-b4",
+      "typ": "begreppskort",
+      "fram": "Stående armé",
+      "bak": "Militärstyrka som är permanent anställd av staten — soldater som tränas, betalas och utrustas regelbundet även i fredstid. Nytt under senmedeltiden. Tidigare hade kungar kallat in adelns riddare vid behov. En stående armé krävde stora skatter och en effektiv förvaltning, och flyttade makt från adeln till kungen."
+    },
+    {
+      "id": "fc11-b5",
+      "typ": "begreppskort",
+      "fram": "Legosoldater",
+      "bak": "Yrkessoldater som anställs mot betalning. Kämpade för pengar, inte för plikt eller lojalitet. Skickliga schweiziska, tyska och italienska legosoldater anställdes av kungar, städer och adelsmän i hela Europa. Effektiva men opålitliga — kunde byta sida om motståndaren bjöd mer."
+    },
+    {
+      "id": "fc11-b6",
+      "typ": "begreppskort",
+      "fram": "Livegna",
+      "bak": "Bönder som var bundna till jorden och till en godsherre. Inte slavar, men kunde inte fritt flytta, gifta sig eller välja yrke. Efter digerdöden började livegenskapen försvagas i Västeuropa när arbetskraften blev värdefullare. När godsherrar försökte hålla fast vid det gamla systemet ledde det ibland till uppror, som engelska bondeupproret 1381."
+    },
+    {
+      "id": "fc11-b7",
+      "typ": "begreppskort",
+      "fram": "Schism",
+      "bak": "Splittring inom en religiös organisation. Den västliga schismen 1378–1417 innebar att katolska kyrkan hade två och senare tre rivaliserande påvar samtidigt. Europa delades efter politiska lojaliteter. Konciliet i Konstanz 1414–1418 löste krisen, men kyrkans auktoritet hade skadats. Inte att förväxla med schismen 1054 mellan väst- och östkyrkan."
+    },
+    {
+      "id": "fc11-b8",
+      "typ": "begreppskort",
+      "fram": "Universitet",
+      "bak": "Högre utbildningsinstitutioner som växte fram i medeltidens städer som Paris, Bologna och Oxford. Under senmedeltiden började skolastiska tänkare vid universiteten allt mer ifrågasätta kyrkans tolkningsmonopol. Den öppna diskussionen vid universiteten bidrog till att försvaga kyrkans självklara auktoritet."
+    },
+    {
+      "id": "fc11-m1",
+      "typ": "modellkort",
+      "fram": "Förklara hur militära förändringar flyttade makt från adeln till kungen",
+      "bak": "1. RIDDARENS DOMINANS BRYTS av nya vapen:\n   - Piken (gjorde det möjligt för bönder att stå emot riddare)\n   - Artilleri (krossade borgar)\n\n2. NYA SOLDATKATEGORIER krävde pengar:\n   - Stående armé (lojal mot kungen)\n   - Legosoldater (lojal mot den som betalade bäst)\n\n3. KUNGEN BEHÖVDE PENGAR till de nya arméerna:\n   - Skatter krävdes\n   - Förvaltning byggdes upp\n\n4. RESULTAT: Kungen blev mindre beroende av adelns riddare och fick mer direkt makt över sina undersåtar."
+    },
+    {
+      "id": "fc11-m2",
+      "typ": "modellkort",
+      "fram": "Förklara John Balls fråga och dess sprängkraft",
+      "bak": "John Ball, präst under engelska bondeupproret 1381, predikade:\n\n\"När Adam grävde och Eva spann, vem var då adelsman?\"\n\nPOÄNGEN:\n- Om alla människor från början var skapade av Gud...\n- ...varför skulle några födas till herrar och andra till tjänare?\n\nDET VAR SPRÄNGFARLIGT eftersom det:\n- Angrep grunden för ståndssamhället\n- Var formulerat religiöst (svårt att avfärda)\n- Kunde användas av vanliga människor mot makten\n\nFrågan kom att eka ända fram till franska revolutionen 400 år senare."
+    },
+    {
+      "id": "fc11-r1",
+      "typ": "redogorelsekort",
+      "fram": "Redogör för hur de livegnas livssituation förändrades efter digerdöden",
+      "stodord": [
+        "befolkningsfall",
+        "arbetskraftsbrist",
+        "högre löner",
+        "godsherrar i kris",
+        "uppror",
+        "engelska bondeupproret 1381",
+        "Wat Tyler",
+        "livegenskapen försvagas",
+        "Östeuropa annorlunda"
+      ],
+      "startfraser": [
+        "Efter digerdöden förändrades de livegnas situation på flera sätt...",
+        "När pesten dödat en så stor del av befolkningen...",
+        "Före digerdöden var livegna helt bundna till jorden, men..."
+      ],
+      "tip_for_struktur": "Börja med utgångsläget — hur livegna levde före digerdöden. Förklara sedan vad som ändrades efter pesten (arbetskraftsbrist, högre löner). Visa konflikten — godsherrar ville hålla fast vid det gamla, bönderna krävde mer. Använd det engelska bondeupproret 1381 som konkret exempel. Avsluta med långsiktigt resultat — livegenskapen försvann i Västeuropa men levde kvar längre i Östeuropa."
+    },
+    {
+      "id": "fc11-r2",
+      "typ": "redogorelsekort",
+      "fram": "Redogör för hur kyrkan förlorade makt under senmedeltiden",
+      "stodord": [
+        "digerdöden skakade tron",
+        "böner hjälpte inte",
+        "schismen 1378–1417",
+        "två påvar",
+        "Avignon",
+        "auktoritetskris",
+        "universitetens kritik",
+        "John Ball",
+        "framåt mot reformationen"
+      ],
+      "startfraser": [
+        "Kyrkan förlorade makt under senmedeltiden av flera skäl...",
+        "Flera händelser bidrog till att kyrkans auktoritet skakades...",
+        "Före digerdöden hade kyrkan en oerhörd makt, men under senmedeltiden..."
+      ],
+      "tip_for_struktur": "Strukturera kring TRE huvudorsaker: (1) Digerdöden — pesten dödade trots böner, vilket skakade tron att kyrkan kunde skydda. (2) Schismen 1378–1417 — när det fanns två eller tre påvar samtidigt blev det svårt att tro på kyrkans självklara auktoritet. (3) Universitetens nya tänkande — skolastiska tänkare och tidiga reformatorer började kritisera kyrkans makt och missbruk. Avsluta med att flagga att detta var början på en process som leder fram till reformationen 100 år senare."
+    }
+  ]
+}

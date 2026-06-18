@@ -1,0 +1,319 @@
+{
+  "avsnitt": 1,
+  "titel": "Folkvandring",
+  "delkapitel": "tidig",
+  "version": "1.0",
+  "kort_totalt": 26,
+  "_kommentar": "Flipcards för avsnitt 1 (Folkvandring). 13 begreppskort + 7 modellkort + 6 redogörelsekort = 26 kort. Nivåfördelning enligt riktlinjen ~75% grundlaggande / 25% fordjupning.",
+  "begreppskort": [
+    {
+      "id": "k1-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är FOLKVANDRINGSTIDEN?",
+      "svar": "Perioden mellan ca 300-talet och 500-talet e.Kr. då stora folkgrupper flyttade, erövrade nya områden och bildade nya riken i Europa. Folkvandringstiden bidrog till att Västromerska riket föll och att Europa gick in i medeltiden."
+    },
+    {
+      "id": "k1-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka var GERMANERNA?",
+      "svar": "Ett samlingsnamn för flera folkgrupper i norra och mellersta Europa som talade besläktade språk. Germanerna var inte ett enda folk under en kung — de var många olika grupper, bland andra franker, vandaler, angler, saxare, jutar och goter."
+    },
+    {
+      "id": "k1-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka var FRANKERNA?",
+      "svar": "En germansk folkgrupp som under folkvandringstiden bosatte sig i området kring dagens Frankrike och västra Tyskland. De bildade ett av de starkaste rikena efter Västroms fall. Frankrike har fått sitt namn från frankerna."
+    },
+    {
+      "id": "k1-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka var VANDALERNA?",
+      "svar": "En germansk folkgrupp som vandrade genom Europa, över Spanien, och slog sig ner i Nordafrika. Senare plundrade de Rom. Ordet vandalism — att förstöra saker med flit — kommer från deras namn."
+    },
+    {
+      "id": "k1-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka var ANGLER, SAXARE och JUTAR?",
+      "svar": "Tre germanska folkgrupper från områden kring dagens norra Tyskland och Danmark. När romarna lämnade Britannien tog de sig över Nordsjön och bosatte sig där. De grundade flera mindre riken — och anglerna gav namn åt England (\"anglarnas land\")."
+    },
+    {
+      "id": "k1-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka var SLAVERNA?",
+      "svar": "Folkgrupper som ursprungligen bodde i östra Europa. Under och efter folkvandringstiden spred de sig åt tre håll: västerut (dagens Polen, Tjeckien), söderut (Balkan) och österut (dagens Ryssland, Ukraina). Slaviska språk talas där än idag."
+    },
+    {
+      "id": "k1-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka var HUNNERNA?",
+      "svar": "Ett ryttarfolk från stäppen norr om Svarta havet. De rörde sig västerut i slutet av 300-talet och pressade germanska folk framför sig. Hunnerna var skickliga ryttarkrigare som kunde skjuta pilbåge i full galopp. Deras mest kände ledare var Attila."
+    },
+    {
+      "id": "k1-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är VANDALISM?",
+      "svar": "Att förstöra eller skada egendom med flit. Ordet kommer från vandalerna, som plundrade Rom under 400-talet. Senare historiker menar att vandalerna inte var värre än andra krigiska folkgrupper under samma tid — men namnet levde kvar som ett skällsord."
+    },
+    {
+      "id": "k1-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var VÄSTROMERSKA RIKET?",
+      "svar": "Den västra halvan av Romarriket, med huvudstaden Rom (senare Ravenna). Riket föll år 476 e.Kr., då den siste kejsaren avsattes. Vid det laget bestod riket i praktiken bara av Italien — andra provinser hade redan tagits över av germanska folk."
+    },
+    {
+      "id": "k1-b10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var ÖSTROMERSKA RIKET?",
+      "svar": "Den östra halvan av Romarriket, med huvudstaden Konstantinopel. Det fortsatte att finnas långt efter att Västromerska riket föll — ända till år 1453. Kallas också Bysantinska riket."
+    },
+    {
+      "id": "k1-b11",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med GERMANSKA SPRÅK?",
+      "svar": "En språkfamilj som idag talas i norra och västra Europa — bland annat svenska, danska, norska, tyska, nederländska och engelska. Den har sina rötter i de germanska folkens språk under folkvandringstiden."
+    },
+    {
+      "id": "k1-b12",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med ROMANSKA SPRÅK?",
+      "svar": "En språkfamilj som utvecklades ur det romerska latinet. Talas i södra och västra Europa — bland annat franska, spanska, italienska, portugisiska och rumänska. Språken blev kvar där romersk kultur sjönk djupast under folkvandringstiden."
+    },
+    {
+      "id": "k1-b13",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med SLAVISKA SPRÅK?",
+      "svar": "En språkfamilj som talas i östra och sydöstra Europa — bland annat polska, tjeckiska, ryska, ukrainska, serbiska och bulgariska. Den har sina rötter i slavernas spridning under och efter folkvandringstiden."
+    }
+  ],
+  "modellkort": [
+    {
+      "id": "k1-m1",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Förklara KEDJEREAKTIONEN under folkvandringstiden i tre steg.",
+      "svar": "**Steg 1:** Hunnerna rör sig västerut från stäppen och hotar de germanska folken som bor öster om Romarriket.\n\n**Steg 2:** De germanska folken (goter, franker, vandaler m.fl.) pressas västerut och söderut. De söker skydd eller nya hem.\n\n**Steg 3:** Germanerna pressar mot Romarrikets gränser. Romarriket är redan svagt och kan inte stoppa dem. Nya riken växer fram på romersk mark.\n\nDen viktiga poängen: **hunnerna behövde aldrig erövra Rom själva**. Bara deras rörelse västerut räckte för att sätta hela Europa i rörelse."
+    },
+    {
+      "id": "k1-m2",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför kunde Romarriket inte stoppa folkvandringarna?",
+      "svar": "Flera saker hände samtidigt och försvagade Rom:\n\n• **Ekonomin** var ansträngd — inflation och höga skatter\n• **Politiken** präglades av inbördeskrig om kejsartronen — vid ett tillfälle 50 kejsare på 50 år\n• **Militären** bestod alltmer av legosoldater (ofta germaner själva) som var lojala mot officerare snarare än mot kejsaren\n• **Gränserna** var mycket långa och svåra att försvara\n\nRiket var fortfarande mäktigt, men det började bli skört. När germanska folk började pressa på var det redan försvagat inifrån."
+    },
+    {
+      "id": "k1-m3",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur lever folkvandringstiden kvar i Europas språk idag?",
+      "svar": "Europa idag har tre stora språkfamiljer som går tillbaka till folkvandringstiden:\n\n• **Germanska språk** (norra och västra Europa) — där germanska folk slog sig ner: svenska, tyska, engelska, nederländska\n\n• **Romanska språk** (södra och västra Europa) — där romersk kultur var stark och latinet utvecklades vidare: franska, spanska, italienska, portugisiska\n\n• **Slaviska språk** (östra och sydöstra Europa) — där slaverna spred sig: polska, ryska, ukrainska, serbiska, bulgariska\n\nLandet **Frankrike** har sitt namn från **frankerna**. **England** från **anglerna**. Det är inte slumpvis — det är direkt resultat av folkvandringstiden."
+    },
+    {
+      "id": "k1-m4",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Vad hände egentligen vid Västroms fall år 476?",
+      "svar": "Den siste västromerske kejsaren, en pojke vid namn Romulus Augustulus, avsattes av en germansk general (Odovakar). Pojken fick gå, och Odovakar utropade sig till kung över Italien.\n\nMen det är värt att förstå **vad som inte hände**:\n\n• Rom plundrades inte 476 — det hade hänt tidigare\n• Hela riket föll inte — det hade redan tappat Britannien, stora delar av Gallien, Spanien och Nordafrika under tidigare decennier\n• Romersk kultur försvann inte — språk, kristendom, lagar och städer levde vidare under de nya germanska kungarna\n• Östromerska riket levde kvar — det skulle finnas i nästan 1000 år till\n\nDet som föll var **en symbolisk titel** på ett rike som redan var en spillra. Det är därför vissa historiker säger att 476 är ett \"påhittat datum\" — senare historiker behövde ett årtal för fallet, och 476 var praktiskt."
+    },
+    {
+      "id": "k1-m5",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Varför är ordet 'vandalism' delvis orättvist mot vandalerna?",
+      "svar": "Ordet vandalism — att förstöra saker med flit — kommer från vandalernas plundring av Rom. Men det är orättvist av två skäl:\n\n• **Andra folk plundrade också Rom.** Visigoterna hade gjort samma sak tidigare, och de fick inget liknande språkligt minne av det.\n\n• **Vandalernas plundring var inte särskilt brutal jämfört med tidens normer.** Påven Leo I lyckades enligt traditionen förhandla med dem så att de skulle skona civilbefolkningen.\n\nDet var **senare romerska skribenter** som svartmålade vandalerna, och **franska revolutionärer på 1700-talet** som myntade ordet *vandalisme* för att beskriva förstörelse av kultur. Då hade vandalerna varit borta i över tusen år.\n\nLäxan: **ett folks rykte kan leva kvar som ett ord långt efter att folket själv är borta** — även om ryktet inte stämmer."
+    },
+    {
+      "id": "k1-m6",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Hur skiljer sig slavernas folkvandring från germanernas?",
+      "svar": "Det finns flera viktiga skillnader:\n\n**Geografi:** Germanerna rörde sig västerut och söderut, mot Romarriket. Slaverna spred sig åt tre håll (väst, syd, öst) över Östeuropa och Balkan.\n\n**Tempo:** Germanerna pressades snabbt västerut av hunnerna. Slaverna spred sig långsammare över längre tid — flera århundraden.\n\n**Karaktär:** Germanerna gjorde dramatiska intryck — de plundrade Rom, besegrade kejsare, bildade kungariken på romersk mark. Slaverna bosatte sig mest tysta, röjde mark, byggde byar.\n\n**Synlighet i historien:** Germanerna finns i romerska källor — slaverna nämns mycket mindre. Det är därför germanerna är mer kända i västeuropeiska läroböcker, även om slavernas spridning förändrade Europa lika grundligt."
+    },
+    {
+      "id": "k1-m7",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Klodvig lät döpa sig till kristendomen. Varför var det ett smart politiskt drag?",
+      "svar": "Klodvig var kung över frankerna kring år 500. När han tog över Gallien (dagens Frankrike) bodde där en stor befolkning som redan var **romersk-kristen**. Genom att själv bli kristen — och inte arian, som många andra germanska kungar — vann Klodvig:\n\n• **Stöd från kyrkan**, som var en av tidens starkaste institutioner\n• **Lojalitet från de kristna invånarna**, som nu såg honom som en av dem\n• **Legitimitet som arvtagare till Rom**, snarare än som främmande erövrare\n\nKlodvig är ett tydligt exempel på hur germanska kungar inte alltid förstörde det romerska — de **tog över** det och **byggde vidare** på det. Frankrike skulle senare bli ett av medeltidens viktigaste kristna kungariken, just på den grund Klodvig lade."
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "k1-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Förklara varför folkvandringstiden är så viktig för att förstå dagens Europa.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör visa att folkvandringstiden inte bara är en avlägsen historisk händelse, utan något som fortfarande syns i Europa idag — särskilt i språk och landgränser.\n\nSvaret bör nämna att de tre stora språkfamiljerna (germanska, romanska, slaviska) går tillbaka till var folkgrupperna slog sig ner under folkvandringstiden. Frankrike heter Frankrike efter frankerna; England heter England efter anglerna. Slaviska språk talas i östra Europa eftersom slaverna spred sig dit.\n\nSvaret bör också visa förståelse för att folkvandringstiden inte bara handlade om förstörelse — germanerna tog över och byggde vidare på romersk kultur, och därigenom levde mycket av det romerska arvet vidare i nya former.\n\nEtt fördjupande svar kan också nämna att de kulturella och språkliga skillnaderna som folkvandringstiden skapade fortfarande spelar roll — bland annat på Balkan, där tre kulturer möts.",
+      "stodlarare": {
+        "stodord": [
+          "folkvandring",
+          "germaner",
+          "franker",
+          "slaver",
+          "germanska språk",
+          "romanska språk",
+          "slaviska språk",
+          "Frankrike",
+          "England"
+        ],
+        "startfraser": [
+          "Folkvandringstiden är viktig för att förstå dagens Europa eftersom ...",
+          "I dag kan vi se spår av folkvandringstiden i ...",
+          "Att Frankrike heter Frankrike och England heter England går tillbaka på ...",
+          "Tre stora språkfamiljer i Europa idag är ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar: först förklara vad folkvandringstiden var i korthet, sedan ge konkreta exempel på vad som lever kvar idag (språk, landgränser, namn), och avsluta med en reflektion om varför det fortfarande spelar roll. Använd minst tre av de centrala begreppen från avsnittet."
+      }
+    },
+    {
+      "id": "k1-r2",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för kedjereaktionen som ledde till Västromerska rikets fall.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar visar förståelse för flera samverkande orsaker — inte bara en enkel orsak-verkan-kedja.\n\nSvaret bör börja med att Romarriket var sårbart innan folkvandringen ens började: ekonomiska problem, politiska inbördeskrig, långa gränser, beroende av legosoldater. Detta var en förutsättning.\n\nSedan kommer den utlösande faktorn — hunnerna rörde sig västerut från stäppen och pressade germanska folk framför sig. Germanerna sökte skydd eller nya hem och pressade i sin tur mot Romarrikets gränser. slaget vid Adrianopel visade att Rom inte längre kunde stoppa dem.\n\nKedjereaktionen fortsatte: våg efter våg av germanska folk rörde sig in i romerska områden. Visigoterna plundrade Rom tidigt under 400-talet. Vandalerna tog Nordafrika och plundrade senare Rom. Frankerna växte i Gallien. Britannien lämnades. När Romulus Augustulus avsattes 476 var det egentligen bara en formell punkt — riket hade redan rasat sönder i decennier.\n\nEtt fördjupande svar kan reflektera över att hunnerna aldrig själva erövrade Rom — det räckte att de var i rörelse för att destabilisera hela Europa.",
+      "stodlarare": {
+        "stodord": [
+          "hunnerna",
+          "germaner",
+          "kedjereaktion",
+          "Adrianopel",
+          "Romarriket",
+          "Västromerska riket",
+          "476",
+          "Romulus Augustulus"
+        ],
+        "startfraser": [
+          "Innan folkvandringen började var Romarriket redan ...",
+          "Den utlösande faktorn för kedjereaktionen var att hunnerna ...",
+          "Detta ledde i sin tur till att germanska folk ...",
+          "År 476 avsattes ..., vilket brukar räknas som ..."
+        ],
+        "tip_for_struktur": "Bygg svaret som en kausal kedja med tydliga led: 1) Romarrikets sårbarhet, 2) hunnerna börjar röra sig, 3) germanerna pressas, 4) gränserna brister, 5) Västroms fall. Använd ord som 'eftersom', 'vilket ledde till', 'därför att' för att binda samman leden."
+      }
+    },
+    {
+      "id": "k1-r3",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Resonera kring frågan: föll Rom verkligen år 476? Varför säger vissa historiker att det är ett \"påhittat datum\"?",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör visa förståelse för att frågan inte har ett enkelt svar, och att historiker kan tolka samma händelse olika.\n\nÅ ena sidan: ja, 476 är ett datum då något konkret hände. Den siste västromerske kejsaren avsattes. Inget nytt västromerskt kejsardöme uppstod. Den politiska enheten i Västeuropa upplöstes.\n\nÅ andra sidan: nej, det är en överdrift att kalla det \"Roms fall\". Vid 476 bestod Västromerska riket nästan bara av Italien — Britannien, Gallien, Spanien och Nordafrika hade redan tagits över. Romersk kultur försvann inte — språk, lagar, kristendom och städer levde vidare under de nya germanska kungarna. Och Östromerska riket fortsatte att finnas i nästan tusen år till.\n\nDärför säger vissa historiker att 476 är ett \"påhittat datum\" — senare historiker behövde ett årtal för fallet, och 476 var praktiskt eftersom det fanns en konkret händelse (en kejsare avsattes). Men i samtiden upplevdes det inte som något särskilt dramatiskt.\n\nEtt fördjupande svar kan reflektera över att svaret beror på vad man menar med \"Rom\". Politiskt: ja, Västromerska riket föll. Kulturellt: nej, det romerska arvet lever vidare än idag.",
+      "stodlarare": {
+        "stodord": [
+          "476",
+          "Västromerska riket",
+          "Östromerska riket",
+          "Romulus Augustulus",
+          "germaner",
+          "kontinuitet",
+          "romerskt arv"
+        ],
+        "startfraser": [
+          "År 476 är ett komplicerat datum eftersom ...",
+          "Å ena sidan kan man säga att Rom föll, eftersom ...",
+          "Å andra sidan kan man säga att Rom inte föll, eftersom ...",
+          "Svaret beror på vad man menar med \"Rom\" — om man menar ..."
+        ],
+        "tip_for_struktur": "Bygg svaret som ett resonemang med två sidor: 'å ena sidan ... å andra sidan'. Inkludera konkreta argument för båda sidor. Avsluta med en egen reflektion om vad som är mest rimligt att tro idag. Använd gärna ord som 'å ena sidan', 'å andra sidan', 'beroende på', 'visserligen ... men'."
+      }
+    },
+    {
+      "id": "k1-r4",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Varför nämns slaverna ofta inte lika tydligt som germanerna i läroböcker om folkvandringstiden? Är det rättvist?",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör visa förståelse för att historiekrivning är en konstruktion — det vi får läsa om är inte alltid det viktigaste, utan ofta det som syns bäst i bevarade källor.\n\nDet finns flera skäl till att slaverna inte syns lika tydligt:\n\n• **Källäget**: Slaverna lämnade nästan inga skriftliga källor om sig själva. Det vi vet kommer från grekiska och romerska författare, som ofta inte var särskilt intresserade av folk i nordöst.\n\n• **Tempot**: Slaverna spred sig långsamt över flera århundraden. Germanerna gjorde dramatiska saker (plundrade Rom, besegrade kejsare) som syns tydligare i källorna.\n\n• **Geografisk tyngdpunkt**: Västeuropeisk historieskrivning fokuserar på Västeuropa, där germanerna verkade.\n\n• **Fokus på kungar och slag**: Slaverna bildade inte stora riken under själva folkvandringstiden — det dröjde till 800-talet (Kievriket, Bulgarien m.fl.). När historien berättas som en serie kungar och slag försvinner folk som bara bosätter sig och odlar mark.\n\nÄr det rättvist? Svaret är knappast. Slaviska språk talas idag av cirka 250 miljoner människor i Europa — mer än germanska språk talas av i Europa. Slavernas spridning förändrade Europa lika grundligt som germanernas. Att de inte syns lika tydligt i läroböcker är ett tecken på att historieskrivning inte alltid är rättvis — och att vi måste vara medvetna om det när vi läser den.",
+      "stodlarare": {
+        "stodord": [
+          "slaver",
+          "germaner",
+          "folkvandring",
+          "källor",
+          "historieskrivning",
+          "Östeuropa",
+          "slaviska språk"
+        ],
+        "startfraser": [
+          "Slaverna nämns ofta inte lika tydligt som germanerna eftersom ...",
+          "En orsak är att slaverna inte lämnade ...",
+          "En annan orsak är att historieskrivning ofta fokuserar på ...",
+          "Att slaverna inte syns lika tydligt är ... rättvist, eftersom ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i två delar: först förklara orsakerna till att slaverna inte syns lika tydligt (källäge, tempo, geografi). Sedan ta ställning till om det är rättvist — och motivera ditt svar med fakta (hur många som talar slaviska språk idag, hur stort område slaverna spred sig över)."
+      }
+    },
+    {
+      "id": "k1-r5",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Vandalerna har fått ge namn till ordet 'vandalism'. Förklara hur det gick till — och resonera kring vad det säger om hur historieskrivning fungerar.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör reda ut själva kedjan från historisk händelse till modernt ord, och dra en bredare slutsats om hur ryktet kan leva vidare i språket.\n\n**Händelsen**: På 400-talet plundrade vandalerna staden Rom. Det var inte den första plundringen — visigoterna hade gjort samma sak tidigare. Men vandalernas plundring blev mer ihågkommen, delvis för att senare romerska skribenter hade politiska skäl att svartmåla just dem.\n\n**Ordet myntas**: På 1700-talet, under franska revolutionen, började franska skribenter använda *vandalisme* som en metafor för förstörelse av kultur och konst. De refererade till vandalerna eftersom de hade en bild av dem som särskilt brutala plundrare. Då hade vandalerna varit borta i över tusen år.\n\n**Vad det säger om historieskrivning**: Detta visar att rykte kan vara hårdare än verkligheten. Historikerna idag menar att vandalerna troligen inte var värre än andra krigiska folkgrupper under samma tid. Deras plundring av Rom var till och med relativt disciplinerad — påven Leo I lyckades enligt traditionen förhandla om att civilbefolkningen skulle skonas. Men ett rykte etablerades, och det ryktet levde vidare i språket långt efter att själva folket var borta.\n\n**Slutsats**: Vandalerna existerar idag bara som ett ord. Och som ord betyder de något de troligen aldrig riktigt var. Det är en lärorik historia om att vi måste vara försiktiga med vad vi tar för givet i historieskrivning — ibland säger orden mer om dem som myntade dem än om dem de beskriver.",
+      "stodlarare": {
+        "stodord": [
+          "vandaler",
+          "vandalism",
+          "Rom",
+          "rykte",
+          "historieskrivning",
+          "Leo I"
+        ],
+        "startfraser": [
+          "På 400-talet plundrade vandalerna ..., vilket ledde till att ...",
+          "Ordet 'vandalism' myntades senare, på 1700-talet, av ...",
+          "Historiker idag menar att vandalerna troligen inte var ...",
+          "Det här säger något om hur historieskrivning fungerar — nämligen att ..."
+        ],
+        "tip_for_struktur": "Bygg svaret kronologiskt: först händelsen med vandalernas plundring av Rom, sedan hur ryktet utvecklades, sedan hur ordet myntades på 1700-talet, och avsluta med en slutsats om vad det säger om historieskrivning. Använd minst tre konkreta detaljer från avsnittet (t.ex. att visigoterna också plundrade Rom, att Leo I förhandlade, att ordet myntades under franska revolutionen)."
+      }
+    },
+    {
+      "id": "k1-r6",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Många germanska kungar (som Klodvig) tog över romersk kultur, kristendom och latinet. Vad kan det säga oss om hur stora förändringar i historien ofta fungerar?",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör visa förståelse för att historiska förändringar sällan är rena brott — ofta är det en blandning av kontinuitet och förändring.\n\nSvaret bör nämna konkreta exempel: Klodvig lät döpa sig till kristendomen och fick därigenom stöd av både kyrkan och de romersk-kristna invånarna. Frankerna behöll latinet, romersk administration och kyrkliga strukturer. De såg sig själva som arvtagare till Rom, inte som dess förstörare.\n\nDetta är ett mönster som återkommer i många stora förändringar. Den nya makten tar inte allt från grunden — den **bygger vidare** på det som redan finns. Det är klokt politiskt (man får lokal befolknings stöd) och praktiskt (man behöver inte bygga upp allt från noll).\n\nEtt fördjupande svar kan reflektera över att detta gör det svårare att säga exakt när \"Rom föll\" eller när \"medeltiden började\" — gränserna är inte skarpa. Förändringen kom gradvis, och mycket av det gamla levde vidare i det nya.\n\nEn bredare slutsats: när vi läser om \"slut\" och \"början\" i historien (Roms fall, medeltidens början, en revolution) ska vi inte tro att allt förändras på en gång. Människor anpassar sig, ärver, omformar. Det är så historiska förändringar ofta verkligen fungerar.",
+      "stodlarare": {
+        "stodord": [
+          "Klodvig",
+          "franker",
+          "kristendom",
+          "latinet",
+          "kontinuitet",
+          "förändring",
+          "Rom",
+          "germaner"
+        ],
+        "startfraser": [
+          "Klodvig är ett bra exempel på hur germanska kungar ...",
+          "Många germanska härskare valde att behålla ... eftersom ...",
+          "Det här visar att stora förändringar i historien ofta ...",
+          "Att de germanska kungarna tog över romersk kultur var smart eftersom ..."
+        ],
+        "tip_for_struktur": "Börja med ett konkret exempel (Klodvig). Utveckla mönstret — vad gör germanska kungar generellt? Diskutera sedan varför de gör så (politiskt, praktiskt). Avsluta med en bredare reflektion om hur historiska förändringar ofta är en blandning av kontinuitet och brott. Använd ord som 'eftersom', 'detta visar', 'i större perspektiv'."
+      }
+    }
+  ]
+}

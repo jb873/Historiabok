@@ -1,0 +1,622 @@
+{
+  "kapitel_id": "medeltiden",
+  "kapitel_titel": "Medeltiden",
+  "version": 1,
+  "skapad": "2026-06-16",
+  "kommentar": "Begrepp för hela Medeltiden (en samlad fil per kapitel; läses via window.BEGREPP_URL). Tidig 1–4, Hög 5–8, Sen 9–12.",
+  "upplasning": {
+    "min_ord": 8,
+    "anvand_nyckelord": false,
+    "beskrivning": "Plattformsstandard: eleven måste skriva minst 8 ord innan expertdefinitionen låses upp."
+  },
+  "begrepp": [
+    {
+      "id": "k1-b1",
+      "avsnitt": "1",
+      "avsnitt_titel": "Folkvandring",
+      "term": "folkvandring",
+      "expertdefinition": "Den period mellan ca 300-talet och 500-talet e.Kr. då stora folkgrupper flyttade, erövrade nya områden och bildade nya riken i Europa. Folkvandringstiden bidrog till att Västromerska riket föll och att Europa gick in i medeltiden. Den lade också grunden till de språk- och kulturskillnader som finns i Europa idag. Begreppet kommer från tyskans Völkerwanderung ('folkens vandring') och kan vara missvisande — det handlade inte om en organiserad vandring utan om många olika rörelser av flyktingar, erövrare och bosättare under flera århundraden.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-1-folkvandring.json"
+    },
+    {
+      "id": "k1-b2",
+      "avsnitt": "1",
+      "avsnitt_titel": "Folkvandring",
+      "term": "germaner",
+      "expertdefinition": "Ett samlingsnamn för flera folkgrupper i norra och mellersta Europa som talade besläktade språk och hade liknande kulturer. Germanerna var inte ett enda folk under en kung utan många olika grupper — bland andra franker, vandaler, angler, saxare, jutar och goter. Under folkvandringstiden flyttade flera germanska folk in i Romarriket och bildade nya riken på dess gamla mark. Namnet kommer från romarnas benämning på folken norr om Rhen-floden — och det är därför vi idag talar om germanska språk (svenska, tyska, engelska).",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-1-folkvandring.json"
+    },
+    {
+      "id": "k1-b3",
+      "avsnitt": "1",
+      "avsnitt_titel": "Folkvandring",
+      "term": "franker",
+      "expertdefinition": "En germansk folkgrupp som under folkvandringstiden bosatte sig i området kring dagens Frankrike och västra Tyskland. Frankerna bildade ett av de starkaste rikena efter Västroms fall. Under kungen Klodvig enades flera frankiska grupper, och Klodvig lät döpa sig till kristendomen — vilket gav honom stöd av kyrkan och de kristna invånarna i området. Frankerna är viktiga eftersom de byggde vidare på romersk kultur och kristendom — och gav namn åt Frankrike, som betyder 'frankernas rike'.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-1-folkvandring.json"
+    },
+    {
+      "id": "k1-b4",
+      "avsnitt": "1",
+      "avsnitt_titel": "Folkvandring",
+      "term": "slaver",
+      "expertdefinition": "Folkgrupper som ursprungligen bodde i området kring dagens östra Polen, västra Ukraina och Vitryssland. Under och efter folkvandringstiden spred slaverna sig åt tre håll: västerut (dagens Polen, Tjeckien, Slovakien), söderut (Balkan) och österut (dagens Ryssland, Ukraina). Slavernas spridning förändrade Europa lika mycket som germanernas, men nämns ofta inte lika tydligt i västeuropeiska läroböcker. Idag talas slaviska språk av cirka 250 miljoner människor i Europa.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-1-folkvandring.json"
+    },
+    {
+      "id": "k2-b1",
+      "avsnitt": "2",
+      "avsnitt_titel": "Kyrkan",
+      "term": "påve",
+      "expertdefinition": "Den katolska kyrkans högsta ledare, med säte i Rom. Påvens auktoritet bygger på den katolska traditionen om att aposteln Petrus var Roms förste biskop, och att alla senare påvar är hans efterföljare. Under medeltiden växte påvens makt — han kunde kröna kejsare, fördöma kungar genom exkommunikation och fatta beslut som påverkade hela Västeuropa. Just därför att det inte fanns någon stark romersk kejsare kvar i väst efter 476 kunde påven utvecklas till en av medeltidens mäktigaste personer.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-2-kyrkan.json"
+    },
+    {
+      "id": "k2-b2",
+      "avsnitt": "2",
+      "avsnitt_titel": "Kyrkan",
+      "term": "kloster",
+      "expertdefinition": "En plats där munkar eller nunnor lever tillsammans enligt sträng disciplin med bön, arbete och studier. Klostren spelade en central roll i medeltidens Västeuropa: de bevarade antikens lärdom genom att kopiera böcker för hand i skriptorier, de var stora ekonomiska enheter med jordbruk, hantverk och handel, och de fungerade som baser för mission när kristendomen spreds norrut och österut. Benedikts regel — sammanfattad i de latinska orden 'ora et labora' (be och arbeta) — formade klosterlivet i Västeuropa i över tusen år.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-2-kyrkan.json"
+    },
+    {
+      "id": "k2-b3",
+      "avsnitt": "2",
+      "avsnitt_titel": "Kyrkan",
+      "term": "schism",
+      "expertdefinition": "En splittring inom en kyrka eller religiös grupp. Den stora schismen 1054 är det viktigaste exemplet i medeltiden — då bröts den kristna kyrkan i två: den romersk-katolska kyrkan i väst med påven som högsta ledare, och den ortodoxa kyrkan i öst med flera patriarker. Schismen var inte en plötslig händelse utan slutpunkten på en lång process där språk (latin vs grekiska), kultur, kejsarens roll och frågan om vem som hade rätt att bestämma över kyrkans lära hade glidit isär under flera århundraden.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-2-kyrkan.json"
+    },
+    {
+      "id": "k2-b4",
+      "avsnitt": "2",
+      "avsnitt_titel": "Kyrkan",
+      "term": "patriark",
+      "expertdefinition": "En av de högsta ledarna inom den ortodoxa kyrkan. I öst fanns fem patriarker — i Rom, Konstantinopel, Alexandria, Antiokia och Jerusalem — som tillsammans ledde kyrkan. Patriarken av Konstantinopel var den mäktigaste, men ingen av dem hade absolut makt över de andra. Östkyrkans modell skilde sig därmed grundläggande från västkyrkans: i väst utvecklades påvens auktoritet över hela kyrkan, medan öst behöll en konciliarisk modell där viktiga beslut skulle fattas på kyrkomöten med flera patriarker. Den oförenligheten var en av schismens djupaste orsaker.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-2-kyrkan.json"
+    },
+    {
+      "id": "k3-b1",
+      "avsnitt": "3",
+      "avsnitt_titel": "Arabvärlden och Karl den store",
+      "term": "kalifat",
+      "expertdefinition": "Det islamiska riket som styrdes av en kalif — en ledare som var både politisk och religiös överhuvud, men inte en ny profet. Ordet kalif betyder 'ställföreträdare' eller 'efterträdare' till Muhammed. Efter Muhammeds död år 632 expanderade kalifatet på bara hundra år från Arabiska halvön till Spanien i väst och Indien i öst — ett av världshistoriens snabbaste riksbyggen. De olika kalifaten (de första kaliferna, umayyaderna, abbasiderna) blev medeltidens viktigaste bärare av antikens kunskap.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-3-arabvarlden.json"
+    },
+    {
+      "id": "k3-b2",
+      "avsnitt": "3",
+      "avsnitt_titel": "Arabvärlden och Karl den store",
+      "term": "al-Andalus",
+      "expertdefinition": "Det muslimskt styrda området på den iberiska halvön (dagens Spanien och Portugal) från år 711 till 1492. Området kom att bli en av Europas mest avancerade kulturer under medeltiden — med Cordoba som en av världens största städer, med hundratusentals invånare, gatubelysning, offentliga bibliotek och universitet i en tid då Paris och London var små leriga städer. al-Andalus blev också en viktig kunskapsbro: arabiska och antika texter översattes där till latin och fördes vidare till Västeuropa.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-3-arabvarlden.json"
+    },
+    {
+      "id": "k3-b3",
+      "avsnitt": "3",
+      "avsnitt_titel": "Arabvärlden och Karl den store",
+      "term": "Visdomens hus",
+      "expertdefinition": "På arabiska Bayt al-Hikma — ett kungligt bibliotek och översättningscentrum i Bagdad som blomstrade särskilt under 800-talet. Där samlades muslimska, syrisk-kristna och persiska lärda för att översätta verk av Aristoteles, Platon, Euklides, Galenos och andra antika tänkare från grekiska, syriska och persiska till arabiska. Det blev en av historiens mest omfattande översättningsrörelser, och en avgörande orsak till att antikens kunskap bevarades. Mycket av denna kunskap flödade senare tillbaka till Västeuropa via Spanien och Sicilien.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-3-arabvarlden.json"
+    },
+    {
+      "id": "k3-b4",
+      "avsnitt": "3",
+      "avsnitt_titel": "Arabvärlden och Karl den store",
+      "term": "karolingiska renässansen",
+      "expertdefinition": "En kulturell uppryckning under Karl den stores tid då lärdom, skrivande och bildning främjades i Frankerriket. Karl samlade lärda från hela Europa till sitt hov i Aachen — bland dem munken Alkuin — och uppmuntrade kopiering av antika och kristna texter. En konkret innovation var karolingisk minuskel, en tydligare handstil som blev grunden för det vi idag känner igen som vanliga små bokstäver. Den karolingiska renässansen var inte lika omfattande som den muslimska världens lärdomscentra i Bagdad och Cordoba vid samma tid, men den var en viktig grund för Västeuropas senare bildningsutveckling.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-3-arabvarlden.json"
+    },
+    {
+      "id": "k4-b1",
+      "avsnitt": "4",
+      "avsnitt_titel": "Feodalism och ståndssamhälle",
+      "term": "feodalism",
+      "expertdefinition": "Medeltidens viktigaste samhällssystem i Västeuropa, byggt på jord, skydd och lojalitet. Systemet kan ritas som en pyramid: kungen högst upp, sedan adel och stormän som vasaller, sedan riddare, längst ner bönder och livegna. Feodalismen växte fram efter Roms fall och Karl den stores rikes splittring, som svar på svag kungamakt, yttre hot (vikingar, magyarer, saracener), pengahushållningens nedgång och böndernas behov av skydd. Den var ett system av personliga relationer mellan herrar och vasaller — inte en modern stat.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-4-feodalism.json"
+    },
+    {
+      "id": "k4-b2",
+      "avsnitt": "4",
+      "avsnitt_titel": "Feodalism och ståndssamhälle",
+      "term": "vasall",
+      "expertdefinition": "En person som fick jord (en förläning) av en mäktigare herre — kung, adelsman eller biskop — och i utbyte lovade lojalitet och militär hjälp. Bandet mellan herre och vasall var ett personligt avtal, inte ett kontrakt mellan staten och medborgaren. När vasallen tog emot jord svor han en trohetsed i en formell ceremoni. Han skulle strida för sin herre, ge råd, ge hjälp i nöd och vara lojal. En adelsman kunde vara vasall mot flera olika herrar samtidigt — för olika förläningar — vilket kunde leda till komplicerade konflikter.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-4-feodalism.json"
+    },
+    {
+      "id": "k4-b3",
+      "avsnitt": "4",
+      "avsnitt_titel": "Feodalism och ståndssamhälle",
+      "term": "förläning",
+      "expertdefinition": "Ett jordområde — också kallat län — som en herre delade ut till en vasall i utbyte mot trohet och militär tjänst. En förläning kunde bestå av byar, åkrar, skogar, kvarnar, broar, fiskerätter och människorna som arbetade där. Eftersom pengar var ovanliga under tidig medeltid blev jord den viktigaste formen av betalning. När kungen ville belöna en krigare hade han ofta inga mynt att ge — så han gav en förläning. Bönderna producerade då mat och betalade avgifter till vasallen som förvaltade förläningen.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-4-feodalism.json"
+    },
+    {
+      "id": "k4-b4",
+      "avsnitt": "4",
+      "avsnitt_titel": "Feodalism och ståndssamhälle",
+      "term": "livegen",
+      "expertdefinition": "En bonde som var starkt bunden till jorden och sin godsherre. Att vara livegen var inte exakt samma sak som att vara slav — den livegne kunde gifta sig, bilda familj och hade vissa rättigheter inom byns gemenskap. Men han kunde inte fritt flytta från godset, var tvungen att ge en del av skörden till herren, utföra dagsverken (arbete på herrens mark utan lön) och betala avgifter för att använda kvarnen, ugnen och bron. Om jorden bytte ägare följde han ofta med som en del av godset. Livegenskapen var dominerande i Frankrike och Tyskland men aldrig särskilt utbredd i Sverige.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-4-feodalism.json"
+    },
+    {
+      "id": "k5-b1",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "livegen",
+      "expertdefinition": "En bonde som var bunden till en specifik gård och dess herre. Livegna var inte slavar — de kunde inte säljas och de hade vissa rättigheter — men de var inte heller fria. De fick inte flytta utan herrens tillstånd, måste arbeta på herrens jord och betala olika avgifter. Statusen ärvdes: barnen till en livegen blev själva livegna. Livegenskapen var grunden för feodalsamhällets jordbruk och försvagades först efter digerdöden i slutet av 1300-talet, när arbetskraftsbrist tvingade herrar att förhandla med bönderna.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b2",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "vassal",
+      "expertdefinition": "En adelsman som svor trohetsed till en mäktigare herre i utbyte mot en förläning — oftast jord. Vassalens skyldighet var militärtjänst och råd; herrens skyldighet var skydd och försörjning. Systemet skapade en pyramid där kungen stod på toppen, hade stora hertigar och grevar som vassaller under sig, vilka i sin tur hade lägre riddare som vassaller. Det är detta nät av personliga lojaliteter — inte en stat med tjänstemän — som höll ihop feodalsamhället. En vassal kunde dessutom svära trohet till flera herrar samtidigt, vilket kunde leda till lojalitetskonflikter.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b3",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "arrende",
+      "expertdefinition": "Bondens betalning till godsherren för rätten att bruka herrens jord. Arrendet kunde betalas på flera sätt: i naturaprodukter (säd, smör, kött), i pengar, eller i arbete (dagsverken). Storleken bestämdes av tradition eller avtal, och en bonde som inte kunde betala kunde förlora rätten att bruka jorden. Skillnaden mellan en arrendebonde och en livegen var att arrendebonden i princip var fri att flytta när kontraktet löpte ut — även om praktiska skäl ofta band honom till samma plats i generationer.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b4",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "dagsverke",
+      "expertdefinition": "Obligatoriskt arbete som bonden måste utföra på herrens jord, utan lön. Antalet dagar var ofta noga reglerat — kanske två eller tre dagar per vecka under skördetid, mindre andra delar av året. Dagsverket var en av de tyngsta plikterna för en livegen bonde, eftersom det tog tid från arbetet på den egna jordlotten. När en bonde tvingades plöja herrens åker just när hans egen säd behövde sås kunde det avgöra om familjen fick mat över vintern. Dagsverket är en konkret bild av hur feodalsamhället byggde på arbetstid, inte på lön.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b5",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "tionde",
+      "expertdefinition": "En tiondel (10 %) av skörden eller annan inkomst som bonden måste betala till kyrkan. Tionden var inte frivillig — den var en lagstadgad avgift som infördes i Sverige under 1100- och 1200-talen och pågick i olika former ända in i 1900-talet. Den användes till att försörja prästen, underhålla kyrkobyggnaden, hjälpa fattiga och stödja biskopen. Tillsammans med arrende, dagsverke och kungens skatt innebar tionden att en medeltida bonde kunde betala bort hälften eller mer av sin skörd innan han fick behålla något själv.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b6",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "tvåskifte / treskifte",
+      "expertdefinition": "System för att dela upp åkermarken och hålla den bördig. I tvåskifte delades åkrarna i två fält — det ena odlades, det andra låg i träda. I treskifte (som blev vanligt under högmedeltiden) delades marken i tre fält: ett för höstsäd (råg, vete), ett för vårsäd (havre, korn, ärtor) och ett i träda. Treskiftet gav cirka 33 % mer odlingsyta per år än tvåskiftet och var en av de viktigaste produktivitetshöjningarna under medeltiden. Det krävde samordning mellan bönderna i en by, eftersom alla måste odla samma sak på samma fält samtidigt.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b7",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "träda",
+      "expertdefinition": "Den del av åkermarken som lämnades obrukad ett år för att återhämta sig. På medeltiden visste man inte varför trädan fungerade — i dag förstår vi att marken behöver tid att återskapa kväve och andra näringsämnen som grödorna förbrukat. Trädan användes ofta som betesmark för byns djur, och djurens spillning gödslade marken naturligt. När bönderna senare lärde sig odla kvävefixerande växter som klöver på trädan, kunde man minska eller helt avskaffa den — men det var en utveckling som hörde till en mycket senare jordbruksrevolution.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b8",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "årder",
+      "expertdefinition": "Den enkla, lätta plogen som användes innan hjulplogen. Den drogs av oxar och hade ingen vändskiva — den ristade bara en fåra i jorden utan att vända den. Årdern fungerade bra i de torra, lätta jordarna kring Medelhavet, där den varit standardredskap sedan antiken. Men på de tyngre, lerigare jordarna i norra Europa räckte den inte. Det var där hjulplogen blev en revolution. Årdern är en bra påminnelse om att en teknik kan vara perfekt på en plats och otillräcklig på en annan — geografi och teknik hänger ihop.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b9",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "hjulplog",
+      "expertdefinition": "En tung plog med hjul, järnbill och vändskiva — uppfunnen under tidig medeltid och spridd genom Europa under hög- och senmedeltiden. Till skillnad från årdern vände hjulplogen jorden ordentligt, vilket grävde ner ogräs och förde upp näring underifrån. Hjulen gjorde plogen lätt att styra över långa fåror utan att den välte. Hjulplogen krävde dock dragkraft — vanligen flera oxar eller hästar — och var dyr att bygga, så bönderna i en by gick ofta ihop om en gemensam plog. Hjulplogen är kanske den enskilt viktigaste tekniska innovationen bakom medeltidens befolkningsökning.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b10",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "harv",
+      "expertdefinition": "Ett redskap som drogs efter plogen för att finfördela jorden, krossa kokor och blanda in frön. Medeltidens harv var en ram med många stiftade tänder — av trä eller järn — som rev sönder klumpar och jämnade ut åkern. Utan harv hade plogfårorna lämnat marken full av stora kokor som varken släppte upp frön eller höll vatten. Tillsammans utgjorde plog, harv och såmaskin ett system där varje redskap förberedde nästa moment. Det är ett tidigt exempel på att jordbruket inte var en enskild handling utan en kedja av samverkande tekniker.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b11",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "kragsele",
+      "expertdefinition": "En selning som ligger om hästens skuldror, så att hästen kan dra med full kraft utan att kvävas. Tidigare seltyper, ärvda från antiken, sittade om hästens hals och strypte djuret när det drog tyngre laster. Kragselen — som troligen kom från Kina via Centralasien till Europa under tidig medeltid — kunde mångdubbla hästens dragförmåga. Det innebar att hästar kunde användas för plöjning, något som tidigare bara oxar klarade. Hästar är snabbare än oxar, så plöjningstiden minskade dramatiskt. Kragselen är ett bra exempel på att teknik från andra delar av världen kunde få stora följder i Europa.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b12",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "hästsko",
+      "expertdefinition": "En metallsko som spikades fast under hästens hov för att skydda den mot slitage. Utan hästsko slets hovarna sönder på hårda eller steniga underlag, och en hovsjuk häst var värdelös. Hästskon spreds i Europa under tidig medeltid och möjliggjorde att hästar kunde användas för tungt arbete året om, inte bara på mjuka åkrar. Tillsammans med kragselen gjorde hästskon hästen till ett produktivt jordbruksdjur. En liten metallbit — som många elever knappt tänker på i dag — var alltså en av de tekniker som hjälpte Europa att föda fler människor.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k5-b13",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "term": "kloster",
+      "expertdefinition": "En religiös institution där munkar eller nunnor levde under bestämda regler, ofta avskilt från det vanliga samhället. Klostren var inte bara religiösa centrum. Under hög- och senmedeltiden blev de också motorer för jordbruksutveckling: munkarna experimenterade med nya grödor, växelbruk, vattendrivna kvarnar och dräneringssystem. Kunskapen skrevs ner och spreds vidare. Cisterciensorden var särskilt känd för att förbättra jordbruksmark genom att avverka skog och dika ut sumpmark. Klostren är ett tydligt exempel på att religion, kunskap och praktiskt arbete inte var åtskilda under medeltiden — de gick hand i hand.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-5-jordbruk.json"
+    },
+    {
+      "id": "k6-b1",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "hantverkare",
+      "expertdefinition": "En yrkesman som tillverkade specifika produkter med händerna — skor, kläder, bröd, möbler, vapen, järnverktyg eller hundra andra saker. Hantverkare var stadens motor. Till skillnad från bönder, som producerade mat till många, producerade hantverkaren ofta unika produkter på beställning eller för försäljning på torget. Hantverkets specialisering var en av huvudorsakerna till att städerna växte: bonden kunde inte själv smida en plog eller väva ett fint tyg, men i staden fanns någon som kunde. Hantverkarna var organiserade i skrån (se separat begrepp), vilket gav dem både skydd och makt.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b2",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "borg",
+      "expertdefinition": "En befäst byggnad som tillhörde en adelsman eller furste, ofta byggd på en strategisk plats (kulle, ö, flodkrök). Borgen var inte bara ett hem — den var ett maktcentrum. Härifrån styrdes ett område, samlades skatter in, dömdes folk och försvarades mot fiender. Många medeltidsstäder växte fram vid foten av en borg, eftersom människor sökte skydd där. Borgens herre kunde också kräva tullar och avgifter av handelsmän som passerade. Borgar finns kvar i landskapet långt efter att deras politiska roll försvunnit — till exempel Kalmar slott och Visborg på Gotland.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b3",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "vadställe",
+      "expertdefinition": "En grund plats där man kunde vada över en flod, alltså gå genom vattnet utan att simma eller behöva båt. Vadställen var avgörande på medeltiden, eftersom broar var sällsynta och dyra att bygga. Många städer växte fram just vid vadställen, eftersom alla som ville korsa floden måste passera där. Det skapade naturliga handelsplatser, marknader och tullstationer. Stockholm är ett exempel — staden började som en kontrollpunkt vid det vatten som band ihop Mälaren med Östersjön. Ett vadställes geografi kunde alltså bestämma var en stad föddes och hur rik den blev.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b4",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "naturahushållning",
+      "expertdefinition": "En ekonomi där människor främst byter varor mot varor, eller arbete mot varor — inte mot pengar. Bonden kunde betala sitt arrende med säd, smör eller djur. Hantverkaren kunde få mat i utbyte mot ett par skor. Naturahushållning fungerade bra i ett lokalt samhälle där alla kände varandra och varorna fanns nära. Den var den dominerande ekonomin i tidigmedeltidens Europa. Men när städerna växte, handeln blev längre och människor mötte främlingar, blev systemet otympligt — och pengahushållningen tog över. Det är en stor ekonomisk övergång som präglar hela högmedeltiden.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b5",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "pengahushållning",
+      "expertdefinition": "En ekonomi där pengar — mynt och senare papper — är det vanliga sättet att betala. Pengahushållning kräver att alla litar på pengarnas värde, att det finns någon som präglar mynt och att människor är vana att räkna i pengar. Övergången från naturahushållning till pengahushållning skedde gradvis under hög- och senmedeltiden, drivet av att städerna och handeln växte. Med pengar kunde man köpa varor från okända producenter, spara värde över tid och betala för tjänster som inte hade en naturlig motvara. Det är en av de viktigaste ekonomiska förändringarna i medeltidens Europa.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b6",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "furste",
+      "expertdefinition": "En högadlig härskare över ett område — hertig, greve, kurfurste eller liknande. En furste stod mellan kungen och de lägre adelsmännen i feodalpyramiden, men i praktiken kunde en stor furste vara mäktigare än sin kung. Furstar styrde sina territorier med egna lagar, egen armé och egen rättskipning. I det tysk-romerska riket var furstarnas makt särskilt stark — kejsaren var formellt deras herre men kunde sällan tvinga dem att lyda. Många medeltida städer fick sina privilegier av en furste, och försökte sedan göra sig oberoende genom att förhandla direkt med kejsaren.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b7",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "skrå",
+      "expertdefinition": "En sammanslutning av hantverkare inom samma yrke i en stad — bagarna hade sitt skrå, skomakarna sitt, vävarna sitt. Skrået bestämde vem som fick utöva yrket, vilken kvalitet produkterna måste hålla, vilka priser som var rättvisa och hur många lärlingar en mästare fick anställa. Skråsystemet gav både skydd (mot dålig konkurrens) och kontroll (det blev svårt att komma in i yrket). Skrået höll dessutom sina egna gudstjänster, festade tillsammans och stöttade sjuka medlemmar. Det var alltså mycket mer än en facklig organisation — det var en hel social och religiös gemenskap. Skråväsendet är ett av medeltidens mest karaktäristiska begrepp.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b8",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "lärling",
+      "expertdefinition": "Den lägsta nivån i skrået. Lärlingen var ofta en pojke i tonåren som flyttade in hos en mästare för att lära sig yrket. Lärotiden kunde vara fyra till sju år, beroende på yrke. Under tiden fick lärlingen mat, husrum och utbildning, men ingen lön. Förhållandet liknade på sätt och vis ett föräldraskap: mästaren var ansvarig för pojkens uppfostran, hans moral och hans yrkeskunskaper. Efter avklarad lärotid avlade lärlingen ett gesällprov — om han klarade det blev han gesäll och steg ett steg i hierarkin. Lärlingarnas situation kunde vara hård, men systemet gav också många pojkar en väg in i ett yrke och en framtid.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b9",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "gesäll",
+      "expertdefinition": "Den mellannivå i skråsystemet som låg mellan lärling och mästare. Gesällen hade klarat sin lärotid och behärskade yrket — han kunde arbeta självständigt och fick lön — men han var ännu inte fullvärdig medlem av skrået. Han fick inte öppna egen verkstad, ta egna lärlingar eller sälja under eget namn. För att bli mästare måste gesällen genomgå en vandringstid och sedan klara ett mästarprov. Gesällernas situation var ofta osäker: de var skickliga arbetare men ekonomiskt beroende av sin mästare, och i många städer blev de en växande, missnöjd grupp under sen medeltid.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b10",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "mästare",
+      "expertdefinition": "Den högsta nivån i skråsystemet. Mästaren var fullärd, hade klarat sitt mästarprov och var en fullvärdig medlem av skrået. Han ägde egen verkstad, fick anställa gesäller och lärlingar, sälja under eget namn och delta i skråets möten. Mästarna styrde i praktiken skrået: de röstade om priser, regler och inträde av nya medlemmar. Mästarstatusen ärvdes ofta från far till son, vilket gjorde det allt svårare för utomstående att komma in. Under senmedeltiden klagade gesäller över att skråna stängdes — de gamla mästarsläkterna höll kontrollen och vägrade släppa in nya.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b11",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "gesällvandring",
+      "expertdefinition": "Den vandringstid en nybliven gesäll tillbringade på vägarna mellan olika städer för att lära av andra mästare. Vandringen kunde pågå i flera år och förde gesällen genom främmande länder — en svensk smedsgesäll kunde arbeta i Lübeck, sedan i Köln, sedan i Paris. Syftet var praktiskt: gesällen lärde sig nya tekniker, mötte nya material och utvecklade sin yrkesskicklighet. Men det fanns också ett socialt syfte: vandringen var en kontroll av att gesällen hade förmåga att stå på egna ben innan han fick bli mästare. Gesällvandringen är en av de tydligaste medeltida bilderna av kunskap som vandrade mellan städer.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b12",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "gesällprov",
+      "expertdefinition": "Det prov en lärling måste klara för att bli gesäll. Provet bestod oftast i att utföra ett konkret arbete inom yrket — ett par skor, ett bröd, en stol — som mästarna i skrået bedömde. Klarade lärlingen provet höjdes hans status, han fick lön och kunde börja sin gesällvandring. Klarade han inte måste han ofta lära sig vidare under mästaren. Gesällprovet var alltså en kvalitetskontroll: bara den som verkligen behärskade hantverket fick gå vidare. Det skyddade yrket från slarviga arbetare men gjorde också vägen lång för den som ville bli självständig.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b13",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "mästarprov",
+      "expertdefinition": "Det avslutande, mycket svåra provet som en gesäll måste klara för att bli mästare. Provet bestod i ett 'mästerstycke' — ett särskilt komplext arbete som visade att gesällen behärskade yrkets allra svåraste moment. Skomakaren skulle göra ett par perfekta ridstövlar, smeden ett konstrikt vapen, vävaren ett komplext mönstrat tyg. Mästarprovet kostade ofta mycket pengar — gesällen måste själv betala material — och bedömdes hårt av de gamla mästarna. Under senmedeltiden kunde proven göras orimligt svåra eller dyra, just för att hindra nya mästare. Det visar hur en gång rättvis kontroll kan bli ett verktyg för att stänga ute andra.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b14",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "moralisk ekonomi",
+      "expertdefinition": "Idén att ekonomin inte bara handlar om utbud och efterfrågan — den måste också följa moraliska och religiösa regler. På medeltiden var detta inte ett radikalt påstående utan en självklarhet. Brödet hade ett 'rättvist pris' baserat på säd, arbete och en rimlig vinst. Att höja priset i en hungersnöd ansågs vara synd. Att låna ut pengar mot ränta ansågs vara synd (ocker). Att sälja under sken av god kvalitet ansågs vara synd. Den moraliska ekonomin var alltså en helt annan sätt att tänka på handel än det moderna — målet var inte maximal vinst, utan att samhället skulle hänga ihop. Moralisk ekonomi är ett av Joachims centrala medeltidsbegrepp.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b15",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "ränta",
+      "expertdefinition": "Den avgift man betalar för att låna pengar. Lånar du 100 mark och betalar tillbaka 110, är 10 mark räntan. På medeltiden var ränta ett kontroversiellt begrepp. Den kristna kyrkan såg ränta på lån som en synd — det var 'ocker' — eftersom långivaren tjänade pengar utan att arbeta. I dag är ränta en självklar del av all ekonomi: bostadslån, sparkonton, statsobligationer. Skiftet i synsätt — från ränta som synd till ränta som normal del av ekonomin — är en av de stora ekonomiska och religiösa förändringarna mellan medeltid och nutid.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b16",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "girighet",
+      "expertdefinition": "Den överdrivna längtan efter rikedom. Inom den kristna moralen var girighet en av de sju dödssynderna och kanske den farligaste — eftersom den ansågs leda till alla andra synder. En girig människa stal, ljög, förtryckte fattiga och glömde Gud. Medeltidens predikningar varnade ständigt för girigheten, och konstverk visade ofta giriga människor i helvetet, oftast med en penningpung hängande om halsen. Begreppet är centralt för att förstå den moraliska ekonomin: i ett samhälle där girighet räknades som dödssynd kunde man inte öppet eftersträva maximal vinst. Det är en helt annan utgångspunkt än modern marknadsekonomi.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b17",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "ocker",
+      "expertdefinition": "Att låna ut pengar mot ränta. På medeltiden var detta enligt kyrkan synd — ja, mer än så, det räknades som en form av girighet och kunde leda till att man förlorade sin själ. Förklaringen var teologisk: pengar är 'döda', de skapar inget värde själva, så att tjäna pengar på pengar var att stjäla. Detta skapade problem när handeln växte och pengar behövdes — och här uppstod en lucka. Kristna fick inte ta ränta, men judarna fick. Därför pressades judarna ofta in i rollen som penningutlånare — en roll som gav dem en viss roll i samhället men också gjorde dem hatade och utsatta för förföljelse, särskilt under kriser.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k6-b18",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "term": "växelbrev",
+      "expertdefinition": "Ett finansiellt instrument som möjliggjorde att flytta pengar mellan platser utan att frakta mynt. En köpman i Florens kunde lämna 1000 floriner till en bankir och få ett skrivet löfte — ett växelbrev — som kunde lösas in i Brügge eller London av bankirens partner där. Det minskade risken för rån, gjorde handeln snabbare och möjliggjorde affärer över stora avstånd. Växelbrevet kunde också användas för att kringgå kyrkans förbud mot ränta — vinsten kunde döljas i växelkursen mellan valutor. Italienska bankirer som Medici förfinade systemet och blev rika på det. Växelbrevet är en av medeltidens viktigaste ekonomiska uppfinningar och en föregångare till modern bankverksamhet.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-6-stadsutveckling.json"
+    },
+    {
+      "id": "k7-b1",
+      "avsnitt": "7",
+      "avsnitt_titel": "Kyrkan, universitet och korståg",
+      "term": "teologi",
+      "expertdefinition": "Läran om Gud — det viktigaste och mest prestigefyllda ämnet vid medeltidens universitet. Teologi handlade om att förstå Bibeln, kyrkans lära, treenigheten, frälsningen och människans relation till Gud. Studierna byggde på den scholastiska metoden: man läste auktoritativa texter (Bibeln, kyrkofäderna, Aristoteles), ställde frågor, vägde argument för och emot, och försökte komma fram till välunderbyggda slutsatser. Att vara teolog var inte att vara präst i en församling — det var att vara expert på den högsta kunskapen om Gud. Den som blev doktor i teologi vid Paris eller Oxford tillhörde Europas intellektuella elit.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-7-kyrkan-korstag.json"
+    },
+    {
+      "id": "k7-b2",
+      "avsnitt": "7",
+      "avsnitt_titel": "Kyrkan, universitet och korståg",
+      "term": "juridik",
+      "expertdefinition": "Läran om lagar — ett av de tre stora universitetsämnena under medeltiden. Juridiken delades i två huvuddelar: kyrkorätt (lagar om kyrkan, äktenskap, arv, synder) och världslig rätt, ofta baserad på återupptäckta romerska lagtexter. Universitetet i Bologna i Italien blev tidigt Europas viktigaste juridiska skola, dit studenter reste från hela kontinenten. En utbildad jurist var en eftertraktad person — kungar, biskopar och städer behövde någon som kunde tolka och tillämpa lagar. Juridikens framväxt under hög- och senmedeltiden bidrog till mer organiserade stater där lag, inte bara svärd, kunde styra.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-7-kyrkan-korstag.json"
+    },
+    {
+      "id": "k7-b3",
+      "avsnitt": "7",
+      "avsnitt_titel": "Kyrkan, universitet och korståg",
+      "term": "medicin",
+      "expertdefinition": "Läran om sjukdomar, kroppen och dess botemedel — det tredje stora universitetsämnet. Medeltidens medicin byggde på antika författare som Galenos och Hippokrates, blandat med arabiska medicinska texter översatta i Spanien och Sicilien. Teorin om kroppens fyra 'vätskor' (blod, slem, gul galla, svart galla) som måste vara i balans dominerade. Läkare studerade flera år, kunde latin och hade hög status — men deras faktiska kunskap om sjukdomar var ofta begränsad. Universitetet i Salerno i Italien och senare Montpellier i Frankrike var berömda medicinska skolor. Under digerdöden stod denna medicin maktlös, eftersom man inte visste något om bakterier.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-7-kyrkan-korstag.json"
+    },
+    {
+      "id": "k8-b1",
+      "avsnitt": "8",
+      "avsnitt_titel": "Handelsutveckling",
+      "term": "handelsgille",
+      "expertdefinition": "En sammanslutning av köpmän som hjälpte varandra. Medlemmarna kunde samarbeta om transporter, dela kostnader för skydd mot rövare, låna pengar, dela information om marknader och förhandla med furstar och kungar om handelsrättigheter. Att handla ensam under medeltiden var farligt och dyrt — vägarna var dåliga, sjöfarten riskfylld och rövare kunde angripa karavaner. Tillsammans i ett handelsgille blev köpmännen starkare än de hade varit var och en för sig. Handelsgillena hade också sociala och religiösa funktioner: gemensamma gudstjänster, fester, hjälp till sjuka medlemmar. Det är just denna typ av samarbete som ligger bakom Hansans framväxt.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-8-handelsutveckling.json"
+    },
+    {
+      "id": "k8-b2",
+      "avsnitt": "8",
+      "avsnitt_titel": "Handelsutveckling",
+      "term": "Hansan",
+      "expertdefinition": "Det stora handelsnätverket av framför allt tyskspråkiga städer kring Östersjön och Nordsjön under medeltiden. Hansan var inget rike och hade ingen kung — det var ett samarbete mellan över hundra städer, lett av Lübeck. Vid sin höjdpunkt på 1300- och 1400-talen dominerade Hansan handeln från Novgorod i öster till London i väster, från Bergen i norr till Brügge i söder. Hansan kunde till och med föra krig mot kungariken — och vinna. För Sverige var Hansan både motor och boja: handeln växte, men i hög grad i tyska händer. Hansan är ett tydligt exempel på det medeltida begreppet handelscentrum: en plats eller organisation där handel, makt och pengar samlades.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-8-handelsutveckling.json"
+    },
+    {
+      "id": "k8-b3",
+      "avsnitt": "8",
+      "avsnitt_titel": "Handelsutveckling",
+      "term": "Flandern",
+      "expertdefinition": "Området kring dagens Belgien och norra Frankrike, ett av medeltidens viktigaste ekonomiska centrum. Städer som Brügge, Gent och Ypern blev rika på framför allt tygproduktion — ull importerades från England, vävdes och färgades till världens finaste ylletyger, och såldes över hela Europa. Brügge fungerade också som en knutpunkt där köpmän från Hansan i norr mötte italienska köpmän från söder. Flandern visar två viktiga ekonomiska principer: att förädling av råvaror skapar mycket större värde än att bara sälja råvaran, och att städer kan bli rikare än många kungariken. Flandern är ett av Joachims tre handelscentrum.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-8-handelsutveckling.json"
+    },
+    {
+      "id": "k8-b4",
+      "avsnitt": "8",
+      "avsnitt_titel": "Handelsutveckling",
+      "term": "lyxvaror",
+      "expertdefinition": "På medeltiden ett samlingsnamn för dyra, eftertraktade varor som främst nådde Europa via Sidenvägen och Medelhavet. Hit hörde silke från Kina, kryddor som peppar, kanel och nejlika från Indien och Sydostasien, porslin från Kina, parfymer och färgämnen från Mellanöstern, ädelstenar och fint glas från Bysans. Lyxvaror var inte bara dyra för att de var ovanliga — de var dyra för att de hade rest oerhört långt och passerat genom många mellanhänder, som var och en lade till sin vinst. En säck peppar som i Indien kostade några kopparmynt kunde i Venedig vara värd en herrgård. Lyxvarorna gjorde italienska städer som Venedig och Genua oerhört rika.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-8-handelsutveckling.json"
+    },
+    {
+      "id": "k8-b5",
+      "avsnitt": "8",
+      "avsnitt_titel": "Handelsutveckling",
+      "term": "Sidenvägen",
+      "expertdefinition": "Det nätverk av handelsrutter som band ihop Kina, Centralasien, Mellanöstern och Europa under antiken och medeltiden. Trots namnet var Sidenvägen aldrig en enda väg — det var många parallella rutter över land och hav som förändrades beroende på krig, väder, imperier och handelsstäder. Varor färdades i kedjor: en kinesisk silkesbal kunde byta ägare tjugo gånger innan den nådde Venedig. Knutpunkter som Samarkand, Bukhara, Bagdad och Damaskus blev rika genom att vara mellanhänder. Sidenvägen flyttade inte bara varor — den flyttade också idéer, religioner, tekniker, språk och sjukdomar (digerdöden följde delvis dessa rutter). Det är ett av medeltidens viktigaste exempel på en sammankopplad värld.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-8-handelsutveckling.json"
+    },
+    {
+      "id": "k9-b1",
+      "avsnitt": "9",
+      "avsnitt_titel": "Digerdöden",
+      "term": "Digerdöden",
+      "expertdefinition": "Digerdöden var en pestepidemi som drabbade Europa 1347–1352 och som dödade ungefär en tredjedel till hälften av befolkningen på bara några år. Pesten kom ursprungligen från Centralasien och fördes västerut längs Sidenvägen. När den nådde Svartahavshamnen Kaffa 1346 spred sig sjukdomen via handelsfartyg till Sicilien, sedan till hela Medelhavet och vidare upp genom Europa. Människor smittades dels genom råttor och loppor som bar på pestbakterien, dels genom direktkontakt med sjuka. Digerdöden var inte bara en hälsokatastrof. Den skakade hela medeltidens samhälle ekonomiskt, socialt och religiöst, och blev startpunkten för många av de förändringar som präglar senmedeltiden.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-9-digerdoden.json"
+    },
+    {
+      "id": "k9-b2",
+      "avsnitt": "9",
+      "avsnitt_titel": "Digerdöden",
+      "term": "Syndabock",
+      "expertdefinition": "En syndabock är någon som man skyller på utan grund för något som har gått fel. Ordet kommer ursprungligen från en gammal judisk ritual där man symboliskt lade folkets synder på en bock som sedan drevs ut i öknen. Under digerdöden sökte människor förklaringar till varför pesten dödade så många. När inga rimliga svar fanns blev judarna ofta syndabockar. Falska rykten spreds om att judar förgiftat brunnar för att utrota de kristna. I många europeiska städer förföljdes och dödades judiska familjer som ett resultat. Begreppet är användbart för att förstå hur människor i kris kan vända sig mot minoriteter — ett mönster som tyvärr har återkommit i historien många gånger sedan dess.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-9-digerdoden.json"
+    },
+    {
+      "id": "k10-b1",
+      "avsnitt": "10",
+      "avsnitt_titel": "Kina",
+      "term": "Sidenvägen",
+      "expertdefinition": "Sidenvägen var inte en enskild väg utan ett nätverk av handelsvägar som band samman Kina, Centralasien, Persien, Arabvärlden och Europa. Vägarna användes redan under antiken men nådde sin höjdpunkt under medeltiden, särskilt under perioden 1200–1350 när mongolväldet hade skapat fred och säkerhet i Centralasien. Längs Sidenvägen färdades inte bara siden utan också kryddor, porslin, papper, krut, kompass, idéer, religioner och ibland tyvärr också sjukdomar — digerdöden spreds längs samma vägar som varorna. Sidenvägen var medeltidens viktigaste kontaktyta mellan öst och väst.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-10-kina.json"
+    },
+    {
+      "id": "k10-b2",
+      "avsnitt": "10",
+      "avsnitt_titel": "Kina",
+      "term": "Siden",
+      "expertdefinition": "Siden är ett mjukt och glansigt tyg som tillverkas av silkesmaskens kokongtrådar. Kineserna hade upptäckt hur man producerade siden redan flera tusen år före vår tideräkning, och de bevakade hemligheten noggrant. Det gjorde siden till en lyxvara som efterfrågades över hela världen. I medeltidens Europa var siden en statussymbol — det användes av kungar, drottningar, höga prästmän och rika köpmän för att visa sin makt och välstånd. Handeln med siden var en av drivkrafterna bakom Sidenvägen och bidrog till att italienska handelsstäder som Venedig och Genua blev rika under senmedeltiden.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-10-kina.json"
+    },
+    {
+      "id": "k10-b3",
+      "avsnitt": "10",
+      "avsnitt_titel": "Kina",
+      "term": "Bank",
+      "expertdefinition": "En bank är en institution som hanterar pengar — tar emot insättningar, lånar ut till lån, och hjälper människor och företag att betala varandra över långa avstånd. De första moderna bankerna växte fram i italienska handelsstäder som Florens, Venedig och Genua under senmedeltiden. De byggde på en redan etablerad finansiell tradition från arabvärlden. Bankerna gjorde det möjligt att handla utan att fysiskt frakta stora mängder guld och silver — istället kunde köpmän använda dokument som visade var pengarna fanns. Banken blev en grundpelare i den nya europeiska ekonomin och möjliggjorde fjärrhandel som annars hade varit för riskfylld.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-10-kina.json"
+    },
+    {
+      "id": "k10-b4",
+      "avsnitt": "10",
+      "avsnitt_titel": "Kina",
+      "term": "Växelbrev",
+      "expertdefinition": "Ett växelbrev är ett finansiellt dokument som intygar att en viss summa pengar är insatt på ett ställe och kan tas ut på ett annat. Det fungerade ungefär som en tidig version av en check eller överföring. Växelbrevet utvecklades i italienska handelsstäder under senmedeltiden och var en av de viktigaste finansiella uppfinningarna i Europas historia. Innan växelbrevet behövde köpmän som handlade på långa avstånd resa med säckar av guld och silver — något som var både farligt och tungt. Med växelbrev kunde en köpman betala för varor i en stad och få pengarna utbetalda i en annan, ofta i en annan valuta. Detta gjorde fjärrhandel mycket säkrare och effektivare.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-10-kina.json"
+    },
+    {
+      "id": "k11-b1",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "term": "Riddare",
+      "expertdefinition": "En riddare var en tungt bepansrad ryttare som hörde till adelsklassen. Under stora delar av medeltiden var riddaren Europas mäktigaste militära symbol. En riddare var inte bara soldat — han var också adelsman, jordägare och en del av det feodala systemet. Att utbilda en riddare tog över ett decennium. Hans utrustning — häst, rustning, vapen — var dyr och krävde flera tjänare för underhåll. Under senmedeltiden började riddarens militära dominans försvagas när nya vapen och taktiker växte fram. Riddaren försvann inte, men hans roll förändrades. Han blev en av flera viktiga soldatkategorier istället för slagfältets självklara herre.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-11-styrkeforhallanden.json"
+    },
+    {
+      "id": "k11-b2",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "term": "Piken",
+      "expertdefinition": "Piken var ett långt spjut, ofta 4–6 meter, som användes av fotsoldater i tät formation. När en grupp pikenerare ställde sig sida vid sida och pekade sina pikar utåt blev de en mur som riddare till häst hade svårt att bryta igenom. Pikenformationer användes med stor framgång av schweiziska och flamländska soldater under senmedeltiden. Piken var billig att tillverka jämfört med en riddarrustning, och vanliga bönder kunde tränas att använda den effektivt. Detta var en av flera tekniska förändringar som gjorde att riddarens dominans på slagfältet började brytas under senmedeltiden.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-11-styrkeforhallanden.json"
+    },
+    {
+      "id": "k11-b3",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "term": "Artilleri",
+      "expertdefinition": "Artilleri är samlingsnamnet för stora vapen som skjuter projektiler — i medeltiden främst kanoner som drevs av krut. Krutet kom ursprungligen från Kina och nådde Europa via arabvärlden under 1200- och 1300-talen. När man under senmedeltiden började gjuta större och mer pålitliga kanoner förändrades krigföringen för alltid. Stadens murar och borgarna, som hade varit nästan oövervinnliga under tidigare delar av medeltiden, kunde nu skjutas sönder med kanoneld. Den franska kungens artilleri var en av anledningarna till att Frankrike kunde driva ut engelsmännen i slutet av hundraårskriget. Artilleriet var dyrt — bara starka kungar och rika städer hade råd med det. Detta bidrog till att kungamakten stärktes på adelns bekostnad.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-11-styrkeforhallanden.json"
+    },
+    {
+      "id": "k11-b4",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "term": "Stående armé",
+      "expertdefinition": "En stående armé är en militärstyrka som är permanent anställd av staten — soldater som tränas, betalas och utrustas regelbundet, även i fredstid. Detta var något nytt under senmedeltiden. Tidigare hade kungar oftast samlat en armé bara när krig hotade, genom att kalla in adelns riddare och deras tjänare. Med en stående armé fick kungen kontroll över en soldatkategori som inte var beroende av adeln. Detta krävde stora skatter och en effektiv förvaltning. Den franska kungens införande av en stående armé under hundraårskriget är ett tidigt exempel. Stående arméer var en av flera utvecklingar som flyttade makt från adeln till kungen.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-11-styrkeforhallanden.json"
+    },
+    {
+      "id": "k11-b5",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "term": "Legosoldater",
+      "expertdefinition": "Legosoldater är yrkessoldater som anställs mot betalning, ofta för en specifik konflikt eller fältslag. Till skillnad från riddare som kämpade för sin herre av lojalitet och plikt, kämpade legosoldater för pengar. De kom ofta från fattiga områden där krig var ett sätt att försörja sig. Under senmedeltiden växte legosoldatkompanier i betydelse — skickliga schweiziska, tyska och italienska legosoldater anställdes av kungar, städer och adelsmän i hela Europa. Legosoldater var farliga men effektiva, och de gjorde det möjligt även för mindre rika herrar att samla en stor armé snabbt. Samtidigt var de opålitliga: om en motståndare bjöd mer kunde de byta sida.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-11-styrkeforhallanden.json"
+    },
+    {
+      "id": "k11-b6",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "term": "Livegna",
+      "expertdefinition": "Livegna var bönder som var bundna till jorden och till en godsherre. En livegen bonde var inte slav, men han eller hon kunde inte fritt flytta, gifta sig utan herrens tillstånd eller välja yrke. Livegenskapen hade vuxit fram under tidig medeltid som en del av det feodala systemet. Efter digerdöden, när befolkningen minskat och arbetskraften blivit värdefullare, började livegenskapen försvagas på många håll i Västeuropa. Bönder krävde högre löner och bättre villkor. När godsherrar försökte hålla fast vid det gamla systemet ledde det ibland till uppror — som det engelska bondeupproret 1381. På längre sikt försvann livegenskapen i större delen av Västeuropa, även om den fortsatte längre i Östeuropa.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-11-styrkeforhallanden.json"
+    },
+    {
+      "id": "k11-b7",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "term": "Schism",
+      "expertdefinition": "En schism är en splittring inom en religiös organisation. I detta avsnitt handlar det om den västliga schismen 1378–1417, då katolska kyrkan hade två och senare tre rivaliserande påvar samtidigt. Schismen började när kardinalerna ångrade sitt val av påven Urban VI och valde en motpåve, Clemens VII, som flyttade till Avignon. Europa delades efter politiska lojaliteter — Frankrike stödde Avignonpåven, England stödde Rompåven. Konciliet i Konstanz 1414–1418 löste till slut krisen genom att avsätta de rivaliserande påvarna och välja Martin V. Men kyrkans auktoritet hade skadats. När människor sett två eller tre påvar samtidigt blev det svårare att tro på kyrkans självklara makt. Detta är en annan schism än den 1054 mellan väst- och östkyrkan.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-11-styrkeforhallanden.json"
+    },
+    {
+      "id": "k11-b8",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "term": "Universitet",
+      "expertdefinition": "Universitet är högre utbildningsinstitutioner som växte fram under medeltiden i städer som Paris, Bologna och Oxford (se avsnitt 7). Under senmedeltiden fick universiteten en delvis ny roll. Skolastiska tänkare som universitetslärare började allt mer ifrågasätta kyrkans tolkningsmonopol. Att en allmän kunskapsdiskussion fördes vid universiteten — där olika åsikter prövades med logik och argument — bidrog till att försvaga kyrkans självklara auktoritet. När empirismen senare började växa fram under renässansen var universiteten en av platserna där det nya tänkandet kunde diskuteras. Universiteten både upprätthöll och utmanade den medeltida världsbilden samtidigt.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-11-styrkeforhallanden.json"
+    },
+    {
+      "id": "k12-b1",
+      "avsnitt": "12",
+      "avsnitt_titel": "Renässans",
+      "term": "Renässans",
+      "expertdefinition": "Ordet renässans betyder pånyttfödelse. Det syftar på det nya intresse för antikens grekiska och romerska kultur som växte fram i Italien från 1300-talet och spreds över Europa under 1400- och 1500-talen. Renässansens människor läste antika texter, studerade antika statyer och försökte återskapa antikens ideal inom konst, arkitektur, vetenskap och filosofi. Renässansen var inte ett plötsligt uppvaknande — den byggde vidare på medeltida traditioner och var beroende av den arabisk-muslimska världens bevarade och utvecklade antika kunskap. Renässansen brukar räknas som början på den så kallade tidigmoderna tiden, en bro mellan medeltiden och nyare historia.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-12-renassansen.json"
+    },
+    {
+      "id": "k12-b2",
+      "avsnitt": "12",
+      "avsnitt_titel": "Renässans",
+      "term": "Humanism",
+      "expertdefinition": "Humanism är en idéströmning som växte fram under renässansen och som satte människan i centrum för tänkandet. För humanisterna var människan värd att studera i sig själv — hennes språk, historia, känslor, värdighet och möjligheter. Detta betydde inte att humanisterna slutade vara kristna. De flesta var djupt religiösa. Men religionen var en del av tänkandet, inte hela det. Humanisterna grundade nya skolor som lärde latin, retorik, filosofi, historia och etik. Tanken var att forma hela människan, inte bara den religiöst skolade klosterelever. Humanismen blev en av renässansens viktigaste arv till modern tid.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-12-renassansen.json"
+    },
+    {
+      "id": "k12-b3",
+      "avsnitt": "12",
+      "avsnitt_titel": "Renässans",
+      "term": "Skolastik",
+      "expertdefinition": "Skolastik var det dominerande sättet att tänka under medeltiden. Skolastiken byggde på att sanningen om världen redan fanns i auktoritetstexter — Bibeln, kyrkofäderna och antika filosofer som Aristoteles. Skolastiska tänkare var skickliga på logik och argumentation. De ställde frågor, jämförde olika svar och försökte lösa motsägelser mellan olika auktoriteter. Universitetens utbildning byggde på skolastik. Skolastiken var inte dum eller okritisk, men dess grundfråga var alltid: vad säger auktoriteten? När det under renässansen växte fram en konkurrerande kunskapssyn — empirismen — försvann inte skolastiken över en natt. Den dominerade universiteten i flera hundra år till.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-12-renassansen.json"
+    },
+    {
+      "id": "k12-b4",
+      "avsnitt": "12",
+      "avsnitt_titel": "Renässans",
+      "term": "Filosof",
+      "expertdefinition": "En filosof är någon som söker svar på grundläggande frågor om världen, kunskapen, människan och rätt och fel — genom tänkande och resonemang. Under medeltiden var de viktigaste filosoferna ofta präster och munkar som arbetade inom skolastiken, som Thomas av Aquino. Under renässansen utvidgades filosofens roll. Renässansfilosofer som Pico della Mirandola och Erasmus av Rotterdam fokuserade på människan, etik, utbildning och politik. Filosofen blev mindre bunden till kyrkans frågor och mer intresserad av människans plats i världen. Detta var en av flera sätt som det nya tänkandet under renässansen skilde sig från det medeltida.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-12-renassansen.json"
+    },
+    {
+      "id": "k12-b5",
+      "avsnitt": "12",
+      "avsnitt_titel": "Renässans",
+      "term": "Empirism",
+      "expertdefinition": "Empirism är ett sätt att tänka som menar att kunskap bör byggas på erfarenhet, observationer och undersökningar. I stället för att fråga 'vad skrev Aristoteles?' frågar empirismen 'vad kan vi själva se, mäta och testa?'. Empirismen växte fram gradvis under renässansen och blev den dominerande vetenskapliga metoden under 1600-talet med tänkare som Galileo Galilei, Johannes Kepler, René Descartes och Isaac Newton. Empirismens framväxt krävde flera saker som inte tidigare funnits — bättre instrument som kikare och mikroskop, en tryckpress som kunde sprida observationer, och en kultur där det blev acceptabelt att ifrågasätta auktoriteter. Empirismen är grunden för modern naturvetenskap.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-12-renassansen.json"
+    },
+    {
+      "id": "k12-b6",
+      "avsnitt": "12",
+      "avsnitt_titel": "Renässans",
+      "term": "Geocentrisk världsbild",
+      "expertdefinition": "Den geocentriska världsbilden — från grekiskans geo, som betyder jord — säger att jorden står stilla i universums centrum. Solen, månen, planeterna och stjärnorna rör sig i koncentriska sfärer runt jorden. Denna världsbild gick tillbaka till den antika lärde Ptolemaios och dominerade europeiskt tänkande under hela medeltiden. Den stämde med kyrkans lära om människan som skapelsens centrum, med Aristoteles fysik, och med vad ögat tycktes se varje dag. Den geocentriska modellen blev allt mer komplicerad när astronomer upptäckte att planeternas rörelser inte stämde — man var tvungen att lägga till krångliga matematiska tillägg, så kallade epicykler. När Kopernikus 1543 föreslog en heliocentrisk modell var det början på slutet för den geocentriska världsbilden.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-12-renassansen.json"
+    },
+    {
+      "id": "k12-b7",
+      "avsnitt": "12",
+      "avsnitt_titel": "Renässans",
+      "term": "Heliocentrisk världsbild",
+      "expertdefinition": "Den heliocentriska världsbilden — från grekiskans helios, som betyder sol — säger att solen står i universums centrum och att jorden är en av de planeter som rör sig runt solen. Den polska prästen och astronomen Nikolaus Kopernikus föreslog denna modell i sin bok De revolutionibus orbium coelestium, publicerad år 1543. Kopernikus drivkraft var inte revolutionär utan matematisk — han hade upptäckt att räkningarna gick mycket lättare ihop om solen sattes i centrum. Galileo Galilei bekräftade senare modellen genom observationer med sin kikare. Den heliocentriska modellen utmanade hela medeltidens världsbild och blev ett av de tydligaste exemplen på empirismens framväxt. Den blev också en av anledningarna till att Galileo dömdes av kyrkans inkvisition år 1633.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-12-renassansen.json"
+    }
+  ]
+}

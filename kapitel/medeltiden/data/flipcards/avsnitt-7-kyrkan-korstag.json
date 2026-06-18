@@ -1,0 +1,119 @@
+{
+  "avsnitt": 7,
+  "titel": "Kyrkan, universitet och korståg",
+  "delkapitel": "hog",
+  "version": "1.0",
+  "kort_totalt": 9,
+  "_kommentar": "Flipcards för avsnitt 7 (Kyrkan, universitet och korståg). 3 begreppskort + 4 modellkort + 2 redogörelsekort = 9 kort. Avsnittet är begreppsmagert men idétungt — fokus ligger på universitetens framväxt, kvinnors position i lärdom och korstågens orsaker/konsekvenser. Nivåfördelning ~78% grundlaggande / 22% fordjupning.",
+  "begreppskort": [
+    {
+      "id": "k7-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var TEOLOGI, JURIDIK och MEDICIN på medeltidens universitet?",
+      "svar": "De tre stora ämnena man kunde studera vid medeltidens universitet — efter en grundutbildning i grammatik, logik och retorik. Varje ämne hade sin egen prestige och sin egen stad:\n\n• **Teologi** — läran om Gud. Det viktigaste och mest prestigefyllda ämnet. Centrum: Paris och Oxford. Den som blev doktor i teologi tillhörde Europas intellektuella elit.\n\n• **Juridik** — läran om lagar, både kyrkorätt och världslig rätt. Centrum: Bologna i Italien. Eftertraktade jurister behövdes av kungar, biskopar och städer.\n\n• **Medicin** — läran om sjukdomar och kroppen. Centrum: Salerno och senare Montpellier. Byggde på antika och arabiska texter; teorin om kroppens fyra \"vätskor\" dominerade.\n\nUniversiteten gav alltså Europa specialiserad expertis i tre områden som blev allt viktigare för det växande samhället."
+    },
+    {
+      "id": "k7-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var ett medeltida UNIVERSITET?",
+      "svar": "En sammanslutning av lärda och studenter som fick rättighet att undervisa och utfärda examen — ofta efter tillstånd från påven eller en furste. Universiteten växte fram under hög- och senmedeltiden i städer som Bologna, Paris, Oxford och Cambridge. Studenterna kom från hela Europa och undervisades på latin, ett gemensamt språk för lärda. Universitetet var inte en byggnad — det var en organisation av människor med särskilda privilegier: rätt att döma sina egna studenter, frihet från vissa skatter, skydd för utländska studenter. Universiteten lade grunden för Europas vetenskapliga tradition."
+    },
+    {
+      "id": "k7-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var ett KORSTÅG?",
+      "svar": "Ett heligt krig som påven uppmanade kristna att föra mot icke-kristna, oftast med målet att återta heliga platser — framför allt Jerusalem. Det första korståget utlystes 1095 och de fortsatte i olika omgångar under flera hundra år. Korsfarare lovades **avlat** (eftergift av synder) om de stupade, och deras egendomar skyddades hemma. Men korstågen var inte bara religiösa: bakom låg också ekonomiska, politiska och sociala krafter — yngre adelssöner sökte land och rikedom, italienska sjörepubliker tjänade pengar på transport, och Europa exporterade krig och våld bortom sina gränser."
+    }
+  ],
+  "modellkort": [
+    {
+      "id": "k7-m1",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför växte UNIVERSITETEN fram just under högmedeltiden?",
+      "svar": "Flera saker hände samtidigt:\n\n• **Städerna växte** och behövde fler specialiserade yrken — präster, jurister, läkare. Universiteten utbildade dem.\n\n• **Kyrkan och staten blev mer komplexa.** Lagar måste tolkas, dokument skrivas, teologi prövas. Det krävde utbildade människor.\n\n• **Antika texter återupptäcktes** — framför allt Aristoteles, som hade bevarats i den arabiska världen och nu strömmade tillbaka till Europa via Spanien och Sicilien. Plötsligt fanns ett enormt kunskapsarv att studera.\n\n• **Klosterskolorna** hade redan utvecklat metoder för studier och kopiering av texter. Universitetet byggde vidare på den traditionen.\n\n• **Påven och furstar gav privilegier** — fritagande från skatter, rätt att döma egna studenter, skydd för utländska studerande. Det gjorde att unga män från hela Europa kunde resa till Bologna eller Paris.\n\n**Den stora poängen:** Universitetet växte fram ur en kombination av samhällsbehov (städer och stater behövde experter), ny kunskap (antika texter) och institutionellt skydd (kyrka och stat backade upp). **Stora institutioner uppstår sällan av en orsak — de uppstår när flera krafter pekar åt samma håll.**"
+    },
+    {
+      "id": "k7-m2",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Hur påverkade universitetens framväxt KVINNOR — och varför var Hildegard av Bingen ett undantag?",
+      "svar": "Universiteten var **stängda för kvinnor**. Det är den hårda sanningen.\n\nDen formella vägen till lärdom — undervisning på latin, disputationer, examina — var helt manlig. En kvinna kunde inte bli student vid Bologna eller Paris, inte heller professor. Det innebar att den expertis som universiteten producerade (teologi, juridik, medicin) blev en manlig värld i flera århundraden.\n\nMen lärdom var inte helt stängd för kvinnor. Det fanns en annan väg: **klostret**. I klostret kunde vissa kvinnor lära sig läsa, skriva, sjunga, studera Bibeln och naturen. Det var en smalare och svårare väg — och inte alls samma sak som universitet — men det var en möjlig väg.\n\nHildegard av Bingen (1098–1179) är det mest berömda exemplet. Hon blev en av medeltidens lärda gestalter — hon skrev teologi, komponerade musik, samlade naturläkekonst, brevväxlade med påvar och kejsare, predikade offentligt. **Allt detta gjorde hon från klostret**, inte från universitetet.\n\nMen Hildegard är inte ett bevis på att medeltiden var jämställd. Hon är ett undantag som **bekräftar regeln**. För att hon skulle få plats måste hon hävda gudomliga visioner — bara så kunde hennes ord få tyngd i en värld där kvinnors röster vanligtvis ignorerades. En man kunde gå via skola och universitet. En lärd kvinna behövde tala genom helighet.\n\n**Den djupare insikten:** Universitetens framväxt skapade ny tillgång till kunskap — men gjorde också ett **nytt slags utestängning**. Tidigare hade klosterskolan varit en möjlig väg för kvinnor; nu fanns en högre, prestigefylld kunskapsvärld som var helt manlig. Det är ett tidigt exempel på hur institutionalisering av kunskap kan göra den både mer tillgänglig och mer ojämlik på samma gång."
+    },
+    {
+      "id": "k7-m3",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Vad var KORSTÅGENS orsaker?",
+      "svar": "Korstågen utlöstes inte av en enskild orsak — flera krafter pekade åt samma håll:\n\n• **Religiös motivering.** Påven Urban II uppmanade 1095 kristna att återta heliga platser i östra Medelhavet, framför allt Jerusalem. Korsfarare lovades avlat — eftergift av synder.\n\n• **Den bysantinska hjälpbegäran.** Kejsaren i Konstantinopel bad om militär hjälp mot seldjukturkarna. Påven såg en chans att ena öst- och västkyrkan.\n\n• **Yngre adelssöners situation.** I feodalsystemet ärvde äldste sonen jorden. Yngre söner var militärt tränade men hade ingen mark. Korstågen erbjöd dem chans till äventyr, land och rikedom.\n\n• **Europas inre våld.** Under tidig medeltid hade Europa varit en plats av ständigt internt våld. Korstågen blev ett sätt att **exportera detta våld** bortåt — kanske inte medvetet, men i praktiken.\n\n• **Ekonomiska intressen.** Italienska sjörepubliker (Venedig, Genua) tjänade pengar på transport och handel.\n\n• **Religiös känslighet.** Idéerna om helig kamp, om Jerusalem som det jordiska centrum för Guds rike, hade länge funnits i kristen tradition.\n\n**Den viktiga insikten:** Korstågen var inte bara religion — och inte bara politik och ekonomi. De var alla dessa saker samtidigt. När det är så, är historiska skeenden ofta som starkast."
+    },
+    {
+      "id": "k7-m4",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Vad var KORSTÅGENS konsekvenser?",
+      "svar": "Korstågen lyckades inte med sitt egna huvudmål — Jerusalem var i muslimska händer när korstågen avslutades. Men de fick stora följder på andra sätt:\n\n• **Ökad kontakt med arabvärlden.** Korsfararna mötte en värld som ofta var rikare och mer kunskapsrik än deras egen. Idéer, texter, varor och tekniker fördes tillbaka till Europa.\n\n• **Återupptäckt av antiken.** Aristoteles och andra antika tänkare kom tillbaka till Europa via arabiska översättningar — vilket bidrog till universitetens framväxt och senare till renässansen.\n\n• **Handelns expansion.** De italienska sjörepublikerna (särskilt Venedig och Genua) tjänade enorma pengar och blev maktcentrum.\n\n• **Försvagad bysantinsk värld.** Det fjärde korståget 1204 plundrade till och med Konstantinopel — en kristen huvudstad. Det skapade djup misstro mellan öst- och västkyrkan som finns kvar än idag.\n\n• **Antisemitism.** Korsfarare attackerade judiska samhällen längs vägen, särskilt i Rhenlandet. Det förstärkte en hatkultur som senare kulminerade under digerdöden.\n\n• **Militära tekniker och borgbyggande** spreds från öst till väst.\n\n**Den stora ironin:** Korstågen misslyckades med sitt religiösa mål men förändrade Europa på sätt som ingen av deras initiativtagare hade tänkt sig. **Det är ett mönster i historien — händelser har konsekvenser som ofta är större och annorlunda än det som var avsikten.**"
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "k7-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för universitetens utveckling under högmedeltiden — varför växte de fram, vad studerade man, och vilka var de viktigaste centra?",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar visar förståelse för att universitetens framväxt var en del av en bredare samhällsförändring — inte en isolerad händelse.\n\nUniversitetens framväxt började under 1000- och 1100-talen, i en tid då Europa förändrades på flera sätt: städerna växte, jordbruket var mer effektivt, befolkningen ökade. Med detta växte också behovet av specialiserade yrken — präster, jurister, läkare. Det var dessa universiteten utbildade.\n\nSvaret bör nämna att universiteten ofta växte ur klosterskolorna eller domkyrkoskolorna. De fick särskilda privilegier av påven eller furstar: rätt att utfärda examen, fritagande från skatter, skydd för utländska studenter. Detta gjorde att unga män från hela Europa kunde resa till de stora universiteten och studera där.\n\nDe stora ämnena var teologi (läran om Gud), juridik (lagar) och medicin (sjukdomar och kroppen). Varje ämne hade sin egen centra:\n\n• **Teologi** — Paris och Oxford. Det viktigaste och mest prestigefyllda ämnet.\n• **Juridik** — Bologna i Italien. Hit reste studenter från hela Europa för att lära sig både kyrkorätt och världslig rätt baserad på romersk lag.\n• **Medicin** — Salerno och Montpellier. Mycket av kunskapen hade arabiska rötter, översatt från arabiska till latin i Spanien och Sicilien.\n\nEn viktig faktor var **återupptäckten av antika texter**. Aristoteles och andra hade bevarats i den arabiska världen och kom nu tillbaka till Europa. Det gav universiteten ett enormt kunskapsarv att studera.\n\nEtt fördjupande svar kan reflektera över att universiteten var helt mansdominerade — kvinnor fick inte studera där. Det skapade en ny typ av utestängning. Tidigare hade klosterskolan varit en möjlig väg för kvinnor; nu fanns en högre prestigefylld kunskapsvärld som var helt manlig. Hildegard av Bingen är ett undantag som bekräftar regeln — hon blev en lärd gestalt, men från klostret, inte universitetet.",
+      "stodlarare": {
+        "stodord": [
+          "universitet",
+          "teologi",
+          "juridik",
+          "medicin",
+          "Bologna",
+          "Paris",
+          "Aristoteles",
+          "klosterskola"
+        ],
+        "startfraser": [
+          "Universiteten började växa fram under 1000- och 1100-talen som en följd av ...",
+          "De tre stora ämnena man studerade var ...",
+          "Varje ämne hade sina egna prestigefyllda centra: ...",
+          "En viktig faktor bakom universitetens framväxt var återupptäckten av ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar: 1) varför universitet växte fram (samhällsbehov, antika texter, institutionellt stöd), 2) vad man studerade och var, 3) en reflektion om vem som fick studera (alla män; kvinnor utestängdes). Använd konkreta exempel och stadsnamn."
+      }
+    },
+    {
+      "id": "k7-r2",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för korstågens orsaker och konsekvenser. Visa hur de hängde ihop med både religion, politik och ekonomi.",
+      "ungefarlig_tid_min": 12,
+      "modellsvar": "Ett gott svar visar att korstågen inte bara handlade om religion — utan om hur religion, makt och ekonomi vävdes samman i en stor historisk händelse.\n\n**Orsaker.** Korstågen utlöstes 1095 när påven Urban II uppmanade kristna att återta heliga platser i östra Medelhavet, framför allt Jerusalem. Men bakom den religiösa kallelsen fanns flera lager:\n\nDen direkta utlösningen var en hjälpbegäran från kejsaren i Konstantinopel — han bad om militär hjälp mot seldjukturkarna. Påven såg en chans att stärka påvedömets makt, ena öst- och västkyrkan och kanalisera Europas inre våld utåt.\n\nDessutom skapade feodalsystemet en stor grupp **yngre adelssöner** som var militärt tränade men inte ärvde någon mark. För dem var korstågen en chans till äventyr, land och rikedom. Korsfararna lovades dessutom **avlat** — eftergift av synder — om de stupade.\n\nDe italienska sjörepublikerna (Venedig, Genua) såg också ekonomiska möjligheter. De kunde tjäna pengar på transport, leverera vapen och förnödenheter, och få handelsrättigheter i östra Medelhavet.\n\n**Konsekvenser.** Korstågen lyckades inte med sitt huvudmål — Jerusalem var i muslimska händer när de avslutades. Men de förändrade Europa på sätt som ingen hade tänkt sig:\n\n• **Kunskapsöverföring från arabvärlden.** Korsfararna mötte en värld som ofta var rikare och mer kunskapsrik än deras egen. Idéer, texter, varor och tekniker fördes tillbaka. Aristoteles och andra antika tänkare kom tillbaka till Europa via arabiska översättningar — vilket bidrog till universitetens framväxt och senare till renässansen.\n\n• **Handelns expansion.** De italienska sjörepublikerna blev enormt rika och växte till maktcentrum. Detta hänger ihop med handelsutvecklingen i Norditalien som driver fram bankväsendet och städernas framväxt.\n\n• **Försvagad bysantinsk värld.** Det fjärde korståget 1204 plundrade Konstantinopel — en kristen huvudstad. Det skapade djup misstro mellan öst- och västkyrkan.\n\n• **Antisemitism.** Korsfarare attackerade judiska samhällen längs vägen, särskilt i Rhenlandet. Det förstärkte en hatkultur som senare kulminerade under digerdöden.\n\nEtt fördjupande svar bör avsluta med en reflektion om vad detta säger om historien. Korstågen visar att stora händelser sällan har en enda orsak och nästan aldrig de konsekvenser som var avsikten. Religiösa motiv vävdes ihop med ekonomiska och politiska intressen. Och de viktigaste följderna — universitetens framväxt, italienska bankväsendet, religionsfördjupning mellan öst och väst — hade ingen av påvens predikningar 1095 förutsett.\n\nDet är ett tydligt exempel på att **stora historiska skeenden ofta växer ur en blandning av motiv, och får konsekvenser som vi bara förstår långt efteråt.**",
+      "stodlarare": {
+        "stodord": [
+          "korståg",
+          "Jerusalem",
+          "Urban II",
+          "avlat",
+          "yngre adelssöner",
+          "Venedig",
+          "Aristoteles",
+          "antisemitism"
+        ],
+        "startfraser": [
+          "Korstågen utlöstes 1095 när påven Urban II uppmanade ...",
+          "Men bakom den religiösa kallelsen fanns flera lager — bland annat ...",
+          "De viktigaste konsekvenserna av korstågen var ...",
+          "Det här visar att religion, politik och ekonomi ofta vävs samman i ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i två huvuddelar: orsaker (religiösa, politiska, ekonomiska, sociala) och konsekvenser (kunskapsöverföring, handel, religiös splittring, antisemitism). Avsluta med en bredare reflektion om att stora händelser sällan har enkla orsaker eller väntade konsekvenser. Använd konkreta exempel och årtal."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "kapitel_id": "medeltiden",
+  "kapitel_titel": "Medeltiden",
+  "version": 1,
+  "skapad": "2026-06-19",
+  "kommentar": "Begrepp för avsnitt 7 (Kyrkan, universitet och korståg). 3 begrepp som täcker de tre stora ämnen man studerade vid medeltidens universitet: teologi, juridik och medicin. Korstågen och universitetens framväxt i sig själva behandlas mer som händelser och perspektiv, inte som fackvokabulär.",
+  "upplasning": {
+    "min_ord": 8,
+    "anvand_nyckelord": false,
+    "beskrivning": "Plattformsstandard: eleven måste skriva minst 8 ord innan expertdefinitionen låses upp."
+  },
+  "begrepp": [
+    {
+      "id": "k7-b1",
+      "avsnitt": "7",
+      "avsnitt_titel": "Kyrkan, universitet och korståg",
+      "term": "teologi",
+      "expertdefinition": "Läran om Gud — det viktigaste och mest prestigefyllda ämnet vid medeltidens universitet. Teologi handlade om att förstå Bibeln, kyrkans lära, treenigheten, frälsningen och människans relation till Gud. Studierna byggde på den scholastiska metoden: man läste auktoritativa texter (Bibeln, kyrkofäderna, Aristoteles), ställde frågor, vägde argument för och emot, och försökte komma fram till välunderbyggda slutsatser. Att vara teolog var inte att vara präst i en församling — det var att vara expert på den högsta kunskapen om Gud. Den som blev doktor i teologi vid Paris eller Oxford tillhörde Europas intellektuella elit.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-7-kyrkan-korstag.json"
+    },
+    {
+      "id": "k7-b2",
+      "avsnitt": "7",
+      "avsnitt_titel": "Kyrkan, universitet och korståg",
+      "term": "juridik",
+      "expertdefinition": "Läran om lagar — ett av de tre stora universitetsämnena under medeltiden. Juridiken delades i två huvuddelar: kyrkorätt (lagar om kyrkan, äktenskap, arv, synder) och världslig rätt, ofta baserad på återupptäckta romerska lagtexter. Universitetet i Bologna i Italien blev tidigt Europas viktigaste juridiska skola, dit studenter reste från hela kontinenten. En utbildad jurist var en eftertraktad person — kungar, biskopar och städer behövde någon som kunde tolka och tillämpa lagar. Juridikens framväxt under hög- och senmedeltiden bidrog till mer organiserade stater där lag, inte bara svärd, kunde styra.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-7-kyrkan-korstag.json"
+    },
+    {
+      "id": "k7-b3",
+      "avsnitt": "7",
+      "avsnitt_titel": "Kyrkan, universitet och korståg",
+      "term": "medicin",
+      "expertdefinition": "Läran om sjukdomar, kroppen och dess botemedel — det tredje stora universitetsämnet. Medeltidens medicin byggde på antika författare som Galenos och Hippokrates, blandat med arabiska medicinska texter översatta i Spanien och Sicilien. Teorin om kroppens fyra 'vätskor' (blod, slem, gul galla, svart galla) som måste vara i balans dominerade. Läkare studerade flera år, kunde latin och hade hög status — men deras faktiska kunskap om sjukdomar var ofta begränsad. Universitetet i Salerno i Italien och senare Montpellier i Frankrike var berömda medicinska skolor. Under digerdöden stod denna medicin maktlös, eftersom man inte visste något om bakterier.",
+      "kallfil": "data/flipcards/medeltiden/avsnitt-7-kyrkan-korstag.json"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+# Plattforms-ändringar — Alphaskolans lärplattform
+
+> Pedagogisk arbetsdagbok. Här samlas observationer som *kan* påverka 
+> plattformen — innan de blir formella ändringar. Förhindrar drift 
+> mellan böcker och kapitel.
+
+**Starta varje arbetsdag med att kolla 🔵-listan.** 
+**Veckogenomgång:** söndagar (eller när 🔵-listan har 3-5 poster).
+
+---
+
+## Snabbreferens — tre typer av ändringar
+
+| Typ | Vad | Hantering |
+|---|---|---|
+| **A** Innehåll | Texten i ett avsnitt, en bild, en faktaformulering | Fixa direkt. Gå vidare. Hör inte hemma här. |
+| **B** Mönster | Hur en komponent ser ut eller fungerar (flikar, kort, navigation) | Lägg i 🔵-listan nedan. Ändra INTE direkt i boken. |
+| **C** Plattform | Pedagogisk modell (trösklar, lägen, korttyper, kunskapskrav-modell) | Lägg i 🔵-listan nedan. Ändra INTE direkt i boken. |
+
+**Tumregel:** Om upptäckten kan tänkas påverka *ett annat avsnitt eller en annan bok* → det är B eller C. Skriv ner.
+
+---
+
+## Statuskoder
+
+| Symbol | Betydelse |
+|---|---|
+| 🔵 | Ny observation — att bedöma på nästa veckogenomgång |
+| 🟡 | Beslutat — väntar på implementation |
+| 🟢 | Implementerat i plattformsspec — väntar migration av befintliga böcker |
+| ✅ | Klart överallt |
+| ⏸️ | Pausat / skjutet framåt |
+| ❌ | Förkastat efter övervägande |
+
+---
+
+## 🔵 Aktiv lista — att bedöma
+
+| Datum | Typ | Var upptäckt | Observation | Förslag |
+|---|---|---|---|---|
+| 2026-06-15 | C | Historiabok-omstart | 13 JS-moduler har `geo-` hårdkodat som localStorage-prefix; 6 moduler defaultar ämne till `geografi`. Ingen central konfigurationspunkt. | Gemensam `AMNE_PREFIX`-mekanism i plattformskomponenterna. Geografi `geo` (bakåtkompat), Historia `hist`. Berörda: elevbok, egna-fragor, avsnitt, avsnitt-elevbok, kapitel-elevbok, kapitel-begreppsbank, amne-elevbok, amne-begreppsbank, sjalvskattning-vy, elevdata-overforing, flipcards, sparning, elevbok-stodlarare (avaktiverad). |
+| 2026-06-15 | C | Historiabok-omstart | Accentmodellen skiljer sig mellan böcker: i Geografi bor `--accent`/`--accent-2` i en kapitel-override (geologi.css), men Historia behöver dem på bok-nivå (historia.css) som bokidentitet. CLAUDE.md beskriver inte denna spegelvändning tydligt. | Förtydliga i plattformsspec/CLAUDE.md: bok-override (accenter) vs kapitel-override (max 2 extra färger). Historiabok har redan löst det via css/historia.css. |
+| 2026-06-15 | C | Historiabok-omstart | `forelasningar.js` och `avsnitt-elevbok.js` har hårdkodade `fetch('data/…')`-sökvägar relativt sidan. Fungerar i Geografi (data/ är syskon, 2 nivåers nesting) men bryter när sidnesting blir djupare. Historia har 4 nivåers nesting (kapitel/medeltiden/delkapitel/tidig/avsnitt-…html), där data/ ligger två nivåer upp. `flipcards.js` är OK (sökväg via `data-fil`-attribut) men dess BILD_BAS `../../img/` har samma problem. | Generaliseras **tillsammans med AMNE_PREFIX-arbetet** (samma moduler berörs): konfigurerbar bas-sökväg eller relativ-till-rot, alternativt `data-`-attribut som flipcards. Berör alla böcker med >2 strukturnivåer. |
+| 2026-06-16 | C | Historiabok, Folkvandring-integration | Innehållsproduktionens per-avsnitt-JSON (fragor/begreppsbank/matris) har en rikare/annan schema-form än plattformens nuvarande JS konsumerar. Ex: `elevbok-fragor-avsnitt-1.json` har `avsnitt` som sträng + `fragor` på toppnivå med `grupp`/`rubrik`/`stodtext`/`policy`, men `avsnitt-elevbok.js` förväntar `data.avsnitt` som array filtrerad på `id` + `typ`-fält. Begreppsbank (etymologi) och matris (skalor, policy) liknande. Arbetsordern la dessutom elevbok/matris-källor i undermappar (`data/elevbok/`, `data/matris/`) medan CLAUDE.md/JS använder platt `data/`. | Aligna i samma svep som AMNE_PREFIX + datasökväg: fastställ kanoniskt JSON-schema (uppdatera plattforms-JS att läsa de rikare per-avsnitt-filerna, ELLER definiera ett dokumenterat aggregations-/transformsteg) och kanonisk placering (platt `data/`). Tills dess hålls käll-JSON orörda; de flata skeletten (fragor/begreppsbank/matris.json) är tomma `{}`. |
+| 2026-06-17 | Process | Ramverks-chatten, KOMPONENTER/LEVERANSGUIDE-INNEHALL | Ramverks-chatten dokumenterade fordj-kort-komponenten fel **två gånger** genom att läsa HTML-källan istället för att kontrollera mot CSS (faktisk rendering). | Komponentdokumentation ska verifieras mot faktisk rendering (CSS + webbläsare), inte bara HTML-källkod. Process-justering: ramverks-chatten ber Code verifiera CSS-stödet innan en komponent dokumenteras. |
+
+*(Tom rad ovan är till för nya poster — fyll på underifrån)*
+
+### Exempel på hur en post fylls i:
+
+| Datum | Typ | Var upptäckt | Observation | Förslag |
+|---|---|---|---|---|
+| 2026-06-15 | C | Demografi-pilot, klassrum | 15 ord + nyckelord = för högt tröskel. Eleverna skrev korrekt men "fel" ord, blev blockerade. | 8 ord, inga nyckelord, dynamisk upplåsning |
+
+---
+
+## 🟡 Beslutat — väntar implementation
+
+| Datum | Beslut | Påverkar | Status |
+|---|---|---|---|
+| 2026-06-15 | Begreppsbank: 15→8 ord, inga nyckelord, dynamisk upplåsning | Demografi-pilot, alla framtida ämnen | Arbetsorder skickad till Code |
+| 2026-06-14 | Föreläsning blir egen flik bredvid Läs | Geologi, alla framtida avsnitt | Väntar tills Geologi-innehåll klart |
+| 2026-06-14 | Historia byter till plattformens fonter (Marcellus SC + EB Garamond) | Historiabok Projekt 4 (50 filer) | Väntar tills Medeltiden är klar som ny mall |
+| 2026-06-14 | Historia använder kapitel→delkapitel→avsnitt-terminologi | Hela Historiaboken | Migreras med Projekt 4 |
+
+---
+
+## 🟢 Implementerat i spec — väntar migration
+
+| Datum | Ändring | Spec-version | Migration kvar |
+|---|---|---|---|
+| 2026-06-15 | Plattformsspec för elevbok/begreppsbank/självskattning/elevdata | Lager 2-3 v0.1 | Geografi: harmoniseras till `as-`-prefix vid BEM-migration |
+| 2026-06-17 | **Typ C:** `kapitel-begreppsbank.js` defaultar till `data/begreppsbank-{kapitel}.json` (kapitel-id-suffix), men Historias samlade fil heter `data/begreppsbank.json` → tom begreppsbank. **Lokal fix:** `window.BEGREPP_URL = 'data/begreppsbank.json'` satt explicit i `kapitelbegreppsbank.html` (samma mönster som `MATRIS_URL`). | Lokal fix (ej i spec än) | **Plattformsförslag:** `kapitel-begreppsbank.js` bör defaulta till `data/begreppsbank.json`, alt. läsa URL från `delkapitel-lista.json`. Påverkar Religion, Samhällskunskap, NO och alla framtida böcker som inte följer Geografis arvegodsmönster (`{kapitel}`-suffix). |
+
+---
+
+## ⏸️ Pausat / skjutet framåt
+
+| Datum | Vad | Anledning |
+|---|---|---|
+| 2026-06-10 | Elevbok-stödläraren | Eleverna skriver i frågerutorna, inte i sammanfattning. Återupptas om elevbehov dyker upp. |
+| 2026-06-14 | Dark mode | Vintageatlas-paletten är hela designens kärna. Bryts av dark mode. |
+| 2026-06-14 | AI-stöd i läromedlet | Tills kostnadseffektiv lösning finns. |
+
+---
+
+## ✅ Klart överallt (för historik)
+
+| Datum | Ändring |
+|---|---|
+| 2026-06-14 | Geografibokens palett kodifierad som plattformens Lager 1 |
+| 2026-06-14 | Marcellus SC + EB Garamond låsta på plattformsnivå |
+| 2026-06-14 | Geografi-piloten klar (6 avsnitt × 3 nivåer, 145 flipcards, 11 djupdykningar) |
+
+---
+
+## ✅ Genomfört
+
+| Datum | Typ | Ändring | Påverkar | Status |
+|---|---|---|---|---|
+| 2026-06-17 | B | Kapitelverktygs- och självskattningslayout kopierad från Geografi till Historia. Sidorna fick Geografis sid-chrome (`titelblock`, `ornament-rad`, `sektion-avgransare`/`resurser-rad`) och sidopanels-layout (`kelev-layout` + `kelev-nav` + `kelev-innehall`, `kelev-sokrad`, `kelev-stats`) samt korrekta mount-id:n. **Ingen CSS-ändring** (alla klasser fanns redan i `css/geografi.css`). **Ingen JS-ändring** (Historias kapitel-JS hade redan identiskt DOM-kontrakt med Geografi). Historia-innehåll bevarat: brödsmulor, medeltids-avsnitt, kapitel-prefixade filnamn, MATRIS_URL. **Accenter bevarade** via `css/historia.css` (`--accent: #5a1a2a`, `--accent-2: #7a5a2e`) — `geologi.css` länkas ej. Bonus: `kapitelelevbok.html` och `kapitelbegreppsbank.html` var felkopplade (`#…-host` mot JS som letar `#…-verktyg/-nav/-innehall`) och fungerar nu. | Historiabok/medeltiden (4 sidor). Mönster återanvändbart för alla ämnen med kapitel-verktygssidor. | ✅ Verifierat http: alla sidor + data + JS 200 |
+| 2026-06-17 | C | fordj-kort-strukturen dokumenterad i `KOMPONENTER-INNEHALL.md` (ramverks-chatten). Inventering av djupdyknings-sektionen i Historias 8 avsnitt (tidig 1–4 + hög 5–8) bekräftade att alla redan har korrekt kanonisk inre struktur (`fordj-kort-ikon` + `fordj-kort-text` > `fordj-kort-titel`/`fordj-kort-sammanfattning`, inline-spans, riktiga emojis). Ingen `<h3>`/`<p>`-bugg kvar (avsnitt 7–8 fixade i tidigare arbetsorder). **Ingen filändring behövdes.** Rubriken behålls som `<span class="sektion-label">` — kanonisk struktur enligt KOMPONENTER-INNEHALL.md v1.1 för nya böcker. (Geografis `<h2>` renderas korrekt via CSS och är acceptabel legacy — verifierat visuellt på live-Geografi.) | Historiabok/medeltiden, avsnitt 1–8 | ✅ Inventerat, 0 filändringar |
+
+**Fil-mappning (Geografi → Historia) — för spårbarhet om samma sak dyker upp i annat ämne:**
+
+| Geografi `delkapitel/{namn}/` | Historia `kapitel/{kapitel}/` | Mount-id:n (JS-kontrakt) |
+|---|---|---|
+| `index.html` | `index.html` | — (statisk; `resurser-rad` med 3 `resurs-kort`) |
+| `elevbok.html` | `kapitelelevbok.html` | `kapitel-elevbok-verktyg/-nav/-innehall` |
+| `begreppsbank.html` | `kapitelbegreppsbank.html` | `kapitel-begreppsbank-verktyg/-sok/-nav/-innehall` |
+| `sjalvskattning.html` | `sjalvskattning.html` | `sjalvskattning-verktyg/-statistik/-nav/-innehall` |
+
+> **Obs (kvarstående, ej layout):** Historias kapitel (`medeltiden`) spänner flera delkapitel (tidig/hög), medan Geografis modell antar ett delkapitel = en lagrings-namespace. `kapitelelevbok.html` sätter `DELKAPITEL_ID='medeltiden'` → elevsvar skrivna här synkar inte med per-avsnitt-svar (`geo-elev-svar-tidig`/`-hog`). Funktionell hierarki-fråga för ramverks-chatten, separat från denna layout-ändring.
+
+---
+
+## ❌ Förkastat
+
+| Datum | Förslag | Anledning |
+|---|---|---|
+| | | |
+
+---
+
+## Veckogenomgång — söndag (eller när 🔵-listan har 3-5 poster)
+
+**Tid:** ~30 minuter
+
+**Steg:**
+
+1. **Gå igenom 🔵-listan post för post.**
+   - För varje: är det A (fel kategori — flytta ut)? B eller C (rätt)?
+   - Bedöm pedagogiskt: är det rätt riktning?
+   - Bedöm omfattning: är det en isolerad ändring eller pekar det på något större?
+
+2. **Tre möjliga utfall per post:**
+   - 🟡 **Godkänd** → flytta till 🟡-listan + skapa arbetsorder till ramverks-chatten
+   - ❌ **Förkastad** → flytta till ❌-listan med kort motivering
+   - 🔵 **Behöver mer underlag** → behåll i 🔵, anteckna vad som behöver utforskas först
+
+3. **Granska 🟡-listan:**
+   - Vilka kan släppas till implementation den här veckan?
+   - Vilka väntar på något (t.ex. annan komponent klar)?
+   - Finns det blockeringar att hantera?
+
+4. **Granska 🟢-listan:**
+   - Vilka migrationer ska göras den här veckan?
+   - Behövs prioritering om kö växer?
+
+5. **Reflektera över mönster:**
+   - Dyker liknande observationer upp upprepade gånger?
+   - Då pekar de mot något större — kanske en arkitektur-ändring snarare än enskild komponent.
+
+**När det är klart:** stäng filen, fortsätt arbeta tryggt vetande att inget glöms.
+
+---
+
+## Regler
+
+**1. Ändra aldrig direkt i en bok när du upptäcker B eller C.**
+Lägg i 🔵-listan. Geologi-kapitlet får ha sin ofullständighet en dag till.
+
+**2. Innehållsproduktion-chatten lägger till i 🔵.**
+Den ändrar aldrig plattformen själv.
+
+**3. Ramverks-chatten är den som flyttar mellan listor.**
+Veckogenomgång görs där.
+
+**4. Code-chatten implementerar 🟡 och 🟢.**
+Den uppdaterar inte den här filen — det gör ramverks-chatten efter Code rapporterat klart.
+
+**5. När i tvivel — skriv ner.**
+Hellre en post för mycket än en ändring som glöms.

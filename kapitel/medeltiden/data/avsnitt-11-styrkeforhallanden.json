@@ -1,0 +1,47 @@
+{
+  "delkapitel": "sen",
+  "avsnitt_id": "a11_styrkeforhallanden",
+  "avsnitt_titel": "Förändrade styrkeförhållanden",
+  "begrepp": [
+    {
+      "id": "k11-b1",
+      "ord": "Riddare",
+      "definition": "En riddare var en tungt bepansrad ryttare som hörde till adelsklassen. Under stora delar av medeltiden var riddaren Europas mäktigaste militära symbol. En riddare var inte bara soldat — han var också adelsman, jordägare och en del av det feodala systemet. Att utbilda en riddare tog över ett decennium. Hans utrustning — häst, rustning, vapen — var dyr och krävde flera tjänare för underhåll. Under senmedeltiden började riddarens militära dominans försvagas när nya vapen och taktiker växte fram. Riddaren försvann inte, men hans roll förändrades. Han blev en av flera viktiga soldatkategorier istället för slagfältets självklara herre."
+    },
+    {
+      "id": "k11-b2",
+      "ord": "Piken",
+      "definition": "Piken var ett långt spjut, ofta 4–6 meter, som användes av fotsoldater i tät formation. När en grupp pikenerare ställde sig sida vid sida och pekade sina pikar utåt blev de en mur som riddare till häst hade svårt att bryta igenom. Pikenformationer användes med stor framgång av schweiziska och flamländska soldater under senmedeltiden. Piken var billig att tillverka jämfört med en riddarrustning, och vanliga bönder kunde tränas att använda den effektivt. Detta var en av flera tekniska förändringar som gjorde att riddarens dominans på slagfältet började brytas under senmedeltiden."
+    },
+    {
+      "id": "k11-b3",
+      "ord": "Artilleri",
+      "definition": "Artilleri är samlingsnamnet för stora vapen som skjuter projektiler — i medeltiden främst kanoner som drevs av krut. Krutet kom ursprungligen från Kina och nådde Europa via arabvärlden under 1200- och 1300-talen. När man under senmedeltiden började gjuta större och mer pålitliga kanoner förändrades krigföringen för alltid. Stadens murar och borgarna, som hade varit nästan oövervinnliga under tidigare delar av medeltiden, kunde nu skjutas sönder med kanoneld. Den franska kungens artilleri var en av anledningarna till att Frankrike kunde driva ut engelsmännen i slutet av hundraårskriget. Artilleriet var dyrt — bara starka kungar och rika städer hade råd med det. Detta bidrog till att kungamakten stärktes på adelns bekostnad."
+    },
+    {
+      "id": "k11-b4",
+      "ord": "Stående armé",
+      "definition": "En stående armé är en militärstyrka som är permanent anställd av staten — soldater som tränas, betalas och utrustas regelbundet, även i fredstid. Detta var något nytt under senmedeltiden. Tidigare hade kungar oftast samlat en armé bara när krig hotade, genom att kalla in adelns riddare och deras tjänare. Med en stående armé fick kungen kontroll över en soldatkategori som inte var beroende av adeln. Detta krävde stora skatter och en effektiv förvaltning. Den franska kungens införande av en stående armé under hundraårskriget är ett tidigt exempel. Stående arméer var en av flera utvecklingar som flyttade makt från adeln till kungen."
+    },
+    {
+      "id": "k11-b5",
+      "ord": "Legosoldater",
+      "definition": "Legosoldater är yrkessoldater som anställs mot betalning, ofta för en specifik konflikt eller fältslag. Till skillnad från riddare som kämpade för sin herre av lojalitet och plikt, kämpade legosoldater för pengar. De kom ofta från fattiga områden där krig var ett sätt att försörja sig. Under senmedeltiden växte legosoldatkompanier i betydelse — skickliga schweiziska, tyska och italienska legosoldater anställdes av kungar, städer och adelsmän i hela Europa. Legosoldater var farliga men effektiva, och de gjorde det möjligt även för mindre rika herrar att samla en stor armé snabbt. Samtidigt var de opålitliga: om en motståndare bjöd mer kunde de byta sida."
+    },
+    {
+      "id": "k11-b6",
+      "ord": "Livegna",
+      "definition": "Livegna var bönder som var bundna till jorden och till en godsherre. En livegen bonde var inte slav, men han eller hon kunde inte fritt flytta, gifta sig utan herrens tillstånd eller välja yrke. Livegenskapen hade vuxit fram under tidig medeltid som en del av det feodala systemet. Efter digerdöden, när befolkningen minskat och arbetskraften blivit värdefullare, började livegenskapen försvagas på många håll i Västeuropa. Bönder krävde högre löner och bättre villkor. När godsherrar försökte hålla fast vid det gamla systemet ledde det ibland till uppror — som det engelska bondeupproret 1381. På längre sikt försvann livegenskapen i större delen av Västeuropa, även om den fortsatte längre i Östeuropa."
+    },
+    {
+      "id": "k11-b7",
+      "ord": "Schism",
+      "definition": "En schism är en splittring inom en religiös organisation. I detta avsnitt handlar det om den västliga schismen 1378–1417, då katolska kyrkan hade två och senare tre rivaliserande påvar samtidigt. Schismen började när kardinalerna ångrade sitt val av påven Urban VI och valde en motpåve, Clemens VII, som flyttade till Avignon. Europa delades efter politiska lojaliteter — Frankrike stödde Avignonpåven, England stödde Rompåven. Konciliet i Konstanz 1414–1418 löste till slut krisen genom att avsätta de rivaliserande påvarna och välja Martin V. Men kyrkans auktoritet hade skadats. När människor sett två eller tre påvar samtidigt blev det svårare att tro på kyrkans självklara makt. Detta är en annan schism än den 1054 mellan väst- och östkyrkan."
+    },
+    {
+      "id": "k11-b8",
+      "ord": "Universitet",
+      "definition": "Universitet är högre utbildningsinstitutioner som växte fram under medeltiden i städer som Paris, Bologna och Oxford (se avsnitt 7). Under senmedeltiden fick universiteten en delvis ny roll. Skolastiska tänkare som universitetslärare började allt mer ifrågasätta kyrkans tolkningsmonopol. Att en allmän kunskapsdiskussion fördes vid universiteten — där olika åsikter prövades med logik och argument — bidrog till att försvaga kyrkans självklara auktoritet. När empirismen senare började växa fram under renässansen var universiteten en av platserna där det nya tänkandet kunde diskuteras. Universiteten både upprätthöll och utmanade den medeltida världsbilden samtidigt."
+    }
+  ]
+}

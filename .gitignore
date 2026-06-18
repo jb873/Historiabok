@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+node_modules/
+STATUS.md
+TODO.md
+
+# Artefakter (ej del av arbetet)
+js.zip
+# Nästlad stub-repo från oavsiktligt git init
+/Historiabok/

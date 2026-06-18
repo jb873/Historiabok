@@ -1,0 +1,58 @@
+{
+  "delkapitel": "sen",
+  "avsnitt_id": "a10_kina",
+  "avsnitt_titel": "Kina",
+  "kort": [
+    {
+      "id": "fc10-b1",
+      "typ": "begreppskort",
+      "fram": "Sidenvägen",
+      "bak": "Ett nätverk av handelsvägar mellan Kina, Centralasien, Persien, Arabvärlden och Europa. Nådde sin höjdpunkt under mongolväldets fred 1200–1350. Längs vägen färdades siden, kryddor, porslin, papper, krut, kompass, idéer och religioner — men också sjukdomar som digerdöden."
+    },
+    {
+      "id": "fc10-b2",
+      "typ": "begreppskort",
+      "fram": "Siden",
+      "bak": "Ett mjukt och glansigt tyg som tillverkas av silkesmaskens kokongtrådar. Kineserna upptäckte tekniken flera tusen år före vår tideräkning och bevakade hemligheten noga. I medeltidens Europa var siden en statussymbol — använt av kungar, drottningar, höga prästmän och rika köpmän."
+    },
+    {
+      "id": "fc10-b3",
+      "typ": "begreppskort",
+      "fram": "Bank",
+      "bak": "Institution som hanterar pengar — tar emot insättningar, lånar ut till lån, möjliggör betalningar över avstånd. De första moderna bankerna växte fram i italienska handelsstäder som Florens, Venedig och Genua under senmedeltiden, byggda på en finansiell tradition från arabvärlden."
+    },
+    {
+      "id": "fc10-b4",
+      "typ": "begreppskort",
+      "fram": "Växelbrev",
+      "bak": "Finansiellt dokument som intygar att pengar är insatta på ett ställe och kan tas ut på ett annat — en tidig version av check eller överföring. Italiensk uppfinning från senmedeltiden som gjorde fjärrhandel mycket säkrare. Köpmän kunde betala i en stad och få pengarna utbetalda i en annan, ofta i en annan valuta."
+    },
+    {
+      "id": "fc10-m1",
+      "typ": "modellkort",
+      "fram": "Förklara hur Kinas uppfinningar förändrade Europa",
+      "bak": "Tre kinesiska uppfinningar som påverkade Europa starkt:\n\n1. KRUT → kanoner och artilleri → ändrar krigföringen, gör borgar mindre effektiva, stärker kungamakten.\n\n2. KOMPASSEN → säkrare sjöfart → möjliggör senare upptäcktsresorna.\n\n3. TRYCKKONSTEN (papper och tryck) → snabbare spridning av idéer → möjliggör senare renässansen och reformationen.\n\nAlla tre uppfinningarna kom västerut via Sidenvägen och arabvärlden."
+    },
+    {
+      "id": "fc10-r1",
+      "typ": "redogorelsekort",
+      "fram": "Redogör för hur fjärrhandel med lyxvaror påverkade Europa",
+      "stodord": [
+        "rikedom",
+        "italienska handelsstäder",
+        "Florens",
+        "Venedig",
+        "Genua",
+        "bank",
+        "växelbrev",
+        "statussymbol"
+      ],
+      "startfraser": [
+        "Fjärrhandeln med lyxvaror påverkade Europa på flera sätt...",
+        "De italienska handelsstäderna blev rika tack vare...",
+        "När siden, kryddor och andra lyxvaror flödade in i Europa..."
+      ],
+      "tip_for_struktur": "Börja med att beskriva varorna och varifrån de kom (siden, kryddor, porslin från Kina och Asien). Förklara sedan vilka som tjänade pengar (de italienska handelsstäderna). Gå vidare till de finansiella konsekvenserna (bankerna och växelbreven uppstod). Avsluta med långsiktiga effekter — rikedomen finansierade senare renässansens konstnärer och tänkare."
+    }
+  ]
+}

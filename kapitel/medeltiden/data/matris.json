@@ -1,0 +1,284 @@
+{
+  "kapitel_id": "medeltiden",
+  "kapitel_titel": "Medeltiden",
+  "version": 3,
+  "skapad": "2026-06-17",
+  "kommentar": "Självskattningsmoment för hela Medeltiden (en matris.json per kapitel). Tidig medeltid: avsnitt 1–4. Högmedeltiden: avsnitt 5–8.",
+  "skattningsalternativ": [
+    {
+      "id": "kan",
+      "label": "Kan",
+      "farg": "gron"
+    },
+    {
+      "id": "osaker",
+      "label": "Osäker",
+      "farg": "gul"
+    },
+    {
+      "id": "kan_ej",
+      "label": "Kan ej",
+      "farg": "rod"
+    },
+    {
+      "id": "ej_bedomt",
+      "label": "Ej gjort bedömning",
+      "farg": "ljus",
+      "default": true
+    }
+  ],
+  "moment": [
+    {
+      "id": "medeltiden-1-m1",
+      "avsnitt": "1",
+      "avsnitt_titel": "Folkvandring",
+      "kategori": "begrepp",
+      "moment": "Du kan namnge de viktiga grupperna som folkvandrade"
+    },
+    {
+      "id": "medeltiden-1-m2",
+      "avsnitt": "1",
+      "avsnitt_titel": "Folkvandring",
+      "kategori": "fardighet",
+      "moment": "Du kan beskriva hur de påverkat språket i Europa"
+    },
+    {
+      "id": "medeltiden-2-m1",
+      "avsnitt": "2",
+      "avsnitt_titel": "Kyrkan",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för kyrkans betydelse för kulturen i västra Europa"
+    },
+    {
+      "id": "medeltiden-2-m2",
+      "avsnitt": "2",
+      "avsnitt_titel": "Kyrkan",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för skillnaderna mellan Västrom och Östrom"
+    },
+    {
+      "id": "medeltiden-2-m3",
+      "avsnitt": "2",
+      "avsnitt_titel": "Kyrkan",
+      "kategori": "begrepp",
+      "moment": "Du kan beskriva splittringen av kyrkan år 1054"
+    },
+    {
+      "id": "medeltiden-3-m1",
+      "avsnitt": "3",
+      "avsnitt_titel": "Arabvärlden och Karl den store",
+      "kategori": "begrepp",
+      "moment": "Du kan beskriva den arabiska expansionen"
+    },
+    {
+      "id": "medeltiden-3-m2",
+      "avsnitt": "3",
+      "avsnitt_titel": "Arabvärlden och Karl den store",
+      "kategori": "fardighet",
+      "moment": "Du kan beskriva på vilket sätt araberna var viktiga i bevarandet av antikens kunskap"
+    },
+    {
+      "id": "medeltiden-3-m3",
+      "avsnitt": "3",
+      "avsnitt_titel": "Arabvärlden och Karl den store",
+      "kategori": "begrepp",
+      "moment": "Du kan beskriva alliansen mellan påven och frankernas kung Karl den store"
+    },
+    {
+      "id": "medeltiden-4-m1",
+      "avsnitt": "4",
+      "avsnitt_titel": "Feodalism och ståndssamhälle",
+      "kategori": "fardighet",
+      "moment": "Du kan med hjälp av en pyramid redogöra för uppbyggnaden av feodalismen"
+    },
+    {
+      "id": "medeltiden-4-m2",
+      "avsnitt": "4",
+      "avsnitt_titel": "Feodalism och ståndssamhälle",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för orsakerna bakom feodalismens uppkomst"
+    },
+    {
+      "id": "medeltiden-4-m3",
+      "avsnitt": "4",
+      "avsnitt_titel": "Feodalism och ståndssamhälle",
+      "kategori": "begrepp",
+      "moment": "Du kan beskriva det franska och det svenska ståndssamhället"
+    },
+    {
+      "id": "medeltiden-5-m1",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för hur jordbruket utvecklades"
+    },
+    {
+      "id": "medeltiden-5-m2",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för hur de nya idéerna spreds till bönderna"
+    },
+    {
+      "id": "medeltiden-5-m3",
+      "avsnitt": "5",
+      "avsnitt_titel": "Jordbruksutveckling",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för konsekvenserna av ett effektivare jordbruk"
+    },
+    {
+      "id": "medeltiden-6-m1",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "kategori": "begrepp",
+      "moment": "Du kan redogöra för var de nya städerna skapades"
+    },
+    {
+      "id": "medeltiden-6-m2",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för hur pengahushållningen växte fram"
+    },
+    {
+      "id": "medeltiden-6-m3",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "kategori": "begrepp",
+      "moment": "Du kan redogöra för skråväsendets organisation och vilka roller de olika människorna hade"
+    },
+    {
+      "id": "medeltiden-6-m4",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "kategori": "begrepp",
+      "moment": "Du kan redogöra för den moraliska ekonomin"
+    },
+    {
+      "id": "medeltiden-6-m5",
+      "avsnitt": "6",
+      "avsnitt_titel": "Stadsutveckling",
+      "kategori": "begrepp",
+      "moment": "Du kan redogöra för judarnas roll som utlånare"
+    },
+    {
+      "id": "medeltiden-7-m1",
+      "avsnitt": "7",
+      "avsnitt_titel": "Kyrkan, universitet och korståg",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för universitetens utveckling"
+    },
+    {
+      "id": "medeltiden-7-m2",
+      "avsnitt": "7",
+      "avsnitt_titel": "Kyrkan, universitet och korståg",
+      "kategori": "begrepp",
+      "moment": "Du kan redogöra för hur kvinnor jobbade med kunskap"
+    },
+    {
+      "id": "medeltiden-7-m3",
+      "avsnitt": "7",
+      "avsnitt_titel": "Kyrkan, universitet och korståg",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för korstågens orsaker"
+    },
+    {
+      "id": "medeltiden-7-m4",
+      "avsnitt": "7",
+      "avsnitt_titel": "Kyrkan, universitet och korståg",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för korstågens konsekvenser"
+    },
+    {
+      "id": "medeltiden-8-m1",
+      "avsnitt": "8",
+      "avsnitt_titel": "Handelsutveckling",
+      "kategori": "begrepp",
+      "moment": "Du kan redogöra för Hansan som handelscentrum"
+    },
+    {
+      "id": "medeltiden-8-m2",
+      "avsnitt": "8",
+      "avsnitt_titel": "Handelsutveckling",
+      "kategori": "begrepp",
+      "moment": "Du kan redogöra för Flandern som handelscentrum"
+    },
+    {
+      "id": "medeltiden-8-m3",
+      "avsnitt": "8",
+      "avsnitt_titel": "Handelsutveckling",
+      "kategori": "begrepp",
+      "moment": "Du kan redogöra för de norditalienska städerna som handelscentrum"
+    },
+    {
+      "id": "medeltiden-8-m4",
+      "avsnitt": "8",
+      "avsnitt_titel": "Handelsutveckling",
+      "kategori": "begrepp",
+      "moment": "Du kan redogöra för sidenvägen och handeln med lyxvaror"
+    },
+    {
+      "id": "medeltiden-9-m1",
+      "avsnitt": "9",
+      "avsnitt_titel": "Digerdöden",
+      "kategori": "fardighet",
+      "moment": "Du kan beskriva hur människan blev smittad av pesten"
+    },
+    {
+      "id": "medeltiden-9-m2",
+      "avsnitt": "9",
+      "avsnitt_titel": "Digerdöden",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för de kortsiktiga konsekvenserna av digerdöden"
+    },
+    {
+      "id": "medeltiden-10-m1",
+      "avsnitt": "10",
+      "avsnitt_titel": "Kina",
+      "kategori": "begrepp",
+      "moment": "Du kan namnge olika uppfinningar som kom till Europa från Kina"
+    },
+    {
+      "id": "medeltiden-11-m1",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för hur militären förändrades under senmedeltiden"
+    },
+    {
+      "id": "medeltiden-11-m2",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för hur detta påverkade maktförhållandet mellan adel och kung"
+    },
+    {
+      "id": "medeltiden-11-m3",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för hur de livegnas livssituation förändrades när adelns makt minskade"
+    },
+    {
+      "id": "medeltiden-11-m4",
+      "avsnitt": "11",
+      "avsnitt_titel": "Förändrade styrkeförhållanden",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för hur kyrkan förlorade makt under senmedeltiden"
+    },
+    {
+      "id": "medeltiden-12-m1",
+      "avsnitt": "12",
+      "avsnitt_titel": "Renässans",
+      "kategori": "fardighet",
+      "moment": "Du kan redogöra för hur synen på vetenskap förändrades under senmedeltiden"
+    },
+    {
+      "id": "medeltiden-12-m2",
+      "avsnitt": "12",
+      "avsnitt_titel": "Renässans",
+      "kategori": "begrepp",
+      "moment": "Du kan förklara begreppet renässans och kort redogöra för arabernas betydelse"
+    }
+  ]
+}

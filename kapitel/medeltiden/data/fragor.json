@@ -1,0 +1,247 @@
+{
+  "delkapitel": "tidig",
+  "version": 3,
+  "skapad": "2026-06-17",
+  "_kommentar": "Elevboksfrågor för hela Medeltiden (en fil per kapitel; avsnitt-elevbok.js filtrerar på AVSNITT_ID). Tidig medeltid: a1–a4. Högmedeltiden: a5–a8.",
+  "avsnitt": [
+    {
+      "id": "a1_folkvandring",
+      "nummer": 1,
+      "titel": "Folkvandring",
+      "fragor": [
+        {
+          "id": "q_a1_folkvandring",
+          "typ": "grund",
+          "fraga": "Beskriv kortfattat folkvandringen och dess konsekvenser."
+        }
+      ]
+    },
+    {
+      "id": "a2_kyrkan",
+      "nummer": 2,
+      "titel": "Kyrkan",
+      "fragor": [
+        {
+          "id": "q_a2_kyrkan_betydelse",
+          "typ": "grund",
+          "fraga": "Redogör för kyrkans betydelse för västra Europa."
+        },
+        {
+          "id": "q_a2_schism",
+          "typ": "grund",
+          "fraga": "Redogör för hur skillnader uppstår mellan Västrom och Östrom och hur det leder till en splittring av kyrkan."
+        }
+      ]
+    },
+    {
+      "id": "a3_arabvarlden",
+      "nummer": 3,
+      "titel": "Arabvärlden och Karl den store",
+      "fragor": [
+        {
+          "id": "q_a3_expansion_kunskap",
+          "typ": "grund",
+          "fraga": "Beskriv arabvärldens expansion. Beskriv arabernas betydelse i bevarandet av antikens ideal."
+        },
+        {
+          "id": "q_a3_franker_allians",
+          "typ": "grund",
+          "fraga": "Beskriv frankernas allians med kyrkan och frankernas konflikt med arabväldet."
+        }
+      ]
+    },
+    {
+      "id": "a4_feodalism",
+      "nummer": 4,
+      "titel": "Feodalism och ståndssamhälle",
+      "fragor": [
+        {
+          "id": "q_a4_uppbyggnad",
+          "typ": "grund",
+          "fraga": "Redogör för hur det feodala samhället är uppbyggt."
+        },
+        {
+          "id": "q_a4_orsaker",
+          "typ": "grund",
+          "fraga": "Redogör för orsakerna till att det feodala samhället uppstår."
+        },
+        {
+          "id": "q_a4_standssamhalle",
+          "typ": "grund",
+          "fraga": "Beskriv hur ståndssamhället var uppbyggt både i Frankrike och i Sverige."
+        }
+      ]
+    },
+    {
+      "id": "a5_jordbruk",
+      "nummer": 5,
+      "titel": "Jordbruksutveckling",
+      "fragor": [
+        {
+          "id": "q_a5_livegen_vardag",
+          "typ": "grund",
+          "fraga": "Beskriv det vardagliga livet för en livegen bondefamilj under feodalismen."
+        },
+        {
+          "id": "q_a5_jordbruksutveckling",
+          "typ": "grund",
+          "fraga": "Redogör för hur jordbruket utvecklas."
+        },
+        {
+          "id": "q_a5_idespridning",
+          "typ": "grund",
+          "fraga": "Hur sprids de nya idéerna till bönderna?"
+        },
+        {
+          "id": "q_a5_konsekvenser",
+          "typ": "grund",
+          "fraga": "Vilka direkta konsekvenser fick jordbruksutvecklingen?"
+        }
+      ]
+    },
+    {
+      "id": "a6_stadsutveckling",
+      "nummer": 6,
+      "titel": "Stadsutveckling",
+      "fragor": [
+        {
+          "id": "q_a6_stader_vaxer_fram",
+          "typ": "grund",
+          "fraga": "Redogör för var städer växte fram."
+        },
+        {
+          "id": "q_a6_pengahushallning",
+          "typ": "grund",
+          "fraga": "Redogör för pengahushållningens framväxt."
+        },
+        {
+          "id": "q_a6_skravasende",
+          "typ": "grund",
+          "fraga": "Redogör för skråväsendets organisation i städerna."
+        },
+        {
+          "id": "q_a6_moralisk_ekonomi",
+          "typ": "grund",
+          "fraga": "Redogör för den moraliska ekonomin."
+        }
+      ]
+    },
+    {
+      "id": "a7_kyrkan_korstag",
+      "nummer": 7,
+      "titel": "Kyrkan, universitet och korståg",
+      "fragor": [
+        {
+          "id": "q_a7_universitet_utveckling",
+          "typ": "grund",
+          "fraga": "Redogör för universitetens utveckling."
+        },
+        {
+          "id": "q_a7_universitet_kvinnor",
+          "typ": "grund",
+          "fraga": "Redogör för hur universitetens utveckling påverkade kvinnorna."
+        },
+        {
+          "id": "q_a7_korstagen",
+          "typ": "grund",
+          "fraga": "Redogör för korstågen, deras orsak och konsekvens."
+        }
+      ]
+    },
+    {
+      "id": "a8_handelsutveckling",
+      "nummer": 8,
+      "titel": "Handelsutveckling",
+      "fragor": [
+        {
+          "id": "q_a8_handelscentrum",
+          "typ": "grund",
+          "fraga": "Redogör för de tre handelscentrumen som skapas i Västeuropa."
+        },
+        {
+          "id": "q_a8_lyxvaror_sidenvagen",
+          "typ": "grund",
+          "fraga": "Redogör för handeln med lyxvaror och sidenvägen."
+        }
+      ]
+    },
+    {
+      "id": "a9_digerdoden",
+      "nummer": 9,
+      "titel": "Digerdöden",
+      "fragor": [
+        {
+          "id": "q_a9_orsaker",
+          "typ": "grund",
+          "fraga": "Redogör för digerdödens orsaker."
+        },
+        {
+          "id": "q_a9_konsekvenser",
+          "typ": "grund",
+          "fraga": "Redogör för digerdödens konsekvenser."
+        }
+      ]
+    },
+    {
+      "id": "a10_kina",
+      "nummer": 10,
+      "titel": "Kina",
+      "fragor": [
+        {
+          "id": "q_a10_kina_paverkan",
+          "typ": "grund",
+          "fraga": "Redogör för hur Kina påverkade Europa med ny teknik och nya idéer."
+        },
+        {
+          "id": "q_a10_fjarrhandel",
+          "typ": "grund",
+          "fraga": "Redogör för hur fjärrhandel med lyxvaror påverkade Europa."
+        }
+      ]
+    },
+    {
+      "id": "a11_styrkeforhallanden",
+      "nummer": 11,
+      "titel": "Förändrade styrkeförhållanden",
+      "fragor": [
+        {
+          "id": "q_a11_militaren",
+          "typ": "grund",
+          "fraga": "Redogör för hur militären förändrades."
+        },
+        {
+          "id": "q_a11_adel_kung",
+          "typ": "grund",
+          "fraga": "Redogör hur förändringarna under senmedeltiden förändrade maktförhållandet mellan adel och kungen."
+        },
+        {
+          "id": "q_a11_livegna",
+          "typ": "grund",
+          "fraga": "Redogör för hur de livegnas liv förändrades efter digerdöden."
+        },
+        {
+          "id": "q_a11_kyrkan",
+          "typ": "grund",
+          "fraga": "Redogör för hur kyrkan förlorade makt under senmedeltiden."
+        }
+      ]
+    },
+    {
+      "id": "a12_renassansen",
+      "nummer": 12,
+      "titel": "Renässans",
+      "fragor": [
+        {
+          "id": "q_a12_renassans",
+          "typ": "grund",
+          "fraga": "Beskriv kortfattat renässans."
+        },
+        {
+          "id": "q_a12_skolastik_empirism",
+          "typ": "grund",
+          "fraga": "Redogör för hur synen på vetenskap förändrades med hjälp av begreppen skolastik och empirism."
+        }
+      ]
+    }
+  ]
+}
