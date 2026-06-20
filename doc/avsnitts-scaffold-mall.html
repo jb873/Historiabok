@@ -59,27 +59,27 @@
        Full bredd, utanför .sida. data-fil pekar på delkapitlets avsnittslista. -->
   <header class="tidslinje-header" data-fil="../../data/avsnittslista-{{delkapitel}}.json"></header>
 
-  <div class="sida">
-
-    <!-- ===== BRÖDSMULOR (Ämne › Kapitel › Delkapitel › Avsnitt) ===== -->
-    <nav class="brodsmulor">
-      <a href="../../../../index.html">{{Ämne}}</a>
-      <span class="skiljare">›</span>
-      <a href="../../index.html">{{Kapitel}}</a>
-      <span class="skiljare">›</span>
-      <a href="index.html">{{Delkapitel}}</a>
-      <span class="skiljare">›</span>
-      <span class="aktuell">{{Avsnittstitel}}</span>
-    </nav>
-
-    <!-- Accent-list (bok-identitet via --accent/--accent-2) -->
-    <div aria-hidden="true" style="height:6px;max-width:120px;margin:0 auto 2rem;border-radius:3px;background:linear-gradient(90deg,var(--accent),var(--accent-2));"></div>
-
-    <header class="avsnitt-header">
+  <!-- ===== MÖRK HERO-BANNER (brödsmulor + label + titel + subtitel) =====
+       Full bredd, mellan tidslinje-headern och .sida. Ersätter den gamla
+       fristående brödsmulraden + .avsnitt-header. -->
+  <header class="hero-banner">
+    <div class="hero-inner">
+      <nav class="brodsmulor" aria-label="Brödsmulor">
+        <a href="../../../../index.html">{{Ämne}}</a>
+        <span class="skiljare" aria-hidden="true">›</span>
+        <a href="../../index.html">{{Kapitel}}</a>
+        <span class="skiljare" aria-hidden="true">›</span>
+        <a href="index.html">{{Delkapitel}}</a>
+        <span class="skiljare" aria-hidden="true">›</span>
+        <span class="aktuell" aria-current="page">{{Avsnittstitel}}</span>
+      </nav>
       <span class="avsnitt-label">Avsnitt {{n}}</span>          <!-- delkapitlets interna nr -->
       <h1>{{Avsnittstitel}}</h1>
       <p class="subtitel">— {{kort underrubrik}} —</p>
-    </header>
+    </div>
+  </header>
+
+  <div class="sida">
 
     <!-- ============================== FLIKRAD ============================== -->
     <div class="flikar-rad" role="tablist">
