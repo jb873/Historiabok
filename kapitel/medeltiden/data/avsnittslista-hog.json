@@ -1,0 +1,11 @@
+{
+  "delkapitel": "hog",
+  "delkapitel_titel": "Högmedeltiden",
+  "kapitel": "medeltiden",
+  "avsnitt": [
+    { "id": "a5_jordbruk", "nummer": 1, "titel": "Jordbruket", "ar": "~1000-1300", "fil": "avsnitt-1-jordbruk.html" },
+    { "id": "a6_stadsutveckling", "nummer": 2, "titel": "Städerna", "ar": "~1100-1300", "fil": "avsnitt-2-stadsutveckling.html" },
+    { "id": "a7_kyrkan_korstag", "nummer": 3, "titel": "Kyrka & korståg", "ar": "~1095-1291", "fil": "avsnitt-3-kyrkan-korstag.html" },
+    { "id": "a8_handelsutveckling", "nummer": 4, "titel": "Handeln", "ar": "~1150-1350", "fil": "avsnitt-4-handelsutveckling.html" }
+  ]
+}

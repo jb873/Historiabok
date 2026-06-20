@@ -54,6 +54,11 @@
   <link rel="stylesheet" href="../../../../css/flipcards.css">
 </head>
 <body>
+
+  <!-- ===== STICKY TIDSLINJE-HEADER (fylls av tidslinje.js) =====
+       Full bredd, utanför .sida. data-fil pekar på delkapitlets avsnittslista. -->
+  <header class="tidslinje-header" data-fil="../../data/avsnittslista-{{delkapitel}}.json"></header>
+
   <div class="sida">
 
     <!-- ===== BRÖDSMULOR (Ämne › Kapitel › Delkapitel › Avsnitt) ===== -->
@@ -210,5 +215,6 @@
   <script src="../../../../js/textbyggar-stodlarare.js" defer></script>
   <script src="../../../../js/flipcards.js" defer></script>
   <script src="../../../../js/forelasningar.js" defer></script>
+  <script src="../../../../js/tidslinje.js" defer></script>
 </body>
 </html>

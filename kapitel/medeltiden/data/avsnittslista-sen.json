@@ -1,0 +1,11 @@
+{
+  "delkapitel": "sen",
+  "delkapitel_titel": "Senmedeltiden",
+  "kapitel": "medeltiden",
+  "avsnitt": [
+    { "id": "a9_digerdoden", "nummer": 1, "titel": "Digerdöden", "ar": "~1347-1351", "fil": "avsnitt-1-digerdoden.html" },
+    { "id": "a10_kina", "nummer": 2, "titel": "Kina", "ar": "~1200-1400", "fil": "avsnitt-2-kina.html" },
+    { "id": "a11_styrkeforhallanden", "nummer": 3, "titel": "Styrkeförhållanden", "ar": "~1350-1500", "fil": "avsnitt-3-forandrade-styrkeforhallanden.html" },
+    { "id": "a12_renassansen", "nummer": 4, "titel": "Renässansen", "ar": "~1400-1500", "fil": "avsnitt-4-renassansen.html" }
+  ]
+}

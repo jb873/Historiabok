@@ -1,0 +1,11 @@
+{
+  "delkapitel": "tidig",
+  "delkapitel_titel": "Tidig medeltid",
+  "kapitel": "medeltiden",
+  "avsnitt": [
+    { "id": "a1_folkvandring", "nummer": 1, "titel": "Folkvandring", "ar": "~300-500", "fil": "avsnitt-1-folkvandring.html" },
+    { "id": "a2_kyrkan", "nummer": 2, "titel": "Kyrkan", "ar": "~400-1054", "fil": "avsnitt-2-kyrkan.html" },
+    { "id": "a3_arabvarlden", "nummer": 3, "titel": "Arabvärlden", "ar": "~620-900", "fil": "avsnitt-3-arabvarlden.html" },
+    { "id": "a4_feodalism", "nummer": 4, "titel": "Feodalism", "ar": "~800-1100", "fil": "avsnitt-4-feodalism.html" }
+  ]
+}
