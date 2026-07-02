@@ -1,0 +1,14 @@
+{
+  "delkapitel": "upptackterna",
+  "delkapitel_titel": "Upptäckterna",
+  "kapitel": "upptackterna",
+  "avsnitt": [
+    {
+      "id": "a1_bakgrund",
+      "nummer": 1,
+      "titel": "Bakgrund",
+      "ar": "~1450-1500",
+      "fil": "avsnitt-1-bakgrund.html"
+    }
+  ]
+}
