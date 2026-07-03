@@ -23,3 +23,9 @@
   --accent: #5a1a2a;     /* djup vinröd – manuskripts-illumination */
   --accent-2: #7a5a2e;   /* mörkt brons */
 }
+
+/* Hero-banner: Historia-identitet (mörkbrun). Överskriver geografi.css
+   default (ocean-blå) — laddas efter geografi.css på Historia-sidor. */
+.hero-banner {
+  background: linear-gradient(180deg, #1a0e08 0%, #2a1810 100%);
+}
