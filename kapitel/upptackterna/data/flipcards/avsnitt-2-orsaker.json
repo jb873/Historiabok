@@ -68,33 +68,31 @@
       "niva": "grundlaggande",
       "fraga": "Vad var EMPIRISM och hur hängde den ihop med upptäckterna?",
       "svar": "En kunskapssyn som säger att sann kunskap kommer från observation och erfarenhet — inte enbart från gamla texter eller logisk argumentation. Empirismen växte fram som en reaktion mot skolastiken under renässansen och blev en grundpelare i den moderna vetenskapen. För upptäcktsfärderna var empirismen viktig på två sätt: dels drev den nyfikenheten att faktiskt segla ut och se vad som fanns bortom horisonten (istället för att bara läsa vad gamla författare skrivit), dels förändrade upptäckterna själva den europeiska världsbilden — man insåg att antikens auktoriteter inte alltid hade rätt."
-    }
-  ],
-  "personkort": [
+    },
     {
       "id": "kU2-p1a",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem var HENRIK SJÖFARAREN?",
       "svar": "En portugisisk prins (1394–1460) som organiserade och finansierade tidiga portugisiska upptäcktsfärder längs Afrikas kust. Han samlade sjökaptener, kartografer och astronomer i Sagres på Portugals sydspets — nästan som en tidig 'forskarby' för havsutforskning. Trots namnet 'Sjöfararen' seglade han själv knappt någon längre resa. Men hans systematiska stöd till expeditioner söderut la grunden för att Portugal senare kunde nå Indien via havet. Han förkroppsligar övergången från medeltidens religiöst motiverade resor till den nya sortens statsstödda utforskning."
     },
     {
       "id": "kU2-p1b",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem organiserade Portugals systematiska utforskning av Afrikas kust på 1400-talet?",
       "svar": "Henrik Sjöfararen — en portugisisk prins. Han grundade en samlingspunkt i Sagres på Portugals sydspets där sjökaptener, kartografer och astronomer arbetade tillsammans. Han finansierade expeditioner söderut längs Afrikas västkust decennium efter decennium. Trots namnet seglade han själv sällan — men hans systematiska arbete la grunden för Portugals framgångar under nästa århundrade. Han förkroppsligar övergången från medeltidens religiöst motiverade resor till en ny sorts statsstödd, systematisk utforskning."
     },
     {
       "id": "kU2-p2a",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vilka var ISABELLA och FERDINAND?",
       "svar": "De katolska monarkerna — kung Ferdinand av Aragonien (1452–1516) och drottning Isabella av Kastilien (1451–1504). Deras giftermål 1469 förenade de två största kristna kungadömena i Spanien till en enhet. Under deras styre skedde två världshistoriska händelser samma år: 1492 föll Granada, det sista muslimska riket på Iberiska halvön, vilket avslutade reconquistan. Samma år stöttade de Columbus resa västerut. De symboliserar sammanflätningen av kristen expansion och upptäcktsfärder — när kampen mot muslimerna hemma var vunnen sökte samma anda nya utlopp över haven."
     },
     {
       "id": "kU2-p2b",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vilka spanska monarker stöttade Columbus resa 1492?",
       "svar": "Isabella av Kastilien och Ferdinand av Aragonien — de så kallade katolska monarkerna. De hade förenat sina två kungadömen genom giftermål 1469 och skapade därmed Spanien som enad kristen makt. År 1492 var ett magiskt år för dem: i januari erövrade de Granada, det sista muslimska riket på Iberiska halvön, vilket avslutade den nästan 800-åriga reconquistan. Med den kampen vunnen kunde de nu satsa på nya utlopp — och beslöt att stödja Columbus djärva plan att segla västerut mot Asien."

@@ -47,47 +47,45 @@
       "niva": "grundlaggande",
       "fraga": "Vad var DET COLUMBIANSKA UTBYTET?",
       "svar": "Det aldrig tidigare skådade utbytet av växter, djur, sjukdomar och människor mellan Amerika och den gamla världen (Europa, Asien, Afrika) efter Columbus resa 1492. Från Amerika till Gamla världen kom potatis, tomat, majs, kakao, chili, tobak, ananas — grödor som skulle förändra dieter över hela världen. Från Gamla världen till Amerika kom häst, ko, får, vete, ris, sockerrör, kaffe — och tragiskt även smittkoppor, mässling och influensa. Utbytet formade den moderna världens dieter (italiensk mat utan tomat är otänkbart, liksom irländsk kost utan potatis) och befolkningsutveckling."
-    }
-  ],
-  "personkort": [
+    },
     {
       "id": "kU3-p1a",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem var HERNÁN CORTÉS?",
       "svar": "En spansk konkvistador (1485–1547) som ledde erövringen av Aztekriket 1519–1521. Han landsteg med drygt 500 man i Mexiko och marscherade in i huvudstaden Tenochtitlán, där han först togs emot som gäst av härskaren Moctezuma II. Cortés utnyttjade sedan interna konflikter mellan aztekerna och deras underkuvade folk (särskilt tlaxcaltekerna) för att bygga en jättelik allierad armé. Efter blodiga strider föll Tenochtitlán 1521. Samtidigt spreds smittkoppor genom staden och dödade en stor del av befolkningen. Cortés symboliserar den europeiska erövringens brutala effektivitet — och det biologiska katastrofala samspelet med sjukdomar."
     },
     {
       "id": "kU3-p1b",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem erövrade Aztekriket 1519–1521?",
       "svar": "Hernán Cortés — en spansk konkvistador. Han landsteg med drygt 500 man i Mexiko 1519 och marscherade in i huvudstaden Tenochtitlán, där han först togs emot av härskaren Moctezuma II. Han utnyttjade sedan konflikter mellan aztekerna och underkuvade folk (särskilt tlaxcaltekerna) och byggde en allierad armé på tiotusentals. Efter blodiga strider — och en förödande smittkoppsepidemi i staden — föll Tenochtitlán 1521. Erövringen är ett av historiens tydligaste exempel på hur ny teknologi (hästar, krut), interna konflikter i det erövrade riket och sjukdomar tillsammans kunde besegra en jättelik civilisation."
     },
     {
       "id": "kU3-p2a",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem var FRANCISCO PIZARRO?",
       "svar": "En spansk konkvistador (ca 1478–1541) som ledde erövringen av Inkariket 1532–1533. Han inledde sitt fälttåg med bara omkring 180 man — men hans tajming var perfekt: Inkariket var svårt försvagat av ett inbördeskrig mellan de rivaliserande halvbröderna Atahualpa och Huáscar. Pizarro tillfångatog Atahualpa vid Cajamarca 1532, krävde ett enormt lösen i guld och silver, och avrättade honom sedan ändå. Sedan intog han huvudstaden Cuzco. Erövringen är ett dramatiskt exempel på hur en mycket liten styrka kunde utnyttja politiska splittringar för att fälla ett rike med miljontals invånare."
     },
     {
       "id": "kU3-p2b",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem erövrade Inkariket 1532–1533?",
       "svar": "Francisco Pizarro — en spansk konkvistador. Han inledde sitt fälttåg med bara omkring 180 man — men hans tajming var perfekt: Inkariket var svårt försvagat av ett inbördeskrig mellan de rivaliserande halvbröderna Atahualpa och Huáscar. Pizarro tillfångatog Atahualpa vid Cajamarca 1532, krävde ett enormt lösen i guld och silver, och avrättade honom sedan ändå. Sedan intog han huvudstaden Cuzco. Erövringen visar hur få människor kunde fälla ett rike med miljontals invånare — genom timing, teknik och intern splittring hos motståndaren."
     },
     {
       "id": "kU3-p3a",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem var TOUSSAINT LOUVERTURE?",
       "svar": "En före detta förslavad man (1743–1803) som blev ledare för Haiti-revolutionen — historiens enda framgångsrika slavrevolution. Han var född som slav på en fransk sockerplantage på Saint-Domingue (dagens Haiti). När upproret bröt ut 1791 blev han snabbt en av dess främsta militära och politiska ledare. Under hans styre avskaffades slaveriet i kolonin 1794. Napoleons armé sändes för att återinföra slaveriet — men Louverture och hans arvtagare besegrade den. Louverture själv togs tillfånga och dog i franskt fängelse 1803, men året efter blev Haiti världens första svarta republik. Han är en av frihetskampens största symboler."
     },
     {
       "id": "kU3-p3b",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem ledde Haiti-revolutionen till självständighet?",
       "svar": "Toussaint Louverture — en före detta förslavad man som blev revolutionens ledare. Han var född som slav på en fransk sockerplantage på Saint-Domingue (dagens Haiti). När upproret bröt ut 1791 blev han snabbt dess främsta militära och politiska ledare. Under hans styre avskaffades slaveriet i kolonin 1794. Napoleons armé sändes för att återinföra slaveriet — men Louverture och hans arvtagare besegrade den. Louverture själv togs tillfånga och dog i franskt fängelse 1803, men året efter blev Haiti världens första svarta republik. Detta var historiens enda framgångsrika slavrevolution — och den skakade slavägarsamhället i hela Atlantvärlden."

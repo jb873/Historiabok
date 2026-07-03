@@ -47,75 +47,73 @@
       "niva": "grundlaggande",
       "fraga": "Vad var RECONQUISTAN och när slutade den?",
       "svar": "Den nästan 800-åriga processen där kristna riken på Iberiska halvön återerövrade land från muslimska riken. Reconquistan började omkring år 722 och avslutades 1492 när Granada, det sista muslimska riket, föll för Isabella och Ferdinand. Just 1492 är också året då Columbus seglade västerut — inget sammanträffande. När det inte längre fanns muslimer att bekämpa hemma sökte den kristna expansiven nya utlopp: mission i Amerika, upptäcktsfärderna. Reconquistan förklarar varför Spanien och Portugal var särskilt drivna att missionera och erövra."
-    }
-  ],
-  "personkort": [
+    },
     {
       "id": "kU1-p1a",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem var CHRISTOFER COLUMBUS?",
       "svar": "En genuensisk sjökapten (född ca 1451, död 1506) som seglade i spansk tjänst. År 1492 korsade han Atlanten med tre skepp — Santa María, Pinta och Niña — i förvissningen om att han skulle nå Indien västerut. Istället kom han till Karibien, men han trodde in i sin dödsdag att han var i Asien. Därför kallade han urbefolkningen 'indianer'. Columbus gjorde sammanlagt fyra resor till Amerika mellan 1492 och 1504. Han räknade fel om jordens storlek — Atlanten var mycket bredare än han trodde, och Amerika var en helt oväntad kontinent i vägen."
     },
     {
       "id": "kU1-p1b",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem seglade västerut från Spanien 1492 i förvissning om att nå Indien?",
       "svar": "Christofer Columbus — en genuensisk sjökapten i spansk tjänst. Han hade övertygat Isabella och Ferdinand om att jorden var så mycket mindre än den egentligen var att man kunde nå Asien västerut. Han utrustades med tre skepp: Santa María, Pinta och Niña. Efter fem veckor på öppna Atlanten kom han till Karibien 12 oktober 1492. Han trodde att öarna var utanför Indien — därför kallades urbefolkningen 'indianer'. Han insåg aldrig att han hade hittat en helt ny kontinent."
     },
     {
       "id": "kU1-p2a",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem var VASCO DA GAMA?",
       "svar": "En portugisisk sjöfarare (ca 1460–1524) som ledde den första europeiska expeditionen som nådde Indien via havet. År 1497 seglade han från Lissabon med fyra skepp, rundade Godahoppsudden och nådde Calicut på Malabarkusten i maj 1498. Resan tog nästan två år tur och retur. Vasco da Gamas resa avslutade portugisernas nästan 70 år långa systematiska utforskning av Afrikas kust — och öppnade den lönsamma sjövägen mellan Europa och Indien som skulle förändra världshandeln."
     },
     {
       "id": "kU1-p2b",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem seglade som förste europé sjövägen till Indien?",
       "svar": "Vasco da Gama — en portugisisk sjöfarare. Han lämnade Lissabon 1497 med fyra skepp, rundade Godahoppsudden längst ner i Afrika, seglade uppför Afrikas östkust och tvärs över Indiska oceanen. I maj 1498 nådde han Calicut på Malabarkusten i sydvästra Indien. Resan tog nästan två år. Det var slutpunkten på nästan 70 år av portugisisk utforskning söderut. Sjövägen till Indien via havet öppnade en direkt handelsväg utan mellanhänder — en av de största ekonomiska revolutionerna i historien."
     },
     {
       "id": "kU1-p3a",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem var BARTOLOMEU DIAZ?",
       "svar": "En portugisisk sjöfarare (ca 1450–1500) som år 1488 blev den förste europén att runda Afrikas södra spets. Uddet döpte han först till 'Stormarnas udde' — kung João II bytte namn till Godahoppsudden eftersom det gav hopp om en sjöväg till Indien. Diaz insåg att havet fortsatte österut, vilket bevisade att man kunde segla runt Afrika. Han återvände till Portugal med denna nyhet, men själva resan till Indien fullföljdes 10 år senare av Vasco da Gama. Diaz omkom i en storm 1500 nära den udde han själv upptäckt."
     },
     {
       "id": "kU1-p3b",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem var den förste att runda Godahoppsudden?",
       "svar": "Bartolomeu Diaz — en portugisisk sjöfarare. År 1488 nådde han längst söderut i Afrika och rundade uddet som han först kallade 'Stormarnas udde' på grund av det tuffa vädret. Kung João II döpte om det till Godahoppsudden — det gav hopp om att sjövägen till Indien var möjlig. Diaz kunde inte fortsätta till Indien själv (besättningen krävde att få vända hem), men han bevisade att havet fortsatte österut. Tio år senare seglade Vasco da Gama hela vägen till Indien."
     },
     {
       "id": "kU1-p4a",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem var AMERIGO VESPUCCI?",
       "svar": "En italiensk sjöfarare och köpman (1454–1512) som gjorde flera resor till 'den nya världen' efter Columbus. Vespucci var den förste att offentligt hävda att kontinenten inte var Asien, utan en tidigare okänd kontinent — en 'ny värld'. Hans brev om detta blev bestsellers i Europa. När den tyske kartografen Martin Waldseemüller år 1507 gjorde en världskarta som visade den nya kontinenten skrev han in namnet 'America' efter Amerigo. Så fick kontinenten sitt namn — inte efter Columbus (som aldrig accepterade att han inte var i Asien), utan efter Amerigo som insåg vad det egentligen var."
     },
     {
       "id": "kU1-p4b",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem har Amerika fått sitt namn efter?",
       "svar": "Amerigo Vespucci — en italiensk sjöfarare som gjorde flera resor till den nya kontinenten efter Columbus. Han var den förste att offentligt hävda att kontinenten inte var Asien, utan en helt ny värld. Hans brev om detta blev bestsellers i Europa. När den tyske kartografen Martin Waldseemüller år 1507 gjorde en världskarta som visade den nya kontinenten skrev han in namnet 'America' — efter Amerigo. Att kontinenten inte fick heta 'Columbia' beror alltså på ett kartografiskt val — och på det faktum att Columbus själv aldrig accepterade att han hade hittat något nytt."
     },
     {
       "id": "kU1-p5a",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem var FERDINAND MAGELLAN?",
       "svar": "En portugisisk sjöfarare (ca 1480–1521) som i spansk tjänst ledde den expedition som blev först att segla runt jorden. Magellan lämnade Sevilla 1519 med fem skepp och nästan 250 man. Han hittade sundet vid Sydamerikas södra spets (idag Magellans sund), korsade Stilla havet och nådde Filippinerna 1521 — där han dödades i strid. Hans andrekapten Juan Sebastián Elcano tog över och nådde tillbaka till Spanien 1522 med bara ett skepp och 18 man. Expeditionen bevisade slutgiltigt att jorden var rund och att alla världshav hängde ihop."
     },
     {
       "id": "kU1-p5b",
-      "type": "person",
+      "type": "begrepp",
       "niva": "grundlaggande",
       "fraga": "Vem ledde den första expeditionen som seglade runt jorden?",
       "svar": "Ferdinand Magellan — en portugisisk sjöfarare i spansk tjänst. Han lämnade Sevilla 1519 med fem skepp och drygt 240 man. Han hittade sundet vid Sydamerikas södra spets (idag Magellans sund) och korsade Stilla havet under fasansfulla umbäranden. Magellan själv dödades på Filippinerna 1521, men expeditionen slutfördes av andrekaptenen Juan Sebastián Elcano, som återvände till Spanien 1522 med bara ett skepp och 18 män. Det var första gången i historien någon seglat runt jorden — och bevisade slutgiltigt att alla världshav hängde ihop."
