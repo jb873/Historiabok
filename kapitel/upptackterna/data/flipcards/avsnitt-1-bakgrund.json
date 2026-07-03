@@ -1,0 +1,184 @@
+{
+  "avsnitt": 1,
+  "titel": "Bakgrund",
+  "delkapitel": "upptackterna",
+  "version": "1.0",
+  "kort_totalt": 18,
+  "_kommentar": "Flipcards för avsnitt 1 (Bakgrund). 6 begreppskort + 10 personkort (5 personer × 2 varianter var) + 2 redogörelsekort.",
+  "begreppskort": [
+    {
+      "id": "kU1-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var OSMANERNA och varför var de viktiga för upptäckterna?",
+      "svar": "Ett muslimskt turkiskt folk som byggde upp Osmanska riket från 1300-talet. De erövrade Konstantinopel 1453 och tog därmed kontroll över Bosporen — en av de viktigaste knutpunkterna på handelsvägarna mellan Asien och Europa. Genom att kontrollera vägen kunde osmanerna ta ut tullar och infoga mellanhänder, vilket gjorde asiatiska varor mycket dyrare för Europa. Detta blev en av de starkaste ekonomiska drivkrafterna bakom upptäcktsfärderna: européerna ville hitta sjövägar direkt till Indien för att slippa mellanhänderna."
+    },
+    {
+      "id": "kU1-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var SIDENVÄGEN och vad transporterades där?",
+      "svar": "Ett nätverk av handelsvägar mellan Kina och Europa som användes i över tusen år. Namnet kommer av siden som fördes västerut, men även kryddor, porslin, ädelstenar och kunskap färdades längs vägen. Sidenvägen gick genom Centralasiens öknar och stäpper till Konstantinopel eller Bagdad, och därifrån vidare till Venedig och Genua. Vägen var farlig och lång — varje transportled tog ut sin del av vinsten. När Osmanska riket tog kontrollen över dess västra delar steg priserna ännu mer."
+    },
+    {
+      "id": "kU1-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var TORDESILLASFÖRDRAGET?",
+      "svar": "Ett avtal från 1494 mellan Spanien och Portugal där de delade upp den okända världen mellan sig med en rak linje genom Atlanten. Väster om linjen tillföll Spanien, öster om linjen tillföll Portugal. Fördraget slöts utan att fråga något annat land eller folk — och över kontinenter som européerna knappt hade sett. Brasiliens östra utbuktning hamnade på portugisisk sida av linjen, vilket är förklaringen till att brasilianer talar portugisiska medan resten av Sydamerika talar spanska."
+    },
+    {
+      "id": "kU1-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär KOLONISATION?",
+      "svar": "När ett land tar kontroll över ett annat område långt bort och styr det som en koloni — ofta med politiskt förtryck, ekonomiskt utnyttjande och kulturell påverkan. Under upptäckterna började européerna kolonisera Amerika, Afrika och Asien. Koloniseringen kunde ta olika former: bosättningskolonier, plantagekolonier eller handelskolonier. Kolonisationen är en av upptäckternas mest långtgående konsekvenser — den har format den moderna världens ekonomi, gränser och maktförhållanden ända in i vår tid."
+    },
+    {
+      "id": "kU1-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var en PLANTAGE och varför var den viktig?",
+      "svar": "En stor odling där man specialiserade sig på en enda gröda för export — som socker, tobak, bomull eller kaffe. Plantager var vanliga i Karibien, Brasilien och södra Nordamerika. Arbetet var oerhört hårt och sköttes till stor del av förslavade afrikaner. Plantagesystemet var motorn i den atlantiska ekonomin: billiga råvaror från plantagerna sköts till Europa, där de förvandlades till lönsamma varor. Utan plantager hade slavhandeln inte varit så omfattande — och tvärtom."
+    },
+    {
+      "id": "kU1-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var RECONQUISTAN och när slutade den?",
+      "svar": "Den nästan 800-åriga processen där kristna riken på Iberiska halvön återerövrade land från muslimska riken. Reconquistan började omkring år 722 och avslutades 1492 när Granada, det sista muslimska riket, föll för Isabella och Ferdinand. Just 1492 är också året då Columbus seglade västerut — inget sammanträffande. När det inte längre fanns muslimer att bekämpa hemma sökte den kristna expansiven nya utlopp: mission i Amerika, upptäcktsfärderna. Reconquistan förklarar varför Spanien och Portugal var särskilt drivna att missionera och erövra."
+    }
+  ],
+  "personkort": [
+    {
+      "id": "kU1-p1a",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem var CHRISTOFER COLUMBUS?",
+      "svar": "En genuensisk sjökapten (född ca 1451, död 1506) som seglade i spansk tjänst. År 1492 korsade han Atlanten med tre skepp — Santa María, Pinta och Niña — i förvissningen om att han skulle nå Indien västerut. Istället kom han till Karibien, men han trodde in i sin dödsdag att han var i Asien. Därför kallade han urbefolkningen 'indianer'. Columbus gjorde sammanlagt fyra resor till Amerika mellan 1492 och 1504. Han räknade fel om jordens storlek — Atlanten var mycket bredare än han trodde, och Amerika var en helt oväntad kontinent i vägen."
+    },
+    {
+      "id": "kU1-p1b",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem seglade västerut från Spanien 1492 i förvissning om att nå Indien?",
+      "svar": "Christofer Columbus — en genuensisk sjökapten i spansk tjänst. Han hade övertygat Isabella och Ferdinand om att jorden var så mycket mindre än den egentligen var att man kunde nå Asien västerut. Han utrustades med tre skepp: Santa María, Pinta och Niña. Efter fem veckor på öppna Atlanten kom han till Karibien 12 oktober 1492. Han trodde att öarna var utanför Indien — därför kallades urbefolkningen 'indianer'. Han insåg aldrig att han hade hittat en helt ny kontinent."
+    },
+    {
+      "id": "kU1-p2a",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem var VASCO DA GAMA?",
+      "svar": "En portugisisk sjöfarare (ca 1460–1524) som ledde den första europeiska expeditionen som nådde Indien via havet. År 1497 seglade han från Lissabon med fyra skepp, rundade Godahoppsudden och nådde Calicut på Malabarkusten i maj 1498. Resan tog nästan två år tur och retur. Vasco da Gamas resa avslutade portugisernas nästan 70 år långa systematiska utforskning av Afrikas kust — och öppnade den lönsamma sjövägen mellan Europa och Indien som skulle förändra världshandeln."
+    },
+    {
+      "id": "kU1-p2b",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem seglade som förste europé sjövägen till Indien?",
+      "svar": "Vasco da Gama — en portugisisk sjöfarare. Han lämnade Lissabon 1497 med fyra skepp, rundade Godahoppsudden längst ner i Afrika, seglade uppför Afrikas östkust och tvärs över Indiska oceanen. I maj 1498 nådde han Calicut på Malabarkusten i sydvästra Indien. Resan tog nästan två år. Det var slutpunkten på nästan 70 år av portugisisk utforskning söderut. Sjövägen till Indien via havet öppnade en direkt handelsväg utan mellanhänder — en av de största ekonomiska revolutionerna i historien."
+    },
+    {
+      "id": "kU1-p3a",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem var BARTOLOMEU DIAZ?",
+      "svar": "En portugisisk sjöfarare (ca 1450–1500) som år 1488 blev den förste europén att runda Afrikas södra spets. Uddet döpte han först till 'Stormarnas udde' — kung João II bytte namn till Godahoppsudden eftersom det gav hopp om en sjöväg till Indien. Diaz insåg att havet fortsatte österut, vilket bevisade att man kunde segla runt Afrika. Han återvände till Portugal med denna nyhet, men själva resan till Indien fullföljdes 10 år senare av Vasco da Gama. Diaz omkom i en storm 1500 nära den udde han själv upptäckt."
+    },
+    {
+      "id": "kU1-p3b",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem var den förste att runda Godahoppsudden?",
+      "svar": "Bartolomeu Diaz — en portugisisk sjöfarare. År 1488 nådde han längst söderut i Afrika och rundade uddet som han först kallade 'Stormarnas udde' på grund av det tuffa vädret. Kung João II döpte om det till Godahoppsudden — det gav hopp om att sjövägen till Indien var möjlig. Diaz kunde inte fortsätta till Indien själv (besättningen krävde att få vända hem), men han bevisade att havet fortsatte österut. Tio år senare seglade Vasco da Gama hela vägen till Indien."
+    },
+    {
+      "id": "kU1-p4a",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem var AMERIGO VESPUCCI?",
+      "svar": "En italiensk sjöfarare och köpman (1454–1512) som gjorde flera resor till 'den nya världen' efter Columbus. Vespucci var den förste att offentligt hävda att kontinenten inte var Asien, utan en tidigare okänd kontinent — en 'ny värld'. Hans brev om detta blev bestsellers i Europa. När den tyske kartografen Martin Waldseemüller år 1507 gjorde en världskarta som visade den nya kontinenten skrev han in namnet 'America' efter Amerigo. Så fick kontinenten sitt namn — inte efter Columbus (som aldrig accepterade att han inte var i Asien), utan efter Amerigo som insåg vad det egentligen var."
+    },
+    {
+      "id": "kU1-p4b",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem har Amerika fått sitt namn efter?",
+      "svar": "Amerigo Vespucci — en italiensk sjöfarare som gjorde flera resor till den nya kontinenten efter Columbus. Han var den förste att offentligt hävda att kontinenten inte var Asien, utan en helt ny värld. Hans brev om detta blev bestsellers i Europa. När den tyske kartografen Martin Waldseemüller år 1507 gjorde en världskarta som visade den nya kontinenten skrev han in namnet 'America' — efter Amerigo. Att kontinenten inte fick heta 'Columbia' beror alltså på ett kartografiskt val — och på det faktum att Columbus själv aldrig accepterade att han hade hittat något nytt."
+    },
+    {
+      "id": "kU1-p5a",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem var FERDINAND MAGELLAN?",
+      "svar": "En portugisisk sjöfarare (ca 1480–1521) som i spansk tjänst ledde den expedition som blev först att segla runt jorden. Magellan lämnade Sevilla 1519 med fem skepp och nästan 250 man. Han hittade sundet vid Sydamerikas södra spets (idag Magellans sund), korsade Stilla havet och nådde Filippinerna 1521 — där han dödades i strid. Hans andrekapten Juan Sebastián Elcano tog över och nådde tillbaka till Spanien 1522 med bara ett skepp och 18 man. Expeditionen bevisade slutgiltigt att jorden var rund och att alla världshav hängde ihop."
+    },
+    {
+      "id": "kU1-p5b",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem ledde den första expeditionen som seglade runt jorden?",
+      "svar": "Ferdinand Magellan — en portugisisk sjöfarare i spansk tjänst. Han lämnade Sevilla 1519 med fem skepp och drygt 240 man. Han hittade sundet vid Sydamerikas södra spets (idag Magellans sund) och korsade Stilla havet under fasansfulla umbäranden. Magellan själv dödades på Filippinerna 1521, men expeditionen slutfördes av andrekaptenen Juan Sebastián Elcano, som återvände till Spanien 1522 med bara ett skepp och 18 män. Det var första gången i historien någon seglat runt jorden — och bevisade slutgiltigt att alla världshav hängde ihop."
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "kU1-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för konsekvenserna av Östroms fall år 1453.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör visa både den omedelbara händelsen och dess bredare betydelse för Europa.\n\nÅr 1453 erövrade Osmanska riket Konstantinopel — huvudstaden i det tusenåriga Bysantinska riket. Detta var slutet på Östrom, men händelsens verkliga betydelse för Europa var ekonomisk.\n\nGenom att kontrollera Konstantinopel och Bosporen fick osmanerna makten över de viktigaste handelsvägarna mellan Asien och Europa — särskilt sidenvägen och kryddvägen. De kunde nu ta ut tullar och infoga sig som mellanhänder i handeln. Varorna från Asien stoppades inte, men de blev mycket dyrare för de europeiska köpmännen.\n\nEtt gott svar bör betona kedjan: högre priser i Europa → européerna sökte alternativa vägar → detta drev fram upptäcktsfärderna. Portugal började söka en sjöväg runt Afrika, och Spanien satsade senare västerut med Columbus.\n\nEtt fördjupande svar kan reflektera över att Östroms fall inte var isolerat — det sammanföll med reconquistan i Spanien (Granada föll 1492, 39 år efter Konstantinopel) och med kunskapsflytten när grekiska lärde flydde västerut till Italien, vilket bidrog till renässansen.",
+      "stodlarare": {
+        "stodord": [
+          "Konstantinopel",
+          "osmaner",
+          "Bosporen",
+          "sidenvägen",
+          "kryddvägen",
+          "mellanhänder",
+          "tull",
+          "Portugal",
+          "sjövägen"
+        ],
+        "startfraser": [
+          "År 1453 föll Konstantinopel för...",
+          "Konsekvenserna för Europas handel blev...",
+          "Priserna på asiatiska varor steg dramatiskt eftersom...",
+          "Detta drev fram upptäcktsfärderna genom att..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar: 1) själva händelsen (osmanernas erövring), 2) den omedelbara ekonomiska effekten (fördyrning av handeln), 3) den långsiktiga konsekvensen (upptäcktsfärderna). Avsluta gärna med kopplingen till Portugal och Spanien."
+      }
+    },
+    {
+      "id": "kU1-r2",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för Tordesillasfördraget och dess långsiktiga konsekvenser.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör förklara vad fördraget innebar, hur det tillkom och varför det fortfarande syns i världen idag.\n\nÅr 1494 slöt Spanien och Portugal ett avtal — Tordesillasfördraget — där de delade upp den då okända världen mellan sig med en rak linje genom Atlanten. Väster om linjen tillföll Spanien, öster om linjen tillföll Portugal. Bakgrunden var att båda länderna hade börjat utforska nya områden, och för att undvika konflikt kom påven och de båda kungahusen överens om en gränsdragning.\n\nEtt gott svar bör betona två anmärkningsvärda drag: fördraget slöts utan att fråga något annat land eller folk, och det ritades över kontinenter som européerna knappt hade sett.\n\nDen mest synliga konsekvensen än idag är Brasilien. Eftersom Brasiliens östra utbuktning hamnade på portugisisk sida av linjen blev landet portugisisk koloni — vilket är förklaringen till att brasilianer talar portugisiska medan resten av Sydamerika talar spanska.\n\nEtt fördjupande svar kan reflektera över att fördraget är ett tydligt exempel på europeisk självupptagenhet under upptäckternas tid: den kristna världen ansåg sig ha rätt att dela upp jorden mellan sig utan hänsyn till de folk som redan bodde där.",
+      "stodlarare": {
+        "stodord": [
+          "Tordesillas",
+          "1494",
+          "Spanien",
+          "Portugal",
+          "påven",
+          "Brasilien",
+          "portugisiska",
+          "spanska",
+          "koloni"
+        ],
+        "startfraser": [
+          "Tordesillasfördraget slöts år 1494 mellan...",
+          "Genom en rak linje genom Atlanten delades...",
+          "Väster om linjen tillföll... medan öster om linjen tillföll...",
+          "Den mest synliga konsekvensen än idag är..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar: 1) vad fördraget innebar, 2) hur det tillkom (påvens roll, europeisk självupptagenhet), 3) den långsiktiga konsekvensen (Brasiliens språk). Använd gärna det konkreta exemplet med språk för att göra svaret levande."
+      }
+    }
+  ]
+}

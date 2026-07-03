@@ -1,0 +1,164 @@
+{
+  "avsnitt": 2,
+  "titel": "Orsaker",
+  "delkapitel": "upptackterna",
+  "version": "1.0",
+  "kort_totalt": 15,
+  "_kommentar": "Flipcards för avsnitt 2 (Orsaker). 9 begreppskort + 4 personkort (Henrik Sjöfararen och katolska monarkerna) + 2 redogörelsekort.",
+  "begreppskort": [
+    {
+      "id": "kU2-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var KARAVELLEN och varför var den viktig?",
+      "svar": "Ett litet men mycket sjödugligt segelfartyg som utvecklades i Portugal under 1400-talet. Karavellens avgörande tekniska finess var kombinationen av fyrkantsegel (som fångar vind bakifrån och driver båten framåt snabbt) och trekantiga latinsegel (som gör att båten kan segla mot vinden). Detta gjorde att karavellen kunde ta sig hem igen även efter långa resor i okänt vatten. Skrovet var djupgående och stabilt nog för öppna oceaner, men fartyget var ändå litet och lättmanövrerat. Utan karavellen hade portugiserna aldrig kunnat runda Afrika, och Columbus hade aldrig kunnat korsa Atlanten."
+    },
+    {
+      "id": "kU2-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder att KRYSSA?",
+      "svar": "Att segla i sicksack-mönster mot vinden istället för direkt in i den. Ingen båt kan segla rakt mot vinden — men med rätt segeltyp (latinsegel) och skickligt roder kan man segla snett i förhållande till vinden, sedan vända och segla snett åt andra hållet. På så sätt tar man sig framåt, om än långsamt. Kryssningsteknik var en förutsättning för att portugiserna skulle kunna segla hem igen från Afrika — utan den skulle en resa söderut ha varit en enkelbiljett. Med kryssning blev haven navigerbara i alla riktningar."
+    },
+    {
+      "id": "kU2-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var KOMPASSEN och varifrån kom den?",
+      "svar": "Ett navigationsinstrument med en magnetisk nål som alltid pekar mot norr. Kompassen uppfanns i Kina redan under 1000-talet och spreds via arabvärlden till Europa på 1200-talet. På öppet hav — där sol och stjärnor kan vara skymda av moln i dagar — var kompassen avgörande. Utan den kunde en kapten helt tappa orienteringen. Med kompassen kunde sjömän hålla en någorlunda pålitlig kurs oavsett väder. Tillsammans med astrolab (för att räkna ut latitud) och portolan-kartor gav kompassen européerna verktygen att våga sig ut på oceanerna."
+    },
+    {
+      "id": "kU2-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var MELLANHÄNDER och varför var de viktiga för upptäckterna?",
+      "svar": "Köpmän eller stater som ligger mellan producenten av en vara och den slutliga köparen. Varje mellanhand tar ut en avgift eller vinst — vilket gör att priset stiger för varje led. På sidenvägen och kryddvägen fanns många mellanhänder: kinesiska producenter, centralasiatiska karavaner, persiska köpmän, arabiska och osmanska handlare, italienska handelsstäder. När en säck peppar från Indien till slut nådde en köpman i Antwerpen kunde priset ha stigit tusenfalt. Européernas dröm var att kringgå alla mellanhänder genom att själva segla direkt till källan — en av de starkaste drivkrafterna bakom upptäckterna."
+    },
+    {
+      "id": "kU2-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en TULL och hur påverkade den handeln mot Asien?",
+      "svar": "En avgift som en stat eller härskare tar ut när varor passerar en gräns eller ett kontrollerat område. Tullar var (och är) en av statens viktigaste inkomstkällor. Osmanska rikets kontroll över Konstantinopel gav dem möjlighet att ta ut tullar på alla asiatiska varor som fördes till Europa — vilket i sin tur höjde priserna kraftigt. Tullar var alltså inte en 'blockering' av handeln, utan en fördyrning av den. Ju fler tullar en vara passerade på sin väg från öst till väst, desto dyrare blev den. Detta blev en direkt ekonomisk drivkraft för Europa att söka egna sjövägar där tullar kunde undvikas."
+    },
+    {
+      "id": "kU2-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var MORALISK EKONOMI?",
+      "svar": "En äldre syn på ekonomi som var vanlig under medeltiden och tidig renässans — där ekonomiska handlingar var underordnade moraliska principer, ofta religiösa. Kyrkan lärde att det fanns 'rättvisa priser' som inte fick överskridas, 'rättvisa löner' som skulle betalas, och att det var synd att ta ränta på lån (så kallad ocker). Ekonomi var alltså inte skild från moral — hur man handlade och tjänade pengar var en fråga om själens frälsning. Denna syn stod i skarp motsats till den nya handelskapitalismen som växte fram under upptäckternas tid, där vinstintresset gjordes till drivkraften. Övergången från moralisk ekonomi till kapitalism är en av de mest genomgripande förändringarna i europeisk historia."
+    },
+    {
+      "id": "kU2-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var HANDELSKAPITALISM?",
+      "svar": "En tidig form av kapitalism där rika köpmän och banker investerade pengar i handelsföretag — som upptäcktsfärder eller sjöhandel — i hopp om stor vinst. Handelskapitalismen växte fram i italienska stadsstater (Venedig, Genua, Florens) under senmedeltiden och spred sig sedan norrut till Antwerpen, Amsterdam och London. En skeppsresa kunde vara oerhört dyr att utrusta men även extremt lönsam om den lyckades. Investerare gick ihop i handelskompanier (som Holländska Ostindiska kompaniet) för att sprida risken. Utan handelskapitalismen hade upptäcktsfärderna aldrig kunnat finansieras."
+    },
+    {
+      "id": "kU2-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var SKOLASTIK?",
+      "svar": "Det dominerande sättet att tänka och lära vid medeltidens universitet, ungefär 1100–1400. Skolastikerna byggde sin kunskap på auktoriteter — främst Bibeln, kyrkofäderna och Aristoteles — och försökte förena tro och förnuft genom logisk argumentation. Skolastiken var en imponerande intellektuell tradition, men den blev kritiserad under renässansen för att vara alltför bunden vid gamla texter och för lite intresserad av att observera verkligheten. Kritiken mot skolastiken var en av drivkrafterna bakom en ny sorts kunskap: empirismen."
+    },
+    {
+      "id": "kU2-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var EMPIRISM och hur hängde den ihop med upptäckterna?",
+      "svar": "En kunskapssyn som säger att sann kunskap kommer från observation och erfarenhet — inte enbart från gamla texter eller logisk argumentation. Empirismen växte fram som en reaktion mot skolastiken under renässansen och blev en grundpelare i den moderna vetenskapen. För upptäcktsfärderna var empirismen viktig på två sätt: dels drev den nyfikenheten att faktiskt segla ut och se vad som fanns bortom horisonten (istället för att bara läsa vad gamla författare skrivit), dels förändrade upptäckterna själva den europeiska världsbilden — man insåg att antikens auktoriteter inte alltid hade rätt."
+    }
+  ],
+  "personkort": [
+    {
+      "id": "kU2-p1a",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem var HENRIK SJÖFARAREN?",
+      "svar": "En portugisisk prins (1394–1460) som organiserade och finansierade tidiga portugisiska upptäcktsfärder längs Afrikas kust. Han samlade sjökaptener, kartografer och astronomer i Sagres på Portugals sydspets — nästan som en tidig 'forskarby' för havsutforskning. Trots namnet 'Sjöfararen' seglade han själv knappt någon längre resa. Men hans systematiska stöd till expeditioner söderut la grunden för att Portugal senare kunde nå Indien via havet. Han förkroppsligar övergången från medeltidens religiöst motiverade resor till den nya sortens statsstödda utforskning."
+    },
+    {
+      "id": "kU2-p1b",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vem organiserade Portugals systematiska utforskning av Afrikas kust på 1400-talet?",
+      "svar": "Henrik Sjöfararen — en portugisisk prins. Han grundade en samlingspunkt i Sagres på Portugals sydspets där sjökaptener, kartografer och astronomer arbetade tillsammans. Han finansierade expeditioner söderut längs Afrikas västkust decennium efter decennium. Trots namnet seglade han själv sällan — men hans systematiska arbete la grunden för Portugals framgångar under nästa århundrade. Han förkroppsligar övergången från medeltidens religiöst motiverade resor till en ny sorts statsstödd, systematisk utforskning."
+    },
+    {
+      "id": "kU2-p2a",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vilka var ISABELLA och FERDINAND?",
+      "svar": "De katolska monarkerna — kung Ferdinand av Aragonien (1452–1516) och drottning Isabella av Kastilien (1451–1504). Deras giftermål 1469 förenade de två största kristna kungadömena i Spanien till en enhet. Under deras styre skedde två världshistoriska händelser samma år: 1492 föll Granada, det sista muslimska riket på Iberiska halvön, vilket avslutade reconquistan. Samma år stöttade de Columbus resa västerut. De symboliserar sammanflätningen av kristen expansion och upptäcktsfärder — när kampen mot muslimerna hemma var vunnen sökte samma anda nya utlopp över haven."
+    },
+    {
+      "id": "kU2-p2b",
+      "type": "person",
+      "niva": "grundlaggande",
+      "fraga": "Vilka spanska monarker stöttade Columbus resa 1492?",
+      "svar": "Isabella av Kastilien och Ferdinand av Aragonien — de så kallade katolska monarkerna. De hade förenat sina två kungadömen genom giftermål 1469 och skapade därmed Spanien som enad kristen makt. År 1492 var ett magiskt år för dem: i januari erövrade de Granada, det sista muslimska riket på Iberiska halvön, vilket avslutade den nästan 800-åriga reconquistan. Med den kampen vunnen kunde de nu satsa på nya utlopp — och beslöt att stödja Columbus djärva plan att segla västerut mot Asien."
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "kU2-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för de tekniska och ekonomiska faktorerna bakom upptäcktsfärderna.",
+      "ungefarlig_tid_min": 12,
+      "modellsvar": "Ett gott svar bör täcka båda områdena — teknik och ekonomi — och visa hur de förstärkte varandra.\n\nDe tekniska faktorerna: Utan ny teknik hade långa oceanresor varit omöjliga. Karavellen var det fartyg som gjorde det möjligt — den kombinerade fyrkantsegel (som fångar vind bakifrån) och trekantiga latinsegel (som gör att man kan segla mot vinden genom att kryssa). Kompassen, som kom från Kina via arabvärlden, lät sjömän hålla kurs även utan sol och stjärnor. Astrolab och kvadrant räknade ut latitud. Portolan-kartor med kompassrosor och rhumb-linjer gjorde havet mer förutsägbart.\n\nDe ekonomiska faktorerna: Grunden var att asiatiska varor — kryddor, silke, porslin — kostade förmögenheter i Europa på grund av alla mellanhänder och tullar längs sidenvägen. Att kringgå mellanhänderna genom sjöfart kunde ge enorma vinster. Handelskapitalismen växte fram i italienska stadsstater och senare Amsterdam och London: rika köpmän gick ihop i handelskompanier och delade risk och vinst. Merkantilismen som statlig ekonomisk lära drev kungar att investera i upptäcktsfärder och kolonier för att stärka nationens välstånd.\n\nEtt fördjupande svar kan visa hur teknik och ekonomi förstärkte varandra: karavellen var dyr att bygga, men handelskapitalismen kunde finansiera den. Vinsterna från handeln kunde återinvesteras i bättre teknik. Detta blev en självförstärkande cykel som drev fram allt större äventyr.",
+      "stodlarare": {
+        "stodord": [
+          "karavellen",
+          "latinsegel",
+          "kryssa",
+          "kompass",
+          "astrolab",
+          "mellanhänder",
+          "tull",
+          "handelskapitalism",
+          "merkantilism"
+        ],
+        "startfraser": [
+          "De tekniska framstegen omfattade främst...",
+          "Karavellens avgörande styrka var...",
+          "Ekonomiskt drevs upptäckterna av...",
+          "Handelskapitalismen möjliggjorde att..."
+        ],
+        "tip_for_struktur": "Dela svaret i två block: först teknik (fartyg + navigation), sedan ekonomi (drivkrafter + finansiering). Avsluta gärna med en reflektion om hur de två förstärkte varandra."
+      }
+    },
+    {
+      "id": "kU2-r2",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för idéernas och kyrkans roll som orsaker till upptäcktsfärderna.",
+      "ungefarlig_tid_min": 12,
+      "modellsvar": "Ett gott svar bör visa hur nya idéer och religiös drivkraft samverkade — inte som separata faktorer utan som en sammanflätad kraft.\n\nIdéerna: Renässansen förde med sig återupptäckta antika texter (som Ptolemaios geografi) och en ny nyfikenhet på världen. Empirismen växte fram som reaktion mot skolastikens auktoritetsbundna tänkande — man ville se med egna ögon istället för att lita på gamla författare. Detta tänkande passade upptäckterna perfekt: varje resa gav nya observationer som förändrade världsbilden. Tryckpressen (uppfunnen ca 1450) spred kartor och reseberättelser snabbt över Europa, vilket förstärkte nyfikenheten.\n\nKyrkans roll: Kristen mission var en av upptäckternas starkaste drivkrafter, särskilt för Spanien och Portugal. Reconquistan — den nästan 800-åriga återerövringen av Iberiska halvön från muslimska riken — avslutades 1492 med Granadas fall. Samma år seglade Columbus. Detta är ingen slump: när det inte längre fanns muslimer att bekämpa hemma sökte den kristna expansiven nya utlopp utåt. De katolska monarkerna Isabella och Ferdinand såg upptäckterna som en fortsättning på kampen för kristendomen.\n\nEtt fördjupande svar kan reflektera över att idéer och religion faktiskt inte var motsatser under denna tid — kunskapen sågs som Guds skapelse att utforska, missionen som ett vetenskapligt och andligt uppdrag samtidigt. Det är först senare som vetenskap och religion börjar skiljas åt.",
+      "stodlarare": {
+        "stodord": [
+          "renässans",
+          "empirism",
+          "skolastik",
+          "Ptolemaios",
+          "tryckpressen",
+          "reconquista",
+          "mission",
+          "Granada",
+          "Isabella",
+          "Ferdinand"
+        ],
+        "startfraser": [
+          "Renässansens nya idéer omfattade främst...",
+          "Empirismen innebar en brytning med...",
+          "Kyrkans roll som drivkraft blev tydlig genom...",
+          "Sammanträffandet mellan Granadas fall och Columbus resa 1492 visar..."
+        ],
+        "tip_for_struktur": "Dela svaret i två block: först idéerna (renässansen, empirismen, tryckpressen), sedan religionen (reconquista, mission, katolska monarkerna). Använd sammanträffandet 1492 (Granada + Columbus) som pedagogisk knutpunkt."
+      }
+    }
+  ]
+}

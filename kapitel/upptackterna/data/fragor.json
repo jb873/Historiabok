@@ -1,0 +1,114 @@
+{
+  "delkapitel": "upptackterna",
+  "version": 1,
+  "skapad": "2026-07-02",
+  "_kommentar": "Elevboksfrågor för hela Upptäckterna (en fil per kapitel; avsnitt-elevbok.js filtrerar på AVSNITT_ID). Bakgrund: a1. Orsaker: a2. Konsekvenser: a3. Blandning av mindre delfrågor (varför-frågor på specifika begrepp) och stora redogörelsefrågor per Joachims önskan.",
+  "avsnitt": [
+    {
+      "id": "a1_bakgrund",
+      "nummer": 1,
+      "titel": "Bakgrund",
+      "fragor": [
+        {
+          "id": "q_a1_upptackare",
+          "typ": "grund",
+          "fraga": "Vilka är de kända upptäckarna och vad upptäckte de / gjorde de?"
+        },
+        {
+          "id": "q_a1_ostroms_fall",
+          "typ": "grund",
+          "fraga": "Vilka konsekvenser fick Östroms fall år 1453?"
+        },
+        {
+          "id": "q_a1_portugal_afrika",
+          "typ": "grund",
+          "fraga": "Varför hade Portugal redan innan upptäcktsfärderna utforskat Afrikas västra kust och Atlanten?"
+        },
+        {
+          "id": "q_a1_tordesillas",
+          "typ": "grund",
+          "fraga": "Vad innebar Tordesillasfördraget och vilken långsiktig konsekvens har det haft?"
+        }
+      ]
+    },
+    {
+      "id": "a2_orsaker",
+      "nummer": 2,
+      "titel": "Orsaker",
+      "fragor": [
+        {
+          "id": "q_a2_reconquista",
+          "typ": "grund",
+          "fraga": "Vad innebar reconquista?"
+        },
+        {
+          "id": "q_a2_karavellen",
+          "typ": "grund",
+          "fraga": "Varför var karavellen viktig för upptäcktsfärderna?"
+        },
+        {
+          "id": "q_a2_kompass",
+          "typ": "grund",
+          "fraga": "Varför var kompassen viktig för upptäcktsfärderna?"
+        },
+        {
+          "id": "q_a2_tekniska_faktorer",
+          "typ": "grund",
+          "fraga": "Redogör för de tekniska faktorerna som låg bakom upptäcktsfärderna."
+        },
+        {
+          "id": "q_a2_ekonomiska_faktorer",
+          "typ": "grund",
+          "fraga": "Redogör för de ekonomiska faktorerna som låg bakom upptäcktsfärderna."
+        },
+        {
+          "id": "q_a2_ideer_faktorer",
+          "typ": "grund",
+          "fraga": "Redogör för de idéer som låg bakom upptäcktsfärderna."
+        },
+        {
+          "id": "q_a2_kyrkan_viktig",
+          "typ": "grund",
+          "fraga": "Varför var kyrkan en viktig faktor för upptäcktsfärderna?"
+        },
+        {
+          "id": "q_a2_kyrkans_roll",
+          "typ": "grund",
+          "fraga": "Redogör för kyrkans roll bakom upptäcktsfärderna."
+        }
+      ]
+    },
+    {
+      "id": "a3_konsekvenser",
+      "nummer": 3,
+      "titel": "Konsekvenser",
+      "fragor": [
+        {
+          "id": "q_a3_conquistador",
+          "typ": "grund",
+          "fraga": "Vad är en conquistador?"
+        },
+        {
+          "id": "q_a3_urbefolkningen",
+          "typ": "grund",
+          "fraga": "Vilka konsekvenser fick erövringen av Amerika för ursprungsbefolkningen?"
+        },
+        {
+          "id": "q_a3_triangelhandeln",
+          "typ": "grund",
+          "fraga": "Redogör för triangelhandeln."
+        },
+        {
+          "id": "q_a3_slavhandeln",
+          "typ": "grund",
+          "fraga": "Redogör för slavhandeln. Orsaken till att den startade samt konsekvensen för Afrika."
+        },
+        {
+          "id": "q_a3_columbianska_utbytet",
+          "typ": "grund",
+          "fraga": "Redogör för det columbianska utbytet."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "kapitel_id": "upptackterna",
+  "kapitel_titel": "Upptäckterna",
+  "version": 1,
+  "skapad": "2026-07-02",
+  "kommentar": "Samlad begreppsbank för Upptäckterna (mergad från 3 avsnittsfiler).",
+  "upplasning": {
+    "min_ord": 8,
+    "anvand_nyckelord": false,
+    "beskrivning": "Plattformsstandard: eleven måste skriva minst 8 ord innan expertdefinitionen låses upp."
+  },
+  "begrepp": [
+    {
+      "id": "kU1-b1",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "osmaner",
+      "expertdefinition": "Muslimskt turkiskt folk som byggde upp Osmanska riket från 1300-talet och framåt. De erövrade Konstantinopel 1453 — den händelse som symboliserar Bysantinska rikets fall och som starkt påverkade Europas ekonomi. Genom att kontrollera Bosporen och de traditionella handelsvägarna mot Asien kunde osmanerna ta ut tullar och infoga mellanhänder som gjorde asiatiska varor mycket dyrare för Europa. Detta blev en av de viktigaste orsakerna till att portugiser och spanjorer började söka nya vägar till Indien via havet.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "kU1-b2",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "Sidenvägen",
+      "expertdefinition": "Ett nätverk av handelsvägar mellan Kina och Europa som användes i över tusen år. Namnet kommer av det siden som fördes västerut, men även kryddor, porslin, ädelstenar och kunskap färdades längs vägen. Sidenvägen gick genom Centralasiens öknar och stäpper till Konstantinopel eller Bagdad, och därifrån vidare till Venedig och Genua. När Osmanska riket tog kontrollen över de västra delarna av vägen ökade priserna dramatiskt — vilket blev en av de viktigaste orsakerna till upptäcktsfärderna.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "kU1-b3",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "Tordesillasfördraget",
+      "expertdefinition": "Ett avtal från 1494 mellan Spanien och Portugal där de delade upp den då okända världen mellan sig med en rak linje genom Atlanten. Väster om linjen tillföll Spanien, öster om linjen tillföll Portugal. Fördraget är märkligt av två skäl: det gjordes utan att fråga något annat land eller folk, och det gjordes över kontinenter som européerna knappt hade sett. Konsekvensen syns än idag — Brasiliens östra utbuktning hamnade på portugisisk sida, vilket är förklaringen till att brasilianer talar portugisiska medan resten av Sydamerika talar spanska.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "kU1-b4",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "kolonisation",
+      "expertdefinition": "När ett land tar kontroll över ett annat område långt bort och styr det som en koloni — ofta med politiskt förtryck, ekonomiskt utnyttjande och kulturell påverkan. Under upptäckterna började européerna kolonisera Amerika, Afrika och Asien. Koloniseringen kunde ta olika former: bosättningskolonier (dit européer flyttade), plantagekolonier (där man odlade grödor för export) eller handelskolonier (där man främst köpte varor). Kolonisationen är en av upptäckternas mest långtgående konsekvenser — den har format den moderna världens ekonomi, gränser och maktförhållanden.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "kU1-b5",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "plantage",
+      "expertdefinition": "En stor odling där man specialiserade sig på en enda gröda för export — som socker, tobak, bomull eller kaffe. Plantager var vanliga i de karibiska öarna, Brasilien och södra Nordamerika. Arbetet på plantagerna var oerhört hårt och sköttes i stor utsträckning av förslavade afrikaner. Plantagesystemet var motorn i den atlantiska ekonomin: billiga råvaror från plantagerna sköts till Europa, där de förvandlades till lönsamma varor. Utan plantager hade slavhandeln inte varit så omfattande — och utan slavhandeln hade plantagerna inte varit lika lönsamma.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "kU1-b6",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "reconquista",
+      "expertdefinition": "Den nästan 800-åriga processen där kristna riken på Iberiska halvön återerövrade land från muslimska riken. Reconquistan började omkring år 722 med små kristna kungadömen i norr och avslutades 1492 när Granada, det sista muslimska riket, föll för Isabella och Ferdinand. Just 1492 är också året då Columbus seglade västerut med kastilianska monarkernas stöd — ingen slump. När det inte längre fanns muslimer att bekämpa på hemmaplan sökte den kristna expansiven nya utlopp: mission i Amerika, korstågen mot Nordafrika, upptäcktsfärderna. Reconquistan förklarar varför Spanien och Portugal var särskilt drivna att missionera och erövra nya länder.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "kU2-b1",
+      "avsnitt": "2",
+      "avsnitt_titel": "Orsaker",
+      "term": "karavellen",
+      "expertdefinition": "Ett litet men mycket sjödugligt segelfartyg som utvecklades i Portugal under 1400-talet. Karavellen hade en avgörande teknisk finess: en kombination av fyrkantsegel (som fångar vind bakifrån och driver båten framåt snabbt) och trekantiga latinsegel (som gör att båten kan segla mot vinden). Detta gjorde att karavellen kunde ta sig hem igen även efter långa resor i okänt vatten. Skrovet var djupgående och stabilt nog för öppna oceaner, men fartyget var ändå litet och lättmanövrerat. Utan karavellen hade portugiserna aldrig kunnat runda Afrika, och Columbus hade aldrig kunnat korsa Atlanten. Två av hans tre skepp — Pinta och Niña — var just karaveller.",
+      "kallfil": "data/flipcards/avsnitt-2-orsaker.json"
+    },
+    {
+      "id": "kU2-b2",
+      "avsnitt": "2",
+      "avsnitt_titel": "Orsaker",
+      "term": "kryssa",
+      "expertdefinition": "Att segla i sicksack-mönster mot vinden istället för direkt in i den. Ingen båt kan segla rakt mot vinden — men med rätt segeltyp (latinsegel) och skickligt roder kan man segla snett i förhållande till vinden, sedan vända och segla snett åt andra hållet. På så sätt tar man sig framåt, om än långsamt. Kryssningsteknik var en förutsättning för att portugiserna skulle kunna segla hem igen från Afrika — utan den skulle en resa söderut ha varit en enkelbiljett. Med kryssning blev haven navigerbara i alla riktningar, och långresor blev möjliga.",
+      "kallfil": "data/flipcards/avsnitt-2-orsaker.json"
+    },
+    {
+      "id": "kU2-b3",
+      "avsnitt": "2",
+      "avsnitt_titel": "Orsaker",
+      "term": "kompass",
+      "expertdefinition": "Ett navigationsinstrument med en magnetisk nål som alltid pekar mot norr. Kompassen uppfanns i Kina redan under 1000-talet och spreds via arabvärlden till Europa på 1200-talet. På öppet hav — där sol och stjärnor kan vara skymda av moln i dagar — var kompassen avgörande. Utan den kunde en kapten helt tappa orienteringen. Med kompassen kunde sjömän hålla en någorlunda pålitlig kurs oavsett väder. Tillsammans med astrolab (för att räkna ut latitud) och portolan-kartor gav kompassen européerna verktygen att våga sig ut på oceanerna.",
+      "kallfil": "data/flipcards/avsnitt-2-orsaker.json"
+    },
+    {
+      "id": "kU2-b4",
+      "avsnitt": "2",
+      "avsnitt_titel": "Orsaker",
+      "term": "mellanhänder",
+      "expertdefinition": "Köpmän eller stater som ligger mellan producenten av en vara och den slutliga köparen. Varje mellanhand tar ut en avgift eller vinst för sin del av kedjan — vilket gör att priset stiger för varje led. På sidenvägen och kryddvägen fanns många mellanhänder: kinesiska producenter, centralasiatiska karavaner, persiska köpmän, arabiska och osmanska handlare, italienska handelsstäder. När en säck peppar från Indien till slut nådde en köpman i Antwerpen kunde priset ha stigit tusenfalt. Européernas dröm var att kringgå alla mellanhänder genom att själva segla direkt till källan — vilket blev en av de starkaste ekonomiska drivkrafterna bakom upptäckterna.",
+      "kallfil": "data/flipcards/avsnitt-2-orsaker.json"
+    },
+    {
+      "id": "kU2-b5",
+      "avsnitt": "2",
+      "avsnitt_titel": "Orsaker",
+      "term": "tull",
+      "expertdefinition": "En avgift som en stat eller härskare tar ut när varor passerar en gräns eller ett kontrollerat område. Tullar var (och är) en av statens viktigaste inkomstkällor. Osmanska rikets kontroll över Konstantinopel gav dem möjlighet att ta ut tullar på alla asiatiska varor som fördes till Europa — vilket i sin tur höjde priserna kraftigt i Europa. Tullar var alltså inte en 'blockering' av handeln, utan en fördyrning av den. Ju fler tullar en vara passerade på sin väg från öst till väst, desto dyrare blev den. Detta blev en direkt ekonomisk drivkraft för Europa att söka egna sjövägar där tullar kunde undvikas.",
+      "kallfil": "data/flipcards/avsnitt-2-orsaker.json"
+    },
+    {
+      "id": "kU2-b6",
+      "avsnitt": "2",
+      "avsnitt_titel": "Orsaker",
+      "term": "moralisk ekonomi",
+      "expertdefinition": "En äldre syn på ekonomi som var vanlig under medeltiden och tidig renässans — där ekonomiska handlingar var underordnade moraliska principer, ofta religiösa. Kyrkan lärde att det fanns 'rättvisa priser' som inte fick överskridas, 'rättvisa löner' som skulle betalas, och att det var synd att ta ränta på lån (så kallad ocker). Ekonomi var alltså inte skild från moral — hur man handlade och tjänade pengar var en fråga om själens frälsning. Denna syn stod i skarp motsats till den nya handelskapitalismen som växte fram under upptäckternas tid, där vinstintresset blev drivkraften och konkurrensen sattes i centrum. Övergången från moralisk ekonomi till kapitalism är en av de mest genomgripande förändringarna i europeisk historia.",
+      "kallfil": "data/flipcards/avsnitt-2-orsaker.json"
+    },
+    {
+      "id": "kU2-b7",
+      "avsnitt": "2",
+      "avsnitt_titel": "Orsaker",
+      "term": "handelskapitalism",
+      "expertdefinition": "En tidig form av kapitalism där rika köpmän och banker investerade pengar i handelsföretag — som upptäcktsfärder eller sjöhandel — i hopp om stor vinst. Handelskapitalismen växte fram i italienska stadsstater (Venedig, Genua, Florens) under senmedeltiden och spred sig sedan norrut till Antwerpen, Amsterdam och London. En skeppsresa kunde vara oerhört dyr att utrusta men även extremt lönsam om den lyckades. Investerare gick ihop i handelskompanier som Portugisiska Ostindiska kompaniet eller Holländska Ostindiska kompaniet för att sprida risken. Utan handelskapitalismen hade upptäcktsfärderna aldrig kunnat finansieras.",
+      "kallfil": "data/flipcards/avsnitt-2-orsaker.json"
+    },
+    {
+      "id": "kU2-b8",
+      "avsnitt": "2",
+      "avsnitt_titel": "Orsaker",
+      "term": "skolastik",
+      "expertdefinition": "Det dominerande sättet att tänka och lära vid medeltidens universitet, ungefär 1100–1400. Skolastikerna byggde sin kunskap på auktoriteter — främst Bibeln, kyrkofäderna och Aristoteles — och försökte förena tro och förnuft genom logisk argumentation. Skolastiken var en imponerande intellektuell tradition, men den blev kritiserad under renässansen för att vara alltför bunden vid gamla texter och för lite intresserad av att observera verkligheten. Kritiken mot skolastiken var en av de intellektuella drivkrafterna bakom en ny sorts kunskap: empirismen, som betonade observation och erfarenhet — och som passade upptäcktsfärdernas tid perfekt.",
+      "kallfil": "data/flipcards/avsnitt-2-orsaker.json"
+    },
+    {
+      "id": "kU2-b9",
+      "avsnitt": "2",
+      "avsnitt_titel": "Orsaker",
+      "term": "empirism",
+      "expertdefinition": "En kunskapssyn som säger att sann kunskap kommer från observation och erfarenhet — inte enbart från gamla texter eller logisk argumentation. Empirismen växte fram som en reaktion mot skolastiken under renässansen och blev en av grundpelarna i den moderna vetenskapen. För upptäcktsfärderna var empirismen viktig på två sätt: dels drev den nyfikenheten att faktiskt segla ut och se vad som fanns bortom horisonten (istället för att bara läsa vad gamla författare skrivit), dels förändrade upptäckterna själva den europeiska världsbilden — man insåg att antikens auktoriteter inte alltid hade rätt. Upptäckterna och empirismen förstärkte varandra i en kedjereaktion.",
+      "kallfil": "data/flipcards/avsnitt-2-orsaker.json"
+    },
+    {
+      "id": "kU3-b1",
+      "avsnitt": "3",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "conquistador",
+      "expertdefinition": "Spanska erövrare som ledde militära expeditioner i Amerika under 1500-talet — 'erövrare' på spanska. De mest kända är Hernán Cortés, som erövrade Aztekriket 1519–1521, och Francisco Pizarro, som erövrade Inkariket 1532–1533. Konkvistadorerna var oftast äventyrare från lägre adel eller obemedlade småbönder som sökte rikedom och heder i den nya världen. Deras metoder var brutala — massakrer, tortyr, förslavning — men deras framgångar berodde också på faktorer utanför deras kontroll: sjukdomar som redan hade decimerat urbefolkningen, interna konflikter bland de amerikanska rikena och överraskningsmomentet av hästar och krut. Konkvistadorerna symboliserar den europeiska erövringens våldsamhet.",
+      "kallfil": "data/flipcards/avsnitt-3-konsekvenser.json"
+    },
+    {
+      "id": "kU3-b2",
+      "avsnitt": "3",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "smittkoppor",
+      "expertdefinition": "En dödlig virussjukdom som européerna förde med sig till Amerika. Där hade befolkningen ingen tidigare exponering och därför inget immunförsvar mot sjukdomen. Effekten blev katastrofal: uppskattningsvis 90 % av urbefolkningen dog av smittkoppor och andra europeiska sjukdomar (mässling, influensa, tyfus) under de första 100 åren efter 1492. Smittkopporna var den enskilt viktigaste faktorn bakom att relativt små spanska styrkor kunde erövra jättelika riken som Aztekriket och Inkariket. Detta är också ett av historiens tydligaste exempel på hur en biologisk händelse kan vara viktigare än militär styrka i att avgöra kontinenters öden.",
+      "kallfil": "data/flipcards/avsnitt-3-konsekvenser.json"
+    },
+    {
+      "id": "kU3-b3",
+      "avsnitt": "3",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "fort",
+      "expertdefinition": "Ett befäst handelscentrum som européerna byggde längs Afrikas kust och i Indien, Sydostasien och Amerika. Forten fungerade som skyddade uppköpspunkter där europeiska köpmän kunde bo, förvara varor och köpa upp lokala produkter (guld, slavar, kryddor) för vidare transport till Europa. De mest kända slavhandels-forten längs Västafrika var Elmina (byggt av portugiserna 1482), Cape Coast Castle och Ouidah. Forten möjliggjorde en trekantshandel mellan Europa, Afrika och Amerika — utan dem hade slavhandeln inte kunnat organiseras i så stor skala. Idag är många av dessa fort UNESCO-världsarv och besöks som platser för att minnas det som skedde.",
+      "kallfil": "data/flipcards/avsnitt-3-konsekvenser.json"
+    },
+    {
+      "id": "kU3-b4",
+      "avsnitt": "3",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "triangelhandel",
+      "expertdefinition": "Ett handelssystem som utvecklades under 1600- och 1700-talen mellan Europa, Afrika och Amerika. De tre benen var: från Europa till Afrika skickades vapen, textilier, alkohol och kopparvaror som byttes mot förslavade människor. Från Afrika till Amerika transporterades de förslavade under den fasansfulla mellanpassagen. Från Amerika till Europa skickades socker, tobak, bomull och guld som producerats med slavarbete på plantager. Systemet var oerhört lönsamt för europeiska köpmän — alla tre benen gav vinst — och det byggde upp stora förmögenheter i städer som Liverpool, Bristol, Nantes och Amsterdam. Triangelhandeln formade den moderna världens ekonomi.",
+      "kallfil": "data/flipcards/avsnitt-3-konsekvenser.json"
+    },
+    {
+      "id": "kU3-b5",
+      "avsnitt": "3",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "kolonialvaror",
+      "expertdefinition": "Varor som producerades i europeiska kolonier och skickades till moderlandet — främst från Amerika, Asien och senare Afrika. De viktigaste kolonialvarorna var socker, tobak, kaffe, kakao, bomull, te, kryddor och indigo. Från början var många av dessa lyxvaror för de rika, men under 1700- och 1800-talen blev de vanliga i alla samhällsklasser — kaffe, te och socker förändrade helt vardagslivet för europén. Kolonialvarorna kunde produceras billigt tack vare slavarbete och tvångsarbete i kolonierna, men såldes med hög vinst i Europa. Beroendet av kolonialvaror är en central del av förklaringen till varför Europa så länge upprätthöll kolonial makt.",
+      "kallfil": "data/flipcards/avsnitt-3-konsekvenser.json"
+    },
+    {
+      "id": "kU3-b6",
+      "avsnitt": "3",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "columbianska utbytet",
+      "expertdefinition": "Det aldrig tidigare skådade utbytet av växter, djur, sjukdomar och människor mellan Amerika och den gamla världen (Europa, Asien, Afrika) efter Columbus resa 1492. Från Amerika till Gamla världen kom potatis, tomat, majs, kakao, chili, tobak, ananas — grödor som skulle förändra dieter över hela världen. Från Gamla världen till Amerika kom häst, ko, får, vete, ris, sockerrör, kaffe — och tragiskt även smittkoppor, mässling och influensa. Utbytet formade den moderna världens dieter (italiensk mat utan tomat är otänkbart, liksom irländsk kost utan potatis) och befolkningsutveckling. Det columbianska utbytet är kanske upptäckternas mest långtgående — och minst uppmärksammade — konsekvens.",
+      "kallfil": "data/flipcards/avsnitt-3-konsekvenser.json"
+    }
+  ]
+}
