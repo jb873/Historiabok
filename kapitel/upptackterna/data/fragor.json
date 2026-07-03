@@ -29,7 +29,8 @@
           "typ": "grund",
           "fraga": "Vad innebar Tordesillasfördraget och vilken långsiktig konsekvens har det haft?"
         }
-      ]
+      ],
+      "delkapitel_titel": "Upptäckterna"
     },
     {
       "id": "a2_orsaker",
@@ -76,7 +77,8 @@
           "typ": "grund",
           "fraga": "Redogör för kyrkans roll bakom upptäcktsfärderna."
         }
-      ]
+      ],
+      "delkapitel_titel": "Upptäckterna"
     },
     {
       "id": "a3_konsekvenser",
@@ -108,7 +110,8 @@
           "typ": "grund",
           "fraga": "Redogör för det columbianska utbytet."
         }
-      ]
+      ],
+      "delkapitel_titel": "Upptäckterna"
     }
   ]
 }
