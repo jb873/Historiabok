@@ -1,0 +1,21 @@
+{
+  "delkapitel": "epokerna",
+  "delkapitel_titel": "Epokerna",
+  "kapitel": "forntiden-antiken",
+  "avsnitt": [
+    {
+      "id": "a1_forntiden",
+      "nummer": 1,
+      "titel": "Forntiden",
+      "ar": "~3000 f.Kr",
+      "fil": "avsnitt-1-forntiden.html"
+    },
+    {
+      "id": "a2_grekland",
+      "nummer": 2,
+      "titel": "Antikens Grekland",
+      "ar": "~800-323 f.Kr",
+      "fil": "avsnitt-2-grekland.html"
+    }
+  ]
+}
