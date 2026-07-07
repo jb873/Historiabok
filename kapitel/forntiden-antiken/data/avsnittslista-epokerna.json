@@ -16,6 +16,13 @@
       "titel": "Antikens Grekland",
       "ar": "~800-323 f.Kr",
       "fil": "avsnitt-2-grekland.html"
+    },
+    {
+      "id": "a3_rom",
+      "nummer": 3,
+      "titel": "Antikens Rom",
+      "ar": "~500 f.Kr-476 e.Kr",
+      "fil": "avsnitt-3-rom.html"
     }
   ]
 }
