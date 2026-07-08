@@ -4,21 +4,21 @@
   "kapitel": "upptackterna",
   "avsnitt": [
     {
-      "id": "a1_uppkomst",
+      "id": "a4_uppkomst",
       "nummer": 1,
       "titel": "Reformationens uppkomst",
       "ar": "~1500-1525",
       "fil": "avsnitt-1-reformationens-uppkomst.html"
     },
     {
-      "id": "a2_grenar",
+      "id": "a5_grenar",
       "nummer": 2,
       "titel": "Reformationens grenar",
       "ar": "~1525-1600",
       "fil": "avsnitt-2-reformationens-grenar.html"
     },
     {
-      "id": "a3_motreformation",
+      "id": "a6_motreformation",
       "nummer": 3,
       "titel": "Motreformation, krig och envälde",
       "ar": "~1545-1715",

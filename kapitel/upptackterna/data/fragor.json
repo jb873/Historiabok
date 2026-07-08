@@ -1,8 +1,8 @@
 {
   "delkapitel": "upptackterna",
   "version": 1,
-  "skapad": "2026-07-02",
-  "_kommentar": "Elevboksfrågor för hela Upptäckterna (en fil per kapitel; avsnitt-elevbok.js filtrerar på AVSNITT_ID). Bakgrund: a1. Orsaker: a2. Konsekvenser: a3. Blandning av mindre delfrågor (varför-frågor på specifika begrepp) och stora redogörelsefrågor per Joachims önskan.",
+  "skapad": "2026-07-08",
+  "_kommentar": "Elevboksfrågor för hela kapitlet Upptäckternas tidevarv (en fil per kapitel; avsnitt-elevbok.js filtrerar på AVSNITT_ID). Delkapitel Upptäckterna: a1-a3. Delkapitel Reformationen och enväldet: a4-a6. Global avsnittsnumrering enligt Medeltiden-konventionen. Alla frågor typ 'grund' (repetition för skrivandet; provet omfattar Upptäckterna + Reformationen + envälde samtidigt). OBS: avsnitt.id måste matcha AVSNITT_ID i respektive avsnitts-HTML — verifiera.",
   "avsnitt": [
     {
       "id": "a1_bakgrund",
@@ -10,7 +10,7 @@
       "titel": "Bakgrund",
       "fragor": [
         {
-          "id": "q_a1_upptackare",
+          "id": "q_a1_upptackarna",
           "typ": "grund",
           "fraga": "Vilka är de kända upptäckarna och vad upptäckte de / gjorde de?"
         },
@@ -20,38 +20,22 @@
           "fraga": "Vilka konsekvenser fick Östroms fall år 1453?"
         },
         {
-          "id": "q_a1_portugal_afrika",
+          "id": "q_a1_portugal",
           "typ": "grund",
           "fraga": "Varför hade Portugal redan innan upptäcktsfärderna utforskat Afrikas västra kust och Atlanten?"
         },
         {
-          "id": "q_a1_tordesillas",
+          "id": "q_a1_reconquista",
           "typ": "grund",
-          "fraga": "Vad innebar Tordesillasfördraget och vilken långsiktig konsekvens har det haft?"
+          "fraga": "Vad innebar reconquista?"
         }
-      ],
-      "delkapitel_titel": "Upptäckterna"
+      ]
     },
     {
       "id": "a2_orsaker",
       "nummer": 2,
       "titel": "Orsaker",
       "fragor": [
-        {
-          "id": "q_a2_reconquista",
-          "typ": "grund",
-          "fraga": "Vad innebar reconquista?"
-        },
-        {
-          "id": "q_a2_karavellen",
-          "typ": "grund",
-          "fraga": "Varför var karavellen viktig för upptäcktsfärderna?"
-        },
-        {
-          "id": "q_a2_kompass",
-          "typ": "grund",
-          "fraga": "Varför var kompassen viktig för upptäcktsfärderna?"
-        },
         {
           "id": "q_a2_tekniska_faktorer",
           "typ": "grund",
@@ -63,22 +47,16 @@
           "fraga": "Redogör för de ekonomiska faktorerna som låg bakom upptäcktsfärderna."
         },
         {
-          "id": "q_a2_ideer_faktorer",
+          "id": "q_a2_ideer",
           "typ": "grund",
           "fraga": "Redogör för de idéer som låg bakom upptäcktsfärderna."
-        },
-        {
-          "id": "q_a2_kyrkan_viktig",
-          "typ": "grund",
-          "fraga": "Varför var kyrkan en viktig faktor för upptäcktsfärderna?"
         },
         {
           "id": "q_a2_kyrkans_roll",
           "typ": "grund",
           "fraga": "Redogör för kyrkans roll bakom upptäcktsfärderna."
         }
-      ],
-      "delkapitel_titel": "Upptäckterna"
+      ]
     },
     {
       "id": "a3_konsekvenser",
@@ -91,7 +69,7 @@
           "fraga": "Vad är en conquistador?"
         },
         {
-          "id": "q_a3_urbefolkningen",
+          "id": "q_a3_ursprungsbefolkningen",
           "typ": "grund",
           "fraga": "Vilka konsekvenser fick erövringen av Amerika för ursprungsbefolkningen?"
         },
@@ -106,12 +84,167 @@
           "fraga": "Redogör för slavhandeln. Orsaken till att den startade samt konsekvensen för Afrika."
         },
         {
-          "id": "q_a3_columbianska_utbytet",
+          "id": "q_a3_colombianska_utbytet",
           "typ": "grund",
-          "fraga": "Redogör för det columbianska utbytet."
+          "fraga": "Redogör för det colombianska utbytet."
         }
-      ],
-      "delkapitel_titel": "Upptäckterna"
+      ]
+    },
+    {
+      "id": "a4_uppkomst",
+      "nummer": 4,
+      "titel": "Reformationens uppkomst",
+      "fragor": [
+        {
+          "id": "q_a4_missnoje",
+          "typ": "grund",
+          "fraga": "Redogör för missnöjet mot kyrkan."
+        },
+        {
+          "id": "q_a4_luthers_kritik",
+          "typ": "grund",
+          "fraga": "Redogör för Martin Luthers kritik mot kyrkan samt vad han ville."
+        },
+        {
+          "id": "q_a4_boktryckarkonsten",
+          "typ": "grund",
+          "fraga": "Redogör för boktryckarkonstens roll i reformationen."
+        },
+        {
+          "id": "q_a4_luthers_paverkan",
+          "typ": "grund",
+          "fraga": "Redogör för varför Luthers tankar fick så stor påverkan och varför så många stödde hans tankar."
+        },
+        {
+          "id": "q_a4_bibeloversattning",
+          "typ": "grund",
+          "fraga": "Vilka effekter fick översättningen av Bibeln till olika språk?"
+        },
+        {
+          "id": "q_a4_protestantismens_karna",
+          "typ": "grund",
+          "fraga": "Redogör för protestantismens kärna."
+        },
+        {
+          "id": "q_a4_bondernas_situation",
+          "typ": "grund",
+          "fraga": "Redogör för böndernas situation och varför de gjorde uppror."
+        },
+        {
+          "id": "q_a4_bondernas_krav",
+          "typ": "grund",
+          "fraga": "Vilka krav ställde bönderna?"
+        },
+        {
+          "id": "q_a4_luther_bonderna",
+          "typ": "grund",
+          "fraga": "Varför stödde inte Luther bönderna?"
+        }
+      ]
+    },
+    {
+      "id": "a5_grenar",
+      "nummer": 5,
+      "titel": "Reformationens grenar",
+      "fragor": [
+        {
+          "id": "q_a5_lutheranismens_karna",
+          "typ": "grund",
+          "fraga": "Redogör för lutheranismens kärna."
+        },
+        {
+          "id": "q_a5_statskyrka",
+          "typ": "grund",
+          "fraga": "Vad menas med att kyrkan är en statskyrka?"
+        },
+        {
+          "id": "q_a5_kalvinism_lutheranism",
+          "typ": "grund",
+          "fraga": "Vilka likheter och skillnader finns det mellan kalvinism och lutheranism?"
+        },
+        {
+          "id": "q_a5_predestination",
+          "typ": "grund",
+          "fraga": "Vad menas med predestination?"
+        },
+        {
+          "id": "q_a5_anglikanism",
+          "typ": "grund",
+          "fraga": "Vad menar man med att anglikanism är en mellanväg mellan protestantism och katolicism?"
+        }
+      ]
+    },
+    {
+      "id": "a6_motreformation",
+      "nummer": 6,
+      "titel": "Motreformation, krig och envälde",
+      "fragor": [
+        {
+          "id": "q_a6_motreformation",
+          "typ": "grund",
+          "fraga": "Vad menas med motreformation?"
+        },
+        {
+          "id": "q_a6_reformer",
+          "typ": "grund",
+          "fraga": "Vilka reformer genomförde man inom den katolska kyrkan?"
+        },
+        {
+          "id": "q_a6_inkvisitionen",
+          "typ": "grund",
+          "fraga": "Vad är inkvisitionen?"
+        },
+        {
+          "id": "q_a6_trettioariga_orsaker",
+          "typ": "grund",
+          "fraga": "Vilka är de viktiga orsakerna bakom trettioåriga kriget?"
+        },
+        {
+          "id": "q_a6_moderna_staten",
+          "typ": "grund",
+          "fraga": "Vad bygger den moderna staten på för två viktiga delar?"
+        },
+        {
+          "id": "q_a6_suveran_stat",
+          "typ": "grund",
+          "fraga": "Redogör för de viktiga delar som behövs för en suverän stat."
+        },
+        {
+          "id": "q_a6_ambetsman",
+          "typ": "grund",
+          "fraga": "Redogör för ämbetsmännens viktigaste uppgifter."
+        },
+        {
+          "id": "q_a6_kungens_makt_militar",
+          "typ": "grund",
+          "fraga": "Redogör för hur kungen stärkte sin makt genom att öka kontrollen över militären och skatterna."
+        },
+        {
+          "id": "q_a6_kungens_forvaltning",
+          "typ": "grund",
+          "fraga": "Redogör för hur kungen effektiviserade förvaltning och fick kontroll över rättskipningen."
+        },
+        {
+          "id": "q_a6_forlagssystem",
+          "typ": "grund",
+          "fraga": "Redogör för förlagssystemet."
+        },
+        {
+          "id": "q_a6_merkantilism",
+          "typ": "grund",
+          "fraga": "Redogör för merkantilismen."
+        },
+        {
+          "id": "q_a6_arofyllda_revolutionen",
+          "typ": "grund",
+          "fraga": "Redogör för den ärofyllda revolutionen."
+        },
+        {
+          "id": "q_a6_absolutism",
+          "typ": "grund",
+          "fraga": "Redogör för absolutismen."
+        }
+      ]
     }
   ]
 }

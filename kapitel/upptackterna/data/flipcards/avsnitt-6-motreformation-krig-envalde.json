@@ -1,0 +1,239 @@
+{
+  "avsnitt": 6,
+  "titel": "Motreformation, trettioåriga kriget och envälde",
+  "delkapitel": "reformationen",
+  "version": "1.0",
+  "kort_totalt": 23,
+  "_kommentar": "Flipcards för avsnitt 6. 13 begreppskort (11 sakbegrepp + 3 personer: Ignatius av Loyola, Gustav II Adolf, Ludvig XIV) + 7 modellkort + 3 redogörelsekort = 23 kort. BESLUT ATT BEKRÄFTA: Ludvig XIV läggs som Solkungen-kortet (k3-b11) i stället för ett separat personkort, för att undvika dubblett. Vill du ha honom som eget kort utöver Solkungen, säg till. Nivåfördelning ~74% grundlaggande / 26% fordjupning (6 fordjupning av 23). Personer ligger som begreppskort enligt beslut — plattformen har ingen personkort-typ.",
+  "begreppskort": [
+    {
+      "id": "k6-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var MOTREFORMATIONEN?",
+      "svar": "Den katolska kyrkans svar på den protestantiska reformationen. När allt fler länder blev protestantiska samlade sig katolska kyrkan för att både reformera sig själv och vinna tillbaka förlorad mark. Det viktigaste steget var kyrkomötet i Trient (1545–1563), där kyrkan slog fast sin lära och rättade en del missbruk — men vägrade kompromissa med protestanterna. Motreformationen använde också nya redskap: jesuitorden för utbildning och mission, inkvisitionen för att spåra kätteri, och en lista över förbjudna böcker. Den kallas ibland även den katolska reformationen, eftersom den var både ett försvar mot protestanterna och en förnyelse inifrån."
+    },
+    {
+      "id": "k6-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var INKVISITIONEN?",
+      "svar": "En kyrklig domstol vars uppgift var att spåra upp och döma kätteri — alltså läror som avvek från den katolska tron. Inkvisitionen fanns redan under medeltiden men fick förnyad kraft under motreformationen, när kyrkan ville stoppa protestantismens spridning. Den som misstänktes förhördes, och den som vägrade ta tillbaka sina åsikter kunde straffas hårt — från böter och fängelse till avrättning. Den spanska inkvisitionen är den mest ökända. Inkvisitionen visar hur kyrkan under denna tid inte bara predikade sin lära utan också använde makt och rädsla för att hålla den ren."
+    },
+    {
+      "id": "k6-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med KÄTTERI?",
+      "svar": "En lära eller åsikt som avviker från kyrkans officiella tro. Att vara kättare innebar att man höll fast vid något som kyrkan hade fördömt som falskt. Under motreformationen räknades protestantiska idéer som kätteri av den katolska kyrkan — och tvärtom betraktade protestanterna delar av katolicismen som villoläror. Kätteri var inte bara en religiös fråga utan också en politisk: den som ifrågasatte kyrkans lära ifrågasatte ofta hela samhällsordningen. Därför bekämpades kätteri hårt, bland annat genom inkvisitionen."
+    },
+    {
+      "id": "k6-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vem var IGNATIUS AV LOYOLA?",
+      "svar": "En spansk adelsman och soldat som efter en svår krigsskada genomgick en religiös omvändelse och blev en av motreformationens viktigaste gestalter. Han grundade jesuitorden (Sällskapet Jesu), som påven godkände 1540. Jesuiterna blev kända för sträng disciplin, lydnad mot påven och framför allt för utbildning — de byggde skolor och universitet över hela Europa och sände missionärer till Asien och Amerika. Ignatius skrev också Andliga övningar, en handbok i bön och självrannsakan. Genom jesuiterna blev han en nyckelfigur i kyrkans kamp för att vinna tillbaka mark från protestanterna."
+    },
+    {
+      "id": "k6-b5",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad betyder SUVERÄNITET?",
+      "svar": "En stats rätt att självständigt bestämma över sitt eget land och folk, utan att någon utifrån lägger sig i. En suverän stat erkänner ingen högre makt över sig — varken en kejsare, en påve eller en annan stat. Principen slogs fast tydligt i den westfaliska freden 1648, som avslutade trettioåriga kriget. Efter freden byggde Europa i allt högre grad på idén att varje stat själv bestämde sin religion och sina lagar. Suveränitet är grunden för hur vi fortfarande tänker om självständiga länder idag — det är därför man talar om det westfaliska statssystemet."
+    },
+    {
+      "id": "k6-b6",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad är BYRÅKRATI?",
+      "svar": "Ett system där staten styrs av avlönade tjänstemän som arbetar efter fasta regler och rutiner, snarare än genom personliga band. I byråkratin spelar det ingen roll vem du är släkt med — beslut ska fattas enligt lagar och dokument, och allt skrivs ner. Under 1600-talet byggde de framväxande enväldiga staterna upp stora byråkratier för att kunna ta in skatter, driva krig och styra hela riket från centrum. Byråkratin var kungens verktyg för att gå förbi adeln: i stället för att förlita sig på mäktiga adelsmän kunde kungen styra genom ämbetsmän som var beroende av honom. Det är i denna tid den moderna statsförvaltningen börjar ta form."
+    },
+    {
+      "id": "k6-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var ÄMBETSMÄN?",
+      "svar": "Tjänstemän som arbetade åt staten och kungen mot lön — till exempel skatteindrivare, domare och förvaltare. Ämbetsmännen var ryggraden i den växande byråkratin under enväldets tid. Det viktiga med dem var att de var beroende av kungen för sin lön och sin ställning, till skillnad från adeln som hade egen makt genom jord och ärvda titlar. Genom att styra med hjälp av lojala ämbetsmän kunde kungen dra makt från adeln och samla den hos sig själv. Ämbetsmännen gjorde det möjligt att styra ett helt rike efter samma regler, i stället för att varje adelsman bestämde på sina egna marker."
+    },
+    {
+      "id": "k6-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vem var GUSTAV II ADOLF?",
+      "svar": "Sveriges kung 1611–1632 och den ledare som gjorde Sverige till en europeisk stormakt. År 1630 gick han in i trettioåriga kriget på den protestantiska sidan genom att landstiga i norra Tyskland. Han hade flera motiv: att skydda protestantismen, att hålla den katolske kejsaren borta från Östersjön och att öka Sveriges makt. Med en välorganiserad och modern armé vann han flera segrar, bland annat vid Breitenfeld. Han stupade själv i slaget vid Lützen 1632. Trots hans död fortsatte Sverige kriget — under rikskanslern Axel Oxenstierna — och kom ut ur det som en stormakt vid Östersjön."
+    },
+    {
+      "id": "k6-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var ENVÄLDE?",
+      "svar": "Ett styrelseskick där en enda person — kungen — har all makt i staten. Under enväldet fanns ingen riksdag eller adel som kunde sätta gränser för kungens beslut. Han bestämde själv över lagar, skatter, krig och religion. Enväldet växte fram i flera europeiska länder under 1600-talet, tydligast i Frankrike under Ludvig XIV men även i Sverige under Karl XI och Karl XII. För att kunna styra ensam behövde kungen en stark byråkrati, avlönade ämbetsmän och en stående armé. Envälde är det svenska ordet för det som på latin kallas absolutism."
+    },
+    {
+      "id": "k6-b10",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad menas med ABSOLUTISM?",
+      "svar": "Läran och tankesättet bakom enväldet — idén att kungen ska ha oinskränkt (absolut) makt och stå över lagen. Enligt absolutismen fick kungen sin makt direkt av Gud, och därför var det uppror mot Gud att göra motstånd mot honom. Denna idé kallas kungadömet av Guds nåde. Absolutismen gav kungen rätt att ensam bestämma om lagar, skatter och krig, utan att behöva fråga adel eller folkförsamling. Ludvig XIV är det tydligaste exemplet — uttrycket 'staten, det är jag' fångar hela tanken. Skillnaden mot envälde är främst att envälde beskriver själva styrelseskicket, medan absolutism beskriver idén och läran som rättfärdigade det."
+    },
+    {
+      "id": "k6-b11",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vem var SOLKUNGEN?",
+      "svar": "Öknamnet på Ludvig XIV, Frankrikes kung 1643–1715 och den mest kända enväldige monarken i historien. Han kallades Solkungen eftersom han lät allt kretsa kring sig själv, precis som planeterna kring solen. Ludvig byggde det praktfulla slottet Versailles och lockade dit adeln, där han kunde hålla den under kontroll med hovliv och ceremonier i stället för att låta den bygga egen makt. Han styrde utan att kalla in någon folkförsamling, med hjälp av lojala ämbetsmän och en stark byråkrati. Han lär ha sagt 'L'état, c'est moi' — 'Staten, det är jag' — vilket sammanfattar hela hans syn på makten. Under honom nådde det franska enväldet sin höjdpunkt."
+    },
+    {
+      "id": "k6-b12",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder att en stat är CENTRALISERAD?",
+      "svar": "Att makten är samlad på ett ställe — hos den centrala staten och kungen — i stället för att vara utspridd på många lokala herrar. I en centraliserad stat fattas de viktiga besluten i huvudstaden och genomförs sedan i hela riket av kungens ämbetsmän. Under enväldets tid arbetade kungarna hårt för att centralisera makten: de tog ifrån adeln dess lokala inflytande och styrde i stället genom byråkrati och avlönade tjänstemän. Centralisering var alltså raka motsatsen till det medeltida feodala samhället, där makten var splittrad mellan många adelsmän. Den centraliserade staten är en av grunderna för den moderna staten."
+    },
+    {
+      "id": "k6-b13",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ett PARLAMENT?",
+      "svar": "En folkförsamling som representerar olika grupper i samhället och som kan vara med och fatta beslut, till exempel om lagar och skatter. Parlamentet var det stora hindret för enväldet. I Frankrike lyckades kungarna sätta folkförsamlingen (generalständerna) ur spel — den kallades inte in på över 170 år under enväldet. I England gick det tvärtom: parlamentet stärkte sin makt genom strider mot kungen, och landet utvecklades mot en styrelse där kungen måste dela makten med folkets representanter. Parlamentet är därför nyckeln till att förstå varför envälde kunde växa fram i vissa länder men inte i andra."
+    }
+  ],
+  "modellkort": [
+    {
+      "id": "k6-m1",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur svarade den katolska kyrkan på reformationen?",
+      "svar": "När protestantismen spred sig samlade sig katolska kyrkan till motanfall och förnyelse på flera fronter:\n\n• **Kyrkomötet i Trient (1545–1563):** Kyrkan slog fast exakt vad den trodde på och rättade en del av de missbruk som Luther hade kritiserat — men vägrade kompromissa med protestanterna.\n\n• **Jesuitorden:** Ignatius av Loyolas nya orden byggde skolor och universitet och sände missionärer över hela världen. Utbildning blev ett vapen för att vinna tillbaka människor.\n\n• **Inkvisitionen:** Kyrkliga domstolar spårade upp och dömde kätteri för att stoppa protestantiska idéer.\n\n• **Förbjudna böcker:** Kyrkan förde en lista över böcker som katoliker inte fick läsa, för att hindra kätterska tankar från att spridas.\n\n**Det viktiga:** Motreformationen var både försvar och förnyelse. Kyrkan städade upp inom sig själv samtidigt som den slog hårt mot dem som avvek. Resultatet blev att Europa delades på mitten — ett katolskt syd och ett protestantiskt nord — en gräns som i stort sett finns kvar än idag."
+    },
+    {
+      "id": "k6-m2",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför bröt trettioåriga kriget ut?",
+      "svar": "Kriget hade både en religiös och en politisk orsak, och de gick inte att skilja åt:\n\n• **Religiös splittring:** Efter reformationen var det tyskromerska riket delat mellan katolska och protestantiska furstar. Misstron mellan dem var djup, och båda sidor var rädda för att den andra skulle ta över.\n\n• **Gnistan i Böhmen 1618:** Protestantiska adelsmän i Prag gjorde uppror mot den katolske kejsaren. Konflikten spred sig snabbt till hela riket.\n\n• **Politisk maktkamp:** Kriget handlade snart inte bara om religion utan om makt. Kejsaren ville stärka sin ställning, furstarna ville behålla sin självständighet, och andra länder — Danmark, Sverige och Frankrike — blandade sig i för sina egna intressen.\n\n**Det viktiga:** Trettioåriga kriget började som en religiös konflikt men blev en europeisk maktkamp. Det märks tydligast på att katolska Frankrike till slut stödde de protestantiska sidan — bara för att försvaga sin rival, den katolske kejsaren. När politik och religion blandas blir krig ofta både långa och grymma."
+    },
+    {
+      "id": "k6-m3",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför gick Gustav II Adolf och Sverige in i trettioåriga kriget?",
+      "svar": "Gustav II Adolf landsteg i Tyskland 1630. Bakom beslutet låg flera motiv samtidigt:\n\n• **Religion:** Som protestantisk kung ville han skydda trosfränderna i Tyskland, som pressades hårt av den katolske kejsaren.\n\n• **Säkerhet:** Om kejsaren fick kontroll över Östersjökusten skulle Sverige hotas direkt. Att möta faran i Tyskland var bättre än att vänta på den hemma.\n\n• **Makt och pengar:** Ett framgångsrikt krig kunde ge Sverige landområden, tullinkomster och inflytande. Kriget finansierades delvis med franska pengar.\n\n• **En modern armé:** Gustav II Adolf hade byggt upp en välorganiserad och rörlig här med bättre kanoner och taktik än motståndarna. Det gjorde det möjligt att våga sig ut i storkriget.\n\n**Det viktiga:** Sverige gick in i kriget av en blandning av tro, rädsla och maktbegär — sällan är historiska beslut drivna av bara ett motiv. Gustav II Adolf stupade vid Lützen 1632, men kriget lade grunden till den svenska stormaktstiden."
+    },
+    {
+      "id": "k6-m4",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Vad var den westfaliska freden och varför blev den så viktig?",
+      "svar": "Den westfaliska freden 1648 avslutade trettioåriga kriget — men dess betydelse sträcker sig långt bortom det:\n\n• **Slut på ett förödande krig:** Delar av Tyskland hade förlorat en stor del av sin befolkning till strider, svält och sjukdomar. Freden var efterlängtad.\n\n• **Religionsfrågan löstes praktiskt:** Varje furste fick i huvudsak bestämma religionen i sitt eget område. Ingen sida hade vunnit den religiösa striden helt — man fick lära sig att leva sida vid sida.\n\n• **Suveränitetsprincipen:** Staterna erkände varandras rätt att själva styra sitt land utan inblandning utifrån. Kejsaren och påven förlorade sitt anspråk på att stå över alla andra.\n\n• **En ny kartbild:** Sverige och Frankrike stärktes, medan kejsarens makt försvagades. Sverige fick besittningar vid tyska Östersjökusten.\n\n**Den stora poängen:** Freden i Westfalen räknas som början på det moderna statssystemet, där världen består av självständiga stater som är formellt jämlika. Idén att varje land bestämmer inom sina egna gränser — som fortfarande styr internationell politik — brukar spåras just hit."
+    },
+    {
+      "id": "k6-m5",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur kunde kungarna samla all makt hos sig själva under enväldet?",
+      "svar": "Envälde uppstod inte av sig självt — kungarna byggde sin makt steg för steg genom att ta den från andra:\n\n• **De försvagade adeln:** I stället för att förlita sig på mäktiga adelsmän styrde kungen genom avlönade ämbetsmän som var beroende av honom. Adeln lockades till hovet, där den kunde hållas under uppsikt.\n\n• **De byggde en byråkrati:** En stab av tjänstemän skötte skatter, domstolar och förvaltning efter fasta regler, direkt under kungen.\n\n• **De skaffade en stående armé:** En fast, avlönad armé som lydde kungen gjorde honom oberoende av adelns soldater — och gav honom makt att tvinga igenom sin vilja.\n\n• **De motiverade makten religiöst:** Läran om kungadöme av Guds nåde sa att kungen fått sin makt av Gud. Att göra uppror blev då inte bara olagligt utan syndigt.\n\n**Det viktiga:** Envälde byggde på tre praktiska pelare — ämbetsmän, byråkrati och armé — plus en idé (absolutismen) som rättfärdigade det hela. Makten centraliserades hos kungen, och det medeltida samhället där adeln delade makten var över."
+    },
+    {
+      "id": "k6-m6",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur styrde Ludvig XIV Frankrike som enväldig kung?",
+      "svar": "Ludvig XIV drev det franska enväldet till sin höjdpunkt och blev förebild för kungar i hela Europa:\n\n• **Han tämjde adeln vid Versailles:** Genom att bygga det praktfulla slottet och locka dit adeln kunde han hålla den sysselsatt med hovliv och ceremonier — långt från egen maktbas ute i landet.\n\n• **Han styrde utan folkförsamling:** Generalständerna, Frankrikes folkförsamling, kallades aldrig in under hans regering. Kungen ensam bestämde.\n\n• **Han litade på ämbetsmän:** I stället för adliga rådgivare styrde han genom borgerliga tjänstemän och ministrar, som var beroende av honom — till exempel Colbert, som skötte ekonomin.\n\n• **Han band samman makt och person:** Uttrycket 'Staten, det är jag' fångar hans syn — kungen och staten var ett och samma.\n\n**Det viktiga:** Ludvig XIV visade hur en kung kunde göra sig till statens enda medelpunkt. Men enväldet hade också ett pris: dyra krig och slöseri tömde statskassan, och de spänningar som byggdes upp under enväldet skulle drygt 70 år efter hans död explodera i den franska revolutionen."
+    },
+    {
+      "id": "k6-m7",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Varför kunde envälde växa fram i Frankrike men inte i England?",
+      "svar": "Samma tid, samma idéer om kungamakt — men två länder gick åt helt olika håll. Skillnaden låg i vem som vann kampen om makten:\n\n• **I Frankrike vann kungen:** Ludvig XIV lyckades sätta folkförsamlingen ur spel och styra ensam. Adeln tämjdes vid hovet och ämbetsmännen lydde kungen. Vägen låg öppen för envälde.\n\n• **I England vann parlamentet:** När de engelska kungarna försökte styra enväldigt stötte de på ett starkt parlament som vägrade ge upp sin rätt att bestämma om skatter. Konflikten ledde till inbördeskrig, och en kung avrättades till och med.\n\n• **Resultatet blev olika statsskick:** England utvecklades mot en styrelse där kungen måste dela makten med parlamentet. Frankrike blev enväldets tydligaste exempel.\n\n**Den stora poängen:** Envälde var inget öde — det avgjordes av maktkamper som kunde sluta åt olika håll. Där en folkförsamling var stark nog att stå emot kungen kunde enväldet inte slå rot. Just den engelska modellen, med maktdelning mellan kung och parlament, skulle senare inspirera upplysningens tänkare och den amerikanska och franska revolutionen."
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "k6-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för motreformationen. Hur försökte den katolska kyrkan svara på reformationen och vinna tillbaka makt?",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör förklara att motreformationen var både ett försvar mot protestanterna och en förnyelse inifrån — och ge konkreta exempel på kyrkans redskap.\n\nBakgrunden var att reformationen hade fått allt fler länder att bli protestantiska. Katolska kyrkan tappade mark och beslöt sig för att slå tillbaka. Det viktigaste steget var kyrkomötet i Trient (1545–1563), där kyrkan slog fast exakt vad den trodde på och rättade en del av de missbruk som Luther hade kritiserat — men den vägrade kompromissa med protestanterna.\n\nSvaret bör nämna kyrkans nya redskap. Jesuitorden, grundad av Ignatius av Loyola, byggde skolor och universitet och sände missionärer över hela världen — utbildning blev ett sätt att vinna tillbaka människor. Inkvisitionen, kyrkliga domstolar, spårade upp och dömde kätteri för att stoppa protestantiska idéer. Kyrkan förde också en lista över förbjudna böcker som katoliker inte fick läsa.\n\nEtt fördjupande svar kan reflektera över resultatet: Europa delades på mitten i ett katolskt syd och ett protestantiskt nord — en religiös gräns som i stora drag finns kvar än idag. Motreformationen lyckades alltså stoppa protestantismens spridning söderut, men kunde inte vinna tillbaka de länder som redan blivit protestantiska.",
+      "stodlarare": {
+        "stodord": [
+          "motreformation",
+          "Trient",
+          "jesuiter",
+          "Ignatius av Loyola",
+          "inkvisition",
+          "kätteri",
+          "förbjudna böcker",
+          "missionärer"
+        ],
+        "startfraser": [
+          "Motreformationen var den katolska kyrkans svar på ...",
+          "Det viktigaste steget var kyrkomötet i Trient, där ...",
+          "För att stoppa protestantismens spridning använde kyrkan ...",
+          "Resultatet blev att Europa ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar: först bakgrunden (varför kyrkan behövde svara), sedan de konkreta redskapen (Trient, jesuiter, inkvisition, förbjudna böcker), och avsluta med resultatet (Europa delas i katolskt och protestantiskt). Använd konkreta exempel, inte bara allmänna påståenden."
+      }
+    },
+    {
+      "id": "k6-r2",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för trettioåriga krigets orsaker och konsekvenser.",
+      "ungefarlig_tid_min": 12,
+      "modellsvar": "Ett gott svar bör visa att kriget hade både religiösa och politiska orsaker, och att det fick stora följder för hela Europa.\n\nOrsakerna: Efter reformationen var det tyskromerska riket splittrat mellan katolska och protestantiska furstar, och misstron dem emellan var djup. Gnistan tändes 1618 när protestantiska adelsmän i Böhmen gjorde uppror mot den katolske kejsaren. Men kriget handlade snart om mer än religion — det blev en maktkamp där kejsaren ville stärka sin ställning medan furstarna ville behålla sin självständighet. Utländska makter som Danmark, Sverige och Frankrike blandade sig i för sina egna intressen. Att det katolska Frankrike stödde den protestantiska sidan visar att politik till slut vägde tyngre än religion.\n\nKonsekvenserna: Kriget varade i trettio år och var förödande, särskilt i Tyskland, som förlorade en stor del av sin befolkning till strider, svält och sjukdomar. Det avslutades med den westfaliska freden 1648. Freden lät varje furste bestämma religionen i sitt eget område och slog fast principen om staternas suveränitet — rätten att själva styra utan inblandning utifrån. Sverige blev en stormakt med besittningar vid Östersjön, medan kejsarens makt försvagades.\n\nEtt fördjupande svar kan lyfta att den westfaliska freden brukar räknas som början på det moderna statssystemet, där världen består av självständiga stater som är formellt jämlika.",
+      "stodlarare": {
+        "stodord": [
+          "religiös splittring",
+          "Böhmen 1618",
+          "kejsaren",
+          "maktkamp",
+          "Gustav II Adolf",
+          "westfaliska freden",
+          "suveränitet",
+          "stormakt"
+        ],
+        "startfraser": [
+          "Trettioåriga kriget hade både religiösa och politiska orsaker — ...",
+          "Kriget bröt ut 1618 när ...",
+          "Efter hand handlade kriget mindre om religion och mer om ...",
+          "Konsekvenserna blev stora: framför allt ..."
+        ],
+        "tip_for_struktur": "Dela svaret i två tydliga halvor: först orsaker (religiös splittring + politisk maktkamp + gnistan i Böhmen), sedan konsekvenser (förödelsen, westfaliska freden, suveränitet, Sverige som stormakt). Visa gärna hur religion och politik vävdes ihop — det är kärnan i frågan."
+      }
+    },
+    {
+      "id": "k6-r3",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Förklara hur och varför det kungliga enväldet växte fram i Europa under 1600-talet. Använd Frankrike som exempel och minst tre konkreta maktmedel.",
+      "ungefarlig_tid_min": 12,
+      "modellsvar": "Ett gott svar bör visa att enväldet inte uppstod av sig självt, utan byggdes upp av kungarna genom att de tog makt från andra grupper — särskilt adeln.\n\nFörsta maktmedlet: **ämbetsmän i stället för adel**. Kungen styrde genom avlönade tjänstemän som var beroende av honom för sin lön och ställning, i stället för att förlita sig på mäktiga adelsmän med egen makt. Ludvig XIV valde till exempel borgerliga ministrar som Colbert.\n\nAndra maktmedlet: **byråkrati och centralisering**. En stab av tjänstemän skötte skatter och förvaltning efter fasta regler, direkt under kungen. Makten samlades i centrum i stället för att vara utspridd hos lokala herrar. Så kunde hela riket styras efter samma ordning.\n\nTredje maktmedlet: **kontroll över adeln och en stående armé**. Ludvig XIV byggde Versailles och lockade dit adeln, där han kunde hålla den sysselsatt med hovliv långt från egen maktbas. En fast, avlönad armé gjorde kungen oberoende av adelns soldater.\n\nTill detta kom en idé som rättfärdigade allt: absolutismen, läran om att kungen fått sin makt av Gud. Att göra motstånd blev då inte bara olagligt utan syndigt. Ludvig XIV sammanfattade synen med orden 'Staten, det är jag', och kallade aldrig in folkförsamlingen under hela sin regering.\n\nEtt fördjupande svar kan reflektera över priset: enväldets dyra krig och slöseri byggde upp spänningar som drygt 70 år efter Ludvig XIV:s död exploderade i den franska revolutionen. Man kan också jämföra med England, där ett starkt parlament hindrade enväldet från att slå rot — vilket visar att envälde inte var något oundvikligt öde.",
+      "stodlarare": {
+        "stodord": [
+          "envälde",
+          "absolutism",
+          "ämbetsmän",
+          "byråkrati",
+          "centralisering",
+          "Versailles",
+          "stående armé",
+          "Guds nåde"
+        ],
+        "startfraser": [
+          "Enväldet växte fram genom att kungen tog makt från ...",
+          "Ett viktigt maktmedel var att styra genom ämbetsmän i stället för ...",
+          "Genom byråkrati och centralisering kunde kungen ...",
+          "Idén som rättfärdigade enväldet var absolutismen, som sa att ..."
+        ],
+        "tip_for_struktur": "Bygg svaret som en uppräkning av maktmedel med Frankrike som genomgående exempel: 1) ämbetsmän, 2) byråkrati/centralisering, 3) kontroll av adeln + armé, plus 4) absolutismen som rättfärdigande idé. Avsluta gärna med en reflektion — priset (franska revolutionen) eller jämförelsen med England — för att nå fördjupningsnivå."
+      }
+    }
+  ],
+  "policy": "Personer (Ignatius av Loyola, Gustav II Adolf, Ludvig XIV) ligger som begreppskort eftersom plattformen bara har tre korttyper: begrepp, modell, redogörelse. Ludvig XIV täcks av Solkungen-kortet. Begreppskortens svar bör hållas i linje med expertdefinitionerna i begreppsbank-avsnitt-6 om de skiljer sig."
+}
