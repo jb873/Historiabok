@@ -198,6 +198,294 @@
       "expertdefinition": "Det aldrig tidigare skådade utbytet av växter, djur, sjukdomar och människor mellan Amerika och den gamla världen (Europa, Asien, Afrika) efter Columbus resa 1492. Från Amerika till Gamla världen kom potatis, tomat, majs, kakao, chili, tobak, ananas — grödor som skulle förändra dieter över hela världen. Från Gamla världen till Amerika kom häst, ko, får, vete, ris, sockerrör, kaffe — och tragiskt även smittkoppor, mässling och influensa. Utbytet formade den moderna världens dieter (italiensk mat utan tomat är otänkbart, liksom irländsk kost utan potatis) och befolkningsutveckling. Det columbianska utbytet är kanske upptäckternas mest långtgående — och minst uppmärksammade — konsekvens.",
       "kallfil": "data/flipcards/avsnitt-3-konsekvenser.json",
       "delkapitel_titel": "Upptäckterna"
+    },
+    {
+      "id": "k4-b1",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "frälsning",
+      "expertdefinition": "Att bli räddad från synd och få komma till himlen efter döden. Frågan om hur man blir frälst var själva kärnan i reformationen. Den katolska kyrkan lärde att människan blev frälst genom både tro och goda gärningar — böner, botgöring och deltagande i kyrkans liv. Martin Luther menade tvärtom att människan blir frälst enbart genom sin tro på Gud, som en gåva av nåd — inte genom något hon själv presterar. Denna oenighet om frälsningen låg bakom hela brytningen mellan katoliker och protestanter.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b2",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "botgöring",
+      "expertdefinition": "Handlingar som en katolik gjorde för att gottgöra sina synder och försonas med Gud — till exempel böner, fasta, pilgrimsresor eller gåvor till kyrkan. Enligt katolsk lära räckte det inte att ångra sig; man måste också göra bot. Botgöringen var en del av kyrkans syn på att människan själv måste bidra till sin frälsning. Det var just denna tanke Luther vände sig mot: han menade att ingen mängd botgöring kunde köpa Guds förlåtelse, som bara gavs av nåd.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b3",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "skärselden",
+      "expertdefinition": "Enligt katolsk lära en plats där själen renades efter döden innan den fick komma till himlen. De flesta människor tänktes behöva tillbringa tid i skärselden för att sona synder de inte hunnit göra bot för i livet. Läran om skärselden var viktig eftersom den gjorde det möjligt att sälja avlatsbrev — brev som lovade att förkorta tiden där. Reformatorerna förkastade hela idén, eftersom de inte kunde finna stöd för den i Bibeln.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b4",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "avlatsbrev",
+      "expertdefinition": "Ett brev som kyrkan sålde och som lovade köparen förkortad tid i skärselden — för sig själv eller för avlidna anhöriga. Avlatshandeln blev en stor inkomstkälla för kyrkan; pengarna gick bland annat till att bygga Peterskyrkan i Rom. Försäljaren Johann Tetzel blev ökänd i Tyskland för sina påträngande metoder. Det var avlatshandeln som fick Martin Luther att reagera 1517 — han menade att man inte kunde köpa sig fri från synd, och att kyrkan lurade fattiga människor på deras pengar.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b5",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "celibat",
+      "expertdefinition": "Löftet att avstå från äktenskap och sexuella relationer, som den katolska kyrkan krävde av sina präster, munkar och nunnor. Tanken var att den som helt ägnade sig åt Gud inte skulle bindas av familj. Reformatorerna avskaffade kravet på celibat — Luther själv, som varit munk, gifte sig senare med den tidigare nunnan Katharina von Bora. Att präster fick gifta sig blev en tydlig skillnad mellan den protestantiska och den katolska kyrkan.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b6",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "munk",
+      "expertdefinition": "En man som ägnade hela sitt liv åt Gud och levde i ett kloster efter stränga regler om bön, arbete, fattigdom och celibat. Munkar var en central del av det katolska samhället. Martin Luther var själv augustinmunk innan han bröt med kyrkan. Det är delvis därför hans kritik fick sådan tyngd: den kom inte från en utomstående, utan från en lärd man inifrån kyrkans egna led som kände dess lära på djupet.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b7",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "martin luther",
+      "expertdefinition": "En tysk munk och teologiprofessor som startade reformationen. År 1517 riktade han skarp kritik mot kyrkans avlatshandel i sina 95 teser, som enligt traditionen spikades upp på kyrkporten i Wittenberg. Luther menade att människan blir frälst enbart genom tro och Guds nåd, att Bibeln — inte påven — är den högsta auktoriteten, och att gudstjänsten borde hållas på folkets eget språk. När han vägrade ta tillbaka sina åsikter bannlystes han och förklarades fredlös. Hans idéer spreds ändå snabbt och delade den västliga kristenheten i katoliker och protestanter.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b8",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "reformera",
+      "expertdefinition": "Att förändra och förbättra något som anses ha blivit fel — att föra tillbaka det till hur det borde vara. Ordet reformation kommer just härifrån. Luther och de andra reformatorerna ville från början inte grunda en ny kyrka, utan reformera den befintliga katolska kyrkan inifrån: rensa bort det de såg som missbruk, som avlatshandeln, och återvända till det de menade var kristendomens ursprungliga budskap. När kyrkan vägrade blev resultatet i stället en splittring.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b9",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "tryckpressen",
+      "expertdefinition": "Tryckpressen, som förbättrats av Johann Gutenberg på 1400-talet, gjorde det möjligt att trycka skrifter snabbt och billigt i stora upplagor. Utan den hade Luthers idéer förmodligen stannat lokalt. Nu spreds hans texter — skrivna på tyska så att vanligt folk kunde läsa dem — över hela landet på bara veckor. Tryckpressen förvandlade en akademisk tvist om avlat till en folkrörelse. Den är ett tydligt exempel på hur en teknisk uppfinning kan förändra historiens gång.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b10",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "bannlysning",
+      "expertdefinition": "Att kyrkan uteslöt en person ur den kristna gemenskapen — det hårdaste straff påven kunde utdela. Den bannlyste ansågs utestängd från frälsningen och skulle undvikas av andra kristna. År 1521 bannlyste påven Martin Luther sedan han vägrat ta tillbaka sin kritik. För de flesta hade en bannlysning varit förödande, men Luther hade nu så starkt folkligt stöd och beskydd av tyska furstar att han kunde fortsätta trots den. Att bannlysningen inte knäckte honom visar hur mycket kyrkans makt redan hade försvagats.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b11",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "kättare",
+      "expertdefinition": "En person som höll fast vid en lära som kyrkan hade fördömt som falsk. Att stämplas som kättare var farligt — kättare kunde förklaras fredlösa eller avrättas. Vid riksdagen i Worms 1521 förklarades Martin Luther som kättare och fredlös sedan han vägrat återta sina åsikter. Att han ändå överlevde berodde på att en tysk furste, Fredrik den vise, gömde honom på borgen Wartburg. Där översatte Luther Nya testamentet till tyska.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b12",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "schism",
+      "expertdefinition": "En splittring, särskilt en varaktig delning av en kyrka i skilda grenar. Reformationen ledde till den stora schismen i västkyrkan: den tidigare enade katolska kyrkan delades i en katolsk och en protestantisk del. Det var inte första gången kristenheten splittrades — redan 1054 hade den delats i en västlig (katolsk) och en östlig (ortodox) kyrka. Men reformationens schism fick enorma följder: den bidrog till religionskrig, förändrade maktförhållanden och drog en religiös gräns genom Europa som består än idag.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k4-b13",
+      "avsnitt": "4",
+      "avsnitt_titel": "Reformationens uppkomst",
+      "term": "dagsverke",
+      "expertdefinition": "Obligatoriskt arbete som bönderna måste utföra på herrens jord, ofta flera dagar i veckan och utan lön. Dagsverket var en av de tunga bördor som tyngde bönderna. När reformationen skakade om samhället tog många bönder tillfället i akt och krävde lättnader — de hoppades att den nya läran om alla människors likhet inför Gud också skulle förbättra deras villkor på jorden. Missnöjet med bördor som dagsverket var en viktig orsak till de bondeuppror som bröt ut under reformationens första år.",
+      "kallfil": "data/flipcards/avsnitt-4-uppkomst.json"
+    },
+    {
+      "id": "k5-b1",
+      "avsnitt": "5",
+      "avsnitt_titel": "Reformationens grenar",
+      "term": "lutheranism",
+      "expertdefinition": "Den gren av protestantismen som bygger på Martin Luthers lära och som blev störst i norra Tyskland och Norden — även i Sverige. Kärnan sammanfattas ofta i tre 'allena': frälsning genom nåden allena, genom tron allena, och med Bibeln allena som auktoritet. Lutheranerna behöll bara två sakrament (dop och nattvard), lät prästerna gifta sig och höll gudstjänsten på folkets språk. Lutheranismen var den mildaste av reformationens grenar och stod närmast den katolska kyrkan i sina former, men skilde sig helt i synen på hur människan blir frälst.",
+      "kallfil": "data/flipcards/avsnitt-5-grenar.json"
+    },
+    {
+      "id": "k5-b2",
+      "avsnitt": "5",
+      "avsnitt_titel": "Reformationens grenar",
+      "term": "statskyrka",
+      "expertdefinition": "En kyrka som är underställd staten och styrs av landets kung eller regering i stället för av påven. När länder blev protestantiska bröt de med Rom, och kungen tog ofta över kontrollen — och kyrkans rikedomar. I Sverige gjorde Gustav Vasa den lutherska kyrkan till statskyrka, med sig själv som dess överhuvud. För kungen var detta praktiskt: han fick både makt över kyrkan och tillgång till dess egendomar. Statskyrkan band därmed samman religion och kunglig makt, vilket blev viktigt för framväxten av starka stater.",
+      "kallfil": "data/flipcards/avsnitt-5-grenar.json"
+    },
+    {
+      "id": "k5-b3",
+      "avsnitt": "5",
+      "avsnitt_titel": "Reformationens grenar",
+      "term": "sakrament",
+      "expertdefinition": "En helig handling i kyrkan som förmedlar Guds nåd till människan. Den katolska kyrkan hade sju sakrament, bland annat dop, nattvard, bikt och äktenskap. Reformatorerna gick igenom Bibeln och menade att bara två av dem hade stöd där: dopet och nattvarden. Därför behöll de flesta protestantiska kyrkor endast dessa två. Frågan om sakramenten är ett bra exempel på reformationens grundprincip: allt skulle prövas mot Bibeln, och det som inte hade stöd där togs bort.",
+      "kallfil": "data/flipcards/avsnitt-5-grenar.json"
+    },
+    {
+      "id": "k5-b4",
+      "avsnitt": "5",
+      "avsnitt_titel": "Reformationens grenar",
+      "term": "dop",
+      "expertdefinition": "Ett av de två sakrament som protestanterna behöll. Dopet är den handling där en människa tas upp i den kristna gemenskapen, oftast som spädbarn, genom att vigas med vatten. Både katoliker och protestanter behöll dopet, eftersom det har tydligt stöd i Bibeln. Att just dopet bevarades av alla grenar visar att reformationen inte förkastade allt i den gamla kyrkan — den behöll det som ansågs ha grund i Skriften och rensade bort resten.",
+      "kallfil": "data/flipcards/avsnitt-5-grenar.json"
+    },
+    {
+      "id": "k5-b5",
+      "avsnitt": "5",
+      "avsnitt_titel": "Reformationens grenar",
+      "term": "nattvard",
+      "expertdefinition": "Det andra sakrament som protestanterna behöll — en måltid med bröd och vin till minne av Jesu sista måltid med lärjungarna. Nattvarden var central i alla kristna kyrkor, men grenarna tolkade den olika: katolikerna menade att brödet och vinet faktiskt förvandlas till Kristi kropp och blod, medan flera protestantiska riktningar såg det mer symboliskt. Nattvarden är ett exempel på att reformationen inte bara handlade om att behålla eller ta bort — utan också om att tolka samma handling på nya sätt.",
+      "kallfil": "data/flipcards/avsnitt-5-grenar.json"
+    },
+    {
+      "id": "k5-b6",
+      "avsnitt": "5",
+      "avsnitt_titel": "Reformationens grenar",
+      "term": "kalvinism",
+      "expertdefinition": "En strängare gren av protestantismen, grundad av Jean Calvin i den schweiziska staden Genève. Kalvinismen delade Luthers grundtankar men gick längre: den betonade läran om predestinationen och krävde ett strikt, disciplinerat och enkelt liv utan lyx och nöjen. Kalvinismen spreds till Nederländerna, Skottland, delar av Frankrike (hugenotterna) och senare till Nordamerika. Den blev den mest radikala av de stora protestantiska grenarna och fick stor betydelse för både religion och samhälle i de länder där den slog rot.",
+      "kallfil": "data/flipcards/avsnitt-5-grenar.json"
+    },
+    {
+      "id": "k5-b7",
+      "avsnitt": "5",
+      "avsnitt_titel": "Reformationens grenar",
+      "term": "predestination",
+      "expertdefinition": "Läran att Gud redan på förhand har bestämt vilka människor som ska bli frälsta och vilka som inte ska det — oavsett hur de lever. Predestinationen var central i kalvinismen. Tanken kan verka hård: människan kan inte förtjäna sin frälsning genom sina handlingar, eftersom allt redan är avgjort av Gud. Men i praktiken ledde läran ofta till motsatsen av likgiltighet: kalvinisterna arbetade hårt, levde sparsamt och skötsamt, eftersom framgång och ett gudfruktigt liv kunde tolkas som tecken på att man tillhörde de utvalda. Vissa historiker har kopplat denna arbetsmoral till kapitalismens framväxt.",
+      "kallfil": "data/flipcards/avsnitt-5-grenar.json"
+    },
+    {
+      "id": "k5-b8",
+      "avsnitt": "5",
+      "avsnitt_titel": "Reformationens grenar",
+      "term": "hugenotter",
+      "expertdefinition": "De franska protestanterna, som följde den kalvinistiska läran. I det övervägande katolska Frankrike blev de en förföljd minoritet, och striderna mellan katoliker och hugenotter ledde till blodiga religionskrig under 1500-talet. Många hugenotter tvingades senare fly landet, särskilt sedan kungen dragit in deras religionsfrihet. De tog med sig kunskaper och hantverksskicklighet till länder som Nederländerna, England och Preussen. Hugenotterna är ett tydligt exempel på hur reformationen inte bara delade kyrkan utan också ledde till förföljelse, flykt och krig.",
+      "kallfil": "data/flipcards/avsnitt-5-grenar.json"
+    },
+    {
+      "id": "k5-b9",
+      "avsnitt": "5",
+      "avsnitt_titel": "Reformationens grenar",
+      "term": "anglikanism",
+      "expertdefinition": "Den engelska kyrkans egen gren av protestantismen, som beskrivs som en mellanväg mellan protestantism och katolicism. Den uppstod inte i första hand av religiösa skäl utan av politiska: kung Henrik VIII bröt med påven på 1530-talet sedan denne vägrat tillåta hans skilsmässa. Henrik gjorde sig själv till kyrkans överhuvud i England. Anglikanismen tog över protestantiska tankar men behöll mycket av den katolska kyrkans former — biskopar, ceremonier och gudstjänstordning. Därför står den mitt emellan de två stora lägren.",
+      "kallfil": "data/flipcards/avsnitt-5-grenar.json"
+    },
+    {
+      "id": "k5-b10",
+      "avsnitt": "5",
+      "avsnitt_titel": "Reformationens grenar",
+      "term": "dackefejden",
+      "expertdefinition": "Ett stort bondeuppror i Småland 1542–1543, lett av bonden Nils Dacke, riktat mot kung Gustav Vasa. Bönderna var missnöjda med hårda skatter, ökad kunglig kontroll och reformationens förändringar av kyrkan — de ogillade att den gamla katolska gudstjänsten och dess bruk togs bort och att kyrkans egendom drogs in till kronan. Upproret blev ett av de allvarligaste hoten mot Gustav Vasas makt, men slogs till slut ner och Dacke dödades. Dackefejden visar att reformationen inte bara var en fråga om tro uppifrån — den mötte också motstånd från vanligt folk som ville behålla det gamla.",
+      "kallfil": "data/flipcards/avsnitt-5-grenar.json"
+    },
+    {
+      "id": "k6-b1",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "motreformation",
+      "expertdefinition": "Den katolska kyrkans svar på den protestantiska reformationen. När allt fler länder blev protestantiska samlade sig katolska kyrkan för att både reformera sig själv och vinna tillbaka förlorad mark. Det viktigaste steget var kyrkomötet i Trient (1545–1563), där kyrkan slog fast sin lära och rättade en del missbruk — men vägrade kompromissa med protestanterna. Motreformationen använde också nya redskap: jesuitorden för utbildning och mission, inkvisitionen för att spåra kätteri, och en lista över förbjudna böcker. Den kallas ibland även den katolska reformationen, eftersom den var både ett försvar mot protestanterna och en förnyelse inifrån.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b2",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "inkvisition",
+      "expertdefinition": "En kyrklig domstol vars uppgift var att spåra upp och döma kätteri — alltså läror som avvek från den katolska tron. Inkvisitionen fanns redan under medeltiden men fick förnyad kraft under motreformationen, när kyrkan ville stoppa protestantismens spridning. Den som misstänktes förhördes, och den som vägrade ta tillbaka sina åsikter kunde straffas hårt — från böter och fängelse till avrättning. Den spanska inkvisitionen är den mest ökända. Inkvisitionen visar hur kyrkan under denna tid inte bara predikade sin lära utan också använde makt och rädsla för att hålla den ren.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b3",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "kätteri",
+      "expertdefinition": "En lära eller åsikt som avviker från kyrkans officiella tro. Att vara kättare innebar att man höll fast vid något som kyrkan hade fördömt som falskt. Under motreformationen räknades protestantiska idéer som kätteri av den katolska kyrkan — och tvärtom betraktade protestanterna delar av katolicismen som villoläror. Kätteri var inte bara en religiös fråga utan också en politisk: den som ifrågasatte kyrkans lära ifrågasatte ofta hela samhällsordningen. Därför bekämpades kätteri hårt, bland annat genom inkvisitionen.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b4",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "ignatius av loyola",
+      "expertdefinition": "En spansk adelsman och soldat som efter en svår krigsskada genomgick en religiös omvändelse och blev en av motreformationens viktigaste gestalter. Han grundade jesuitorden (Sällskapet Jesu), som påven godkände 1540. Jesuiterna blev kända för sträng disciplin, lydnad mot påven och framför allt för utbildning — de byggde skolor och universitet över hela Europa och sände missionärer till Asien och Amerika. Ignatius skrev också Andliga övningar, en handbok i bön och självrannsakan. Genom jesuiterna blev han en nyckelfigur i kyrkans kamp för att vinna tillbaka mark från protestanterna.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b5",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "suveränitet",
+      "expertdefinition": "En stats rätt att självständigt bestämma över sitt eget land och folk, utan att någon utifrån lägger sig i. En suverän stat erkänner ingen högre makt över sig — varken en kejsare, en påve eller en annan stat. Principen slogs fast tydligt i den westfaliska freden 1648, som avslutade trettioåriga kriget. Efter freden byggde Europa i allt högre grad på idén att varje stat själv bestämde sin religion och sina lagar. Suveränitet är grunden för hur vi fortfarande tänker om självständiga länder idag — det är därför man talar om det westfaliska statssystemet.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b6",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "byråkrati",
+      "expertdefinition": "Ett system där staten styrs av avlönade tjänstemän som arbetar efter fasta regler och rutiner, snarare än genom personliga band. I byråkratin spelar det ingen roll vem du är släkt med — beslut ska fattas enligt lagar och dokument, och allt skrivs ner. Under 1600-talet byggde de framväxande enväldiga staterna upp stora byråkratier för att kunna ta in skatter, driva krig och styra hela riket från centrum. Byråkratin var kungens verktyg för att gå förbi adeln: i stället för att förlita sig på mäktiga adelsmän kunde kungen styra genom ämbetsmän som var beroende av honom. Det är i denna tid den moderna statsförvaltningen börjar ta form.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b7",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "ämbetsmän",
+      "expertdefinition": "Tjänstemän som arbetade åt staten och kungen mot lön — till exempel skatteindrivare, domare och förvaltare. Ämbetsmännen var ryggraden i den växande byråkratin under enväldets tid. Det viktiga med dem var att de var beroende av kungen för sin lön och sin ställning, till skillnad från adeln som hade egen makt genom jord och ärvda titlar. Genom att styra med hjälp av lojala ämbetsmän kunde kungen dra makt från adeln och samla den hos sig själv. Ämbetsmännen gjorde det möjligt att styra ett helt rike efter samma regler, i stället för att varje adelsman bestämde på sina egna marker.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b8",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "gustav ii adolf",
+      "expertdefinition": "Sveriges kung 1611–1632 och den ledare som gjorde Sverige till en europeisk stormakt. År 1630 gick han in i trettioåriga kriget på den protestantiska sidan genom att landstiga i norra Tyskland. Han hade flera motiv: att skydda protestantismen, att hålla den katolske kejsaren borta från Östersjön och att öka Sveriges makt. Med en välorganiserad och modern armé vann han flera segrar, bland annat vid Breitenfeld. Han stupade själv i slaget vid Lützen 1632. Trots hans död fortsatte Sverige kriget — under rikskanslern Axel Oxenstierna — och kom ut ur det som en stormakt vid Östersjön.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b9",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "envälde",
+      "expertdefinition": "Ett styrelseskick där en enda person — kungen — har all makt i staten. Under enväldet fanns ingen riksdag eller adel som kunde sätta gränser för kungens beslut. Han bestämde själv över lagar, skatter, krig och religion. Enväldet växte fram i flera europeiska länder under 1600-talet, tydligast i Frankrike under Ludvig XIV men även i Sverige under Karl XI och Karl XII. För att kunna styra ensam behövde kungen en stark byråkrati, avlönade ämbetsmän och en stående armé. Envälde är det svenska ordet för det som på latin kallas absolutism.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b10",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "absolutism",
+      "expertdefinition": "Läran och tankesättet bakom enväldet — idén att kungen ska ha oinskränkt (absolut) makt och stå över lagen. Enligt absolutismen fick kungen sin makt direkt av Gud, och därför var det uppror mot Gud att göra motstånd mot honom. Denna idé kallas kungadömet av Guds nåde. Absolutismen gav kungen rätt att ensam bestämma om lagar, skatter och krig, utan att behöva fråga adel eller folkförsamling. Ludvig XIV är det tydligaste exemplet — uttrycket 'staten, det är jag' fångar hela tanken. Skillnaden mot envälde är främst att envälde beskriver själva styrelseskicket, medan absolutism beskriver idén och läran som rättfärdigade det.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b11",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "solkungen",
+      "expertdefinition": "Öknamnet på Ludvig XIV, Frankrikes kung 1643–1715 och den mest kända enväldige monarken i historien. Han kallades Solkungen eftersom han lät allt kretsa kring sig själv, precis som planeterna kring solen. Ludvig byggde det praktfulla slottet Versailles och lockade dit adeln, där han kunde hålla den under kontroll med hovliv och ceremonier i stället för att låta den bygga egen makt. Han styrde utan att kalla in någon folkförsamling, med hjälp av lojala ämbetsmän och en stark byråkrati. Han lär ha sagt 'L'état, c'est moi' — 'Staten, det är jag' — vilket sammanfattar hela hans syn på makten. Under honom nådde det franska enväldet sin höjdpunkt.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b12",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "centraliserad",
+      "expertdefinition": "Att makten är samlad på ett ställe — hos den centrala staten och kungen — i stället för att vara utspridd på många lokala herrar. I en centraliserad stat fattas de viktiga besluten i huvudstaden och genomförs sedan i hela riket av kungens ämbetsmän. Under enväldets tid arbetade kungarna hårt för att centralisera makten: de tog ifrån adeln dess lokala inflytande och styrde i stället genom byråkrati och avlönade tjänstemän. Centralisering var alltså raka motsatsen till det medeltida feodala samhället, där makten var splittrad mellan många adelsmän. Den centraliserade staten är en av grunderna för den moderna staten.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
+    },
+    {
+      "id": "k6-b13",
+      "avsnitt": "6",
+      "avsnitt_titel": "Motreformation, trettioåriga kriget och envälde",
+      "term": "parlament",
+      "expertdefinition": "En folkförsamling som representerar olika grupper i samhället och som kan vara med och fatta beslut, till exempel om lagar och skatter. Parlamentet var det stora hindret för enväldet. I Frankrike lyckades kungarna sätta folkförsamlingen (generalständerna) ur spel — den kallades inte in på över 170 år under enväldet. I England gick det tvärtom: parlamentet stärkte sin makt genom strider mot kungen, och landet utvecklades mot en styrelse där kungen måste dela makten med folkets representanter. Parlamentet är därför nyckeln till att förstå varför envälde kunde växa fram i vissa länder men inte i andra.",
+      "kallfil": "data/flipcards/avsnitt-6-motreformation-krig-envalde.json"
     }
   ]
 }

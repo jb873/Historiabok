@@ -1,0 +1,196 @@
+{
+  "avsnitt": 5,
+  "titel": "Reformationens grenar",
+  "delkapitel": "reformationen",
+  "version": "1.0",
+  "kort_totalt": 17,
+  "_kommentar": "Flipcards för avsnitt 5 (Reformationens grenar). 10 begreppskort + 4 modellkort + 3 redogörelsekort = 17. Täcker lutheranism, kalvinism, anglikanism och Sveriges reformation. Nivåfördelning ~76% grundlaggande / 24% fordjupning. Byggd från grunden (originalfilerna saknades i repot).",
+  "begreppskort": [
+    {
+      "id": "k5-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är LUTHERANISM?",
+      "svar": "Den gren av protestantismen som bygger på Martin Luthers lära och som blev störst i norra Tyskland och Norden — även i Sverige. Kärnan sammanfattas ofta i tre 'allena': frälsning genom nåden allena, genom tron allena, och med Bibeln allena som auktoritet. Lutheranerna behöll bara två sakrament (dop och nattvard), lät prästerna gifta sig och höll gudstjänsten på folkets språk. Lutheranismen var den mildaste av reformationens grenar och stod närmast den katolska kyrkan i sina former, men skilde sig helt i synen på hur människan blir frälst."
+    },
+    {
+      "id": "k5-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med en STATSKYRKA?",
+      "svar": "En kyrka som är underställd staten och styrs av landets kung eller regering i stället för av påven. När länder blev protestantiska bröt de med Rom, och kungen tog ofta över kontrollen — och kyrkans rikedomar. I Sverige gjorde Gustav Vasa den lutherska kyrkan till statskyrka, med sig själv som dess överhuvud. För kungen var detta praktiskt: han fick både makt över kyrkan och tillgång till dess egendomar. Statskyrkan band därmed samman religion och kunglig makt, vilket blev viktigt för framväxten av starka stater."
+    },
+    {
+      "id": "k5-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ett SAKRAMENT?",
+      "svar": "En helig handling i kyrkan som förmedlar Guds nåd till människan. Den katolska kyrkan hade sju sakrament, bland annat dop, nattvard, bikt och äktenskap. Reformatorerna gick igenom Bibeln och menade att bara två av dem hade stöd där: dopet och nattvarden. Därför behöll de flesta protestantiska kyrkor endast dessa två. Frågan om sakramenten är ett bra exempel på reformationens grundprincip: allt skulle prövas mot Bibeln, och det som inte hade stöd där togs bort."
+    },
+    {
+      "id": "k5-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är DOP?",
+      "svar": "Ett av de två sakrament som protestanterna behöll. Dopet är den handling där en människa tas upp i den kristna gemenskapen, oftast som spädbarn, genom att vigas med vatten. Både katoliker och protestanter behöll dopet, eftersom det har tydligt stöd i Bibeln. Att just dopet bevarades av alla grenar visar att reformationen inte förkastade allt i den gamla kyrkan — den behöll det som ansågs ha grund i Skriften och rensade bort resten."
+    },
+    {
+      "id": "k5-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är NATTVARD?",
+      "svar": "Det andra sakrament som protestanterna behöll — en måltid med bröd och vin till minne av Jesu sista måltid med lärjungarna. Nattvarden var central i alla kristna kyrkor, men grenarna tolkade den olika: katolikerna menade att brödet och vinet faktiskt förvandlas till Kristi kropp och blod, medan flera protestantiska riktningar såg det mer symboliskt. Nattvarden är ett exempel på att reformationen inte bara handlade om att behålla eller ta bort — utan också om att tolka samma handling på nya sätt."
+    },
+    {
+      "id": "k5-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är KALVINISM?",
+      "svar": "En strängare gren av protestantismen, grundad av Jean Calvin i den schweiziska staden Genève. Kalvinismen delade Luthers grundtankar men gick längre: den betonade läran om predestinationen och krävde ett strikt, disciplinerat och enkelt liv utan lyx och nöjen. Kalvinismen spreds till Nederländerna, Skottland, delar av Frankrike (hugenotterna) och senare till Nordamerika. Den blev den mest radikala av de stora protestantiska grenarna och fick stor betydelse för både religion och samhälle i de länder där den slog rot."
+    },
+    {
+      "id": "k5-b7",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad menas med PREDESTINATION?",
+      "svar": "Läran att Gud redan på förhand har bestämt vilka människor som ska bli frälsta och vilka som inte ska det — oavsett hur de lever. Predestinationen var central i kalvinismen. Tanken kan verka hård: människan kan inte förtjäna sin frälsning genom sina handlingar, eftersom allt redan är avgjort av Gud. Men i praktiken ledde läran ofta till motsatsen av likgiltighet: kalvinisterna arbetade hårt, levde sparsamt och skötsamt, eftersom framgång och ett gudfruktigt liv kunde tolkas som tecken på att man tillhörde de utvalda. Vissa historiker har kopplat denna arbetsmoral till kapitalismens framväxt."
+    },
+    {
+      "id": "k5-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka var HUGENOTTERNA?",
+      "svar": "De franska protestanterna, som följde den kalvinistiska läran. I det övervägande katolska Frankrike blev de en förföljd minoritet, och striderna mellan katoliker och hugenotter ledde till blodiga religionskrig under 1500-talet. Många hugenotter tvingades senare fly landet, särskilt sedan kungen dragit in deras religionsfrihet. De tog med sig kunskaper och hantverksskicklighet till länder som Nederländerna, England och Preussen. Hugenotterna är ett tydligt exempel på hur reformationen inte bara delade kyrkan utan också ledde till förföljelse, flykt och krig."
+    },
+    {
+      "id": "k5-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ANGLIKANISM?",
+      "svar": "Den engelska kyrkans egen gren av protestantismen, som beskrivs som en mellanväg mellan protestantism och katolicism. Den uppstod inte i första hand av religiösa skäl utan av politiska: kung Henrik VIII bröt med påven på 1530-talet sedan denne vägrat tillåta hans skilsmässa. Henrik gjorde sig själv till kyrkans överhuvud i England. Anglikanismen tog över protestantiska tankar men behöll mycket av den katolska kyrkans former — biskopar, ceremonier och gudstjänstordning. Därför står den mitt emellan de två stora lägren."
+    },
+    {
+      "id": "k5-b10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var DACKEFEJDEN?",
+      "svar": "Ett stort bondeuppror i Småland 1542–1543, lett av bonden Nils Dacke, riktat mot kung Gustav Vasa. Bönderna var missnöjda med hårda skatter, ökad kunglig kontroll och reformationens förändringar av kyrkan — de ogillade att den gamla katolska gudstjänsten och dess bruk togs bort och att kyrkans egendom drogs in till kronan. Upproret blev ett av de allvarligaste hoten mot Gustav Vasas makt, men slogs till slut ner och Dacke dödades. Dackefejden visar att reformationen inte bara var en fråga om tro uppifrån — den mötte också motstånd från vanligt folk som ville behålla det gamla."
+    }
+  ],
+  "modellkort": [
+    {
+      "id": "k5-m1",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Vad är kärnan i lutheranismen?",
+      "svar": "Lutheranismen bygger på Martin Luthers grundtankar, som ofta sammanfattas i tre 'allena':\n\n• **Nåden allena:** Frälsningen är en gåva från Gud, inte något människan kan förtjäna.\n\n• **Tron allena:** Det är genom tron, inte genom gärningar eller köpta avlatsbrev, som människan tar emot frälsningen.\n\n• **Bibeln allena:** Bibeln, inte påven eller kyrkans traditioner, är den högsta auktoriteten.\n\nUtöver detta behöll lutheranismen bara **två sakrament** (dop och nattvard), lät **prästerna gifta sig**, och höll **gudstjänsten på folkets språk** i stället för latin.\n\n**Det viktiga:** Lutheranismen var den mildaste grenen och behöll mest av den katolska kyrkans yttre former. Men i den avgörande frågan — hur människan blir frälst — var skillnaden total. Det är kärnan man ska minnas: samma gudstjänstformer kunde behållas, men synen på frälsningen var ny."
+    },
+    {
+      "id": "k5-m2",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Vilka likheter och skillnader finns mellan kalvinism och lutheranism?",
+      "svar": "De två grenarna delade grunden men skilde sig i hur långt de gick:\n\n• **Gemensam grund:** Båda bygger på protestantismens kärna — frälsning genom tro och nåd, Bibeln som högsta auktoritet, avvisande av påvens makt och av avlatshandel. Båda behöll dop och nattvard.\n\n• **Predestinationen:** Här går den stora skillnaden. Kalvinismen betonade starkt att Gud redan bestämt vilka som ska frälsas. Lutheranismen lade mindre vikt vid detta.\n\n• **Livsstil:** Kalvinismen krävde ett strängt, enkelt och disciplinerat liv utan lyx och nöjen. Lutheranismen var mildare och mer tillåtande.\n\n• **Kyrkans former:** Lutheranismen behöll mer av den gamla kyrkans former; kalvinismen rensade bort mer och gjorde gudstjänsten enklare.\n\n**Det viktiga:** Kalvinismen kan ses som en strängare, mer radikal version av samma protestantiska grundtanke. Skillnaderna handlar mindre om själva tron och mer om hur strikt man skulle leva efter den."
+    },
+    {
+      "id": "k5-m3",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur och varför gjordes den svenska kyrkan till en statskyrka?",
+      "svar": "Sveriges reformation drevs mer av politik och ekonomi än av teologisk strid:\n\n• **Gustav Vasas behov:** Efter att ha blivit kung 1523 hade Gustav Vasa ett rike med tom statskassa och stora skulder. Den katolska kyrkan var samtidigt landets rikaste maktfaktor.\n\n• **Reformationen som verktyg:** Vid riksdagen i Västerås 1527 lät kungen riket bryta med påven och övergå till den lutherska läran. Kyrkans egendomar och inkomster drogs in till kronan.\n\n• **Kungen som överhuvud:** Kyrkan blev en statskyrka, underställd kungen i stället för påven. Reformationen genomfördes uppifrån, av staten — inte som en folkrörelse underifrån som i Tyskland.\n\n• **Motstånd:** Alla var inte nöjda. Dackefejden 1542–1543 var delvis ett uppror mot just dessa förändringar.\n\n**Det viktiga:** I Sverige var reformationen lika mycket en maktfråga som en trosfråga. Gustav Vasa vann både kontroll över kyrkan och dess rikedomar — ett tydligt exempel på hur religion och statsbygge vävdes ihop."
+    },
+    {
+      "id": "k5-m4",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Varför beskrivs anglikanismen som en mellanväg mellan protestantism och katolicism?",
+      "svar": "Anglikanismen blev en gren för sig, präglad av att den föddes ur politik snarare än teologi:\n\n• **Politisk start:** Kung Henrik VIII bröt med påven på 1530-talet — inte för att han höll med Luther, utan för att påven vägrade godkänna hans skilsmässa. Henrik gjorde sig själv till den engelska kyrkans överhuvud.\n\n• **Protestantiskt drag:** Kyrkan lämnade påvens auktoritet, blev en nationell kyrka under kungen och tog med tiden till sig protestantiska tankar.\n\n• **Katolskt drag:** Samtidigt behölls mycket av den gamla kyrkans former — biskopar, ceremonier, en högtidlig gudstjänstordning. Till det yttre liknade den fortfarande den katolska kyrkan.\n\n**Den stora poängen:** Anglikanismen står mitt emellan de två lägren just för att brytningen inte drevs av en religiös övertygelse utan av kungens behov. Man bytte överhuvud — från påve till kung — men ville inte kasta bort allt det gamla. Resultatet blev en kyrka som är protestantisk i sin ställning men katolsk i mycket av sin form."
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "k5-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för lutheranismens kärna.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör förklara både Luthers grundtankar och de konkreta förändringar som följde av dem.\n\nLutheranismens kärna sammanfattas ofta i tre 'allena'. Nåden allena: frälsningen är en gåva från Gud som människan inte kan förtjäna. Tron allena: det är genom tron, inte genom gärningar eller köpta avlatsbrev, som människan tar emot frälsningen. Bibeln allena: det är Bibeln, inte påven eller kyrkans traditioner, som är den högsta auktoriteten i trosfrågor.\n\nSvaret bör också nämna de praktiska följderna. Lutheranismen behöll bara två sakrament, dopet och nattvarden, eftersom bara de ansågs ha stöd i Bibeln. Prästerna fick gifta sig, och gudstjänsten hölls på folkets eget språk i stället för latin, så att alla kunde förstå.\n\nEtt fördjupande svar kan lyfta att lutheranismen var den mildaste av reformationens grenar och behöll mest av den katolska kyrkans yttre former — men att skillnaden i den avgörande frågan, hur människan blir frälst, ändå var total.",
+      "stodlarare": {
+        "stodord": [
+          "nåden allena",
+          "tron allena",
+          "Bibeln allena",
+          "frälsning",
+          "två sakrament",
+          "dop och nattvard",
+          "folkets språk",
+          "präster gifter sig"
+        ],
+        "startfraser": [
+          "Lutheranismens kärna kan sammanfattas i tre 'allena': ...",
+          "Med nåden och tron allena menas att ...",
+          "I praktiken innebar lutheranismen att kyrkan ...",
+          "Jämfört med den katolska kyrkan behöll lutheranismen ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i två delar: först de tre 'allena' (nåd, tro, Bibel) och vad de betyder, sedan de praktiska följderna (två sakrament, gifta präster, gudstjänst på folkets språk). Avsluta gärna med att lutheranismen var den mildaste grenen men ändå helt ny i synen på frälsning."
+      }
+    },
+    {
+      "id": "k5-r2",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för Sveriges reformation. Varför genomförde Gustav Vasa den, och vilket motstånd mötte den?",
+      "ungefarlig_tid_min": 12,
+      "modellsvar": "Ett gott svar bör visa att den svenska reformationen drevs uppifrån av politiska och ekonomiska skäl, och att den mötte motstånd underifrån.\n\nNär Gustav Vasa blev kung 1523 hade Sverige en tom statskassa och stora skulder, bland annat till Lübeck. Samtidigt var den katolska kyrkan landets rikaste maktfaktor, med stora egendomar och inkomster. Reformationen gav kungen ett sätt att lösa båda problemen på en gång.\n\nSvaret bör förklara hur det gick till. Vid riksdagen i Västerås 1527 lät Gustav Vasa riket bryta med påven och gå över till den lutherska läran. Kyrkans egendomar och inkomster drogs in till kronan, och kyrkan blev en statskyrka underställd kungen i stället för påven. Reformationen genomfördes alltså av staten, uppifrån — inte som en folkrörelse underifrån som i Tyskland.\n\nMotståndet bör nämnas. Många vanliga människor, särskilt på landsbygden, ogillade att den gamla katolska gudstjänsten och dess bruk togs bort och att kyrkans egendom beslagtogs. Det tydligaste uttrycket blev Dackefejden 1542–1543, ett stort bondeuppror i Småland lett av Nils Dacke, som blev ett allvarligt hot mot Gustav Vasas makt innan det slogs ner.\n\nEtt fördjupande svar kan lyfta att den svenska reformationen lika mycket var ett statsbygge som en trosförändring — kungen vann både makt över kyrkan och dess rikedomar.",
+      "stodlarare": {
+        "stodord": [
+          "Gustav Vasa",
+          "tom statskassa",
+          "riksdagen i Västerås 1527",
+          "kyrkans egendom",
+          "statskyrka",
+          "uppifrån",
+          "Dackefejden",
+          "Nils Dacke"
+        ],
+        "startfraser": [
+          "Gustav Vasa genomförde reformationen framför allt av ... skäl",
+          "Vid riksdagen i Västerås 1527 beslutades att ...",
+          "Kyrkan blev en statskyrka, vilket innebar att ...",
+          "Motståndet mot förändringarna visade sig tydligast i ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar: först varför (tom statskassa + kyrkans rikedom), sedan hur (Västerås 1527, indragen egendom, statskyrka, uppifrån), och till sist motståndet (Dackefejden). Betona att reformationen i Sverige var lika mycket politik och ekonomi som tro."
+      }
+    },
+    {
+      "id": "k5-r3",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Jämför reformationens tre stora grenar — lutheranism, kalvinism och anglikanism. Vad förenar dem och vad skiljer dem åt?",
+      "ungefarlig_tid_min": 12,
+      "modellsvar": "Ett gott svar bör visa både den gemensamma protestantiska grunden och hur de tre grenarna skilde sig i lära, livsstil och hur de uppstod.\n\nDet gemensamma: Alla tre är protestantiska grenar som brutit med påven i Rom. De delar tanken att människan blir frälst genom tro och nåd, att Bibeln är den högsta auktoriteten, och de avvisar avlatshandeln. Alla behöll dopet och nattvarden som sakrament.\n\nLutheranismen var den mildaste grenen. Den byggde på Luthers 'tre allena', behöll mycket av den gamla kyrkans former och blev störst i norra Tyskland och Norden. Den betonade inte predestinationen särskilt starkt.\n\nKalvinismen, grundad av Jean Calvin i Genève, var strängare. Den betonade predestinationen — att Gud förutbestämt vilka som ska frälsas — och krävde ett enkelt, disciplinerat liv utan lyx. Den spreds till Nederländerna, Skottland och Frankrike (hugenotterna).\n\nAnglikanismen skilde sig genom att den uppstod av politiska skäl: Henrik VIII bröt med påven för att få skilja sig, gjorde sig själv till kyrkans överhuvud och behöll mycket av den katolska formen. Därför kallas den en mellanväg.\n\nEtt fördjupande svar kan reflektera över att skillnaderna mindre handlade om själva grundtron och mer om hur strikt man levde efter den, hur mycket av det gamla man behöll, och — särskilt för anglikanismen — om brytningen drevs av tro eller av politik.",
+      "stodlarare": {
+        "stodord": [
+          "protestantisk grund",
+          "tro och nåd",
+          "Bibeln",
+          "predestination",
+          "Calvin",
+          "Henrik VIII",
+          "mellanväg",
+          "livsstil"
+        ],
+        "startfraser": [
+          "Det som förenar de tre grenarna är ...",
+          "Lutheranismen kännetecknas av ...",
+          "Kalvinismen gick längre genom att ...",
+          "Anglikanismen skiljer sig eftersom den uppstod av ..."
+        ],
+        "tip_for_struktur": "Börja med den gemensamma protestantiska grunden, gå sedan igenom de tre grenarna var för sig (lutheranism = mild, kalvinism = sträng med predestination, anglikanism = politisk mellanväg). Avsluta med en reflektion om att skillnaderna mest gällde livsstil, former och hur brytningen uppstod — inte själva grundtron."
+      }
+    }
+  ]
+}

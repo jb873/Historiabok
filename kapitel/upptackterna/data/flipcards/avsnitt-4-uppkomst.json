@@ -1,0 +1,224 @@
+{
+  "avsnitt": 4,
+  "titel": "Reformationens uppkomst",
+  "delkapitel": "reformationen",
+  "version": "1.0",
+  "kort_totalt": 21,
+  "_kommentar": "Flipcards för avsnitt 4 (Reformationens uppkomst). 13 begreppskort (12 sakbegrepp + Martin Luther som person) + 5 modellkort + 3 redogörelsekort = 21. Täcker avlatshandeln, Luther och 95 teserna, brytningen med Rom och bondeupproret. Nivåfördelning ~76% grundlaggande / 24% fordjupning. Personer ligger som begreppskort (plattformen har ingen personkort-typ). Byggd från grunden (originalfilerna saknades i repot).",
+  "begreppskort": [
+    {
+      "id": "k4-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med FRÄLSNING?",
+      "svar": "Att bli räddad från synd och få komma till himlen efter döden. Frågan om hur man blir frälst var själva kärnan i reformationen. Den katolska kyrkan lärde att människan blev frälst genom både tro och goda gärningar — böner, botgöring och deltagande i kyrkans liv. Martin Luther menade tvärtom att människan blir frälst enbart genom sin tro på Gud, som en gåva av nåd — inte genom något hon själv presterar. Denna oenighet om frälsningen låg bakom hela brytningen mellan katoliker och protestanter."
+    },
+    {
+      "id": "k4-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var BOTGÖRING?",
+      "svar": "Handlingar som en katolik gjorde för att gottgöra sina synder och försonas med Gud — till exempel böner, fasta, pilgrimsresor eller gåvor till kyrkan. Enligt katolsk lära räckte det inte att ångra sig; man måste också göra bot. Botgöringen var en del av kyrkans syn på att människan själv måste bidra till sin frälsning. Det var just denna tanke Luther vände sig mot: han menade att ingen mängd botgöring kunde köpa Guds förlåtelse, som bara gavs av nåd."
+    },
+    {
+      "id": "k4-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var SKÄRSELDEN?",
+      "svar": "Enligt katolsk lära en plats där själen renades efter döden innan den fick komma till himlen. De flesta människor tänktes behöva tillbringa tid i skärselden för att sona synder de inte hunnit göra bot för i livet. Läran om skärselden var viktig eftersom den gjorde det möjligt att sälja avlatsbrev — brev som lovade att förkorta tiden där. Reformatorerna förkastade hela idén, eftersom de inte kunde finna stöd för den i Bibeln."
+    },
+    {
+      "id": "k4-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var ett AVLATSBREV?",
+      "svar": "Ett brev som kyrkan sålde och som lovade köparen förkortad tid i skärselden — för sig själv eller för avlidna anhöriga. Avlatshandeln blev en stor inkomstkälla för kyrkan; pengarna gick bland annat till att bygga Peterskyrkan i Rom. Försäljaren Johann Tetzel blev ökänd i Tyskland för sina påträngande metoder. Det var avlatshandeln som fick Martin Luther att reagera 1517 — han menade att man inte kunde köpa sig fri från synd, och att kyrkan lurade fattiga människor på deras pengar."
+    },
+    {
+      "id": "k4-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med CELIBAT?",
+      "svar": "Löftet att avstå från äktenskap och sexuella relationer, som den katolska kyrkan krävde av sina präster, munkar och nunnor. Tanken var att den som helt ägnade sig åt Gud inte skulle bindas av familj. Reformatorerna avskaffade kravet på celibat — Luther själv, som varit munk, gifte sig senare med den tidigare nunnan Katharina von Bora. Att präster fick gifta sig blev en tydlig skillnad mellan den protestantiska och den katolska kyrkan."
+    },
+    {
+      "id": "k4-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var en MUNK?",
+      "svar": "En man som ägnade hela sitt liv åt Gud och levde i ett kloster efter stränga regler om bön, arbete, fattigdom och celibat. Munkar var en central del av det katolska samhället. Martin Luther var själv augustinmunk innan han bröt med kyrkan. Det är delvis därför hans kritik fick sådan tyngd: den kom inte från en utomstående, utan från en lärd man inifrån kyrkans egna led som kände dess lära på djupet."
+    },
+    {
+      "id": "k4-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vem var MARTIN LUTHER?",
+      "svar": "En tysk munk och teologiprofessor som startade reformationen. År 1517 riktade han skarp kritik mot kyrkans avlatshandel i sina 95 teser, som enligt traditionen spikades upp på kyrkporten i Wittenberg. Luther menade att människan blir frälst enbart genom tro och Guds nåd, att Bibeln — inte påven — är den högsta auktoriteten, och att gudstjänsten borde hållas på folkets eget språk. När han vägrade ta tillbaka sina åsikter bannlystes han och förklarades fredlös. Hans idéer spreds ändå snabbt och delade den västliga kristenheten i katoliker och protestanter."
+    },
+    {
+      "id": "k4-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder att REFORMERA?",
+      "svar": "Att förändra och förbättra något som anses ha blivit fel — att föra tillbaka det till hur det borde vara. Ordet reformation kommer just härifrån. Luther och de andra reformatorerna ville från början inte grunda en ny kyrka, utan reformera den befintliga katolska kyrkan inifrån: rensa bort det de såg som missbruk, som avlatshandeln, och återvända till det de menade var kristendomens ursprungliga budskap. När kyrkan vägrade blev resultatet i stället en splittring."
+    },
+    {
+      "id": "k4-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilken roll spelade TRYCKPRESSEN i reformationen?",
+      "svar": "Tryckpressen, som förbättrats av Johann Gutenberg på 1400-talet, gjorde det möjligt att trycka skrifter snabbt och billigt i stora upplagor. Utan den hade Luthers idéer förmodligen stannat lokalt. Nu spreds hans texter — skrivna på tyska så att vanligt folk kunde läsa dem — över hela landet på bara veckor. Tryckpressen förvandlade en akademisk tvist om avlat till en folkrörelse. Den är ett tydligt exempel på hur en teknisk uppfinning kan förändra historiens gång."
+    },
+    {
+      "id": "k4-b10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebar BANNLYSNING?",
+      "svar": "Att kyrkan uteslöt en person ur den kristna gemenskapen — det hårdaste straff påven kunde utdela. Den bannlyste ansågs utestängd från frälsningen och skulle undvikas av andra kristna. År 1521 bannlyste påven Martin Luther sedan han vägrat ta tillbaka sin kritik. För de flesta hade en bannlysning varit förödande, men Luther hade nu så starkt folkligt stöd och beskydd av tyska furstar att han kunde fortsätta trots den. Att bannlysningen inte knäckte honom visar hur mycket kyrkans makt redan hade försvagats."
+    },
+    {
+      "id": "k4-b11",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med KÄTTARE?",
+      "svar": "En person som höll fast vid en lära som kyrkan hade fördömt som falsk. Att stämplas som kättare var farligt — kättare kunde förklaras fredlösa eller avrättas. Vid riksdagen i Worms 1521 förklarades Martin Luther som kättare och fredlös sedan han vägrat återta sina åsikter. Att han ändå överlevde berodde på att en tysk furste, Fredrik den vise, gömde honom på borgen Wartburg. Där översatte Luther Nya testamentet till tyska."
+    },
+    {
+      "id": "k4-b12",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad är en SCHISM?",
+      "svar": "En splittring, särskilt en varaktig delning av en kyrka i skilda grenar. Reformationen ledde till den stora schismen i västkyrkan: den tidigare enade katolska kyrkan delades i en katolsk och en protestantisk del. Det var inte första gången kristenheten splittrades — redan 1054 hade den delats i en västlig (katolsk) och en östlig (ortodox) kyrka. Men reformationens schism fick enorma följder: den bidrog till religionskrig, förändrade maktförhållanden och drog en religiös gräns genom Europa som består än idag."
+    },
+    {
+      "id": "k4-b13",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var DAGSVERKE?",
+      "svar": "Obligatoriskt arbete som bönderna måste utföra på herrens jord, ofta flera dagar i veckan och utan lön. Dagsverket var en av de tunga bördor som tyngde bönderna. När reformationen skakade om samhället tog många bönder tillfället i akt och krävde lättnader — de hoppades att den nya läran om alla människors likhet inför Gud också skulle förbättra deras villkor på jorden. Missnöjet med bördor som dagsverket var en viktig orsak till de bondeuppror som bröt ut under reformationens första år."
+    }
+  ],
+  "modellkort": [
+    {
+      "id": "k4-m1",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför sålde kyrkan avlatsbrev, och varför blev Luther så upprörd över det?",
+      "svar": "Avlatshandeln var både en inkomstkälla och en följd av kyrkans lära — och det var precis där Luther såg ett djupt fel:\n\n• **Kyrkans logik:** Enligt läran om skärselden måste själar renas efter döden. Ett avlatsbrev lovade att förkorta den tiden. Genom att sälja sådana brev kunde kyrkan finansiera stora projekt, som bygget av Peterskyrkan i Rom.\n\n• **Metoderna:** Försäljare som Johann Tetzel lockade fattiga människor att köpa brev för sina döda anhöriga med påträngande budskap om att rädda deras själar.\n\n• **Luthers invändning:** Han menade att frälsning inte kan köpas för pengar — den ges bara av Guds nåd genom tron. Att sälja förlåtelse var för honom att lura människor och missbruka deras tro.\n\n**Det viktiga:** Avlatshandeln var gnistan, men inte hela elden. Bakom Luthers ilska låg en helt annan syn på hur människan blir frälst. När han spikade upp sina 95 teser 1517 var det egentligen en inbjudan till debatt — men den växte snabbt till en rörelse som skakade hela kyrkan."
+    },
+    {
+      "id": "k4-m2",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Vad var kärnan i Martin Luthers kritik mot kyrkan?",
+      "svar": "Luthers kritik gällde inte bara avlaten — den handlade om själva grunden för tron:\n\n• **Frälsning genom tro allena:** Människan blir frälst genom sin tro och Guds nåd, inte genom gärningar, botgöring eller köpta avlatsbrev.\n\n• **Bibeln som högsta auktoritet:** Det är Bibeln, inte påven eller kyrkans traditioner, som ska avgöra vad som är sant. Därför ville Luther att alla skulle kunna läsa den själva.\n\n• **Gudstjänst på folkets språk:** Mässan hölls på latin, som vanligt folk inte förstod. Luther ville ha den på tyska, så att alla kunde ta del.\n\n• **Alla troendes prästadöme:** Varje kristen står i direkt förhållande till Gud och behöver ingen präst som mellanhand.\n\n**Det viktiga:** Luther ville från början reformera kyrkan inifrån, inte grunda en ny. Men hans idéer utmanade påvens makt så djupt att en försoning blev omöjlig. Kärnan var en fråga om auktoritet: vem bestämmer över tron — kyrkan eller Bibeln?"
+    },
+    {
+      "id": "k4-m3",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför fick Luthers tankar så stor spridning och så många anhängare?",
+      "svar": "Att en enskild munks kritik kunde växa till en rörelse som delade Europa berodde på flera saker som samverkade:\n\n• **Tryckpressen:** Luthers skrifter kunde tryckas snabbt och billigt och spreds över landet på veckor.\n\n• **Folkets språk:** Han skrev på tyska, inte latin, så att vanligt folk kunde läsa och förstå honom.\n\n• **Ett utbrett missnöje:** Många var redan trötta på kyrkans rikedom, maktmissbruk och avlatshandel. Luther satte ord på något de känt länge.\n\n• **Furstarnas stöd:** Tyska furstar såg en chans att minska påvens och kejsarens makt — och att lägga beslag på kyrkans rika egendomar. De skyddade Luther.\n\n**Det viktiga:** Luthers idéer spreds inte bara för att de var övertygande, utan för att rätt teknik, rätt språk och rätt politiska intressen fanns på plats samtidigt. Stora historiska förändringar behöver både en idé och de omständigheter som låter idén växa."
+    },
+    {
+      "id": "k4-m4",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur ledde Luthers kritik till en fullständig brytning med Rom?",
+      "svar": "Vägen från kritik till schism gick steg för steg, när ingen sida ville ge efter:\n\n• **1517 – 95 teserna:** Luther kritiserar avlatshandeln och bjuder in till debatt.\n\n• **Kyrkan slår tillbaka:** Påven kräver att Luther tar tillbaka sina åsikter. Luther vägrar och går allt längre i sin kritik.\n\n• **1521 – bannlysning:** Påven utesluter Luther ur kyrkan.\n\n• **1521 – riksdagen i Worms:** Inför kejsaren vägrar Luther på nytt att ge upp sin övertygelse. Han förklaras kättare och fredlös.\n\n• **Skyddet:** Fursten Fredrik den vise gömmer Luther på borgen Wartburg, där han översätter Nya testamentet till tyska.\n\n**Det viktiga:** Brytningen var ingen plan från början — den växte fram ur en kedja av vägran att kompromissa. Varje gång kyrkan pressade Luther att backa stod han fast, och varje gång fördjupades klyftan. Resultatet blev en ny, protestantisk kyrka vid sidan av den katolska."
+    },
+    {
+      "id": "k4-m5",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Varför gjorde bönderna uppror, och varför stödde inte Luther dem?",
+      "svar": "Reformationen väckte hopp också hos dem längst ner i samhället — men Luther drog en tydlig gräns:\n\n• **Böndernas situation:** De tyngdes av tunga bördor som dagsverken och avgifter till herrar och kyrka. Deras liv var hårt och deras möjligheter få.\n\n• **Hoppet i reformationen:** När Luther talade om alla människors likhet inför Gud tolkade många bönder det som stöd även för social rättvisa här på jorden. De reste sig 1524–1525 och krävde lättnader och friheter.\n\n• **Luthers reaktion:** Han menade att hans budskap gällde själen och frälsningen — inte uppror mot den världsliga ordningen. Han fördömde bönderna skarpt och uppmanade furstarna att slå ner upproret, vilket de gjorde blodigt.\n\n**Den stora poängen:** Här syns reformationens gräns. Luther var en religiös reformator, inte en social revolutionär. Han behövde dessutom furstarnas skydd och kunde inte ställa sig mot dem. Att han tog överhetens parti visar att reformationen förändrade tron — men inte var tänkt att kullkasta samhällets maktordning."
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "k4-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för missnöjet mot kyrkan och för avlatshandeln som fick Luther att reagera.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör förklara både det bredare missnöjet med kyrkan och den konkreta avlatshandeln som blev droppen.\n\nUnder senmedeltiden växte missnöjet med den katolska kyrkan. Kyrkan var oerhört rik och mäktig, och många präster och biskopar levde i lyx långt från idealet om fattigdom. Höga kyrkomän köpte sig ämbeten, och vanligt folk fick betala tionde och avgifter. Gudstjänsten hölls på latin, som de flesta inte förstod, vilket ökade avståndet mellan kyrkan och folket.\n\nSvaret bör förklara avlatshandeln. Enligt läran om skärselden måste själar renas efter döden. Kyrkan sålde avlatsbrev som lovade att förkorta den tiden. Pengarna gick bland annat till att bygga Peterskyrkan i Rom. Försäljaren Johann Tetzel blev ökänd för att med påträngande budskap få fattiga människor att köpa brev för sina döda anhöriga.\n\nDet var detta som fick Martin Luther att reagera 1517 med sina 95 teser. Han menade att förlåtelse inte kan köpas för pengar, utan bara ges av Guds nåd, och att kyrkan lurade människor.\n\nEtt fördjupande svar kan lyfta att avlatshandeln var gnistan snarare än hela orsaken — bakom låg ett djupare missnöje med kyrkans makt och en helt annan syn på hur människan blir frälst.",
+      "stodlarare": {
+        "stodord": [
+          "avlatsbrev",
+          "skärselden",
+          "Tetzel",
+          "Peterskyrkan",
+          "tionde",
+          "95 teserna",
+          "frälsning",
+          "nåd"
+        ],
+        "startfraser": [
+          "Missnöjet mot kyrkan hade flera orsaker — bland annat ...",
+          "Kyrkan var rik och mäktig, medan vanligt folk ...",
+          "Avlatshandeln innebar att kyrkan sålde ...",
+          "Det som fick Luther att reagera var ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar: först det breda missnöjet (kyrkans rikedom, avgifter, latin), sedan avlatshandeln konkret (skärselden, avlatsbrev, Tetzel, Peterskyrkan), och avsluta med Luthers reaktion 1517. Visa gärna att avlaten var droppen, inte hela orsaken."
+      }
+    },
+    {
+      "id": "k4-r2",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för Martin Luthers kritik mot kyrkan samt vad han ville.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Ett gott svar bör visa att Luthers kritik gick djupare än avlaten och handlade om själva grunden för tron.\n\nLuther angrep först avlatshandeln: förlåtelse kan inte köpas för pengar. Men bakom det låg en helt annan syn på frälsningen. Medan kyrkan lärde att människan blir frälst genom både tro och goda gärningar, menade Luther att frälsningen ges enbart genom tron och Guds nåd — inte genom något människan själv presterar.\n\nSvaret bör ta upp Luthers syn på auktoritet. Han menade att Bibeln, inte påven eller kyrkans traditioner, är den högsta auktoriteten i trosfrågor. Därför ville han att alla skulle kunna läsa Bibeln själva, och han översatte Nya testamentet till tyska. Han ville också att gudstjänsten skulle hållas på folkets eget språk i stället för latin, och han menade att varje kristen står i direkt förhållande till Gud utan att behöva en präst som mellanhand.\n\nLuther ville från början reformera den katolska kyrkan inifrån, inte grunda en ny. Men hans idéer utmanade påvens makt så djupt att en brytning blev oundviklig.\n\nEtt fördjupande svar kan lyfta att kärnan i konflikten var en fråga om auktoritet: vem bestämmer över tron — kyrkan och påven, eller Bibeln?",
+      "stodlarare": {
+        "stodord": [
+          "frälsning genom tro",
+          "Guds nåd",
+          "Bibeln",
+          "påvens auktoritet",
+          "folkets språk",
+          "bibelöversättning",
+          "reformera",
+          "prästerskap"
+        ],
+        "startfraser": [
+          "Luthers kritik började med avlaten men handlade egentligen om ...",
+          "Han menade att människan blir frälst genom ...",
+          "När det gällde auktoritet ansåg Luther att ...",
+          "Det Luther ville var i grunden att ..."
+        ],
+        "tip_for_struktur": "Dela svaret i två delar: först kritiken (mot avlat och mot tanken att gärningar frälser), sedan vad han ville (tro allena, Bibeln som auktoritet, gudstjänst på folkets språk). Avsluta med att kärnan var en fråga om auktoritet — kyrkan eller Bibeln."
+      }
+    },
+    {
+      "id": "k4-r3",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet för att jämföra med modellsvaret.",
+      "fraga": "Redogör för böndernas uppror under reformationen och förklara varför Luther inte stödde bönderna.",
+      "ungefarlig_tid_min": 12,
+      "modellsvar": "Ett gott svar bör förklara både varför bönderna reste sig och varför Luther tog avstånd — och vad det avslöjar om reformationens gränser.\n\nBönderna levde under tunga bördor: dagsverken utan lön, avgifter till herrar och tionde till kyrkan. När reformationen skakade om samhället och Luther talade om alla människors likhet inför Gud tolkade många bönder det som stöd även för social rättvisa på jorden. De reste sig 1524–1525 och krävde lättnader — mindre bördor, större friheter, ibland med hänvisning till Bibeln.\n\nSvaret bör förklara Luthers reaktion. Han menade att hans budskap gällde själen och frälsningen, inte uppror mot den världsliga samhällsordningen. Han fördömde bönderna skarpt och uppmanade furstarna att slå ner upproret, vilket skedde blodigt. Tiotusentals bönder dödades.\n\nVarför tog Luther överhetens parti? Dels trodde han verkligen att den världsliga ordningen var gudsgiven och att uppror var synd. Dels var han beroende av de tyska furstarnas skydd — utan dem hade reformationen krossats. Att ställa sig mot furstarna var otänkbart.\n\nEtt fördjupande svar kan reflektera över vad detta visar: Luther var en religiös reformator, inte en social revolutionär. Reformationen förändrade synen på tron och frälsningen, men var aldrig tänkt att kullkasta samhällets maktordning. Här går en tydlig gräns för hur långt reformationen sträckte sig.",
+      "stodlarare": {
+        "stodord": [
+          "dagsverke",
+          "bördor",
+          "likhet inför Gud",
+          "bondeupproret 1525",
+          "sociala krav",
+          "furstarna",
+          "världslig ordning",
+          "beroende av skydd"
+        ],
+        "startfraser": [
+          "Bönderna reste sig därför att ...",
+          "När Luther talade om allas likhet inför Gud tolkade bönderna det som ...",
+          "Luther tog avstånd från upproret eftersom ...",
+          "Att han tog furstarnas parti berodde dels på ..., dels på ..."
+        ],
+        "tip_for_struktur": "Bygg svaret i tre delar: först varför bönderna gjorde uppror (bördor + hoppet i reformationen), sedan Luthers avståndstagande och dess följder, och till sist varför han tog överhetens parti (tro på gudsgiven ordning + beroende av furstarnas skydd). Avsluta med reflektionen om reformationens gräns."
+      }
+    }
+  ]
+}
