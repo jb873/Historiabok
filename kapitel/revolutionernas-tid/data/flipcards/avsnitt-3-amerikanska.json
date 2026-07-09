@@ -1,0 +1,131 @@
+{
+  "avsnitt": 3,
+  "titel": "Amerikanska frihetskriget",
+  "delkapitel": "amerikanska",
+  "version": "1.0",
+  "kort_totalt": 17,
+  "_kommentar": "17 begreppskort. Full Öva.",
+  "begreppskort": [
+    {
+      "id": "amer-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär merkantilism?",
+      "svar": "Ekonomiskt system där kolonierna säljer råvaror till moderlandet och köper färdiga varor därifrån — så att moderlandet blir rikt."
+    },
+    {
+      "id": "amer-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är Navigation Acts?",
+      "svar": "Brittiska handelslagar som bestämde att många varor måste fraktas på brittiska fartyg och gå via Storbritannien."
+    },
+    {
+      "id": "amer-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Varför skrek man slagordet \"No taxation without representation\"?",
+      "svar": "För att kolonisterna tvingades betala skatter till Storbritannien utan att ha några representanter i det brittiska parlamentet."
+    },
+    {
+      "id": "amer-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka idéer hade John Locke?",
+      "svar": "Naturrätt och samhällskontrakt. Alla har naturliga rättigheter (liv, frihet, egendom) som staten ska skydda — annars får folket göra uppror."
+    },
+    {
+      "id": "amer-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilken idé står Montesquieu för?",
+      "svar": "Maktdelning. Makten i staten ska delas mellan lagstiftande, verkställande och dömande makt — så att ingen kan missbruka den."
+    },
+    {
+      "id": "amer-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilken idé stod Rousseau för?",
+      "svar": "Rousseau utvecklade samhällskontraktet. Han betonade att makten ytterst kommer från folket — staten ska styra för folkets bästa, inte för kungens."
+    },
+    {
+      "id": "amer-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka idéer hade Voltaire?",
+      "svar": "Yttrandefrihet och religionsfrihet. Människor måste få tänka, skriva och tro fritt — även om det kritiserar makten."
+    },
+    {
+      "id": "amer-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär naturrätt?",
+      "svar": "Att alla människor föds med vissa rättigheter — som liv, frihet och egendom — som ingen kung eller stat kan ta bort."
+    },
+    {
+      "id": "amer-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär samhällskontrakt?",
+      "svar": "Idén att stat och folk har ett slags avtal: folket låter sig styras om staten arbetar för folkets bästa. Annars får folket göra motstånd."
+    },
+    {
+      "id": "amer-b10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär yttrandefrihet?",
+      "svar": "Rätten att fritt uttrycka sina åsikter — i tal, skrift eller andra former — utan att straffas av staten."
+    },
+    {
+      "id": "amer-b11",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär religionsfrihet?",
+      "svar": "Rätten att själv välja vilken religion man tror på — eller att inte tro alls — utan att straffas eller tvingas till en statskyrka."
+    },
+    {
+      "id": "amer-b12",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär maktdelning?",
+      "svar": "Att makten i staten delas mellan flera delar (lagstiftande, verkställande, dömande) så att de kontrollerar varandra och ingen får för mycket makt."
+    },
+    {
+      "id": "amer-b13",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är Boston Tea Party?",
+      "svar": "Protest i Boston 1773 där Sons of Liberty kastade 342 lådor te i hamnen — som protest mot brittisk tebeskattning."
+    },
+    {
+      "id": "amer-b14",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vem var George Washington?",
+      "svar": "Ledare för den amerikanska armén under frihetskriget — senare USA:s första president."
+    },
+    {
+      "id": "amer-b15",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var Stamp Act?",
+      "svar": "Stämpelskatten 1765. Brittisk lag som krävde att tryckta dokument i kolonierna måste ha en betald stämpel. Väckte stora protester."
+    },
+    {
+      "id": "amer-b16",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ett parlament?",
+      "svar": "Den lagstiftande församlingen — där lagar och skatter beslutas. Det brittiska parlamentet hade inga representanter från kolonierna."
+    },
+    {
+      "id": "amer-b17",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en konstitution?",
+      "svar": "En grundlag — det viktigaste dokumentet i ett land. Bestämmer hur landet styrs, hur makten delas och vilka rättigheter medborgarna har."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}

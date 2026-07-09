@@ -182,6 +182,142 @@
       "term": "statsskulder",
       "expertdefinition": "Skulder som staten dragit på sig — t.ex. för att betala för krig. Måste betalas tillbaka, ofta genom höjda skatter.",
       "kallfil": "data/flipcards/avsnitt-2-sjuarskriget.json"
+    },
+    {
+      "id": "amer-k1",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "merkantilism",
+      "expertdefinition": "Ekonomiskt system där kolonierna säljer råvaror till moderlandet och köper färdiga varor därifrån — så att moderlandet blir rikt.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k2",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "Navigation Acts",
+      "expertdefinition": "Brittiska handelslagar som bestämde att många varor måste fraktas på brittiska fartyg och gå via Storbritannien.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k3",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "Varför skrek man slagordet \"No taxation without representation\"",
+      "expertdefinition": "För att kolonisterna tvingades betala skatter till Storbritannien utan att ha några representanter i det brittiska parlamentet.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k4",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "Vilka idéer hade John Locke",
+      "expertdefinition": "Naturrätt och samhällskontrakt. Alla har naturliga rättigheter (liv, frihet, egendom) som staten ska skydda — annars får folket göra uppror.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k5",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "Vilken idé står Montesquieu för",
+      "expertdefinition": "Maktdelning. Makten i staten ska delas mellan lagstiftande, verkställande och dömande makt — så att ingen kan missbruka den.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k6",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "Vilken idé stod Rousseau för",
+      "expertdefinition": "Rousseau utvecklade samhällskontraktet. Han betonade att makten ytterst kommer från folket — staten ska styra för folkets bästa, inte för kungens.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k7",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "Vilka idéer hade Voltaire",
+      "expertdefinition": "Yttrandefrihet och religionsfrihet. Människor måste få tänka, skriva och tro fritt — även om det kritiserar makten.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k8",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "naturrätt",
+      "expertdefinition": "Att alla människor föds med vissa rättigheter — som liv, frihet och egendom — som ingen kung eller stat kan ta bort.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k9",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "samhällskontrakt",
+      "expertdefinition": "Idén att stat och folk har ett slags avtal: folket låter sig styras om staten arbetar för folkets bästa. Annars får folket göra motstånd.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k10",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "yttrandefrihet",
+      "expertdefinition": "Rätten att fritt uttrycka sina åsikter — i tal, skrift eller andra former — utan att straffas av staten.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k11",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "religionsfrihet",
+      "expertdefinition": "Rätten att själv välja vilken religion man tror på — eller att inte tro alls — utan att straffas eller tvingas till en statskyrka.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k12",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "maktdelning",
+      "expertdefinition": "Att makten i staten delas mellan flera delar (lagstiftande, verkställande, dömande) så att de kontrollerar varandra och ingen får för mycket makt.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k13",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "Boston Tea Party",
+      "expertdefinition": "Protest i Boston 1773 där Sons of Liberty kastade 342 lådor te i hamnen — som protest mot brittisk tebeskattning.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k14",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "Vem var George Washington",
+      "expertdefinition": "Ledare för den amerikanska armén under frihetskriget — senare USA:s första president.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k15",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "Stamp Act",
+      "expertdefinition": "Stämpelskatten 1765. Brittisk lag som krävde att tryckta dokument i kolonierna måste ha en betald stämpel. Väckte stora protester.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k16",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "parlament",
+      "expertdefinition": "Den lagstiftande församlingen — där lagar och skatter beslutas. Det brittiska parlamentet hade inga representanter från kolonierna.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "amer-k17",
+      "avsnitt": "3",
+      "avsnitt_titel": "Amerikanska frihetskriget",
+      "term": "konstitution",
+      "expertdefinition": "En grundlag — det viktigaste dokumentet i ett land. Bestämmer hur landet styrs, hur makten delas och vilka rättigheter medborgarna har.",
+      "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
     }
   ]
 }

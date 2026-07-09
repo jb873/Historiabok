@@ -86,6 +86,64 @@
           ]
         }
       ]
+    },
+    {
+      "id": "a3_amerikanska",
+      "nummer": 1,
+      "titel": "Amerikanska frihetskriget",
+      "fragor": [
+        {
+          "id": "q_amer_g1",
+          "typ": "grund",
+          "fraga": "Redogör för hur merkantilismen fungerade."
+        },
+        {
+          "id": "q_amer_g2",
+          "typ": "grund",
+          "fraga": "Redogör för maktdelning."
+        },
+        {
+          "id": "q_amer_g3",
+          "typ": "grund",
+          "fraga": "Redogör för naturrätt."
+        },
+        {
+          "id": "q_amer_g4",
+          "typ": "grund",
+          "fraga": "Redogör för samhällskontrakt och hur Rousseau utvecklade denna idé."
+        },
+        {
+          "id": "q_amer_g5",
+          "typ": "grund",
+          "fraga": "Redogör för de viktigaste konsekvenserna av det amerikanska frihetskriget."
+        },
+        {
+          "id": "q_amer_r1",
+          "typ": "resonemang",
+          "fraga": "Resonera på vilket sätt upplysningens idéer ledde till Amerikanska revolutionen."
+        },
+        {
+          "id": "q_amer_r2",
+          "typ": "resonemang",
+          "fraga": "Resonera på vilket sätt ekonomi och merkantilism ledde till Amerikanska revolutionen."
+        },
+        {
+          "id": "q_amer_r3",
+          "typ": "resonemang",
+          "fraga": "Resonera kring hur upplysningsidéerna påverkade innehållet i koloniernas självständighetsförklaring."
+        },
+        {
+          "id": "eb_amer_1",
+          "typ": "elevbok",
+          "fraga": "När USA skapat sitt eget land — uppfyllde de då att alla människor är lika mycket värda? Skriv ett resonemang där du väger revolutionens ideal mot dess begränsningar.",
+          "kravord": [
+            "naturrätt",
+            "självständighetsförklaringen",
+            "slaveri",
+            "maktdelning"
+          ]
+        }
+      ]
     }
   ]
 }
