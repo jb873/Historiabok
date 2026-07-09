@@ -102,6 +102,86 @@
       "term": "censur",
       "expertdefinition": "När staten eller andra makthavare kontrollerar vad som får skrivas, tryckas och spridas. Böcker kan förbjudas, författare fängslas.",
       "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "sju-k1",
+      "avsnitt": "2",
+      "avsnitt_titel": "Sjuårskriget",
+      "term": "koloni",
+      "expertdefinition": "Område utanför Europa som kontrollerades av ett europeiskt land. Gav råvaror till moderlandet och var marknad för dess varor.",
+      "kallfil": "data/flipcards/avsnitt-2-sjuarskriget.json"
+    },
+    {
+      "id": "sju-k2",
+      "avsnitt": "2",
+      "avsnitt_titel": "Sjuårskriget",
+      "term": "merkantilism",
+      "expertdefinition": "Ekonomiskt system där staten försökte bli rik genom att exportera mycket, importera lite och samla rikedomar. Kolonier var nyckeln.",
+      "kallfil": "data/flipcards/avsnitt-2-sjuarskriget.json"
+    },
+    {
+      "id": "sju-k3",
+      "avsnitt": "2",
+      "avsnitt_titel": "Sjuårskriget",
+      "term": "Schlesien",
+      "expertdefinition": "Område som idag ligger mest i Polen. Hade både ekonomiskt och strategiskt värde. Preussen tog det från Österrike — Österrike ville ha det tillbaka.",
+      "kallfil": "data/flipcards/avsnitt-2-sjuarskriget.json"
+    },
+    {
+      "id": "sju-k4",
+      "avsnitt": "2",
+      "avsnitt_titel": "Sjuårskriget",
+      "term": "allianser",
+      "expertdefinition": "AlliansAvtal mellan stater om att samarbeta — ofta militärt — mot en gemensam fiende.",
+      "kallfil": "data/flipcards/avsnitt-2-sjuarskriget.json"
+    },
+    {
+      "id": "sju-k5",
+      "avsnitt": "2",
+      "avsnitt_titel": "Sjuårskriget",
+      "term": "Fredrik II",
+      "expertdefinition": "(Fredrik den store)Preussens kung 1740–1786. Skicklig fältherre — lyckades försvara Preussen mot flera fiender samtidigt.",
+      "kallfil": "data/flipcards/avsnitt-2-sjuarskriget.json"
+    },
+    {
+      "id": "sju-k6",
+      "avsnitt": "2",
+      "avsnitt_titel": "Sjuårskriget",
+      "term": "French and Indian War",
+      "expertdefinition": "\"Det fransk-indianska kriget\" — nordamerikanska delen av sjuårskriget. Britter mot fransmän + olika allierade ursprungsfolk.",
+      "kallfil": "data/flipcards/avsnitt-2-sjuarskriget.json"
+    },
+    {
+      "id": "sju-k7",
+      "avsnitt": "2",
+      "avsnitt_titel": "Sjuårskriget",
+      "term": "Québec",
+      "expertdefinition": "Viktig fransk stad vid Saint Lawrencefloden. Britternas erövring 1759 var en avgörande vändpunkt — Frankrikes ställning i Nordamerika kollapsade.",
+      "kallfil": "data/flipcards/avsnitt-2-sjuarskriget.json"
+    },
+    {
+      "id": "sju-k8",
+      "avsnitt": "2",
+      "avsnitt_titel": "Sjuårskriget",
+      "term": "East India Company",
+      "expertdefinition": "Brittiska Ostindiska kompaniet. Inte bara ett företag — det hade militär och politisk makt och styrde stora delar av Indien.",
+      "kallfil": "data/flipcards/avsnitt-2-sjuarskriget.json"
+    },
+    {
+      "id": "sju-k9",
+      "avsnitt": "2",
+      "avsnitt_titel": "Sjuårskriget",
+      "term": "sjömakten",
+      "expertdefinition": "SjömaktStat med stark flotta och kontroll över haven. Avgörande för handel, kolonier och krig.",
+      "kallfil": "data/flipcards/avsnitt-2-sjuarskriget.json"
+    },
+    {
+      "id": "sju-k10",
+      "avsnitt": "2",
+      "avsnitt_titel": "Sjuårskriget",
+      "term": "statsskulder",
+      "expertdefinition": "Skulder som staten dragit på sig — t.ex. för att betala för krig. Måste betalas tillbaka, ofta genom höjda skatter.",
+      "kallfil": "data/flipcards/avsnitt-2-sjuarskriget.json"
     }
   ]
 }

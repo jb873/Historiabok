@@ -1,0 +1,54 @@
+{
+  "avsnitt": 2,
+  "titel": "Sjuårskriget",
+  "delkapitel": "sjuarskriget",
+  "version": "1.0",
+  "kort_totalt": 6,
+  "_kommentar": "MINIMAL Öva (6 begreppskort) — intro-avsnitt, låg memoreringsvikt. Ingen elevbok.",
+  "begreppskort": [
+    {
+      "id": "sju-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder merkantilism?",
+      "svar": "Ekonomiskt system där staten försökte bli rik genom att exportera mycket, importera lite och samla rikedomar. Kolonier var nyckeln."
+    },
+    {
+      "id": "sju-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder Schlesien?",
+      "svar": "Område som idag ligger mest i Polen. Hade både ekonomiskt och strategiskt värde. Preussen tog det från Österrike — Österrike ville ha det tillbaka."
+    },
+    {
+      "id": "sju-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder allianser?",
+      "svar": "AlliansAvtal mellan stater om att samarbeta — ofta militärt — mot en gemensam fiende."
+    },
+    {
+      "id": "sju-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder Fredrik II?",
+      "svar": "(Fredrik den store)Preussens kung 1740–1786. Skicklig fältherre — lyckades försvara Preussen mot flera fiender samtidigt."
+    },
+    {
+      "id": "sju-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder sjömakten?",
+      "svar": "SjömaktStat med stark flotta och kontroll över haven. Avgörande för handel, kolonier och krig."
+    },
+    {
+      "id": "sju-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder statsskulder?",
+      "svar": "Skulder som staten dragit på sig — t.ex. för att betala för krig. Måste betalas tillbaka, ofta genom höjda skatter."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}
