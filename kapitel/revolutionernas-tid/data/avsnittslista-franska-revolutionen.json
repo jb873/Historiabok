@@ -9,6 +9,13 @@
       "titel": "Bakgrund",
       "ar": "före 1789",
       "fil": "avsnitt-1-bakgrund.html"
+    },
+    {
+      "id": "a6_revolter",
+      "nummer": 3,
+      "titel": "Revolterna 1789",
+      "ar": "1789",
+      "fil": "avsnitt-3-revolter.html"
     }
   ]
 }

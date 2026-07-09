@@ -382,6 +382,62 @@
       "term": "Versailles",
       "expertdefinition": "Ett enormt kungligt slott utanför Paris. Ludvig XIV byggde ut det till Frankrikes maktcentrum — och samlade adeln där för att kontrollera dem.",
       "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "frv3-k1",
+      "avsnitt": "3",
+      "avsnitt_titel": "Revolterna 1789",
+      "term": "begreppet aristokrat",
+      "expertdefinition": "En medlem av samhällets högsta adel — de mäktiga familjer som hade stora jordegendomar, höga ämbeten och stort inflytande vid hovet.",
+      "kallfil": "data/flipcards/avsnitt-3-revolter.json"
+    },
+    {
+      "id": "frv3-k2",
+      "avsnitt": "3",
+      "avsnitt_titel": "Revolterna 1789",
+      "term": "eden i bollhuset",
+      "expertdefinition": "20 juni 1789. När nationalförsamlingen stängdes ute samlades de i en bollhushall och svor att inte skiljas förrän Frankrike fått en konstitution som begränsade kungens makt.",
+      "kallfil": "data/flipcards/avsnitt-3-revolter.json"
+    },
+    {
+      "id": "frv3-k3",
+      "avsnitt": "3",
+      "avsnitt_titel": "Revolterna 1789",
+      "term": "nationalförsamlingen",
+      "expertdefinition": "Den församling som tredje ståndet utropade 17 juni 1789 — påstod sig representera hela nationen, inte bara ett stånd, och hävdade rätten att stifta lagar.",
+      "kallfil": "data/flipcards/avsnitt-3-revolter.json"
+    },
+    {
+      "id": "frv3-k4",
+      "avsnitt": "3",
+      "avsnitt_titel": "Revolterna 1789",
+      "term": "Bastiljen",
+      "expertdefinition": "Ett gammalt fängelse och fästning i Paris — symbol för kungligt godtycke. Stormades 14 juli 1789, som ofta ses som revolutionens verkliga startpunkt.",
+      "kallfil": "data/flipcards/avsnitt-3-revolter.json"
+    },
+    {
+      "id": "frv3-k5",
+      "avsnitt": "3",
+      "avsnitt_titel": "Revolterna 1789",
+      "term": "feminism",
+      "expertdefinition": "En rörelse och idé som kräver att kvinnor och män ska ha samma rättigheter och möjligheter. Tidig form växte fram under upplysningen genom Olympe de Gouges och Mary Wollstonecraft.",
+      "kallfil": "data/flipcards/avsnitt-3-revolter.json"
+    },
+    {
+      "id": "frv3-k6",
+      "avsnitt": "3",
+      "avsnitt_titel": "Revolterna 1789",
+      "term": "censur",
+      "expertdefinition": "När staten eller kyrkan förbjuder vissa böcker, texter eller åsikter. I Frankrike kunde författare, boktryckare och bokhandlare fängslas för att sprida idéer som ansågs farliga.",
+      "kallfil": "data/flipcards/avsnitt-3-revolter.json"
+    },
+    {
+      "id": "frv3-k7",
+      "avsnitt": "3",
+      "avsnitt_titel": "Revolterna 1789",
+      "term": "tortyr",
+      "expertdefinition": "Att avsiktligt utsätta en människa för svår fysisk eller psykisk smärta — ofta för att tvinga fram en bekännelse eller information. I det gamla Frankrike användes tortyr i rättsskipningen, vilket upplysningens tänkare hårt kritiserade.",
+      "kallfil": "data/flipcards/avsnitt-3-revolter.json"
     }
   ]
 }

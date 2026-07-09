@@ -176,6 +176,18 @@
           "fraga": "Vilken roll hade kyrkan för lokalsamhället?"
         }
       ]
+    },
+    {
+      "id": "a6_revolter",
+      "nummer": 3,
+      "titel": "Revolterna 1789",
+      "fragor": [
+        {
+          "id": "q_frv3_1",
+          "typ": "grund",
+          "fraga": "Varför gjorde aristokraterna revolt?"
+        }
+      ]
     }
   ]
 }

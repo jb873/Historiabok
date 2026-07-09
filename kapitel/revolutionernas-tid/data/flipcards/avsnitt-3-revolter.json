@@ -1,0 +1,60 @@
+{
+  "avsnitt": 3,
+  "titel": "Revolterna 1789",
+  "delkapitel": "franska-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 7,
+  "begreppskort": [
+    {
+      "id": "frv3-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder begreppet aristokrat?",
+      "svar": "En medlem av samhällets högsta adel — de mäktiga familjer som hade stora jordegendomar, höga ämbeten och stort inflytande vid hovet."
+    },
+    {
+      "id": "frv3-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är eden i bollhuset?",
+      "svar": "20 juni 1789. När nationalförsamlingen stängdes ute samlades de i en bollhushall och svor att inte skiljas förrän Frankrike fått en konstitution som begränsade kungens makt."
+    },
+    {
+      "id": "frv3-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är nationalförsamlingen?",
+      "svar": "Den församling som tredje ståndet utropade 17 juni 1789 — påstod sig representera hela nationen, inte bara ett stånd, och hävdade rätten att stifta lagar."
+    },
+    {
+      "id": "frv3-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är Bastiljen?",
+      "svar": "Ett gammalt fängelse och fästning i Paris — symbol för kungligt godtycke. Stormades 14 juli 1789, som ofta ses som revolutionens verkliga startpunkt."
+    },
+    {
+      "id": "frv3-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder feminism?",
+      "svar": "En rörelse och idé som kräver att kvinnor och män ska ha samma rättigheter och möjligheter. Tidig form växte fram under upplysningen genom Olympe de Gouges och Mary Wollstonecraft."
+    },
+    {
+      "id": "frv3-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder censur?",
+      "svar": "När staten eller kyrkan förbjuder vissa böcker, texter eller åsikter. I Frankrike kunde författare, boktryckare och bokhandlare fängslas för att sprida idéer som ansågs farliga."
+    },
+    {
+      "id": "frv3-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder tortyr?",
+      "svar": "Att avsiktligt utsätta en människa för svår fysisk eller psykisk smärta — ofta för att tvinga fram en bekännelse eller information. I det gamla Frankrike användes tortyr i rättsskipningen, vilket upplysningens tänkare hårt kritiserade."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}
