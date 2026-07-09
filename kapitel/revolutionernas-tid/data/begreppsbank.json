@@ -574,6 +574,62 @@
       "term": "kontrarevolution",
       "expertdefinition": "När någon försöker stoppa revolutionen och återställa det gamla samhället. Kontrarevolutionärer ansågs vara revolutionens farligaste fiender — särskilt under krigstid.",
       "kallfil": "data/flipcards/avsnitt-5-skrackvaldet.json"
+    },
+    {
+      "id": "frv6-k1",
+      "avsnitt": "6",
+      "avsnitt_titel": "Napoleon",
+      "term": "Vem var Napoleon",
+      "expertdefinition": "Napoleon Bonaparte (1769–1821) — fransk militär och politiker som tog makten 1799, krönte sig till kejsare 1804 och styrde Frankrike och stora delar av Europa till sitt nederlag 1815.",
+      "kallfil": "data/flipcards/avsnitt-6-napoleon.json"
+    },
+    {
+      "id": "frv6-k2",
+      "avsnitt": "6",
+      "avsnitt_titel": "Napoleon",
+      "term": "en statskupp",
+      "expertdefinition": "När någon tar makten på ett olagligt eller odemokratiskt sätt — ofta med stöd av militär. Napoleon tog makten genom en statskupp år 1799.",
+      "kallfil": "data/flipcards/avsnitt-6-napoleon.json"
+    },
+    {
+      "id": "frv6-k3",
+      "avsnitt": "6",
+      "avsnitt_titel": "Napoleon",
+      "term": "ockupanter",
+      "expertdefinition": "Fientliga soldater som har tagit kontroll över ett land. När Napoleons arméer tog över andra länder sågs fransmännen som ockupanter — och nationalismen växte som motstånd.",
+      "kallfil": "data/flipcards/avsnitt-6-napoleon.json"
+    },
+    {
+      "id": "frv6-k4",
+      "avsnitt": "6",
+      "avsnitt_titel": "Napoleon",
+      "term": "Code Napoléon",
+      "expertdefinition": "Napoleons nya lagbok från 1804. Slog fast att alla män var lika inför lagen och avskaffade feodala privilegier. En av historiens viktigaste lagsamlingar — har påverkat lagar i många länder ända in i modern tid.",
+      "kallfil": "data/flipcards/avsnitt-6-napoleon.json"
+    },
+    {
+      "id": "frv6-k5",
+      "avsnitt": "6",
+      "avsnitt_titel": "Napoleon",
+      "term": "privilegier",
+      "expertdefinition": "Särskilda fördelar eller rättigheter som bara vissa grupper har. I franska revolutionen avskaffades adelns och kyrkans gamla privilegier — Napoleon behöll den principen.",
+      "kallfil": "data/flipcards/avsnitt-6-napoleon.json"
+    },
+    {
+      "id": "frv6-k6",
+      "avsnitt": "6",
+      "avsnitt_titel": "Napoleon",
+      "term": "nationalism",
+      "expertdefinition": "Stark känsla av samhörighet med sitt eget folk, språk och land. Växte fram som motstånd mot Napoleons erövringar — och blev en av 1800-talets viktigaste politiska krafter.",
+      "kallfil": "data/flipcards/avsnitt-6-napoleon.json"
+    },
+    {
+      "id": "frv6-k7",
+      "avsnitt": "6",
+      "avsnitt_titel": "Napoleon",
+      "term": "Waterloo",
+      "expertdefinition": "Plats i nuvarande Belgien där Napoleon slutgiltigt besegrades 1815 av en allians av brittiska och preussiska styrkor. Efter slaget skickades han i fångenskap till Sankt Helena.",
+      "kallfil": "data/flipcards/avsnitt-6-napoleon.json"
     }
   ]
 }

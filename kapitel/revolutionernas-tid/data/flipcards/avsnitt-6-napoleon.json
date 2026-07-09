@@ -1,0 +1,60 @@
+{
+  "avsnitt": 6,
+  "titel": "Napoleon",
+  "delkapitel": "franska-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 7,
+  "begreppskort": [
+    {
+      "id": "frv6-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vem var Napoleon?",
+      "svar": "Napoleon Bonaparte (1769–1821) — fransk militär och politiker som tog makten 1799, krönte sig till kejsare 1804 och styrde Frankrike och stora delar av Europa till sitt nederlag 1815."
+    },
+    {
+      "id": "frv6-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en statskupp?",
+      "svar": "När någon tar makten på ett olagligt eller odemokratiskt sätt — ofta med stöd av militär. Napoleon tog makten genom en statskupp år 1799."
+    },
+    {
+      "id": "frv6-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ockupanter?",
+      "svar": "Fientliga soldater som har tagit kontroll över ett land. När Napoleons arméer tog över andra länder sågs fransmännen som ockupanter — och nationalismen växte som motstånd."
+    },
+    {
+      "id": "frv6-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är Code Napoléon?",
+      "svar": "Napoleons nya lagbok från 1804. Slog fast att alla män var lika inför lagen och avskaffade feodala privilegier. En av historiens viktigaste lagsamlingar — har påverkat lagar i många länder ända in i modern tid."
+    },
+    {
+      "id": "frv6-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder privilegier?",
+      "svar": "Särskilda fördelar eller rättigheter som bara vissa grupper har. I franska revolutionen avskaffades adelns och kyrkans gamla privilegier — Napoleon behöll den principen."
+    },
+    {
+      "id": "frv6-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder nationalism?",
+      "svar": "Stark känsla av samhörighet med sitt eget folk, språk och land. Växte fram som motstånd mot Napoleons erövringar — och blev en av 1800-talets viktigaste politiska krafter."
+    },
+    {
+      "id": "frv6-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är Waterloo?",
+      "svar": "Plats i nuvarande Belgien där Napoleon slutgiltigt besegrades 1815 av en allians av brittiska och preussiska styrkor. Efter slaget skickades han i fångenskap till Sankt Helena."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}
