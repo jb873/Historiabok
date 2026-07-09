@@ -1,0 +1,107 @@
+{
+  "kapitel_id": "revolutionernas-tid",
+  "kapitel_titel": "Revolutionernas tid",
+  "version": "1.0",
+  "upplasning": {
+    "min_ord": 8,
+    "anvand_nyckelord": false
+  },
+  "begrepp": [
+    {
+      "id": "upp-k1",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "ståndssamhälle",
+      "expertdefinition": "Samhälle där människor föds in i fasta grupper (stånd) — t.ex. adel, präster, borgare och bönder — med olika rättigheter.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "upp-k2",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "envälde",
+      "expertdefinition": "Styre där en kung har nästan all makt — utan att fråga folket. Ofta motiverat med Guds vilja. Kallas även absolutism.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "upp-k3",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "bördssamhälle",
+      "expertdefinition": "Samhälle där människans plats avgörs av vilken familj hon föds i — inte av vad hon kan eller gör.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "upp-k4",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "meritsamhälle",
+      "expertdefinition": "Samhälle där människans plats avgörs av vad hon kan, gör och bidrar med — inte av vilken familj hon föddes i.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "upp-k5",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "empirism",
+      "expertdefinition": "Att kunskap bygger på erfarenhet, observationer och undersökningar — inte bara på vad auktoriteter säger.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "upp-k6",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "framstegstanken",
+      "expertdefinition": "Idén att samhället kan utvecklas och förbättras över tid — genom utbildning, vetenskap och reformer.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "upp-k7",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "naturrätt",
+      "expertdefinition": "Att alla människor föds med vissa rättigheter — som liv, frihet och egendom — som ingen kung eller stat kan ta bort.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "upp-k8",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "samhällskontrakt",
+      "expertdefinition": "Tanken att stat och folk har ett avtal: folket låter sig styras om staten arbetar för folkets bästa. Annars får folket göra motstånd.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "upp-k9",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "maktdelning",
+      "expertdefinition": "Att makten i staten delas mellan lagstiftande, verkställande och dömande makt — så att ingen får för mycket makt.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "upp-k10",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "yttrandefrihet",
+      "expertdefinition": "Rätten att fritt uttrycka sina åsikter — i tal, skrift eller andra former — utan att straffas av staten.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "upp-k11",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "upplyst despot",
+      "expertdefinition": "Styre där en stark kung har all makt — men använder den klokt och försöker reformera samhället enligt upplysningens idéer.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    },
+    {
+      "id": "upp-k12",
+      "avsnitt": "1",
+      "avsnitt_titel": "Upplysningen",
+      "term": "censur",
+      "expertdefinition": "När staten eller andra makthavare kontrollerar vad som får skrivas, tryckas och spridas. Böcker kan förbjudas, författare fängslas.",
+      "kallfil": "data/flipcards/avsnitt-1-upplysningen.json"
+    }
+  ]
+}

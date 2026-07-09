@@ -1,0 +1,91 @@
+{
+  "kapitel": "revolutionernas-tid",
+  "kapitel_titel": "Revolutionernas tid",
+  "version": "1.0",
+  "_kommentar": "Kapitel-fragor. avsnitt är en ARRAY (plattformens avsnitt-elevbok.js läser data.avsnitt.filter). typ/kravord läses inte av nuvarande plattform.",
+  "avsnitt": [
+    {
+      "id": "a1_upplysningen",
+      "nummer": 1,
+      "titel": "Upplysningen",
+      "fragor": [
+        {
+          "id": "q_upp_1",
+          "typ": "grund",
+          "fraga": "Redogör för framstegstanken."
+        },
+        {
+          "id": "q_upp_2",
+          "typ": "grund",
+          "fraga": "Redogör för John Lockes idéer."
+        },
+        {
+          "id": "q_upp_3",
+          "typ": "grund",
+          "fraga": "Redogör för Montesquieus idéer."
+        },
+        {
+          "id": "q_upp_4",
+          "typ": "grund",
+          "fraga": "Redogör för Rousseaus idéer."
+        },
+        {
+          "id": "q_upp_5",
+          "typ": "grund",
+          "fraga": "Redogör för Voltaires idéer."
+        },
+        {
+          "id": "q_upp_6",
+          "typ": "grund",
+          "fraga": "Redogör för Wollstonecrafts idéer."
+        },
+        {
+          "id": "eb_upp_a",
+          "typ": "elevbok",
+          "underdel": "a",
+          "fraga": "Förklara med egna ord varför upplysningen blev ett brott mot det gamla samhället.",
+          "kravord": [
+            "ståndssamhälle",
+            "envälde",
+            "förnuft",
+            "empirism",
+            "framstegstanken"
+          ]
+        },
+        {
+          "id": "eb_upp_b",
+          "typ": "elevbok",
+          "underdel": "b",
+          "fraga": "Förklara Lockes syn på människans rättigheter och statens roll.",
+          "kravord": [
+            "naturrätt",
+            "samhällskontrakt"
+          ]
+        },
+        {
+          "id": "eb_upp_c",
+          "typ": "elevbok",
+          "underdel": "c",
+          "fraga": "Jämför Montesquieus, Voltaires och Rousseaus idéer om hur makten borde organiseras.",
+          "kravord": [
+            "maktdelning",
+            "yttrandefrihet",
+            "upplyst despoti",
+            "allmänna viljan"
+          ]
+        },
+        {
+          "id": "eb_upp_d",
+          "typ": "elevbok",
+          "underdel": "d",
+          "fraga": "Förklara hur Mary Wollstonecraft använde upplysningens egna idéer för att kritisera kvinnors ställning.",
+          "kravord": [
+            "förnuft",
+            "utbildning",
+            "naturrätt"
+          ]
+        }
+      ]
+    }
+  ]
+}

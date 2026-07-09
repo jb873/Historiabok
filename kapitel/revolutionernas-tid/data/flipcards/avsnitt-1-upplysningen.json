@@ -1,0 +1,96 @@
+{
+  "avsnitt": 1,
+  "titel": "Upplysningen",
+  "delkapitel": "upplysningen",
+  "version": "1.0",
+  "kort_totalt": 12,
+  "_kommentar": "12 begreppskort (Upplysningen). Öva-nivå grundläggande.",
+  "begreppskort": [
+    {
+      "id": "upp-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ett ståndssamhälle?",
+      "svar": "Samhälle där människor föds in i fasta grupper (stånd) — t.ex. adel, präster, borgare och bönder — med olika rättigheter."
+    },
+    {
+      "id": "upp-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär envälde?",
+      "svar": "Styre där en kung har nästan all makt — utan att fråga folket. Ofta motiverat med Guds vilja. Kallas även absolutism."
+    },
+    {
+      "id": "upp-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ett bördssamhälle?",
+      "svar": "Samhälle där människans plats avgörs av vilken familj hon föds i — inte av vad hon kan eller gör."
+    },
+    {
+      "id": "upp-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ett meritsamhälle?",
+      "svar": "Samhälle där människans plats avgörs av vad hon kan, gör och bidrar med — inte av vilken familj hon föddes i."
+    },
+    {
+      "id": "upp-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär empirism?",
+      "svar": "Att kunskap bygger på erfarenhet, observationer och undersökningar — inte bara på vad auktoriteter säger."
+    },
+    {
+      "id": "upp-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menar man med framstegstanken?",
+      "svar": "Idén att samhället kan utvecklas och förbättras över tid — genom utbildning, vetenskap och reformer."
+    },
+    {
+      "id": "upp-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär naturrätt?",
+      "svar": "Att alla människor föds med vissa rättigheter — som liv, frihet och egendom — som ingen kung eller stat kan ta bort."
+    },
+    {
+      "id": "upp-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär samhällskontrakt?",
+      "svar": "Tanken att stat och folk har ett avtal: folket låter sig styras om staten arbetar för folkets bästa. Annars får folket göra motstånd."
+    },
+    {
+      "id": "upp-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär maktdelning?",
+      "svar": "Att makten i staten delas mellan lagstiftande, verkställande och dömande makt — så att ingen får för mycket makt."
+    },
+    {
+      "id": "upp-b10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär yttrandefrihet?",
+      "svar": "Rätten att fritt uttrycka sina åsikter — i tal, skrift eller andra former — utan att straffas av staten."
+    },
+    {
+      "id": "upp-b11",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär upplyst despot?",
+      "svar": "Styre där en stark kung har all makt — men använder den klokt och försöker reformera samhället enligt upplysningens idéer."
+    },
+    {
+      "id": "upp-b12",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad innebär censur?",
+      "svar": "När staten eller andra makthavare kontrollerar vad som får skrivas, tryckas och spridas. Böcker kan förbjudas, författare fängslas."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}
