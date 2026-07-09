@@ -1,0 +1,60 @@
+{
+  "avsnitt": 2,
+  "titel": "Orsaker",
+  "delkapitel": "franska-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 7,
+  "begreppskort": [
+    {
+      "id": "frv2-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder naturrätt?",
+      "svar": "Tanken att alla människor föds med vissa grundläggande rättigheter — frihet, jämlikhet och rätten till egendom — som inte kungen kan ta ifrån dem."
+    },
+    {
+      "id": "frv2-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder samhällskontrakt?",
+      "svar": "Tanken att makten kommer från folket. Folket går med på att låta staten styra — men bara så länge makten används för folkets bästa."
+    },
+    {
+      "id": "frv2-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder maktdelning?",
+      "svar": "Att statens makt ska delas mellan olika delar — lagstiftande, verkställande och dömande — så att ingen kan få för mycket makt."
+    },
+    {
+      "id": "frv2-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder yttrandefrihet?",
+      "svar": "Rätten att fritt uttrycka sina tankar och åsikter — i tal och skrift — utan att riskera straff eller fängelse."
+    },
+    {
+      "id": "frv2-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder generalständerna?",
+      "svar": "Frankrikes gamla riksdag med representanter från de tre stånden. Hade inte sammanträtt sedan 1614 — kallades in 1789 för att rädda statens ekonomi."
+    },
+    {
+      "id": "frv2-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder dagsverke?",
+      "svar": "När bönder var tvungna att arbeta gratis åt godsherren ett visst antal dagar per år — en av de tunga feodala skyldigheterna."
+    },
+    {
+      "id": "frv2-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder missväxt?",
+      "svar": "När skörden slår fel — på grund av torka, hagel, frost eller översvämning. Det blir för lite mat och priserna stiger snabbt."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}
