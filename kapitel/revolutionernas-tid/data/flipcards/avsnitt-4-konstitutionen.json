@@ -1,0 +1,81 @@
+{
+  "avsnitt": 4,
+  "titel": "Konstitutionen",
+  "delkapitel": "franska-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 10,
+  "begreppskort": [
+    {
+      "id": "frv4-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka var de tre slagorden som sammanfattar revolutionen?",
+      "svar": "Frihet, jämlikhet och broderskap (på franska: liberté, égalité, fraternité )."
+    },
+    {
+      "id": "frv4-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en revolution?",
+      "svar": "En djupgående och ofta snabb förändring av hur ett samhälle styrs — där den gamla maktordningen störtas och ersätts av en ny."
+    },
+    {
+      "id": "frv4-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder konstitution?",
+      "svar": "Ett lands viktigaste lag — en grundlag som bestämmer hur landet ska styras, vilka rättigheter människor har och hur makten ska begränsas."
+    },
+    {
+      "id": "frv4-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder folksuveränitet?",
+      "svar": "Tanken att den yttersta makten i ett samhälle ligger hos folket — inte hos kungen eller Gud. De som styr gör det med folkets tillstånd."
+    },
+    {
+      "id": "frv4-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder naturrätt?",
+      "svar": "Tanken att alla människor föds med vissa grundläggande rättigheter — frihet, jämlikhet, egendom — som inte staten eller kungen kan ta ifrån dem."
+    },
+    {
+      "id": "frv4-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder maktdelning?",
+      "svar": "Att statens makt ska delas mellan olika delar — lagstiftande, verkställande och dömande — så att ingen kan få för mycket makt."
+    },
+    {
+      "id": "frv4-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en medborgare?",
+      "svar": "En person som tillhör en nation och har rättigheter och skyldigheter inför lagen — i revolutionärt tänkande oavsett börd eller stånd."
+    },
+    {
+      "id": "frv4-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är skillnaden mellan aktiva och passiva medborgare?",
+      "svar": "Aktiva = män med tillräcklig egendom och skatt — fick rösta. Passiva = hade juridiska rättigheter men inte rösträtt (kvinnor, fattiga män, slavar)."
+    },
+    {
+      "id": "frv4-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder religionsfrihet?",
+      "svar": "Rätten att själv få välja sin tro — eller att inte ha någon tro alls — utan att riskera straff. Något helt nytt i ett samhälle där katolska kyrkan haft privilegier."
+    },
+    {
+      "id": "frv4-b10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är konstitutionell monarki?",
+      "svar": "En statsform där kungen finns kvar — men hans makt begränsas av en konstitution. Han måste dela makten med en folkvald församling. Motsatsen till envälde."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}

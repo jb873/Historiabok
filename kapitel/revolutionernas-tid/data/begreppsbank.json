@@ -630,6 +630,86 @@
       "term": "Waterloo",
       "expertdefinition": "Plats i nuvarande Belgien där Napoleon slutgiltigt besegrades 1815 av en allians av brittiska och preussiska styrkor. Efter slaget skickades han i fångenskap till Sankt Helena.",
       "kallfil": "data/flipcards/avsnitt-6-napoleon.json"
+    },
+    {
+      "id": "frv4-k1",
+      "avsnitt": "4",
+      "avsnitt_titel": "Konstitutionen",
+      "term": "Vilka var de tre slagorden som sammanfattar revolutionen",
+      "expertdefinition": "Frihet, jämlikhet och broderskap (på franska: liberté, égalité, fraternité ).",
+      "kallfil": "data/flipcards/avsnitt-4-konstitutionen.json"
+    },
+    {
+      "id": "frv4-k2",
+      "avsnitt": "4",
+      "avsnitt_titel": "Konstitutionen",
+      "term": "en revolution",
+      "expertdefinition": "En djupgående och ofta snabb förändring av hur ett samhälle styrs — där den gamla maktordningen störtas och ersätts av en ny.",
+      "kallfil": "data/flipcards/avsnitt-4-konstitutionen.json"
+    },
+    {
+      "id": "frv4-k3",
+      "avsnitt": "4",
+      "avsnitt_titel": "Konstitutionen",
+      "term": "konstitution",
+      "expertdefinition": "Ett lands viktigaste lag — en grundlag som bestämmer hur landet ska styras, vilka rättigheter människor har och hur makten ska begränsas.",
+      "kallfil": "data/flipcards/avsnitt-4-konstitutionen.json"
+    },
+    {
+      "id": "frv4-k4",
+      "avsnitt": "4",
+      "avsnitt_titel": "Konstitutionen",
+      "term": "folksuveränitet",
+      "expertdefinition": "Tanken att den yttersta makten i ett samhälle ligger hos folket — inte hos kungen eller Gud. De som styr gör det med folkets tillstånd.",
+      "kallfil": "data/flipcards/avsnitt-4-konstitutionen.json"
+    },
+    {
+      "id": "frv4-k5",
+      "avsnitt": "4",
+      "avsnitt_titel": "Konstitutionen",
+      "term": "naturrätt",
+      "expertdefinition": "Tanken att alla människor föds med vissa grundläggande rättigheter — frihet, jämlikhet, egendom — som inte staten eller kungen kan ta ifrån dem.",
+      "kallfil": "data/flipcards/avsnitt-4-konstitutionen.json"
+    },
+    {
+      "id": "frv4-k6",
+      "avsnitt": "4",
+      "avsnitt_titel": "Konstitutionen",
+      "term": "maktdelning",
+      "expertdefinition": "Att statens makt ska delas mellan olika delar — lagstiftande, verkställande och dömande — så att ingen kan få för mycket makt.",
+      "kallfil": "data/flipcards/avsnitt-4-konstitutionen.json"
+    },
+    {
+      "id": "frv4-k7",
+      "avsnitt": "4",
+      "avsnitt_titel": "Konstitutionen",
+      "term": "en medborgare",
+      "expertdefinition": "En person som tillhör en nation och har rättigheter och skyldigheter inför lagen — i revolutionärt tänkande oavsett börd eller stånd.",
+      "kallfil": "data/flipcards/avsnitt-4-konstitutionen.json"
+    },
+    {
+      "id": "frv4-k8",
+      "avsnitt": "4",
+      "avsnitt_titel": "Konstitutionen",
+      "term": "skillnaden mellan aktiva och passiva medborgare",
+      "expertdefinition": "Aktiva = män med tillräcklig egendom och skatt — fick rösta. Passiva = hade juridiska rättigheter men inte rösträtt (kvinnor, fattiga män, slavar).",
+      "kallfil": "data/flipcards/avsnitt-4-konstitutionen.json"
+    },
+    {
+      "id": "frv4-k9",
+      "avsnitt": "4",
+      "avsnitt_titel": "Konstitutionen",
+      "term": "religionsfrihet",
+      "expertdefinition": "Rätten att själv få välja sin tro — eller att inte ha någon tro alls — utan att riskera straff. Något helt nytt i ett samhälle där katolska kyrkan haft privilegier.",
+      "kallfil": "data/flipcards/avsnitt-4-konstitutionen.json"
+    },
+    {
+      "id": "frv4-k10",
+      "avsnitt": "4",
+      "avsnitt_titel": "Konstitutionen",
+      "term": "konstitutionell monarki",
+      "expertdefinition": "En statsform där kungen finns kvar — men hans makt begränsas av en konstitution. Han måste dela makten med en folkvald församling. Motsatsen till envälde.",
+      "kallfil": "data/flipcards/avsnitt-4-konstitutionen.json"
     }
   ]
 }
