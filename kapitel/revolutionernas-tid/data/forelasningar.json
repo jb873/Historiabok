@@ -1,0 +1,18 @@
+{
+  "kapitel_id": "revolutionernas-tid",
+  "kapitel_titel": "Revolutionernas tid",
+  "version": 1,
+  "skapad": "2026-07-09",
+  "_kommentar": "Föreläsningar för Revolutionernas tid. Läses av forelasningar.js i respektive avsnitts Föreläsning-flik (matchning på avsnitt_id).",
+  "forelasningar": [
+    {
+      "id": "f_upp_1",
+      "avsnitt_id": "a1_upplysningen",
+      "ordning": 1,
+      "titel": "Upplysningen",
+      "youtube_id": "8L0ZNJfh45Y",
+      "youtube_url": "https://youtu.be/8L0ZNJfh45Y",
+      "underdel": null
+    }
+  ]
+}
