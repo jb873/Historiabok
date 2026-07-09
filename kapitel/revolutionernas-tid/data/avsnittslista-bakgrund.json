@@ -1,0 +1,28 @@
+{
+  "delkapitel": "bakgrund",
+  "delkapitel_titel": "Bakgrund · Långa linjer",
+  "kapitel": "revolutionernas-tid",
+  "avsnitt": [
+    {
+      "id": "a1_jordbruket",
+      "nummer": 1,
+      "titel": "Jordbruket",
+      "ar": "3000 f.Kr.–1300",
+      "fil": "avsnitt-1-jordbruket.html"
+    },
+    {
+      "id": "a2_tillverkning",
+      "nummer": 2,
+      "titel": "Tillverkning",
+      "ar": "1100–1700-tal",
+      "fil": "avsnitt-2-tillverkning.html"
+    },
+    {
+      "id": "a3_ekonomi",
+      "nummer": 3,
+      "titel": "Ekonomi",
+      "ar": "1000–1800-tal",
+      "fil": "avsnitt-3-ekonomi.html"
+    }
+  ]
+}
