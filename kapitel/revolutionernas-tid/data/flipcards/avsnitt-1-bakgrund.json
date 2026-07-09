@@ -1,0 +1,68 @@
+{
+  "avsnitt": 1,
+  "titel": "Bakgrund",
+  "delkapitel": "franska-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 8,
+  "_kommentar": "Komplett.",
+  "begreppskort": [
+    {
+      "id": "frv1-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder tionde?",
+      "svar": "En avgift till kyrkan — ursprungligen en tiondel (10 %) av bondens skörd eller inkomst."
+    },
+    {
+      "id": "frv1-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder absolutism?",
+      "svar": "En styrelseform där kungen har nästan all makt — över lagar, skatter, krig och ämbeten — utan att kontrolleras av en folkvald riksdag."
+    },
+    {
+      "id": "frv1-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med frälsestånd?",
+      "svar": "Ett stånd som var \"frälst\" — befriat — från vissa skyldigheter, framför allt skatter. I Frankrike var prästerna och adeln frälsestånd."
+    },
+    {
+      "id": "frv1-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka grupper ingår i det franska ståndssamhället?",
+      "svar": "Första ståndet (prästerna), andra ståndet (adeln) och tredje ståndet (resten av befolkningen — borgare, bönder, hantverkare, arbetare)."
+    },
+    {
+      "id": "frv1-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Varför kallades Ludvig XIV för Kung Sol?",
+      "svar": "För att han ville visa att precis som solen är centrum i solsystemet skulle han vara centrum i staten — all makt skulle utgå från honom."
+    },
+    {
+      "id": "frv1-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder gudsstat?",
+      "svar": "Ett samhälle där religionen används för att förklara och försvara den politiska makten. Kyrkan och staten stöttar varandra."
+    },
+    {
+      "id": "frv1-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder bördssamhälle?",
+      "svar": "Ett samhälle där en människas möjligheter, rättigheter och skyldigheter bestäms av vilken familj hon föds in i — inte av kunskap eller arbete."
+    },
+    {
+      "id": "frv1-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är Versailles?",
+      "svar": "Ett enormt kungligt slott utanför Paris. Ludvig XIV byggde ut det till Frankrikes maktcentrum — och samlade adeln där för att kontrollera dem."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}

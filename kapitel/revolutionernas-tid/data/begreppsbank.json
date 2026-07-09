@@ -318,6 +318,70 @@
       "term": "konstitution",
       "expertdefinition": "En grundlag — det viktigaste dokumentet i ett land. Bestämmer hur landet styrs, hur makten delas och vilka rättigheter medborgarna har.",
       "kallfil": "data/flipcards/avsnitt-3-amerikanska.json"
+    },
+    {
+      "id": "frv1-k1",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "tionde",
+      "expertdefinition": "En avgift till kyrkan — ursprungligen en tiondel (10 %) av bondens skörd eller inkomst.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "frv1-k2",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "absolutism",
+      "expertdefinition": "En styrelseform där kungen har nästan all makt — över lagar, skatter, krig och ämbeten — utan att kontrolleras av en folkvald riksdag.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "frv1-k3",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "Vad menas med frälsestånd",
+      "expertdefinition": "Ett stånd som var \"frälst\" — befriat — från vissa skyldigheter, framför allt skatter. I Frankrike var prästerna och adeln frälsestånd.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "frv1-k4",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "Vilka grupper ingår i det franska ståndssamhället",
+      "expertdefinition": "Första ståndet (prästerna), andra ståndet (adeln) och tredje ståndet (resten av befolkningen — borgare, bönder, hantverkare, arbetare).",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "frv1-k5",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "Varför kallades Ludvig XIV för Kung Sol",
+      "expertdefinition": "För att han ville visa att precis som solen är centrum i solsystemet skulle han vara centrum i staten — all makt skulle utgå från honom.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "frv1-k6",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "gudsstat",
+      "expertdefinition": "Ett samhälle där religionen används för att förklara och försvara den politiska makten. Kyrkan och staten stöttar varandra.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "frv1-k7",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "bördssamhälle",
+      "expertdefinition": "Ett samhälle där en människas möjligheter, rättigheter och skyldigheter bestäms av vilken familj hon föds in i — inte av kunskap eller arbete.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
+    },
+    {
+      "id": "frv1-k8",
+      "avsnitt": "1",
+      "avsnitt_titel": "Bakgrund",
+      "term": "Versailles",
+      "expertdefinition": "Ett enormt kungligt slott utanför Paris. Ludvig XIV byggde ut det till Frankrikes maktcentrum — och samlade adeln där för att kontrollera dem.",
+      "kallfil": "data/flipcards/avsnitt-1-bakgrund.json"
     }
   ]
 }

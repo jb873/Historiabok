@@ -144,6 +144,38 @@
           ]
         }
       ]
+    },
+    {
+      "id": "a4_bakgrund",
+      "nummer": 1,
+      "titel": "Bakgrund",
+      "fragor": [
+        {
+          "id": "q_frv1_1",
+          "typ": "grund",
+          "fraga": "Vad betyder ståndssamhälle?"
+        },
+        {
+          "id": "q_frv1_2",
+          "typ": "grund",
+          "fraga": "På vilket sätt var det franska samhället ekonomiskt orättvist?"
+        },
+        {
+          "id": "q_frv1_3",
+          "typ": "grund",
+          "fraga": "På vilket sätt var det franska samhället politiskt orättvist?"
+        },
+        {
+          "id": "q_frv1_4",
+          "typ": "grund",
+          "fraga": "Vad betyder privilegier, och vilka privilegier hade olika grupper?"
+        },
+        {
+          "id": "q_frv1_5",
+          "typ": "grund",
+          "fraga": "Vilken roll hade kyrkan för lokalsamhället?"
+        }
+      ]
     }
   ]
 }
