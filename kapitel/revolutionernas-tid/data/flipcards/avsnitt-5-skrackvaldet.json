@@ -1,0 +1,81 @@
+{
+  "avsnitt": 5,
+  "titel": "Skräckväldet",
+  "delkapitel": "franska-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 10,
+  "begreppskort": [
+    {
+      "id": "frv5-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en giljotin?",
+      "svar": "En avrättningsmaskin med en fallande kniv. Infördes 1792 som ett \"rättvist\" sätt att avrätta — alla samhällsklasser dödades på samma sätt. Blev symbol för skräckväldet."
+    },
+    {
+      "id": "frv5-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vem var Robespierre?",
+      "svar": "Maximilien Robespierre — jurist och radikal jakobinledare som dominerade Välfärdsutskottet under skräckväldet. Avrättades med giljotin 1794."
+    },
+    {
+      "id": "frv5-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var Välfärdsutskottet?",
+      "svar": "Ett mäktigt organ 1793–94 med stor makt över krig, ekonomi och straff. Namnet betydde inte välfärd i modern mening — utan att \"rädda nationen\"."
+    },
+    {
+      "id": "frv5-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder terror?",
+      "svar": "Statligt organiserat våld som användes för att skrämma, kontrollera och straffa misstänkta motståndare — inte slumpmässigt våld, utan ett politiskt vapen."
+    },
+    {
+      "id": "frv5-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder förräderi?",
+      "svar": "När någon sviker sitt eget land, sin grupp eller sina anhängare — ofta genom att samarbeta med fienden. Vanlig anklagelse under skräckväldet."
+    },
+    {
+      "id": "frv5-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder värnplikt?",
+      "svar": "När medborgare kan tvingas göra militärtjänst för att försvara landet. Infördes under revolutionen — folket skulle nu försvara nationen i stället för kungens yrkessoldater."
+    },
+    {
+      "id": "frv5-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en monarki?",
+      "svar": "En statsform där en kung eller drottning är statschef — antingen med all makt (envälde) eller med begränsad makt (konstitutionell monarki)."
+    },
+    {
+      "id": "frv5-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en republik?",
+      "svar": "En stat utan kung, där makten utgår från folket och dess valda representanter. Motsatsen till monarki. Frankrike blev republik 1792."
+    },
+    {
+      "id": "frv5-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder radikal?",
+      "svar": "Någon som vill gå mycket långt i sina åsikter och förändringar — mycket längre än vanliga eller försiktiga lösningar. Robespierre var en radikal revolutionär."
+    },
+    {
+      "id": "frv5-b10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder kontrarevolution?",
+      "svar": "När någon försöker stoppa revolutionen och återställa det gamla samhället. Kontrarevolutionärer ansågs vara revolutionens farligaste fiender — särskilt under krigstid."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}

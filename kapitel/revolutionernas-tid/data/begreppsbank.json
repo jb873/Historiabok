@@ -494,6 +494,86 @@
       "term": "missväxt",
       "expertdefinition": "När skörden slår fel — på grund av torka, hagel, frost eller översvämning. Det blir för lite mat och priserna stiger snabbt.",
       "kallfil": "data/flipcards/avsnitt-2-orsaker.json"
+    },
+    {
+      "id": "frv5-k1",
+      "avsnitt": "5",
+      "avsnitt_titel": "Skräckväldet",
+      "term": "en giljotin",
+      "expertdefinition": "En avrättningsmaskin med en fallande kniv. Infördes 1792 som ett \"rättvist\" sätt att avrätta — alla samhällsklasser dödades på samma sätt. Blev symbol för skräckväldet.",
+      "kallfil": "data/flipcards/avsnitt-5-skrackvaldet.json"
+    },
+    {
+      "id": "frv5-k2",
+      "avsnitt": "5",
+      "avsnitt_titel": "Skräckväldet",
+      "term": "Vem var Robespierre",
+      "expertdefinition": "Maximilien Robespierre — jurist och radikal jakobinledare som dominerade Välfärdsutskottet under skräckväldet. Avrättades med giljotin 1794.",
+      "kallfil": "data/flipcards/avsnitt-5-skrackvaldet.json"
+    },
+    {
+      "id": "frv5-k3",
+      "avsnitt": "5",
+      "avsnitt_titel": "Skräckväldet",
+      "term": "Välfärdsutskottet",
+      "expertdefinition": "Ett mäktigt organ 1793–94 med stor makt över krig, ekonomi och straff. Namnet betydde inte välfärd i modern mening — utan att \"rädda nationen\".",
+      "kallfil": "data/flipcards/avsnitt-5-skrackvaldet.json"
+    },
+    {
+      "id": "frv5-k4",
+      "avsnitt": "5",
+      "avsnitt_titel": "Skräckväldet",
+      "term": "terror",
+      "expertdefinition": "Statligt organiserat våld som användes för att skrämma, kontrollera och straffa misstänkta motståndare — inte slumpmässigt våld, utan ett politiskt vapen.",
+      "kallfil": "data/flipcards/avsnitt-5-skrackvaldet.json"
+    },
+    {
+      "id": "frv5-k5",
+      "avsnitt": "5",
+      "avsnitt_titel": "Skräckväldet",
+      "term": "förräderi",
+      "expertdefinition": "När någon sviker sitt eget land, sin grupp eller sina anhängare — ofta genom att samarbeta med fienden. Vanlig anklagelse under skräckväldet.",
+      "kallfil": "data/flipcards/avsnitt-5-skrackvaldet.json"
+    },
+    {
+      "id": "frv5-k6",
+      "avsnitt": "5",
+      "avsnitt_titel": "Skräckväldet",
+      "term": "värnplikt",
+      "expertdefinition": "När medborgare kan tvingas göra militärtjänst för att försvara landet. Infördes under revolutionen — folket skulle nu försvara nationen i stället för kungens yrkessoldater.",
+      "kallfil": "data/flipcards/avsnitt-5-skrackvaldet.json"
+    },
+    {
+      "id": "frv5-k7",
+      "avsnitt": "5",
+      "avsnitt_titel": "Skräckväldet",
+      "term": "en monarki",
+      "expertdefinition": "En statsform där en kung eller drottning är statschef — antingen med all makt (envälde) eller med begränsad makt (konstitutionell monarki).",
+      "kallfil": "data/flipcards/avsnitt-5-skrackvaldet.json"
+    },
+    {
+      "id": "frv5-k8",
+      "avsnitt": "5",
+      "avsnitt_titel": "Skräckväldet",
+      "term": "en republik",
+      "expertdefinition": "En stat utan kung, där makten utgår från folket och dess valda representanter. Motsatsen till monarki. Frankrike blev republik 1792.",
+      "kallfil": "data/flipcards/avsnitt-5-skrackvaldet.json"
+    },
+    {
+      "id": "frv5-k9",
+      "avsnitt": "5",
+      "avsnitt_titel": "Skräckväldet",
+      "term": "radikal",
+      "expertdefinition": "Någon som vill gå mycket långt i sina åsikter och förändringar — mycket längre än vanliga eller försiktiga lösningar. Robespierre var en radikal revolutionär.",
+      "kallfil": "data/flipcards/avsnitt-5-skrackvaldet.json"
+    },
+    {
+      "id": "frv5-k10",
+      "avsnitt": "5",
+      "avsnitt_titel": "Skräckväldet",
+      "term": "kontrarevolution",
+      "expertdefinition": "När någon försöker stoppa revolutionen och återställa det gamla samhället. Kontrarevolutionärer ansågs vara revolutionens farligaste fiender — särskilt under krigstid.",
+      "kallfil": "data/flipcards/avsnitt-5-skrackvaldet.json"
     }
   ]
 }
