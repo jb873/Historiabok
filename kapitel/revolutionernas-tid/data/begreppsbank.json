@@ -902,6 +902,94 @@
       "term": "Urbanisering",
       "expertdefinition": "Processen när människor flyttar från landsbygd till städer. Under industrialiseringen skedde urbanisering i en takt och skala som världen aldrig sett. Städerna var inte förberedda — trångboddhet, smutsigt vatten och sjukdomar följde. Men städerna gav också lön, arbete och möjlighet till ett annat liv.",
       "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i3_ekonomiska_b01",
+      "avsnitt": "i3_ekonomiska",
+      "avsnitt_titel": "Ekonomiska faktorer",
+      "term": "Kapital",
+      "expertdefinition": "Pengar och resurser som används för att investera i produktion — byggnader, maskiner, råvaror och löner. Kapital är inte bara pengar som sparas utan pengar som sätts i rörelse. I kapitalismen är kapitalets rörelse kärnan i hela ekonomin: investering → produktion → försäljning → vinst → ny investering.",
+      "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
+    },
+    {
+      "id": "i3_ekonomiska_b02",
+      "avsnitt": "i3_ekonomiska",
+      "avsnitt_titel": "Ekonomiska faktorer",
+      "term": "Råvaror",
+      "expertdefinition": "Material som industrin bearbetade för att tillverka färdiga varor. Under industrialiseringen var de viktigaste råvarorna ull, bomull, järn och kol. Råvaror kom ofta från kolonier och landsbygden. Utan råvaror — ingen fabriksproduktion.",
+      "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
+    },
+    {
+      "id": "i3_ekonomiska_b03",
+      "avsnitt": "i3_ekonomiska",
+      "avsnitt_titel": "Ekonomiska faktorer",
+      "term": "Marknad",
+      "expertdefinition": "En plats eller ett system där varor köps och säljs. Under industrialiseringen fanns marknader i städer, kolonier och i växande befolkningar. Det räcker inte att producera varor — de måste kunna säljas. En stor marknad motiverade fabriksägare att investera i mer produktion.",
+      "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
+    },
+    {
+      "id": "i3_ekonomiska_b04",
+      "avsnitt": "i3_ekonomiska",
+      "avsnitt_titel": "Ekonomiska faktorer",
+      "term": "Triangelhandel",
+      "expertdefinition": "Ett handelssystem mellan Europa, Afrika och Amerika. Europa sålde varor till Afrika, Afrika tvingades leverera slavar till Amerika, Amerika skickade råvaror (bomull, socker, tobak) till Europa. Slavhandeln var en brutal och central del av systemet — och en av källorna till det kapital som finansierade industrialiseringen.",
+      "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
+    },
+    {
+      "id": "i3_ekonomiska_b05",
+      "avsnitt": "i3_ekonomiska",
+      "avsnitt_titel": "Ekonomiska faktorer",
+      "term": "Merkantilism",
+      "expertdefinition": "En ekonomisk idé från ungefär 1500–1800 som gick ut på att ett land ska sälja mer än det köper — då strömmar guld och silver in. Staten styrde handeln, skaffade kolonier och skyddade inhemsk produktion. Merkantilismen var en föregångare till kapitalismen men betonade statskontrollen mer.",
+      "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
+    },
+    {
+      "id": "i3_ekonomiska_b06",
+      "avsnitt": "i3_ekonomiska",
+      "avsnitt_titel": "Ekonomiska faktorer",
+      "term": "Moralisk ekonomi",
+      "expertdefinition": "Äldre ekonomiskt tänkande: ekonomin ska följa tradition, rättvisa och moral — inte bara vinst. Priser ska vara rättvisa. Bröd är inte vilken vara som helst. Skråväsendet var ett uttryck för moralisk ekonomi.",
+      "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
+    },
+    {
+      "id": "i3_ekonomiska_b07",
+      "avsnitt": "i3_ekonomiska",
+      "avsnitt_titel": "Ekonomiska faktorer",
+      "term": "Handelskapitalism",
+      "expertdefinition": "Ett ekonomiskt system, framför allt 1500–1700-tal, där rikedom skapades genom handel: köpmän köpte varor billigt på en plats och sålde dem dyrare på en annan. Vinsten kom från prisskillnaden. Ett förstadium till den industriella kapitalismen, men vinsten kom ännu mest från handel, inte från fabriksproduktion.",
+      "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
+    },
+    {
+      "id": "i3_ekonomiska_b08",
+      "avsnitt": "i3_ekonomiska",
+      "avsnitt_titel": "Ekonomiska faktorer",
+      "term": "Kapitalism",
+      "expertdefinition": "System där privatpersoner äger kapital och investerar för vinst. Konkurrens och marknad styr produktionen. Kapitalismens logik drev industrialiseringen framåt.",
+      "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
+    },
+    {
+      "id": "i3_ekonomiska_b09",
+      "avsnitt": "i3_ekonomiska",
+      "avsnitt_titel": "Ekonomiska faktorer",
+      "term": "Koloni",
+      "expertdefinition": "Område som ett land kontrollerar utanför sina gränser. Kolonier gav råvaror och fungerade som marknader. Industrialiseringen byggde delvis på kolonial exploatering.",
+      "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
+    },
+    {
+      "id": "i3_ekonomiska_b10",
+      "avsnitt": "i3_ekonomiska",
+      "avsnitt_titel": "Ekonomiska faktorer",
+      "term": "Investera",
+      "expertdefinition": "Att satsa pengar eller resurser i något — till exempel en fabrik, maskiner eller råvaror — i hopp om att tjäna mer pengar i framtiden. Grunden för hur fabriker kunde byggas.",
+      "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
+    },
+    {
+      "id": "i3_ekonomiska_b11",
+      "avsnitt": "i3_ekonomiska",
+      "avsnitt_titel": "Ekonomiska faktorer",
+      "term": "Aktör",
+      "expertdefinition": "En person eller grupp som agerar och påverkar utvecklingen — till exempel en köpman, fabriksägare, bank eller stat. Aktörer fattar beslut som driver historien framåt.",
+      "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
     }
   ]
 }

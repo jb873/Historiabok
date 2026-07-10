@@ -374,6 +374,97 @@
           "not": "Källan hade detta som stegvis 3-fasövning — bevara gärna lås-upp-strukturen. Ingen nivå-2-fråga fanns."
         }
       ]
+    },
+    {
+      "id": "i3_ekonomiska",
+      "nummer": 3,
+      "titel": "Ekonomiska faktorer",
+      "fragor": [
+        {
+          "id": "i3_ekonomiska_g1",
+          "typ": "grund",
+          "fraga": "Varifrån kom kapitalet som användes för att starta fabrikerna i Storbritannien?",
+          "kravord": [
+            "handel/kolonier",
+            "triangelhandeln/slaveri",
+            "jordbruksvinster",
+            "banker/lån"
+          ]
+        },
+        {
+          "id": "i3_ekonomiska_g2",
+          "typ": "grund",
+          "fraga": "Vilka var de viktigaste råvarorna under industrialiseringen? Varför var de viktiga?",
+          "kravord": [
+            "ull",
+            "bomull",
+            "järn",
+            "kol",
+            "Storbritannien hade kol och järn"
+          ]
+        },
+        {
+          "id": "i3_ekonomiska_g3",
+          "typ": "grund",
+          "fraga": "Vilka var de viktiga marknaderna?",
+          "kravord": [
+            "hemmamarknad (växande befolkning)",
+            "kolonierna",
+            "städer"
+          ]
+        },
+        {
+          "id": "i3_ekonomiska_g4",
+          "typ": "grund",
+          "fraga": "Varför hade befolkningsmängden ökat?",
+          "kravord": [
+            "jordbruksrevolutionen",
+            "mer mat",
+            "färre barn dog"
+          ]
+        },
+        {
+          "id": "i3_ekonomiska_g5",
+          "typ": "grund",
+          "fraga": "Förklara merkantilism med egna ord.",
+          "kravord": [
+            "sälja mer än man köper",
+            "guld/silver in",
+            "staten styr",
+            "kolonier"
+          ]
+        },
+        {
+          "id": "i3_ekonomiska_g6",
+          "typ": "grund",
+          "fraga": "Vad ville stater uppnå — och vilken roll spelade kolonierna?",
+          "kravord": [
+            "billiga råvaror",
+            "garanterad marknad",
+            "skydda egen handel"
+          ]
+        },
+        {
+          "id": "i3_ekonomiska_r1",
+          "typ": "resonemang",
+          "fraga": "Resonera kring varför de ekonomiska faktorerna var viktiga för att den industriella revolutionen startade.",
+          "kravord": [
+            "kapital+råvaror+marknad samverkade",
+            "Storbritannien hade alla tre",
+            "utan dem ingen fabrik"
+          ]
+        },
+        {
+          "id": "i3_ekonomiska_r2",
+          "typ": "resonemang",
+          "fraga": "Resonera kring vilka konsekvenser användningen av stenkol fick och får för miljön.",
+          "kravord": [
+            "ångmaskiner/uppvärmning",
+            "koldioxid/luftföroreningar",
+            "klimatpåverkan än idag"
+          ]
+        }
+      ]
     }
   ]
 }

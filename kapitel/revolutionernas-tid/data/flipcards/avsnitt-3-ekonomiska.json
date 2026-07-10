@@ -1,0 +1,81 @@
+{
+  "avsnitt": "i3_ekonomiska",
+  "titel": "Ekonomiska faktorer",
+  "delkapitel": "industriella-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 10,
+  "begreppskort": [
+    {
+      "id": "i3_ekonomiska_k01",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med kapital?",
+      "svar": "Pengar och resurser som sätts i rörelse för att skapa produktion och vinst. Grunden i kapitalismen — investering → produktion → försäljning → ny investering."
+    },
+    {
+      "id": "i3_ekonomiska_k02",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med investera?",
+      "svar": "Att satsa pengar eller resurser i något — till exempel en fabrik, maskiner eller råvaror — i hopp om att tjäna mer pengar i framtiden. Grunden för hur fabriker kunde byggas."
+    },
+    {
+      "id": "i3_ekonomiska_k03",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med aktör?",
+      "svar": "En person eller grupp som agerar och påverkar utvecklingen — till exempel en köpman, fabriksägare, bank eller stat. Aktörer fattar beslut som driver historien framåt."
+    },
+    {
+      "id": "i3_ekonomiska_k04",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med råvaror?",
+      "svar": "Ej bearbetade material — ull, bomull, järn, kol. Industrin omvandlade råvaror till färdiga produkter. Kom ofta från kolonier."
+    },
+    {
+      "id": "i3_ekonomiska_k05",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med marknad?",
+      "svar": "Platser och system för köp och sälj. Utan marknad — ingen lönsam produktion. Kolonier och växande befolkning skapade marknaden industrin behövde."
+    },
+    {
+      "id": "i3_ekonomiska_k06",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med merkantilism?",
+      "svar": "Staten ska sälja mer än den köper — då strömmar guld in. Kolonier ger råvaror och köper varor. Idé som styrde handel ca 1500–1800."
+    },
+    {
+      "id": "i3_ekonomiska_k07",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med triangelhandel?",
+      "svar": "Handel mellan Europa, Afrika och Amerika. Europa → varor till Afrika. Afrika → slavar till Amerika. Amerika → råvaror till Europa. Slavhandeln var central — och finansierade delvis industrialiseringen."
+    },
+    {
+      "id": "i3_ekonomiska_k08",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med kapitalism?",
+      "svar": "System där privatpersoner äger kapital och investerar för vinst. Konkurrens och marknad styr produktionen. Kapitalismens logik drev industrialiseringen framåt."
+    },
+    {
+      "id": "i3_ekonomiska_k09",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med koloni?",
+      "svar": "Område som ett land kontrollerar utanför sina gränser. Kolonier gav råvaror och fungerade som marknader. Industrialiseringen byggde delvis på kolonial exploatering."
+    },
+    {
+      "id": "i3_ekonomiska_k10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med moralisk ekonomi?",
+      "svar": "Äldre ekonomiskt tänkande: ekonomin ska följa tradition, rättvisa och moral — inte bara vinst. Priser ska vara rättvisa. Bröd är inte vilken vara som helst. Skråväsendet var ett uttryck för moralisk ekonomi."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}
