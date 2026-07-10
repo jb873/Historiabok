@@ -1,0 +1,70 @@
+{
+  "delkapitel": "industriella-revolutionen",
+  "delkapitel_titel": "Industriella revolutionen",
+  "kapitel": "revolutionernas-tid",
+  "epok": "Epok IV — Revolutionernas tidevarv",
+  "undertitel": "Hur ångan, järnet och kapitalet omvandlade en hel civilisation",
+  "ar": "ca 1760–1850",
+  "ingress": "Det här delkapitlet handlar om en av historiens största förändringar — hur samhället gick från jordbrukssamhälle till industrisamhälle på bara ett par generationer. Sju teman: börja med Tema 1 och arbeta dig igenom i ordning. Varje tema har föreläsning, läsning och övningar.",
+  "avsnitt": [
+    {
+      "id": "i1_produktionen",
+      "nummer": 1,
+      "titel": "Produktionen",
+      "beskrivning": "Vad är industriella revolutionen? Från skrå och förlagssystem till manufaktur och fabrik.",
+      "ar": "ca 1500–1800",
+      "fil": "avsnitt-1-produktionen.html"
+    },
+    {
+      "id": "i2_jordbruket",
+      "nummer": 2,
+      "titel": "Jordbrukets förändring",
+      "beskrivning": "Skiftesreformer, växelbruk, avel och ny teknik — hur jordbruket möjliggjorde industrin.",
+      "ar": "1700-talet–",
+      "fil": "avsnitt-2-jordbruket.html",
+      "youtube_id": "y8HZpUWrBDE"
+    },
+    {
+      "id": "i3_ekonomiska",
+      "nummer": 3,
+      "titel": "Ekonomiska faktorer",
+      "beskrivning": "Kapital, råvaror och marknad — de tre ekonomiska förutsättningarna för industrialiseringen.",
+      "ar": "1700–1800-tal",
+      "fil": "avsnitt-3-ekonomiska-faktorer.html",
+      "youtube_id": "UJ3GyzeOUjM"
+    },
+    {
+      "id": "i4_tekniska",
+      "nummer": 4,
+      "titel": "Tekniska faktorer",
+      "beskrivning": "Spinning Jenny, stenkol, ångmaskin och järnväg — den tekniska kedjereaktionen.",
+      "ar": "ca 1760–1850",
+      "fil": "avsnitt-4-tekniska-faktorer.html",
+      "youtube_id": "AgtwPAb2BXg"
+    },
+    {
+      "id": "i5_arbetskraft",
+      "nummer": 5,
+      "titel": "Arbetskraft",
+      "beskrivning": "Varifrån kom arbetarna — och hur hade de det i fabrikerna? Barnarbete och de första lagarna.",
+      "ar": "1800-talet",
+      "fil": "avsnitt-5-arbetskraft.html"
+    },
+    {
+      "id": "i6_konsekvenser",
+      "nummer": 6,
+      "titel": "Konsekvenser",
+      "beskrivning": "Städer, klasser, miljö, arbetarrörelse — hur industrialiseringen förändrade hela samhället.",
+      "ar": "1800-talet",
+      "fil": "avsnitt-6-konsekvenser.html"
+    },
+    {
+      "id": "i7_sverige",
+      "nummer": 7,
+      "titel": "Sveriges industrialisering",
+      "beskrivning": "Folkskolan, järnvägen, emigrationen — Sverige från fattigt jordbruksland till modernt industriland.",
+      "ar": "1800–1900-tal",
+      "fil": "avsnitt-7-sverige.html"
+    }
+  ]
+}
