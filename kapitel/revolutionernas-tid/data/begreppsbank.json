@@ -1062,6 +1062,38 @@
       "term": "Järnväg",
       "expertdefinition": "Transportsystem med ånglok på järnräls. Byggdes ut massivt från 1830-talet. Band ihop gruvor, fabriker, städer och hamnar. Minskade transportkostnader drastiskt och möjliggjorde specialisering — en ort kunde producera kol, en annan järn, järnvägen band ihop dem till ett industriellt system.",
       "kallfil": "data/flipcards/avsnitt-4-tekniska.json"
+    },
+    {
+      "id": "i5_arbetskraft_b01",
+      "avsnitt": "i5_arbetskraft",
+      "avsnitt_titel": "Arbetskraft",
+      "term": "Skiftesreformer",
+      "expertdefinition": "Reformer som samlade böndernas utspridda åkrar till större sammanhängande mark. Resultatet var effektivare jordbruk — men också att småbönder och torpare inte längre behövdes. Många tvingades lämna landsbygden och söka arbete i städerna, där fabrikerna väntade.",
+      "kallfil": "data/flipcards/avsnitt-5-arbetskraft.json"
+    },
+    {
+      "id": "i5_arbetskraft_b02",
+      "avsnitt": "i5_arbetskraft",
+      "avsnitt_titel": "Arbetskraft",
+      "term": "Urbanisering",
+      "expertdefinition": "Processen när människor flyttar från landsbygd till städer. Under industrialiseringen skedde det i en takt och skala som världen aldrig sett. Fabrikerna behövde arbetskraft, och de fördrivna bönderna behövde lön. Det var en ömsesidig dragning som förändrade hela samhällets geografi.",
+      "kallfil": "data/flipcards/avsnitt-5-arbetskraft.json"
+    },
+    {
+      "id": "i5_arbetskraft_b03",
+      "avsnitt": "i5_arbetskraft",
+      "avsnitt_titel": "Arbetskraft",
+      "term": "Factory Act 1833",
+      "expertdefinition": "Brittisk lag som begränsade barnarbete i textilfabriker: under 9 år — förbjudet. 9–13 år — max 8–9 timmar per dag. Under 13 år — måste få undervisning varje dag. Lagen stoppade inte barnarbete direkt, men den var det första steget mot statlig reglering av arbetslivet.",
+      "kallfil": "data/flipcards/avsnitt-5-arbetskraft.json"
+    },
+    {
+      "id": "i5_arbetskraft_b04",
+      "avsnitt": "i5_arbetskraft",
+      "avsnitt_titel": "Arbetskraft",
+      "term": "Mines Act 1842",
+      "expertdefinition": "Brittisk lag om gruvarbete: förbjöd kvinnor och flickor att arbeta under jord, och pojkar under 10 år förbjöds under jord. Lagen kom till efter att en parlamentsutredning publicerade rapporter med intervjuer och teckningar av barn och kvinnor i extremt farliga förhållanden. Det blev ett genombrott för synen på statens ansvar för arbetares hälsa och säkerhet.",
+      "kallfil": "data/flipcards/avsnitt-5-arbetskraft.json"
     }
   ]
 }

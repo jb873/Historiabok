@@ -515,6 +515,58 @@
           ]
         }
       ]
+    },
+    {
+      "id": "i5_arbetskraft",
+      "nummer": 5,
+      "titel": "Arbetskraft",
+      "fragor": [
+        {
+          "id": "i5_arbetskraft_g1",
+          "typ": "grund",
+          "fraga": "Varifrån kom den arbetskraft som fabrikerna behövde? Förklara sambandet mellan jordbruk och industri.",
+          "kravord": [
+            "jordbruket effektiviserades→färre behövdes",
+            "befolkning ökade",
+            "urbanisering",
+            "fabriker behövde arbetare"
+          ]
+        },
+        {
+          "id": "i5_arbetskraft_g2",
+          "typ": "grund",
+          "fraga": "Varför arbetade barn i fabriker och gruvor? Förklara både ur fabriksägarens och ur familjens perspektiv.",
+          "kravord": [
+            "billigare än vuxna",
+            "små händer/trånga utrymmen",
+            "familjen behövde lönen",
+            "fattigdom"
+          ]
+        },
+        {
+          "id": "i5_arbetskraft_r1",
+          "typ": "resonemang",
+          "fraga": "Resonera kring skillnaderna mellan livet som jordbrukare och livet som arbetare.",
+          "kravord": [
+            "egen takt vs klockan",
+            "trygghet vs lön",
+            "gemenskap vs anonymitet",
+            "natur vs maskin"
+          ]
+        },
+        {
+          "id": "i5_arbetskraft_r2",
+          "typ": "resonemang",
+          "fraga": "Långa linjer — Från barnarbete 1833 till barnarbete 2024 — tre steg. (1) Factory Act 1833 begränsade barnarbete — men det försvann inte. Varför? Förklara varför fattiga familjer under industrialiseringen behövde barnens inkomst. (2) Barnarbete minskade i Europa under 1800-1900-talen. Vad krävdes för att det skulle hända? Tänk på lagar, folkrörelser, skola och ekonomisk utveckling. (3) 138 miljoner barn i barnarbete 2024. Orsaken är densamma som 1833: fattigdom. Vad säger det om vad som krävs för att lösa problemet idag?",
+          "kravord": [
+            "lagar räckte inte ensamma",
+            "krävdes skola, välstånd, kontroll",
+            "fattigdom kvarstår",
+            "global handel flyttar barnarbetet"
+          ],
+          "not": "Källan hade detta som stegvis 3-fasövning (barnarbete 1833→2024) — bevara lås-upp-strukturen."
+        }
+      ]
     }
   ]
 }

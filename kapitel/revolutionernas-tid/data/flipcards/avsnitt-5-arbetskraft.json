@@ -1,0 +1,25 @@
+{
+  "avsnitt": "i5_arbetskraft",
+  "titel": "Arbetskraft",
+  "delkapitel": "industriella-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 2,
+  "begreppskort": [
+    {
+      "id": "i5_arbetskraft_k01",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med skiftesreformer?",
+      "svar": "Reformer på 1700–1800-talet som samlade böndernas utspridda tegar till större, sammanhängande åkrar. Effektivare jordbruk gjorde att färre behövdes på landsbygden — en viktig orsak till att arbetskraft frigjordes till fabrikerna."
+    },
+    {
+      "id": "i5_arbetskraft_k02",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med urbanisering?",
+      "svar": "Att människor flyttar från landsbygden till städerna. När jordbruket behövde färre arbetare och fabrikerna behövde fler sökte sig många till industristäderna — där fanns arbetskraften som industrin krävde."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}
