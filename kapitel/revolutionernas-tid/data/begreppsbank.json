@@ -1094,6 +1094,86 @@
       "term": "Mines Act 1842",
       "expertdefinition": "Brittisk lag om gruvarbete: förbjöd kvinnor och flickor att arbeta under jord, och pojkar under 10 år förbjöds under jord. Lagen kom till efter att en parlamentsutredning publicerade rapporter med intervjuer och teckningar av barn och kvinnor i extremt farliga förhållanden. Det blev ett genombrott för synen på statens ansvar för arbetares hälsa och säkerhet.",
       "kallfil": "data/flipcards/avsnitt-5-arbetskraft.json"
+    },
+    {
+      "id": "i6_konsekvenser_b01",
+      "avsnitt": "i6_konsekvenser",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "Vaccin mot smittkoppor",
+      "expertdefinition": "Edward Jenner visade 1796 att infektion med det mildare kokoppsvirus skyddade mot smittkoppor. Det var en av historiens viktigaste medicinska genombrott — smittkoppor hade dödat miljoner, framför allt barn. Vaccinationen räddade liv i en skala som fick direkt effekt på befolkningstillväxten.",
+      "kallfil": "data/flipcards/avsnitt-6-konsekvenser.json"
+    },
+    {
+      "id": "i6_konsekvenser_b02",
+      "avsnitt": "i6_konsekvenser",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "Urbanisering",
+      "expertdefinition": "Rörelsen från landsbygd till stad. Under industrialiseringen skedde den snabbare och i större skala än någonsin tidigare. Manchester växte från en liten stad till en storstad på några decennier. Det skapade möjligheter — men också trångboddhet, ohälsa och sociala problem som samhället inte var förberett på.",
+      "kallfil": "data/flipcards/avsnitt-6-konsekvenser.json"
+    },
+    {
+      "id": "i6_konsekvenser_b03",
+      "avsnitt": "i6_konsekvenser",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "Medelklass (borgarklass)",
+      "expertdefinition": "Under industrialiseringen: fabriksägare, handelsmän, bankirer och investerare. De ägde kapital och tjänade på industrialiseringen. Skiljer sig från den gamla adeln (makt från jord och börd) och från arbetarklassen (säljer sin arbetskraft). Medelklassen drev kapitalismens expansion framåt.",
+      "kallfil": "data/flipcards/avsnitt-6-konsekvenser.json"
+    },
+    {
+      "id": "i6_konsekvenser_b04",
+      "avsnitt": "i6_konsekvenser",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "Arbetarklass",
+      "expertdefinition": "Människor som säljer sin arbetskraft mot lön och saknar ägande av produktionsmedel (fabriker, maskiner). Under industrialiseringen levde många i fattigdom med långa arbetsdagar och dåliga villkor. Ur deras kamp växte fackföreningsrörelsen och senare socialdemokratin fram.",
+      "kallfil": "data/flipcards/avsnitt-6-konsekvenser.json"
+    },
+    {
+      "id": "i6_konsekvenser_b05",
+      "avsnitt": "i6_konsekvenser",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "Fackförening",
+      "expertdefinition": "En organisation där arbetare inom samma yrke eller bransch går samman för att gemensamt förhandla med arbetsgivare om löner och villkor. Styrkan ligger i kollektivet — en enskild arbetare är utbytbar, men en strejkande grupp kan stoppa produktionen. Fackföreningar var länge förbjudna och bekämpades hårt av arbetsgivare och stat.",
+      "kallfil": "data/flipcards/avsnitt-6-konsekvenser.json"
+    },
+    {
+      "id": "i6_konsekvenser_b06",
+      "avsnitt": "i6_konsekvenser",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "Telegrafen",
+      "expertdefinition": "Uppfunnen på 1830–40-talen. Möjliggjorde snabb kommunikation över långa avstånd via elektriska signaler (Morsekoden). Revolutionerade handel, journalistik och militär kommunikation. Det var det första steget mot det informationssamhälle vi lever i idag.",
+      "kallfil": "data/flipcards/avsnitt-6-konsekvenser.json"
+    },
+    {
+      "id": "i6_konsekvenser_b07",
+      "avsnitt": "i6_konsekvenser",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "Överklass",
+      "expertdefinition": "Den rikaste gruppen i klassamhället — fabriksägare, bankirer, storgodsägare och investerare. De ägde kapital och tjänade på industrin.",
+      "kallfil": "data/flipcards/avsnitt-6-konsekvenser.json"
+    },
+    {
+      "id": "i6_konsekvenser_b08",
+      "avsnitt": "i6_konsekvenser",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "Kapital",
+      "expertdefinition": "Pengar och resurser som kan investeras för att skapa mer rikedom — i fabriker, maskiner och råvaror.",
+      "kallfil": "data/flipcards/avsnitt-6-konsekvenser.json"
+    },
+    {
+      "id": "i6_konsekvenser_b09",
+      "avsnitt": "i6_konsekvenser",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "Fossila bränslen",
+      "expertdefinition": "Bränslen som kol, olja och gas, bildade ur gamla växt- och djurrester. Kol drev ångmaskinerna — men förbränningen förorenade luften.",
+      "kallfil": "data/flipcards/avsnitt-6-konsekvenser.json"
+    },
+    {
+      "id": "i6_konsekvenser_b10",
+      "avsnitt": "i6_konsekvenser",
+      "avsnitt_titel": "Konsekvenser",
+      "term": "Smittkoppor",
+      "expertdefinition": "En mycket smittsam och dödlig sjukdom som härjade i Europa. När vaccin mot smittkoppor spreds sjönk dödligheten — särskilt bland barn.",
+      "kallfil": "data/flipcards/avsnitt-6-konsekvenser.json"
     }
   ]
 }

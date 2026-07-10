@@ -567,6 +567,76 @@
           "not": "Källan hade detta som stegvis 3-fasövning (barnarbete 1833→2024) — bevara lås-upp-strukturen."
         }
       ]
+    },
+    {
+      "id": "i6_konsekvenser",
+      "nummer": 6,
+      "titel": "Konsekvenser",
+      "fragor": [
+        {
+          "id": "i6_konsekvenser_g1",
+          "typ": "grund",
+          "fraga": "Redogör för varför befolkningen ökade och vilka konsekvenser det fick.",
+          "kravord": []
+        },
+        {
+          "id": "i6_konsekvenser_g2",
+          "typ": "grund",
+          "fraga": "Vilka grupper ingick i de olika klasserna i klassamhället?",
+          "kravord": []
+        },
+        {
+          "id": "i6_konsekvenser_g3",
+          "typ": "grund",
+          "fraga": "Vad kämpade arbetarrörelsen för? Vad lyckades de genomföra?",
+          "kravord": []
+        },
+        {
+          "id": "i6_konsekvenser_g4",
+          "typ": "grund",
+          "fraga": "Hur påverkades miljön av industrialiseringen? Vilka framtida konsekvenser skulle detta få?",
+          "kravord": []
+        },
+        {
+          "id": "i6_konsekvenser_g5",
+          "typ": "grund",
+          "fraga": "På vilket sätt förändrades levnadsstandarden för människor? Ange tydligt både negativa och positiva konsekvenser.",
+          "kravord": []
+        },
+        {
+          "id": "i6_konsekvenser_g6",
+          "typ": "grund",
+          "fraga": "Vad menas med urbanisering? Varför var städerna ofta ohälsosamma under industrialiseringen?",
+          "kravord": []
+        },
+        {
+          "id": "i6_konsekvenser_g7",
+          "typ": "grund",
+          "fraga": "Varför bildades fackföreningar — och vad kämpade de för?",
+          "kravord": []
+        },
+        {
+          "id": "i6_konsekvenser_r1",
+          "typ": "resonemang",
+          "fraga": "Industrialiseringen skapade klassamhället. Hur hänger äganderätten till fabriker ihop med klasskillnaderna?",
+          "kravord": [
+            "ägande av produktionsmedel",
+            "borgarklass äger, arbetarklass säljer arbete",
+            "olika livsvillkor"
+          ]
+        },
+        {
+          "id": "i6_konsekvenser_r2",
+          "typ": "resonemang",
+          "fraga": "Långa linjer — Från industrialiseringens problem till välfärdssamhället — tre steg. (1) Industrialiseringens problem — långa arbetsdagar, barnarbete, klasskillnader — ledde till en motreaktion. Förklara hur och varför arbetarrörelsen växte fram. (2) Arbetarrörelsen ledde till konkreta förändringar: kortare arbetstid, barnarbetslagar, rösträtt, utbildning. Förklara hur kamp underifrån kan förändra lagar och samhällssystem. (3) Industrialiseringens konsekvenser lever kvar: klimatförändringar, globala klasskillnader, barnarbete i fattiga länder. Vad kan vi lära oss av historien om hur samhällen hanterar stora omvälvningar?",
+          "kravord": [
+            "problem: fattigdom/ohälsa/ojämlikhet",
+            "organisering + reformer + lagar",
+            "modern välfärd: rösträtt, försäkring, arbetsrätt"
+          ],
+          "not": "Källan hade detta som stegvis 3-fasövning — bevara lås-upp-strukturen."
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,81 @@
+{
+  "avsnitt": "i6_konsekvenser",
+  "titel": "Konsekvenser",
+  "delkapitel": "industriella-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 10,
+  "begreppskort": [
+    {
+      "id": "i6_konsekvenser_k01",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med vaccin?",
+      "svar": "Ett medel som gör kroppen motståndskraftig mot en sjukdom. Vacciner mot bland annat smittkoppor minskade dödligheten kraftigt och bidrog till att befolkningen växte."
+    },
+    {
+      "id": "i6_konsekvenser_k02",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med smittkoppor?",
+      "svar": "En mycket smittsam och dödlig sjukdom som härjade i Europa. När vaccin mot smittkoppor spreds sjönk dödligheten — särskilt bland barn."
+    },
+    {
+      "id": "i6_konsekvenser_k03",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med urbanisering?",
+      "svar": "Att människor flyttar från landsbygden till städerna. Industristäderna växte snabbt när fabrikerna behövde arbetskraft."
+    },
+    {
+      "id": "i6_konsekvenser_k04",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med överklass?",
+      "svar": "Den rikaste gruppen i klassamhället — fabriksägare, bankirer, storgodsägare och investerare. De ägde kapital och tjänade på industrin."
+    },
+    {
+      "id": "i6_konsekvenser_k05",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med medelklass?",
+      "svar": "Gruppen mellan över- och arbetarklass — tjänstemän, handlare, läkare, lärare och mindre företagare. Ofta välutbildade."
+    },
+    {
+      "id": "i6_konsekvenser_k06",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med arbetarklass?",
+      "svar": "De som arbetade i fabriker och gruvor och sålde sin arbetskraft mot lön. Ägde varken fabriker eller maskiner."
+    },
+    {
+      "id": "i6_konsekvenser_k07",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med kapital?",
+      "svar": "Pengar och resurser som kan investeras för att skapa mer rikedom — i fabriker, maskiner och råvaror."
+    },
+    {
+      "id": "i6_konsekvenser_k08",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med fackförening?",
+      "svar": "En organisation där arbetare gick samman för att tillsammans kräva bättre löner, kortare arbetsdagar och säkrare arbetsmiljö."
+    },
+    {
+      "id": "i6_konsekvenser_k09",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med fossila bränslen?",
+      "svar": "Bränslen som kol, olja och gas, bildade ur gamla växt- och djurrester. Kol drev ångmaskinerna — men förbränningen förorenade luften."
+    },
+    {
+      "id": "i6_konsekvenser_k10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med telegrafen?",
+      "svar": "En uppfinning som gjorde det möjligt att skicka meddelanden snabbt över långa avstånd. Knöt samman städer, länder och världsdelar."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}
