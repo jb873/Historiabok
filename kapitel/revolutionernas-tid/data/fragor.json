@@ -188,6 +188,115 @@
           "fraga": "Varför gjorde aristokraterna revolt?"
         }
       ]
+    },
+    {
+      "id": "i1_produktionen",
+      "nummer": 1,
+      "titel": "Produktionen",
+      "fragor": [
+        {
+          "id": "i1_produktionen_g1",
+          "typ": "grund",
+          "fraga": "Redogör för skråväsendets uppbyggnad.",
+          "kravord": [
+            "skrå",
+            "hantverkare inom samma yrke",
+            "lärling",
+            "gesäll",
+            "mästare",
+            "kvalitet",
+            "regler"
+          ]
+        },
+        {
+          "id": "i1_produktionen_g2",
+          "typ": "grund",
+          "fraga": "Vad krävdes för att byta roll, från lärling till gesäll och från gesäll till mästare?",
+          "kravord": [
+            "tid som lärling",
+            "gesällprov",
+            "mästarprov",
+            "skicklighet",
+            "ledig plats",
+            "kostnader"
+          ]
+        },
+        {
+          "id": "i1_produktionen_g3",
+          "typ": "grund",
+          "fraga": "Redogör för förlagssystemets uppbyggnad.",
+          "kravord": [
+            "förläggare",
+            "köpman",
+            "äger råvaran",
+            "lämnar ut",
+            "landsbygden",
+            "hämtar och säljer"
+          ]
+        },
+        {
+          "id": "i1_produktionen_g4",
+          "typ": "grund",
+          "fraga": "Varför utvecklades förlagssystemet?",
+          "kravord": [
+            "ökad handel",
+            "större efterfrågan",
+            "skråna räckte inte",
+            "mer volym"
+          ]
+        },
+        {
+          "id": "i1_produktionen_g5",
+          "typ": "grund",
+          "fraga": "Redogör för manufakturens uppbyggnad.",
+          "kravord": [
+            "samlad arbetsplats",
+            "arbetsdelning",
+            "handarbete",
+            "mer organiserat",
+            "inga maskiner"
+          ]
+        },
+        {
+          "id": "i1_produktionen_g6",
+          "typ": "grund",
+          "fraga": "Varför utvecklades manufaktur?",
+          "kravord": [
+            "kontroll",
+            "utspritt hemarbete svårt att styra",
+            "samlade arbetet",
+            "effektivitet"
+          ]
+        },
+        {
+          "id": "i1_produktionen_r1",
+          "typ": "resonemang",
+          "fraga": "Varför räckte skråväsendet inte längre när handeln ökade? Vad var det i skråsystemets uppbyggnad som blev ett problem?",
+          "kravord": [
+            "skråets slutenhet",
+            "begränsad produktion",
+            "marknaden krävde mer",
+            "kontroll vs tillväxt"
+          ]
+        },
+        {
+          "id": "i1_produktionen_r2",
+          "typ": "resonemang",
+          "fraga": "Långa linjer — Skrå → Förlag → Manufaktur → Fabrik — förklara hela kedjan. Bygg kedjan i tre steg: (1) Från skråväsende till förlagssystem — hur fungerade skrået och varför växte förlaget fram? (2) Från förlagssystem till manufaktur — varför räckte inte förlaget, och vad löste manufakturen? (3) Från manufaktur till fabrik — varför krävdes maskiner och ångkraft, och vad förändrades för arbetarna?",
+          "kravord": [
+            "moralisk ekonomi",
+            "lärling-gesäll-mästare",
+            "förläggaren äger råvaran",
+            "kontrollproblem",
+            "arbetsdelning",
+            "handarbetets gräns",
+            "maskiner + ångkraft",
+            "fabriksägaren äger allt",
+            "ny logik: varje steg föder nästa"
+          ],
+          "not": "Källan hade detta som stegvis 3-fasövning (lås upp fas för fas) — bevara gärna den strukturen i UI."
+        }
+      ]
     }
   ]
 }

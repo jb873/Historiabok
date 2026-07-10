@@ -710,6 +710,102 @@
       "term": "konstitutionell monarki",
       "expertdefinition": "En statsform där kungen finns kvar — men hans makt begränsas av en konstitution. Han måste dela makten med en folkvald församling. Motsatsen till envälde.",
       "kallfil": "data/flipcards/avsnitt-4-konstitutionen.json"
+    },
+    {
+      "id": "i1_produktionen_b01",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Skrå",
+      "expertdefinition": "En organisation för hantverkare inom samma yrke i en stad — skomakarskrå, smedsskrå, skrädderskrå. Skrået bestämde vem som fick utöva yrket och hur utbildningen skulle gå till. Vägen gick från lärling till gesäll till mästare. Skråna säkerställde kvalitet men bromade förändring — det passade ett lokalt, långsamt samhälle. När handeln ökade och efterfrågan växte räckte skråsystemet inte till.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i1_produktionen_b02",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Hantverkare",
+      "expertdefinition": "En person som tillverkar saker för hand och är skicklig inom ett särskilt yrke — smed, skomakare, skräddare, vävare eller snickare. Hantverkaren behärskade hela arbetsprocessen, från råvara till färdig vara. Det är en avgörande skillnad mot fabriksarbetaren som bara utför ett moment i en lång kedja.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i1_produktionen_b03",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Lärling",
+      "expertdefinition": "Den lägsta nivån i skråsystemet. En pojke (sällan en flicka) placerades hos en mästare och lärde sig yrket under flera år, ofta utan lön — mot kost och logi. Sedan gesäll, sedan mästare. Det var ett strukturerat utbildningssystem, men stängt och svårt att ta sig in i om man inte hade rätt kontakter.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i1_produktionen_b04",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Gesäll",
+      "expertdefinition": "Den mellersta nivån i skråsystemet — en utlärd hantverkare som ännu inte hade rätt att öppna en egen verkstad. Gesäller vandrade ofta mellan städer och mästare för att lära sig mer. Många blev aldrig mästare — brist på pengar, kontakter eller en ledig plats i skrået hindrade dem.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i1_produktionen_b05",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Mästare",
+      "expertdefinition": "Den högsta nivån i skrået — en fullärd hantverkare med egen verkstad. Fick ta emot lärlingar, anställa gesäller och var med och bestämde skråets regler. Krävde mästarprov och ofta en ledig plats i skrået.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i1_produktionen_b06",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Moralisk ekonomi",
+      "expertdefinition": "Ekonomi styrd av tradition, moral och rättvisa — inte bara av vinst. Priser ska vara rimliga, mat ska finnas till alla. Skråväsendet var ett uttryck för detta. Ersattes av kapitalismens logik.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i1_produktionen_b07",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Förlagssystem",
+      "expertdefinition": "Ett produktionssystem där en köpman (förläggaren) ägde råvaran och lämnade ut den till familjer på landsbygden. De spann eller vävde hemma och fick betalt per producerad enhet. Köpmannen samlade in den färdiga varan och sålde den vidare. Smart men svårt att kontrollera — olika kvalitet, ojämn takt. Räckte inte när efterfrågan växte ännu mer.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i1_produktionen_b08",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Förläggare",
+      "expertdefinition": "Den person som organiserade förlagssystemet. Han ägde råvaran (till exempel ull), lämnade ut den till hushåll på landsbygden och betalade dem för det färdiga arbetet. Sedan sålde han varan vidare på marknaden. Förläggaren tog risken och kontrollen — men fick också vinsten. Det är ett tidigt steg mot det kapitalägande som sedan präglade fabrikssystemet.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i1_produktionen_b09",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Manufaktur",
+      "expertdefinition": "En större arbetsplats där flera arbetare samlades för att tillverka varor tillsammans. Arbetet kunde delas upp — olika personer gjorde olika delar av produktionen, en tidig form av arbetsdelning. Men en manufaktur var inte en fabrik: arbetet skedde fortfarande med händerna och enkla verktyg, inte med stora maskiner drivna av ångkraft.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i1_produktionen_b10",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Arbetsdelning",
+      "expertdefinition": "Att dela upp produktionen i olika moment, där varje person gör ett moment om och om igen. Effektivare än att en person gör hela varan — men mer enformigt. Adams Smiths berömda nålexempel.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i1_produktionen_b11",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Fabrik",
+      "expertdefinition": "En större arbetsplats där arbetare, maskiner och råvaror samlas på samma plats. Varor tillverkas i större mängder än tidigare. Arbetarna äger oftast inte maskinerna eller byggnaden, utan arbetar mot lön för en fabriksägare. Fabriken är vad som skiljer industrisamhället från alla tidigare samhällsformer.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i1_produktionen_b12",
+      "avsnitt": "i1_produktionen",
+      "avsnitt_titel": "Produktionen",
+      "term": "Stegring",
+      "expertdefinition": "Att varje steg i kedjan skapar behovet av nästa steg. Skråväsendet räckte till ett lokalt samhälle. Ökad handel krävde förlagssystemet. Ökad efterfrågan krävde manufakturer. Ökad marknad krävde fabriker. Det är inte en slump — det är en logik. Och samma logik driver förändring idag: ny teknik skapar nya behov som skapar ny teknik.",
+      "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
     }
   ]
 }

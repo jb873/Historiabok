@@ -1,0 +1,74 @@
+{
+  "avsnitt": "i1_produktionen",
+  "titel": "Produktionen",
+  "delkapitel": "industriella-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 9,
+  "begreppskort": [
+    {
+      "id": "i1_produktionen_k01",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med skrå?",
+      "svar": "Organisation för hantverkare inom samma yrke. Bestämde vem som fick arbeta, hur utbildningen gick till och vilken kvalitet som krävdes. Säkrade ordning men bromade förändring."
+    },
+    {
+      "id": "i1_produktionen_k02",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med lärling?",
+      "svar": "Den lägsta nivån — en ung person som lärde sig ett yrke hos en mästare. Ofta utan lön, mot kost och logi. Första steget mot att bli gesäll och sedan mästare."
+    },
+    {
+      "id": "i1_produktionen_k03",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med gesäll?",
+      "svar": "Den mellersta nivån — utlärd hantverkare men ännu inte mästare. Kunde arbeta hos olika mästare för att lära mer. Många nådde aldrig mästarnivån."
+    },
+    {
+      "id": "i1_produktionen_k04",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med mästare?",
+      "svar": "Den högsta nivån i skrået — en fullärd hantverkare med egen verkstad. Fick ta emot lärlingar, anställa gesäller och var med och bestämde skråets regler. Krävde mästarprov och ofta en ledig plats i skrået."
+    },
+    {
+      "id": "i1_produktionen_k05",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med moralisk ekonomi?",
+      "svar": "Ekonomi styrd av tradition, moral och rättvisa — inte bara av vinst. Priser ska vara rimliga, mat ska finnas till alla. Skråväsendet var ett uttryck för detta. Ersattes av kapitalismens logik."
+    },
+    {
+      "id": "i1_produktionen_k06",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med förlagssystem?",
+      "svar": "Köpmannen (förläggaren) äger råvaran och lämnar ut den till bönder som arbetar hemma. Köpmannen samlar in och säljer varan. Mer volym än hantverk — svårare att kontrollera."
+    },
+    {
+      "id": "i1_produktionen_k07",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med förläggare?",
+      "svar": "Köpmannen i förlagssystemet. Ägde råvaran, lämnade ut den till bönder som arbetade hemma, och samlade sedan in och sålde den färdiga varan. Tjänade på skillnaden mellan kostnad och försäljningspris."
+    },
+    {
+      "id": "i1_produktionen_k08",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med manufaktur?",
+      "svar": "Samlad arbetsplats med arbetsdelning — men fortfarande handarbete. Mer organiserat än förlagssystemet, men inte en fabrik. Steget precis innan maskinerna kom."
+    },
+    {
+      "id": "i1_produktionen_k09",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med arbetsdelning?",
+      "svar": "Att dela upp produktionen i olika moment, där varje person gör ett moment om och om igen. Effektivare än att en person gör hela varan — men mer enformigt. Adams Smiths berömda nålexempel."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}
