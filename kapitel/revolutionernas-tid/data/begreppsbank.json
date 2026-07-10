@@ -990,6 +990,78 @@
       "term": "Aktör",
       "expertdefinition": "En person eller grupp som agerar och påverkar utvecklingen — till exempel en köpman, fabriksägare, bank eller stat. Aktörer fattar beslut som driver historien framåt.",
       "kallfil": "data/flipcards/avsnitt-3-ekonomiska.json"
+    },
+    {
+      "id": "i4_tekniska_b01",
+      "avsnitt": "i4_tekniska",
+      "avsnitt_titel": "Tekniska faktorer",
+      "term": "Fabrik",
+      "expertdefinition": "En stor arbetsplats där arbetare, maskiner och råvaror samlades på samma plats för att tillverka varor i stor mängd. Fabriksägaren ägde byggnaden och maskinerna — arbetarna sålde sin arbetskraft mot lön. Fabriken är symbolen för hela industrialiseringen: utan fabriker, inga maskiner i stor skala.",
+      "kallfil": "data/flipcards/avsnitt-4-tekniska.json"
+    },
+    {
+      "id": "i4_tekniska_b02",
+      "avsnitt": "i4_tekniska",
+      "avsnitt_titel": "Tekniska faktorer",
+      "term": "Textilindustrin",
+      "expertdefinition": "Tillverkningen av garn, tyg och kläder. Det var den första industribranschen som mekaniserades — och den som tydligast visar hur en uppfinning skapar behovet av nästa uppfinning. Textilindustrin är industrialiseringens startpunkt.",
+      "kallfil": "data/flipcards/avsnitt-4-tekniska.json"
+    },
+    {
+      "id": "i4_tekniska_b03",
+      "avsnitt": "i4_tekniska",
+      "avsnitt_titel": "Tekniska faktorer",
+      "term": "Spinning Jenny",
+      "expertdefinition": "Uppfunnen av James Hargreaves 1764. En spinnmaskin som lät en person spinna upp till 16 trådar samtidigt — istället för en. Det löste den garnbrist som den flygande skytteln (1733) skapat, men skapade ett nytt problem: garnet var svagt och maskinen drevs för hand. Det ledde till Water frame.",
+      "kallfil": "data/flipcards/avsnitt-4-tekniska.json"
+    },
+    {
+      "id": "i4_tekniska_b04",
+      "avsnitt": "i4_tekniska",
+      "avsnitt_titel": "Tekniska faktorer",
+      "term": "Vattenkraft",
+      "expertdefinition": "Energi från rinnande vatten som driver ett vattenhjul. Var viktig i den tidiga industrialiseringen men hade en avgörande begränsning: fabriker måste ligga nära vattendrag, och kraften minskade under torra perioder. Ångmaskinen löste detta problem.",
+      "kallfil": "data/flipcards/avsnitt-4-tekniska.json"
+    },
+    {
+      "id": "i4_tekniska_b05",
+      "avsnitt": "i4_tekniska",
+      "avsnitt_titel": "Tekniska faktorer",
+      "term": "Stenkol",
+      "expertdefinition": "Ett fossilt bränsle som bildats av växtmaterial under miljontals år. Innehåller lagrad energi. När det eldas frigörs enorm värme som kan driva ångmaskiner. Stenkol blev industrialiseringens viktigaste energikälla — det drev fabriker, gruvor, tåg och ångbåtar. Fossila bränslen är kol, olja och gas — vi bär fortfarande konsekvenserna av deras användning.",
+      "kallfil": "data/flipcards/avsnitt-4-tekniska.json"
+    },
+    {
+      "id": "i4_tekniska_b06",
+      "avsnitt": "i4_tekniska",
+      "avsnitt_titel": "Tekniska faktorer",
+      "term": "Ångmaskin",
+      "expertdefinition": "En maskin som omvandlar värme till rörelse. Stenkol eldas → vatten kokar → ånga skapas → ångans tryck driver en kolv → kolven skapar rörelse som driver maskiner. James Watt förbättrade den under 1760–80-talen och gjorde den effektiv nog för fabriker, gruvor, tåg och båtar.",
+      "kallfil": "data/flipcards/avsnitt-4-tekniska.json"
+    },
+    {
+      "id": "i4_tekniska_b07",
+      "avsnitt": "i4_tekniska",
+      "avsnitt_titel": "Tekniska faktorer",
+      "term": "James Watt (1736–1819)",
+      "expertdefinition": "Skotsk ingenjör. Han uppfann inte ångmaskinen, men hans förbättringar under 1760–80-talen var avgörande: maskinen blev mer bränsleeffektiv och anpassades för roterande rörelse, vilket gjorde den användbar för att driva hjul och maskiner i fabriker. Utan Watts förbättringar — ingen industrialisering i den takt som skedde.",
+      "kallfil": "data/flipcards/avsnitt-4-tekniska.json"
+    },
+    {
+      "id": "i4_tekniska_b08",
+      "avsnitt": "i4_tekniska",
+      "avsnitt_titel": "Tekniska faktorer",
+      "term": "Kanaler",
+      "expertdefinition": "Konstgjorda vattenvägar grävda för att transportera tunga varor billigt. En häst kunde dra 50 ton på en kanal men bara 2–3 ton på en väg. Under den tidiga industrialiseringen var kanaler avgörande för att frakta kol, järn och råvaror — innan järnvägen tog över.",
+      "kallfil": "data/flipcards/avsnitt-4-tekniska.json"
+    },
+    {
+      "id": "i4_tekniska_b09",
+      "avsnitt": "i4_tekniska",
+      "avsnitt_titel": "Tekniska faktorer",
+      "term": "Järnväg",
+      "expertdefinition": "Transportsystem med ånglok på järnräls. Byggdes ut massivt från 1830-talet. Band ihop gruvor, fabriker, städer och hamnar. Minskade transportkostnader drastiskt och möjliggjorde specialisering — en ort kunde producera kol, en annan järn, järnvägen band ihop dem till ett industriellt system.",
+      "kallfil": "data/flipcards/avsnitt-4-tekniska.json"
     }
   ]
 }

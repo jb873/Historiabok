@@ -465,6 +465,56 @@
           ]
         }
       ]
+    },
+    {
+      "id": "i4_tekniska",
+      "nummer": 4,
+      "titel": "Tekniska faktorer",
+      "fragor": [
+        {
+          "id": "i4_tekniska_g1",
+          "typ": "grund",
+          "fraga": "Redogör för den tekniska utvecklingen av spinnmaskin och vävmaskin.",
+          "kravord": [
+            "Spinning Jenny",
+            "spinna flera trådar",
+            "Cartwrights vävstol",
+            "hand→maskin"
+          ]
+        },
+        {
+          "id": "i4_tekniska_g2",
+          "typ": "grund",
+          "fraga": "Redogör för ångmaskinen, vad är det som har utvecklats?",
+          "kravord": [
+            "elda bränsle→ånga",
+            "kraft driver maskiner",
+            "James Watt förbättrade",
+            "effektivare"
+          ]
+        },
+        {
+          "id": "i4_tekniska_g3",
+          "typ": "grund",
+          "fraga": "Redogör för vilken betydelse ångmaskinen fick för utvecklingen av nya maskiner.",
+          "kravord": [
+            "fabriker oberoende av vattenkraft",
+            "kunde byggas var som helst",
+            "drev även transporter"
+          ]
+        },
+        {
+          "id": "i4_tekniska_r1",
+          "typ": "resonemang",
+          "fraga": "Resonera kring varför ångmaskinen var viktig för tillverkningen.",
+          "kravord": [
+            "jämn kraft oberoende av vatten",
+            "fabriker kunde flyttas till städer",
+            "massproduktion",
+            "drev även lok och båtar"
+          ]
+        }
+      ]
     }
   ]
 }

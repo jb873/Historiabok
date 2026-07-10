@@ -1,0 +1,74 @@
+{
+  "avsnitt": "i4_tekniska",
+  "titel": "Tekniska faktorer",
+  "delkapitel": "industriella-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 9,
+  "begreppskort": [
+    {
+      "id": "i4_tekniska_k01",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med spinning jenny?",
+      "svar": "Spinnmaskin som lät en person spinna upp till 16 trådar samtidigt. Startskottet för textilindustrins mekanisering."
+    },
+    {
+      "id": "i4_tekniska_k02",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med textilindustri?",
+      "svar": "Den industri som tillverkar tyg, garn och kläder. Var först ut att mekaniseras under industriella revolutionen — spinnmaskiner och vävstolar samlades i fabriker och drevs av vatten- eller ångkraft."
+    },
+    {
+      "id": "i4_tekniska_k03",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med ångmaskin?",
+      "svar": "Omvandlar värme från kol till rörelse. Drev fabriker, gruvor, tåg och båtar. James Watt förbättrade den och gjorde den industriellt användbar."
+    },
+    {
+      "id": "i4_tekniska_k04",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med stenkol?",
+      "svar": "Fossilt bränsle som drev ångmaskiner och fabriker. Gav stabil energi var som helst — till skillnad från vattenkraft som krävde vattendrag."
+    },
+    {
+      "id": "i4_tekniska_k05",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med järnväg?",
+      "svar": "Ånglok på järnräls. Band ihop gruvor, fabriker och marknader. Möjliggjorde specialisering och storskalig handel."
+    },
+    {
+      "id": "i4_tekniska_k06",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med vattenkraft?",
+      "svar": "Kraft från rinnande vatten. Viktig i tidig industrialisering men begränsad — fabriker måste ligga vid vattendrag. Ersattes av ångkraft."
+    },
+    {
+      "id": "i4_tekniska_k07",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med fabrik?",
+      "svar": "Stor arbetsplats med maskiner, råvaror och arbetare på samma plats. Fabriksägaren ägde allt — arbetarna sålde sin tid mot lön."
+    },
+    {
+      "id": "i4_tekniska_k08",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med kanal?",
+      "svar": "Konstgjord vattenväg för tung godstransport. En häst drog 50 ton på vatten men bara 2–3 ton på väg. Viktig innan järnvägen."
+    },
+    {
+      "id": "i4_tekniska_k09",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med james watt?",
+      "svar": "Skotsk ingenjör som förbättrade ångmaskinen på 1700-talet. Uppfann inte den, men hans förbättringar gav den industriell kraft."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}
