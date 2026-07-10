@@ -1,0 +1,60 @@
+{
+  "avsnitt": "i2_jordbruket",
+  "titel": "Jordbrukets förändring",
+  "delkapitel": "industriella-revolutionen",
+  "version": "1.0",
+  "kort_totalt": 7,
+  "begreppskort": [
+    {
+      "id": "i2_jordbruket_k01",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med teg?",
+      "svar": "Smal jordremsa i det gamla bylandskapet. En bonde ägde många utspridda tegar istället för en sammanhängande åker. Gjorde jordbruket ineffektivt."
+    },
+    {
+      "id": "i2_jordbruket_k02",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med skiftesreformer?",
+      "svar": "Reformer som samlade böndernas tegar till större åkrar. I Sverige: storskifte, enskifte, laga skifte. Ökade effektiviteten men drev många småbönder till städerna."
+    },
+    {
+      "id": "i2_jordbruket_k03",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med växelbruk?",
+      "svar": "Att odla olika grödor på samma mark år efter år. Marken behöver inte trädas — och utarmas inte. Ökade skördarna kraftigt."
+    },
+    {
+      "id": "i2_jordbruket_k04",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med avel?",
+      "svar": "Att medvetet välja ut djur med bra egenskaper för att få bättre avkomma — kor som ger mer mjölk, får med finare ull, större köttdjur. Gjorde jordbruket mer planerat och vetenskapligt."
+    },
+    {
+      "id": "i2_jordbruket_k05",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med träda?",
+      "svar": "Mark som lämnas obrukad ett år för att återfå näring. I tvåsäde vilade halva marken — i tresäde en tredjedel. Växelbruket ersatte behovet av träda."
+    },
+    {
+      "id": "i2_jordbruket_k06",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med urbanisering?",
+      "svar": "Rörelsen från landsbygd till stad. Under industrialiseringen drevs folk från landsbygden (skiftesreformer) och drogs till städerna (fabriksarbete). Städerna växte explosivt."
+    },
+    {
+      "id": "i2_jordbruket_k07",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menas med jordbruksrevolution?",
+      "svar": "Den samlade omvandlingen av jordbruket under 1700–1800-talen: skiftesreformer, växelbruk, avel, ny teknik. Förutsättningen för industrialiseringen — utan mer mat, ingen befolkningsökning; utan befolkningsökning, ingen fabriksarbetskraft."
+    }
+  ],
+  "modellkort": [],
+  "redogorelsekort": []
+}

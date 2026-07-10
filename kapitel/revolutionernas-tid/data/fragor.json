@@ -297,6 +297,83 @@
           "not": "Källan hade detta som stegvis 3-fasövning (lås upp fas för fas) — bevara gärna den strukturen i UI."
         }
       ]
+    },
+    {
+      "id": "i2_jordbruket",
+      "nummer": 2,
+      "titel": "Jordbrukets förändring",
+      "fragor": [
+        {
+          "id": "i2_jordbruket_g1",
+          "typ": "grund",
+          "fraga": "Vad var problemet med det gamla jordbruket med tegar? Varför var det ineffektivt?",
+          "kravord": [
+            "utspridda tegar",
+            "tidsödande",
+            "beroende av byn",
+            "träda",
+            "små skördar"
+          ]
+        },
+        {
+          "id": "i2_jordbruket_g2",
+          "typ": "grund",
+          "fraga": "Redogör för utveckling från treskifte till växelbruk, vilka fördelar innebar förändringarna?",
+          "kravord": [
+            "tresäde/träda",
+            "växelbruk",
+            "olika grödor",
+            "klöver ger näring",
+            "potatis",
+            "större skördar"
+          ]
+        },
+        {
+          "id": "i2_jordbruket_g3",
+          "typ": "grund",
+          "fraga": "Redogör för hur avel fungerade och vad det ledde till.",
+          "kravord": [
+            "medvetet urval",
+            "bra egenskaper",
+            "mer mjölk/kött/ull",
+            "Bakewell",
+            "vetenskapligt"
+          ]
+        },
+        {
+          "id": "i2_jordbruket_g4",
+          "typ": "grund",
+          "fraga": "Redogör för den tekniska utvecklingen, vilka fördelar innebar förändringarna?",
+          "kravord": [
+            "järnplog djupare",
+            "såmaskin jämnt",
+            "tröskverk",
+            "mer mat med färre händer"
+          ]
+        },
+        {
+          "id": "i2_jordbruket_g5",
+          "typ": "grund",
+          "fraga": "Vad ledde jordbrukets förändring till för samhället i stort? Få med tre konsekvenser.",
+          "kravord": [
+            "mer mat → befolkning ökade",
+            "färre på åkern → urbanisering",
+            "vinster → kapital till fabriker"
+          ]
+        },
+        {
+          "id": "i2_jordbruket_r1",
+          "typ": "resonemang",
+          "fraga": "Långa linjer — Jordbruk, industri och idag — bygg svaret i tre steg. (1) I det gamla jordbrukssamhället var arbete, familj och gemenskap nära kopplade. Hur förändrades detta när folk tvingades lämna landsbygden och flytta till fabriksstäder? (2) Jordbruksrevolutionen skedde också i flodkulturerna (Mesopotamien, Egypten) och under högmedeltiden. Vad är gemensamt med det som hände på 1700-1800-talen? (3) Dagens jordbruk är enormt effektivt — en bonde kan föda hundratals människor. Vad har hänt med andelen som arbetar inom jordbruket? Ser du samma mönster som på 1700-talet?",
+          "kravord": [
+            "arbete-familj-gemenskap bröts upp",
+            "återkommande mönster: färre försörjer fler",
+            "urbanisering då och nu",
+            "idag få bönder föder många"
+          ],
+          "not": "Källan hade detta som stegvis 3-fasövning — bevara gärna lås-upp-strukturen. Ingen nivå-2-fråga fanns."
+        }
+      ]
     }
   ]
 }

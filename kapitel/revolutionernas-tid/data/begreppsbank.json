@@ -806,6 +806,102 @@
       "term": "Stegring",
       "expertdefinition": "Att varje steg i kedjan skapar behovet av nästa steg. Skråväsendet räckte till ett lokalt samhälle. Ökad handel krävde förlagssystemet. Ökad efterfrågan krävde manufakturer. Ökad marknad krävde fabriker. Det är inte en slump — det är en logik. Och samma logik driver förändring idag: ny teknik skapar nya behov som skapar ny teknik.",
       "kallfil": "data/flipcards/avsnitt-1-produktionen.json"
+    },
+    {
+      "id": "i2_jordbruket_b01",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Jordbrukssamhälle",
+      "expertdefinition": "Ett samhälle där de flesta människor lever och arbetar av jordbruk. Arbetet följde årstiderna, skördarna avgjorde om det blev mat eller svält. Det var normen i Europa i tusentals år — fram till industrialiseringen förändrade det på ett par generationer.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i2_jordbruket_b02",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Teg",
+      "expertdefinition": "En smal jordremsa som en bonde brukade, utspridd på olika platser runt byn. En bonde kunde äga dussintals tegar på olika håll i byn istället för en sammanhängande åker. Det gjorde jordbruket ineffektivt — bonden spenderade mycket tid på att förflytta sig mellan sina tegar.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i2_jordbruket_b03",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Träda",
+      "expertdefinition": "Mark som lämnas obrukad ett år för att återfå näring. I tvåsäde vilade halva åkern varje år, i tresäde en tredjedel. Det innebar att stor del av jordbruksmarken inte producerade mat — ett stort slöseri som växelbruket senare löste.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i2_jordbruket_b04",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Skiftesreformer",
+      "expertdefinition": "Reformer som samlade böndernas utspridda tegar till större sammanhängande åkrar. I Sverige: storskiftet, enskiftet och laga skiftet. I Storbritannien: enclosure acts. Resultatet var effektivare jordbruk — men också att många småbönder förlorade sin försörjning och tvingades söka arbete i städerna.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i2_jordbruket_b05",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Enclosure acts",
+      "expertdefinition": "Brittiska lagar som stängde in gemensamma marker och samlade dem till större privata jordbruk. Fattiga bönder som tidigare haft rätt att låta djur beta på gemensamma marker förlorade denna möjlighet. Många tvingades till städerna — och in i fabrikerna. Enclosure acts bidrog direkt till den arbetskraft industrin behövde.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i2_jordbruket_b06",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Växelbruk",
+      "expertdefinition": "Att odla olika grödor på samma mark år efter år. Olika grödor påverkar jordens näring på olika sätt — klöver tillför kväve, spannmål tar näring. Genom att variera undviker man att jordens näring tar slut. Marken kan användas hela tiden utan att trädas.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i2_jordbruket_b07",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Potatis",
+      "expertdefinition": "Ursprungligen från Sydamerika. Spred sig i Europa under 1700-talet. Gav stora skördar på liten yta, innehöll mycket näring, klarade kallare klimat och sämre jordar. För fattiga människor var potatisen bokstavligen skillnaden mellan svält och överlevnad — och ett av skälen till att Europas befolkning kunde öka snabbt.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i2_jordbruket_b08",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Avel",
+      "expertdefinition": "Medvetet urval av djur med bra egenskaper för att föra dem vidare till nästa generation. Under 1700-talet blev avel allt mer vetenskaplig. Robert Bakewell i Storbritannien var känd för sina metoder. Aveln visar hur upplysningens tro på vetenskap och förnuft påverkade jordbruket — inte bara filosofin.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i2_jordbruket_b09",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Upplysningen",
+      "expertdefinition": "En intellektuell rörelse på 1600–1700-talen som betonade förnuft, vetenskap och framsteg. Upplysningens tänkare menade att människan genom kunskap kunde förbättra naturen och samhället. Det påverkade inte bara filosofi och politik — utan också jordbruk, medicin och teknik.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i2_jordbruket_b10",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Järnplog",
+      "expertdefinition": "Ersatte den gamla träplogen. Kunde plöja djupare och vända jord bättre, vilket förde upp näring till ytan och begravde ogräs. Fungerade i hård och tung jord där träplogar bromsade. En enkel men avgörande förbättring som ökade skördarna märkbart.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i2_jordbruket_b11",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Såmaskin",
+      "expertdefinition": "Placerade frön jämnt och på rätt djup i raka rader — istället för att kastas för hand. Minskade slöseri med utsäde och gav bättre groningsförhållanden. Fler frön grodde, skördarna ökade.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
+    },
+    {
+      "id": "i2_jordbruket_b12",
+      "avsnitt": "i2_jordbruket",
+      "avsnitt_titel": "Jordbrukets förändring",
+      "term": "Urbanisering",
+      "expertdefinition": "Processen när människor flyttar från landsbygd till städer. Under industrialiseringen skedde urbanisering i en takt och skala som världen aldrig sett. Städerna var inte förberedda — trångboddhet, smutsigt vatten och sjukdomar följde. Men städerna gav också lön, arbete och möjlighet till ett annat liv.",
+      "kallfil": "data/flipcards/avsnitt-2-jordbruket.json"
     }
   ]
 }
