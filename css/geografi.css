@@ -14,7 +14,7 @@
   --terra: #b06a3a;        /* terrakotta */
   --brass: #b8902a;        /* kompassmässing (dekorativt) */
   --brass-text: #785b13;   /* brass för text — WCAG AA (4.9:1) på paper */
-  --las-bredd: 700px;      /* fast läsbredd för brödtext-block (~78ch @19px — Design Omg.1-korr) */
+  --las-bredd: 770px;      /* fast läsbredd för brödtext-block (~85ch @19px; 700-förslaget återtaget — Omg.1-korr rev.) */
   --blood: #6e2e1e;        /* sparsamt, för viktiga begrepp */
   --muted: #625646;        /* mörkad ett komfortsteg — WCAG 5.5:1 på paper (Design Omg.1) */
   --ink-blue: #496882;     /* blåtonad ink – kap VI — mörkad till WCAG AA 4.5:1 (Design Omg.1) */
