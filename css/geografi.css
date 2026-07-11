@@ -14,7 +14,7 @@
   --terra: #b06a3a;        /* terrakotta */
   --brass: #b8902a;        /* kompassmässing (dekorativt) */
   --brass-text: #785b13;   /* brass för text — WCAG AA (4.9:1) på paper */
-  --las-bredd: 770px;      /* fast läsbredd för brödtext-block (= brödtextens 64ch i px) */
+  --las-bredd: 700px;      /* fast läsbredd för brödtext-block (~78ch @19px — Design Omg.1-korr) */
   --blood: #6e2e1e;        /* sparsamt, för viktiga begrepp */
   --muted: #625646;        /* mörkad ett komfortsteg — WCAG 5.5:1 på paper (Design Omg.1) */
   --ink-blue: #496882;     /* blåtonad ink – kap VI — mörkad till WCAG AA 4.5:1 (Design Omg.1) */
@@ -456,7 +456,13 @@ a.resurs-kort:hover {
   display: flex;
   justify-content: center;
   gap: 0.4rem;
-  margin: 1.5rem 0;
+  margin: 1.5rem auto;   /* Sektionsmarkering plats 2: inneslut väljar-kontrollerna */
+  width: fit-content;
+  max-width: 100%;
+  background: var(--paper-light);
+  border: 1px solid rgba(184, 144, 42, 0.28);
+  border-radius: 8px;
+  padding: 0.45rem 0.7rem;
 }
 
 .niva-knapp {
@@ -495,7 +501,13 @@ a.resurs-kort:hover {
   flex-wrap: wrap;
   gap: 0.6rem;
   justify-content: center;
-  margin: 0 0 1.25rem;
+  margin: 0 auto 1.25rem;   /* Sektionsmarkering plats 2: inneslut väljar-kontrollerna */
+  width: fit-content;
+  max-width: 100%;
+  background: var(--paper-light);
+  border: 1px solid rgba(184, 144, 42, 0.28);
+  border-radius: 8px;
+  padding: 0.45rem 0.7rem;
 }
 .underdel-knapp {
   display: flex;
@@ -562,7 +574,7 @@ a.resurs-kort:hover {
   display: flex;
   justify-content: center;
   gap: 2rem;
-  border-bottom: 1px solid rgba(27, 42, 54, 0.15);
+  border-bottom: 1px solid var(--brass);   /* Sektionsmarkering plats 1: tydligare flik→panel-gräns */
   margin: 2rem 0 2.25rem;
 }
 
