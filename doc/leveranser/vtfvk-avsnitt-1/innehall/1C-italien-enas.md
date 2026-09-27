@@ -20,7 +20,7 @@ Rubriker markerade `###` i brödtexten blir `<h2>` i HTML (se arbetsordern).
 
 ## 📗 ENKEL
 
-### Kärnpunkter (förslag – granskas av Joachim)
+### Kärnpunkter
 
 - Italien var uppdelat i flera stater, där **Österrike**, **påven** och **Kungariket Bägge Sicilierna** styrde stora delar.
 - **Mazzini** spred idéerna, **Cavour** använde diplomati och **Garibaldi** förde krig.

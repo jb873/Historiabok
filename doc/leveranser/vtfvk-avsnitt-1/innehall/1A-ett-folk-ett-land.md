@@ -20,7 +20,7 @@ Rubriker markerade `###` i brödtexten blir `<h2>` i HTML (se arbetsordern).
 
 ## 📗 ENKEL
 
-### Kärnpunkter (förslag – granskas av Joachim)
+### Kärnpunkter
 
 - **Nationalism** är idén om ett folk – ett land.
 - En **nation** är en grupp människor som känner att de hör ihop.

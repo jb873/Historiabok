@@ -20,7 +20,7 @@ Rubriker markerade `###` i brödtexten blir `<h2>` i HTML (se arbetsordern).
 
 ## 📗 ENKEL
 
-### Kärnpunkter (förslag – granskas av Joachim)
+### Kärnpunkter
 
 - **Preussen** tog ledningen tack vare sin armé och sin industri.
 - **Bismarck** enade Tyskland genom tre krig: mot Danmark, Österrike och Frankrike.

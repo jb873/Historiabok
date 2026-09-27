@@ -20,7 +20,7 @@ Rubriker markerade `###` i brödtexten blir `<h2>` i HTML (se arbetsordern).
 
 ## 📗 ENKEL
 
-### Kärnpunkter (förslag – granskas av Joachim)
+### Kärnpunkter
 
 - **Självbestämmande** betyder att ett folk ska få styra sig självt.
 - I ett **mångnationellt rike** styr en härskare över många olika folk.
