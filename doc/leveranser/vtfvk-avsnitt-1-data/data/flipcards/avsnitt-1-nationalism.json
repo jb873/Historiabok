@@ -1,0 +1,324 @@
+{
+  "avsnitt": 1,
+  "titel": "Nationalism",
+  "delkapitel": "ideologier",
+  "version": "1.0",
+  "kort_totalt": 32,
+  "begreppskort": [
+    {
+      "id": "k1-b1",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en NATION?",
+      "svar": "En grupp människor som känner att de hör ihop, till exempel genom samma språk, historia, religion eller kultur."
+    },
+    {
+      "id": "k1-b2",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är NATIONALISM?",
+      "svar": "Idén att nationen är den viktigaste gemenskapen och att varje folk ska ha ett eget land: ett folk – ett land."
+    },
+    {
+      "id": "k1-b3",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en NATIONALSTAT?",
+      "svar": "En stat där nationen och staten i huvudsak sammanfaller, alltså ett folk som lever tillsammans i ett eget land."
+    },
+    {
+      "id": "k1-b4",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menades med FOLKSJÄL?",
+      "svar": "Tanken att varje folk har ett eget sätt att tänka och leva, som syns i språk, sagor, seder och traditioner."
+    },
+    {
+      "id": "k1-b5",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder SJÄLVBESTÄMMANDE?",
+      "svar": "Att ett folk ska få styra sig självt och inte styras av en främmande kung, kejsare eller stat."
+    },
+    {
+      "id": "k1-b6",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är ett MÅNGNATIONELLT RIKE?",
+      "svar": "Ett rike där många olika folk lever under samma härskare, till exempel Österrike, Osmanska riket och Ryssland."
+    },
+    {
+      "id": "k1-b7",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var WIENKONGRESSEN?",
+      "svar": "Ett möte 1815 där Europas stormakter ritade om kartan efter Napoleonkrigen. Gränserna drogs efter furstarnas intressen, inte efter var folken bodde."
+    },
+    {
+      "id": "k1-b8",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad betyder ENANDE?",
+      "svar": "Att flera stater slås samman till en, som när Italien och Tyskland enades."
+    },
+    {
+      "id": "k1-b9",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är DIPLOMATI?",
+      "svar": "Förhandlingar och avtal mellan länder. Cavour använde diplomati för att få Frankrike som allierad mot Österrike."
+    },
+    {
+      "id": "k1-b10",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vilka var RÖDSKJORTORNA?",
+      "svar": "Garibaldis frivilliga soldater, som 1860 erövrade Sicilien och södra Italien."
+    },
+    {
+      "id": "k1-b11",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad var TYSKA FÖRBUNDET?",
+      "svar": "Ett löst samarbete mellan 39 självständiga tyska stater, skapat efter Wienkongressen 1815."
+    },
+    {
+      "id": "k1-b12",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är en STORMAKT?",
+      "svar": "En stat med stor militär, ekonomisk och politisk makt som påverkar hela Europa."
+    },
+    {
+      "id": "k1-b13",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad menade Bismarck med JÄRN OCH BLOD?",
+      "svar": "Att tidens stora frågor inte avgörs med tal och omröstningar, utan med militär styrka och krig."
+    },
+    {
+      "id": "k1-b14",
+      "type": "begrepp",
+      "niva": "grundlaggande",
+      "fraga": "Vad är REVANSCHVILJA?",
+      "svar": "En vilja att hämnas ett nederlag och ta tillbaka det man förlorat, som Frankrikes känsla efter att ha förlorat Alsace-Lorraine 1871."
+    },
+    {
+      "id": "k1-b15",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad menade Benedict Anderson med FÖRESTÄLLDA GEMENSKAPER?",
+      "svar": "Att en nation är föreställd eftersom ingen träffar mer än en bråkdel av sina landsmän. Ändå känner människor samhörighet, bland annat genom att läsa samma tidningar och böcker."
+    },
+    {
+      "id": "k1-b16",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad är REALPOLITIK?",
+      "svar": "Politik som utgår från makt och intressen snarare än principer och ideal. Begreppet förknippas med Bismarck."
+    },
+    {
+      "id": "k1-b17",
+      "type": "begrepp",
+      "niva": "fordjupning",
+      "fraga": "Vad betyder RISORGIMENTO?",
+      "svar": "Italienska för återuppståndelse, namnet på Italiens enande. Namnet bygger på tanken att Italien hade funnits förr och nu väcktes till liv igen."
+    }
+  ],
+  "modellkort": [
+    {
+      "id": "k1-m1",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför blev gränserna efter 1815 ett PROBLEM?",
+      "svar": "Gränserna och folken stämde inte överens.\n\n**Vid Wienkongressen:** stormakterna ritade gränser efter furstarnas intressen.\n\n**Följden:** många folk hamnade under härskare de inte såg som sina egna, och andra folk delades upp mellan flera stater.\n\n**När nationalismen växte:** krävde folken att gränserna skulle följa dem i stället."
+    },
+    {
+      "id": "k1-m2",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Hur kunde nationalismen både SPLITTRA och FÖRENA?",
+      "svar": "Samma idé fick två motsatta följder.\n\n**Splittra:** folk inom stora mångnationella riken ville bryta sig loss, till exempel grekerna från Osmanska riket 1830.\n\n**Förena:** ett folk som var uppdelat i många små stater ville gå samman, som i Italien och Tyskland."
+    },
+    {
+      "id": "k1-m3",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför skapade ett ”vi” också ett ”DE”?",
+      "svar": "Om nationen byggde på ett visst språk eller en viss religion kunde de som inte passade in ses som utomstående.\n\n**Gemenskapen:** stärkte dem som hörde till.\n\n**Utanförskapet:** drabbade dem som talade ett annat språk eller hade en annan tro, även om de bott på platsen hela livet."
+    },
+    {
+      "id": "k1-m4",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför behövde Cavour FRANKRIKE?",
+      "svar": "Sardinien-Piemont var för svagt för att besegra Österrike ensamt.\n\n**Alliansen:** med fransk hjälp vann Sardinien-Piemont kriget 1859 och fick Lombardiet.\n\n**Priset:** Frankrike fick Savojen och Nice."
+    },
+    {
+      "id": "k1-m5",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför blev ROM italienskt först 1870?",
+      "svar": "Rom tillhörde påven och skyddades av franska soldater.\n\n**1870:** Frankrike hamnade i krig med Preussen och behövde sina soldater hemma.\n\n**Följden:** när de franska trupperna drogs hem kunde italienska soldater inta Rom, som blev huvudstad."
+    },
+    {
+      "id": "k1-m6",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför blev PREUSSEN och inte Österrike ledare för Tyskland?",
+      "svar": "**Österrike:** var ett mångnationellt rike med många folk som inte var tyskar. Det var svårt att leda en tysk nationalstat.\n\n**Preussen:** hade en stark armé, snabbt växande industri och järnvägar.\n\n**Avgörandet:** Preussen besegrade Österrike i kriget 1866."
+    },
+    {
+      "id": "k1-m7",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför var det förödmjukande att kejsardömet utropades i VERSAILLES?",
+      "svar": "Spegelsalen i Versailles var en symbol för Frankrikes storhet.\n\n**1871:** det tyska kejsardömet utropades där, mitt i det land som just förlorat kriget.\n\n**Följden:** förödmjukelsen bidrog till fransk bitterhet och revanschvilja."
+    },
+    {
+      "id": "k1-m8",
+      "type": "modell",
+      "niva": "grundlaggande",
+      "fraga": "Varför ledde kriget 1870–1871 till REVANSCHVILJA?",
+      "svar": "**Förlusten:** Frankrike tvingades lämna Alsace och delar av Lorraine till Tyskland.\n\n**Känslan:** många fransmän ville hämnas och ta tillbaka områdena.\n\n**Följden:** motsättningen mellan Frankrike och Tyskland blev djup och långvarig och följde Europa in i 1900-talet."
+    },
+    {
+      "id": "k1-m9",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Skapade nationerna nationalismen, eller skapade NATIONALISMEN nationerna?",
+      "svar": "Historiker är oense.\n\n**Nationalismen skapade nationerna:** Gellner, Anderson och Hobsbawm menar att skolor, standardspråk, tidningar och uppfunna traditioner formade nationerna.\n\n**Något fanns redan:** Anthony D. Smith menar att nationalismen byggde på äldre myter, minnen och band.\n\n**Mellanpositionen:** de flesta forskare i dag menar att nationer varken är eviga eller påhittade."
+    },
+    {
+      "id": "k1-m10",
+      "type": "modell",
+      "niva": "fordjupning",
+      "fraga": "Varför beskrivs Italiens enande ibland som en ERÖVRING av södern?",
+      "svar": "**Piemontisering:** norra Italiens lagar, skatter och värnplikt infördes i söder.\n\n**Motstånd:** ett väpnat uppror, brigantaggio, slogs ned av över hundratusen soldater.\n\n**Klyftan:** söder förblev fattigt, och miljontals emigrerade. Frågan om enande eller erövring debatteras fortfarande."
+    }
+  ],
+  "redogorelsekort": [
+    {
+      "id": "k1-r1",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet.",
+      "fraga": "Redogör för vad nationalism är och vad som enligt nationalisterna förenade ett folk.",
+      "ungefarlig_tid_min": 8,
+      "modellsvar": "Nationalism är idén att ett folk ska ha ett eget land. Ett folk som känner att det hör ihop kallas en nation, och målet för nationalisterna var en nationalstat, där nationen och staten sammanfaller. Tidigare hade människor främst varit undersåtar till en kung eller kejsare, och ett rike kunde rymma många olika folk.\n\nUnder 1800-talet talade man om att varje folk hade en folksjäl. Det som förenade ett folk var framför allt språket, men också religion, historia, seder och traditioner. Därför samlade till exempel bröderna Grimm in folksagor. Nationalismen kunde skapa en stark gemenskap, ett vi, men också ett de, där människor som inte passade in ställdes utanför.",
+      "stodlarare": {
+        "stodord": [
+          "nation",
+          "nationalstat",
+          "folksjäl",
+          "språk",
+          "vi och de"
+        ],
+        "startfraser": [
+          "Nationalism är idén att...",
+          "Det som förenade ett folk var...",
+          "Nationalismen hade två sidor eftersom..."
+        ],
+        "tip_for_struktur": "Börja med att förklara begreppen, beskriv sedan vad som förenade ett folk och avsluta med nationalismens två sidor."
+      }
+    },
+    {
+      "id": "k1-r2",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet.",
+      "fraga": "Redogör för hur nationalismen både kunde splittra och förena stater. Ge exempel.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Nationalister ville att varje folk skulle få självbestämmande. Men vid Wienkongressen 1815 hade gränserna ritats efter furstarnas intressen, inte efter var folken bodde.\n\nDärför kunde nationalismen splittra stater. I mångnationella riken som Österrike, Osmanska riket och Ryssland ville olika folk bryta sig loss. Grekland blev till exempel självständigt från Osmanska riket 1830.\n\nNationalismen kunde också förena. Där ett folk var uppdelat i många små stater ville nationalisterna slå ihop dem till ett land. Italien och Tyskland är de tydligaste exemplen. Samma idé kunde alltså både dra isär gamla riken och skapa nya stater.",
+      "stodlarare": {
+        "stodord": [
+          "självbestämmande",
+          "Wienkongressen",
+          "mångnationellt rike",
+          "Grekland",
+          "Italien och Tyskland"
+        ],
+        "startfraser": [
+          "Nationalisterna ville att...",
+          "Nationalismen kunde splittra stater eftersom...",
+          "Nationalismen kunde också förena när..."
+        ],
+        "tip_for_struktur": "Förklara först varför gränserna var ett problem. Ta sedan splittring och förening var för sig med minst ett exempel på vardera."
+      }
+    },
+    {
+      "id": "k1-r3",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet.",
+      "fraga": "Redogör för hur Italien enades mellan 1859 och 1870.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Efter 1815 var Italien uppdelat. Österrike styrde i norr, påven i mitten och Kungariket Bägge Sicilierna i söder. Mazzini spred idén om ett enat Italien, men hans uppror misslyckades.\n\nSardinien-Piemont tog ledningen. Premiärministern Cavour fick Frankrike som allierad, och 1859 besegrades Österrike. Sardinien-Piemont fick Lombardiet, och flera stater i mellersta Italien anslöt sig. År 1860 erövrade Garibaldi och rödskjortorna Sicilien och södra Italien och lämnade över dem till kungen.\n\nÅr 1861 utropades Kungariket Italien med Viktor Emanuel II som kung. Venetien kom med 1866 när Österrike förlorat mot Preussen, och Rom 1870 när de franska trupperna lämnat staden. Enandet krävde både idéer, diplomati och krig.",
+      "stodlarare": {
+        "stodord": [
+          "Mazzini",
+          "Cavour",
+          "Garibaldi",
+          "1859",
+          "1861",
+          "1870"
+        ],
+        "startfraser": [
+          "Före enandet var Italien...",
+          "Sardinien-Piemont tog ledningen genom att...",
+          "Enandet blev klart när..."
+        ],
+        "tip_for_struktur": "Gå kronologiskt från 1815 till 1870. Nämn vad Mazzini, Cavour och Garibaldi bidrog med."
+      }
+    },
+    {
+      "id": "k1-r4",
+      "type": "redogorelse",
+      "niva": "grundlaggande",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet.",
+      "fraga": "Redogör för hur Tyskland enades och vilka följder det fick.",
+      "ungefarlig_tid_min": 10,
+      "modellsvar": "Efter 1815 bestod Tyskland av 39 stater i Tyska förbundet. Österrike och Preussen tävlade om ledningen. Preussen hade en stark armé och växande industri.\n\nÅr 1862 blev Bismarck ministerpresident. Han ville stärka Preussen genom järn och blod. År 1864 besegrade Preussen och Österrike Danmark. År 1866 besegrade Preussen Österrike, som trängdes undan. År 1870–1871 kämpade de tyska staterna tillsammans mot Frankrike och vann.\n\nI januari 1871 utropades det tyska kejsardömet i Versailles, med Wilhelm I som kejsare. En ny stormakt hade skapats mitt i Europa. Frankrike förlorade Alsace-Lorraine och fick en stark revanschvilja, vilket skapade spänningar som levde kvar in i 1900-talet.",
+      "stodlarare": {
+        "stodord": [
+          "Tyska förbundet",
+          "Bismarck",
+          "tre krig",
+          "1871",
+          "Alsace-Lorraine",
+          "revanschvilja"
+        ],
+        "startfraser": [
+          "Före enandet bestod Tyskland av...",
+          "Bismarck enade Tyskland genom...",
+          "Enandet fick följden att..."
+        ],
+        "tip_for_struktur": "Ta bakgrund, de tre krigen i ordning och följderna för Europa."
+      }
+    },
+    {
+      "id": "k1-r5",
+      "type": "redogorelse",
+      "niva": "fordjupning",
+      "instruktion": "Skriv ditt svar på papper, sedan vänd kortet.",
+      "fraga": "Jämför Italiens och Tysklands enande. Vilka likheter och skillnader finns?",
+      "ungefarlig_tid_min": 15,
+      "modellsvar": "Båda enandena är exempel på att nationalism kunde förena flera små stater till en nationalstat. I båda fallen tog en stark stat ledningen, Sardinien-Piemont respektive Preussen, och i båda fallen spelade krig och stormaktspolitik en avgörande roll. Enandena hängde också ihop: Italien fick Venetien 1866 och Rom 1870 tack vare Preussens krig.\n\nSkillnaderna är tydliga. I Italien fanns en idéburen rörelse med Mazzini och frivilliga som Garibaldis rödskjortor, och Cavour var beroende av Frankrikes hjälp. Tyskland enades tydligare uppifrån, genom Bismarcks realpolitik och preussisk militär makt, efter att den liberala vägen misslyckats 1848.\n\nFöljderna skilde sig också. Italien fick kämpa med klyftan mellan nord och syd, medan Tyskland blev en ny stormakt som skapade revanschvilja i Frankrike och förändrade maktbalansen i Europa.",
+      "stodlarare": {
+        "stodord": [
+          "Sardinien-Piemont",
+          "Preussen",
+          "underifrån och uppifrån",
+          "stormaktspolitik",
+          "följder"
+        ],
+        "startfraser": [
+          "Båda enandena liknar varandra genom att...",
+          "En viktig skillnad är att...",
+          "Följderna skilde sig eftersom..."
+        ],
+        "tip_for_struktur": "Skriv likheter först, sedan skillnader i hur enandet gick till och sist skillnader i följder. Använd konkreta exempel."
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "kapitel_id": "vagen-till-forsta-varldskriget",
+  "kapitel_titel": "Vägen till första världskriget",
+  "version": 1,
+  "skapad": "2026-09-27",
+  "kommentar": "Avsnitt 1 (Nationalism). Avsnitt 2 läggs till senare.",
+  "upplasning": {
+    "min_ord": 8,
+    "anvand_nyckelord": false,
+    "beskrivning": "Eleven skriver en egen definition på minst 8 ord innan expertdefinitionen låses upp."
+  },
+  "begrepp": [
+    {
+      "id": "k1-b1",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "term": "nation",
+      "expertdefinition": "En grupp människor som upplever att de hör samman, till exempel genom gemensamt språk, historia, religion eller kultur, och som skiljer sig från andra grupper.",
+      "kallfil": "data/flipcards/avsnitt-1-nationalism.json"
+    },
+    {
+      "id": "k1-b2",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "term": "nationalism",
+      "expertdefinition": "Idén att nationen är den viktigaste gemenskapen och att människor som tillhör samma nation ska få styra sig själva i en egen stat: ett folk – ett land.",
+      "kallfil": "data/flipcards/avsnitt-1-nationalism.json"
+    },
+    {
+      "id": "k1-b3",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "term": "nationalstat",
+      "expertdefinition": "En stat där nationen och staten i huvudsak sammanfaller, alltså där ett folk lever tillsammans i ett eget land.",
+      "kallfil": "data/flipcards/avsnitt-1-nationalism.json"
+    },
+    {
+      "id": "k1-b4",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "term": "folksjäl",
+      "expertdefinition": "Den 1800-talstanke att varje folk har ett eget sätt att tänka, leva och förstå världen, som uttrycks i språk, sagor, seder och traditioner.",
+      "kallfil": "data/flipcards/avsnitt-1-nationalism.json"
+    },
+    {
+      "id": "k1-b5",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "term": "självbestämmande",
+      "expertdefinition": "Ett folks rätt att styra sig självt i stället för att styras av en främmande kung, kejsare eller stat.",
+      "kallfil": "data/flipcards/avsnitt-1-nationalism.json"
+    },
+    {
+      "id": "k1-b6",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "term": "mångnationellt rike",
+      "expertdefinition": "Ett rike där många olika folk med olika språk, religioner och traditioner lever under samma härskare, till exempel Österrike, Osmanska riket och Ryssland.",
+      "kallfil": "data/flipcards/avsnitt-1-nationalism.json"
+    },
+    {
+      "id": "k1-b7",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "term": "enande",
+      "expertdefinition": "När flera stater slås samman till en, som när Italien enades 1861–1870 och Tyskland 1871.",
+      "kallfil": "data/flipcards/avsnitt-1-nationalism.json"
+    },
+    {
+      "id": "k1-b8",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "term": "stormakt",
+      "expertdefinition": "En stat med så stor militär, ekonomisk och politisk makt att den påverkar hela Europas utveckling.",
+      "kallfil": "data/flipcards/avsnitt-1-nationalism.json"
+    },
+    {
+      "id": "k1-b9",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "term": "revanschvilja",
+      "expertdefinition": "En önskan att hämnas ett nederlag och ta tillbaka det som gått förlorat, som Frankrikes vilja att återfå Alsace-Lorraine efter 1871.",
+      "kallfil": "data/flipcards/avsnitt-1-nationalism.json"
+    }
+  ]
+}
