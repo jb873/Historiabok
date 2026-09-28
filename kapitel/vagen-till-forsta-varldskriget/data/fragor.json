@@ -1,0 +1,68 @@
+{
+  "delkapitel": "vagen-till-forsta-varldskriget",
+  "_kommentar": "Avsnitt 1 (Nationalism) i delkapitlet Ideologiernas århundrade. Avsnitt 2 läggs till senare.",
+  "avsnitt": [
+    {
+      "id": "a1_nationalism",
+      "nummer": 1,
+      "titel": "Nationalism",
+      "fragor": [
+        {
+          "id": "q_a1a_nationalism",
+          "typ": "grund",
+          "fraga": "Förklara vad som menas med nationalism och nationalstat."
+        },
+        {
+          "id": "q_a1a_forenar",
+          "typ": "grund",
+          "fraga": "Beskriv vad som enligt 1800-talets nationalister förenade ett folk."
+        },
+        {
+          "id": "q_a1a_vi_de",
+          "typ": "fordjupning",
+          "fraga": "Resonera kring varför nationalismen både kunde skapa gemenskap och skapa motsättningar mellan människor."
+        },
+        {
+          "id": "q_a1b_wien",
+          "typ": "grund",
+          "fraga": "Förklara varför gränserna från Wienkongressen 1815 blev ett problem när nationalismen växte."
+        },
+        {
+          "id": "q_a1b_tva_satt",
+          "typ": "grund",
+          "fraga": "Redogör för de två sätt som nationalismen kunde förändra Europas karta på. Ge ett exempel på vardera."
+        },
+        {
+          "id": "q_a1b_mangnationella",
+          "typ": "fordjupning",
+          "fraga": "Resonera kring varför kravet på självbestämmande var särskilt farligt för mångnationella riken som Österrike och Osmanska riket."
+        },
+        {
+          "id": "q_a1c_steg",
+          "typ": "grund",
+          "fraga": "Redogör för hur Italien enades steg för steg mellan 1859 och 1870."
+        },
+        {
+          "id": "q_a1c_roller",
+          "typ": "fordjupning",
+          "fraga": "Förklara vilka roller Mazzini, Cavour och Garibaldi spelade i Italiens enande. Resonera kring vilken av dem som var viktigast."
+        },
+        {
+          "id": "q_a1d_krig",
+          "typ": "grund",
+          "fraga": "Redogör för hur Preussen enade Tyskland genom tre krig."
+        },
+        {
+          "id": "q_a1d_frankrike",
+          "typ": "grund",
+          "fraga": "Förklara varför Tysklands enande skapade spänningar mellan Tyskland och Frankrike."
+        },
+        {
+          "id": "q_a1d_jamfor",
+          "typ": "fordjupning",
+          "fraga": "Jämför Italiens och Tysklands enande. Vilka likheter och skillnader finns?"
+        }
+      ]
+    }
+  ]
+}

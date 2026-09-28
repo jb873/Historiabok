@@ -1,0 +1,72 @@
+{
+  "kapitel_id": "vagen-till-forsta-varldskriget",
+  "kapitel_titel": "Vägen till första världskriget",
+  "version": 1,
+  "skapad": "2026-09-27",
+  "kommentar": "Avsnitt 1 (Nationalism). Avsnitt 2 läggs till senare.",
+  "skattningsalternativ": [
+    {
+      "id": "kan",
+      "label": "Kan",
+      "farg": "gron"
+    },
+    {
+      "id": "osaker",
+      "label": "Osäker",
+      "farg": "gul"
+    },
+    {
+      "id": "kan_ej",
+      "label": "Kan ej",
+      "farg": "rod"
+    },
+    {
+      "id": "ej_bedomt",
+      "label": "Ej gjort bedömning",
+      "farg": "ljus",
+      "default": true
+    }
+  ],
+  "moment": [
+    {
+      "id": "vagen-till-forsta-varldskriget-1-m1",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "kategori": "begrepp",
+      "moment": "Kan redogöra för begreppen nation, nationalism, nationalstat och folksjäl",
+      "fortydligande": "Du ska kunna förklara vad begreppen betyder och hur de hänger ihop, till exempel varför nationalister ville skapa nationalstater."
+    },
+    {
+      "id": "vagen-till-forsta-varldskriget-1-m2",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "kategori": "begrepp",
+      "moment": "Kan redogöra för begreppen självbestämmande, mångnationellt rike, stormakt och revanschvilja",
+      "fortydligande": "Du ska kunna förklara begreppen och ge exempel, till exempel varför kravet på självbestämmande hotade Österrike eller varför Frankrike fick revanschvilja efter 1871."
+    },
+    {
+      "id": "vagen-till-forsta-varldskriget-1-m3",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "kategori": "fardighet",
+      "moment": "Kan förklara hur nationalismen både kunde splittra och förena stater",
+      "fortydligande": "Du ska kunna förklara de två utvecklingarna, ge exempel på båda och koppla dem till gränserna från Wienkongressen 1815."
+    },
+    {
+      "id": "vagen-till-forsta-varldskriget-1-m4",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "kategori": "fardighet",
+      "moment": "Kan redogöra för hur Italien enades",
+      "fortydligande": "Du ska kunna beskriva de viktigaste stegen mellan 1859 och 1870 och förklara vilka roller Mazzini, Cavour och Garibaldi hade."
+    },
+    {
+      "id": "vagen-till-forsta-varldskriget-1-m5",
+      "avsnitt": "1",
+      "avsnitt_titel": "Nationalism",
+      "kategori": "fardighet",
+      "moment": "Kan redogöra för hur Tyskland enades och vilka följder det fick",
+      "fortydligande": "Du ska kunna beskriva Bismarcks roll och de tre krigen, och förklara varför det nya Tyskland skapade spänningar med Frankrike."
+    }
+  ]
+}
