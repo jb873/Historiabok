@@ -1,20 +1,30 @@
 # A – Europa efter Napoleon
 
 **Avsnitt: Wienkongressen 1814–1815 · Underdel A · `data-underdel="a"`**
-Versioner: Standard v2 · Enkel v1 · Fördjupning v1
+Versioner: Standard v2 · Enkel v1 · Fördjupning v1 · Bilder: två (fyrrutebild flyttad, karta tillagd)
 
 Rubriker markerade `###` i brödtexten blir `<h2>` i HTML.
 
 ---
 
-## BILD
+## BILD 1 – FYRRUTEBILD
 
 - **Fil:** `img/wien-europa-efter-napoleon.webp`
 - **Alt-text (identisk på Enkel och Standard):** Bild i fyra rutor. Första rutan, 1789 – Revolutionen, visar en folkmassa framför ett slott. Andra rutan, Napoleon erövrar Europa, visar Napoleon till häst framför marscherande soldater. Tredje rutan, 1815 – Napoleon besegras, visar franska soldater som drar sig tillbaka på ett slagfält medan brittiska soldater står i led. Fjärde rutan, Wienkongressen, visar diplomater runt ett bord med en karta. Längst ner står: Två mål: restauration och maktbalans.
 - **Bildtext Enkel:** Från revolution och krig till fredsmötet i Wien.
 - **Bildtext Standard:** Efter mer än tjugo år av revolution och krig samlades stormakterna i Wien med två mål.
-- **Placering Standard:** direkt efter stycket som börjar "Stormakterna enades om två övergripande mål…"
-- **Placering Enkel:** bildguide + bild direkt efter stycket som börjar "Stormakterna kom överens om två stora mål…"
+- **Placering Standard:** direkt efter stycket som börjar "Förhandlingarna i Wien, som kallas…" (sista stycket under "Napoleon besegras")
+- **Placering Enkel:** bildguide 1 + bild 1 direkt efter stycket som börjar "Under tiden pågick förhandlingarna i Wien…" (sista stycket under "Napoleon besegras")
+
+## BILD 2 – KARTA
+
+- **Fil:** `img/wien-stormakterna-1815.webp` (karta 1 i `kartor-2026-10-25/`)
+- **Alt-text (identisk på Enkel och Standard):** Karta över Europa år 1815. Fem länder är färgade: Storbritannien i rött, Frankrike i lila, Preussen i blått, Österrike i gult och Ryssland i grönt. Preussen består av två delar, en mindre i väster och en större i öster. Staden Wien är markerad med en röd punkt i Österrike, mitt i Europa. Övriga länder är ljusa och utan färg.
+- **Bildtext Enkel:** De fem stormakterna som bestämde i Wien.
+- **Bildtext Standard:** Fem stormakter dominerade Wienkongressen, som hölls i den österrikiske kejsarens huvudstad mitt i Europa.
+- **Placering Standard:** direkt efter stycket som börjar "Representanter från många europeiska stater deltog…"
+- **Placering Enkel:** bildguide 2 + bild 2 direkt efter stycket som börjar "Många länder skickade representanter till Wien…"
+- **Källa (under bildtexten):** samma källrad som kartan i C.
 
 ---
 
@@ -27,13 +37,20 @@ Rubriker markerade `###` i brödtexten blir `<h2>` i HTML.
 - Fem **stormakter** bestämde: Österrike, Ryssland, Preussen, Storbritannien och Frankrike.
 - Målen var **restauration** och **maktbalans**.
 
-### Bildguide (👁 Titta efter)
+### Bildguide 1 (👁 Titta efter) – fyrrutebilden
 
 - **1789** — revolutionen startade det hela med krav på frihet och jämlikhet.
 - **Napoleon** — hans krig förändrade Europas karta.
 - **1815** — Napoleon besegras för sista gången vid Waterloo.
 - **Wienkongressen** — stormakterna samlas för att bestämma hur Europa ska styras.
 - **Kärnpoängen** — revolution och krig ledde fram till ett möte med två mål: restauration och maktbalans.
+
+### Bildguide 2 (👁 Titta efter) – kartan
+
+- **De fem färgade länderna** — Storbritannien, Frankrike, Preussen, Österrike och Ryssland var stormakterna.
+- **Preussen** — landet bestod av två delar med andra länder emellan.
+- **Wien** — mötet hölls i Österrikes huvudstad, mitt i Europa.
+- **Kärnpoängen** — fem stora länder bestämde över hela Europas framtid.
 
 ### Brödtext
 
@@ -53,15 +70,17 @@ Till slut började Napoleon förlora. År 1812 anföll han Ryssland, men fältt�
 
 Under tiden pågick förhandlingarna i Wien. De kallas **Wienkongressen** och pågick från hösten 1814 till juni 1815. Ledarna ville se till att ingen ny Napoleon kunde erövra Europa. De var också rädda för att nya revolutioner skulle hota kungarnas makt. Frågan var alltså inte bara hur kriget skulle avslutas. Frågan var hur Europa skulle ordnas så att freden kunde hålla länge.
 
+[BILDGUIDE 1 + BILD 1 HÄR]
+
 ### Wienkongressen – stormakterna bestämmer
 
 Många länder skickade representanter till Wien. Men fem länder bestämde mest: Österrike, Ryssland, Preussen, Storbritannien och Frankrike. De kallades **stormakter**. En stormakt är ett land som är så starkt militärt, ekonomiskt och politiskt att det kan påverka hela Europa.
 
+[BILDGUIDE 2 + BILD 2 HÄR]
+
 En av de viktigaste personerna i Wien var Klemens von Metternich, Österrikes utrikesminister. Metternich förespråkade **konservatism**. Det är en politisk idé som går ut på att bevara traditioner, kungamakten och den gamla samhällsordningen. Metternich tyckte att revolutioner skapade oro och hotade freden.
 
 Stormakterna kom överens om två stora mål. Det första var **restauration**, som betyder återställande. Kungar och furstar som hade förlorat sin makt skulle få tillbaka sina troner. Det andra målet var **maktbalans**. Stormakterna skulle vara ungefär lika starka, så att ingen av dem kunde ta över de andra. Då skulle det bli svårare för någon att starta ett nytt stort krig.
-
-[BILDGUIDE + BILD HÄR]
 
 Men kunde man verkligen gå tillbaka till det gamla, när idéerna om frihet, jämlikhet och nationalism redan hade spridits? Det undersöker vi i de kommande delarna, där vi tittar närmare på de två målen.
 
@@ -89,15 +108,17 @@ Efter flera år av krig började Napoleons makt försvagas. Ett misslyckat fält
 
 Förhandlingarna i Wien, som kallas **Wienkongressen**, hade då pågått sedan hösten 1814 och avslutades i juni 1815. De europeiska ledarna ville undvika att en ny Napoleon skulle kunna erövra stora delar av Europa. De fruktade också att revolutioner skulle spridas och hota kungarnas makt. Frågan var därför inte bara hur krigen skulle avslutas, utan hur Europa skulle organiseras för att skapa en varaktig fred.
 
+[BILD 1 HÄR]
+
 ### Wienkongressen – stormakterna bestämmer
 
 Representanter från många europeiska stater deltog i Wienkongressen, men fem länder hade särskilt stort inflytande: Österrike, Ryssland, Preussen, Storbritannien och Frankrike. Dessa länder räknades som **stormakter**, eftersom deras militära, ekonomiska och politiska styrka gav dem möjlighet att påverka utvecklingen långt utanför de egna gränserna.
 
+[BILD 2 HÄR]
+
 En av kongressens viktigaste ledare var Österrikes utrikesminister Klemens von Metternich. Han förespråkade **konservatism**, en politisk idé som betonade vikten av att bevara traditioner, kungamakt och den etablerade samhällsordningen. Metternich ansåg att revolutioner skapade oro och hotade freden i Europa.
 
 Stormakterna enades om två övergripande mål för den nya ordningen. Det första var **restauration**, vilket innebar att försöka återställa den gamla politiska ordningen. Kungar och furstar som hade förlorat sin makt under revolutionerna och Napoleonkrigen skulle i många fall återfå sina troner. Det andra var **maktbalans**, vilket betydde att Europas stormakter skulle vara så jämnstarka att ingen av dem kunde dominera de andra. Genom att förhindra att ett land blev alltför mäktigt hoppades ledarna kunna undvika nya stora krig.
-
-[BILD HÄR]
 
 Restauration och maktbalans blev därmed grunden för den ordning som stormakterna försökte skapa efter Napoleon. Men kunde Europas ledare återställa det gamla samhället när idéerna om frihet, jämlikhet och nationalism redan hade spridits? För att förstå varför den nya ordningen snart utmanades behöver vi först undersöka de två målen närmare.
 

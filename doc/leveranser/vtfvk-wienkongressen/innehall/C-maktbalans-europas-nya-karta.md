@@ -7,7 +7,7 @@ Rubriker markerade `###` i brödtexten blir `<h2>` i HTML.
 
 ---
 
-## BILD
+## BILD 1 – FRANKRIKE OMRINGAS
 
 - **Fil:** `img/wien-maktbalans-europas-karta.webp`
 - **Alt-text (identisk på Enkel och Standard):** Karta över Västeuropa och Centraleuropa 1815 med rubriken Maktbalans: Frankrike omringas. Frankrike är grått. Runt Frankrike är fyra grannar mörkgröna: Nederländerna med Belgien i norr, Preussens västra del vid Rhen i öster, Schweiz som är neutralt och Sardinien-Piemont med Genua i sydöst. Preussens östra del är ljusgrön. De tyska staterna och Italien är uppdelade i många mindre stater.
@@ -16,6 +16,16 @@ Rubriker markerade `###` i brödtexten blir `<h2>` i HTML.
 - **Placering Standard:** direkt efter stycket som börjar "Sydöst om Frankrike stärktes…"
 - **Placering Enkel:** bildguide + bild direkt efter stycket som börjar "Sydöst om Frankrike fick…"
 - **Källa (står i bilden):** Kartdata: historical-basemaps (A. Ourednik), Natural Earth
+
+## BILD 2 – KARTA ÖVER CENTRALEUROPA
+
+- **Fil:** `img/wien-centraleuropa-1815.webp` (karta 3 i `kartor-2026-10-25/`, med etiketten "Preussen" rättad)
+- **Alt-text (identisk på Enkel och Standard):** Karta över Centraleuropa år 1815. Preussen är blått och består av två delar. Mellan och söder om dem ligger många små tyska stater i brunt. Österrike är gult och omfattar också Lombardiet och Venetien i norra Italien. Resten av den italienska halvön är rosa och uppdelad i flera stater. Kongresspolen är grönt och hör ihop med det gröna Ryssland.
+- **Bildtext Enkel:** Tyskland och Italien förblev uppdelade, och Polen hamnade under Ryssland.
+- **Bildtext Standard:** Wienkongressen lät Tyskland och Italien förbli splittrade, medan Österrike tog norra Italien och Ryssland fick större delen av Polen.
+- **Placering Standard:** direkt efter stycket som börjar "Även Italien förblev splittrat…"
+- **Placering Enkel:** bildguide 2 + bild 2 direkt efter stycket som börjar "Italien förblev också splittrat…"
+- **Källa (under bildtexten):** samma källrad som bild 1.
 
 ---
 
@@ -28,13 +38,21 @@ Rubriker markerade `###` i brödtexten blir `<h2>` i HTML.
 - **Tyska förbundet** med 39 stater bildades, och både Tyskland och Italien förblev splittrade.
 - Gränserna ritades efter stormakternas intressen, inte efter var folken bodde.
 
-### Bildguide (👁 Titta efter)
+### Bildguide 1 (👁 Titta efter) – Frankrike omringas
 
 - **Frankrike i grått** — landet som de andra var rädda för.
 - **De mörkgröna länderna** — Frankrikes grannar som gjordes starkare.
 - **Preussen** — landet var delat i två delar. Den västra delen vid Rhen låg nu precis vid Frankrikes gräns.
 - **Tyska stater och Italien** — fortfarande uppdelade i många små stater.
 - **Kärnpoängen** — Frankrike omringades av starka grannar, så att maktbalansen skulle hålla.
+
+### Bildguide 2 (👁 Titta efter) – Centraleuropa
+
+- **De bruna staterna** — Tyskland var uppdelat i många små stater.
+- **Preussen i blått** — den största tyska staten, i två delar.
+- **Österrike i gult** — styrde också Lombardiet och Venetien i norra Italien.
+- **Kongresspolen** — Polen hamnade under den ryske tsaren.
+- **Kärnpoängen** — gränserna följde stormakternas intressen, inte var folken bodde.
 
 ### Brödtext
 
@@ -52,7 +70,7 @@ Schweiz fick också en viktig roll. Stormakterna lovade att Schweiz alltid skull
 
 Sydöst om Frankrike fick kungariket Sardinien-Piemont staden Genua med omgivning. Det blev ännu ett hinder om Frankrike ville utvidga sig igen.
 
-[BILDGUIDE + BILD HÄR]
+[BILDGUIDE 1 + BILD 1 HÄR]
 
 ### Tyskland och Italien förblir splittrade
 
@@ -63,6 +81,8 @@ Förr hade Tysk-romerska riket bestått av hundratals små stater. Under Napoleo
 De två starkaste staterna i förbundet var Österrike och Preussen. Eftersom båda var starka kunde de hålla varandra i schack. Tyskland blev alltså inget enat land. Det fortsatte att vara uppdelat i kungariken, furstendömen och fria städer.
 
 Italien förblev också splittrat. Österrike fick styra över Lombardiet och Venetien i norra Italien. Österrike bestämde också mycket i flera andra italienska stater. På så sätt blev Österrike starkare söder om Alperna och kunde hålla emot Frankrike även där.
+
+[BILDGUIDE 2 + BILD 2 HÄR]
 
 ### Stormakternas intressen formar Europa
 
@@ -96,7 +116,7 @@ Norr om Frankrike förenades Belgien med Nederländerna till ett gemensamt kunga
 
 Sydöst om Frankrike stärktes kungariket Sardinien-Piemont genom att få området kring Genua. Därmed skapades ytterligare ett hinder mot framtida franska expansionsförsök.
 
-[BILD HÄR]
+[BILD 1 HÄR]
 
 ### Tyskland och Italien förblir splittrade
 
@@ -107,6 +127,8 @@ Det tidigare Tysk-romerska riket hade bestått av många småstater, men under N
 De två mäktigaste staterna inom förbundet var Österrike och Preussen. Genom att båda hade stort inflytande kunde de balansera varandra. Tyskland blev alltså inte ett enat land, utan förblev uppdelat i flera kungariken, furstendömen och fria städer.
 
 Även Italien förblev splittrat. Österrike fick direkt kontroll över Lombardiet och Venetien i norra Italien och hade dessutom stort inflytande över flera andra italienska stater. På så sätt stärktes Österrikes ställning söder om Alperna och kunde samtidigt motverka fransk expansion.
+
+[BILD 2 HÄR]
 
 ### Stormakternas intressen formar Europa
 
